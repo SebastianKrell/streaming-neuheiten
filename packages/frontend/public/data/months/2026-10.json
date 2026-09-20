@@ -1,6 +1,6 @@
 {
   "month": "2026-10",
-  "generatedAt": "2026-09-20T13:03:38.243Z",
+  "generatedAt": "2026-09-20T13:58:18.149Z",
   "entries": [
     {
       "showId": "26516855",
@@ -80,6 +80,31 @@
         }
       ],
       "rating": 0
+    },
+    {
+      "showId": "24601645",
+      "imdbId": "tt39150288",
+      "provider": "apple",
+      "showType": "movie",
+      "addedAt": "2026-10-02",
+      "upcoming": true,
+      "link": "https://tv.apple.com/de/movie/k2-katastrophe-im-eis/umc.cmc.3qvemsb6f04actuyzdporeelt",
+      "title": {
+        "de": "K2: Katastrophe im Eis",
+        "en": "The Last First: Winter K2"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        }
+      ],
+      "rating": null
     },
     {
       "showId": "26602921",
@@ -267,6 +292,35 @@
       "rating": 0
     },
     {
+      "showId": "24860509",
+      "imdbId": "tt28498219",
+      "provider": "apple",
+      "showType": "movie",
+      "addedAt": "2026-10-09",
+      "upcoming": true,
+      "link": "https://tv.apple.com/de/movie/matchbox-der-film/umc.cmc.31qa8j1tn2cnpyk3fx43w928d",
+      "title": {
+        "de": "Matchbox: Der Film",
+        "en": "Matchbox the Movie"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Action",
+          "en": "Action"
+        }
+      ],
+      "rating": null
+    },
+    {
       "showId": "26635491",
       "imdbId": "tt36470958",
       "provider": "netflix",
@@ -431,6 +485,35 @@
         }
       ],
       "rating": 0
+    },
+    {
+      "showId": "25482754",
+      "imdbId": "tt6262770",
+      "provider": "apple",
+      "showType": "movie",
+      "addedAt": "2026-10-16",
+      "upcoming": true,
+      "link": "https://tv.apple.com/de/movie/tenzing/umc.cmc.6lic0hhuxkrbem0n29vzjopii",
+      "title": {
+        "de": "Tenzing",
+        "en": "Tenzing"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": null
     },
     {
       "showId": "26598842",

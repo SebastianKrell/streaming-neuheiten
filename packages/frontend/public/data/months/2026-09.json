@@ -1,6 +1,6 @@
 {
   "month": "2026-09",
-  "generatedAt": "2026-09-20T13:03:38.243Z",
+  "generatedAt": "2026-09-20T13:58:18.149Z",
   "entries": [
     {
       "showId": "9988",
@@ -4478,6 +4478,39 @@
       "rating": 36
     },
     {
+      "showId": "1152",
+      "imdbId": "tt1041829",
+      "provider": "apple",
+      "showType": "movie",
+      "addedAt": "2026-09-03",
+      "upcoming": false,
+      "link": "https://tv.apple.com/de/movie/selbst-ist-die-braut/umc.cmc.5ccom84litnu26th25moncgpa?playableId=tvs.sbd.4000%3AWDSFY26FTR004",
+      "title": {
+        "de": "Selbst ist die Braut",
+        "en": "The Proposal"
+      },
+      "overview": {
+        "de": "Die zackig-zickige Powerfrau Sandra Bullock zwingt in der spritzigen romantischen Komödie ihren Assistenten Ryan Reynolds in die Scheinehe. Doch kaum getraut, gibt der ihr plötzlich Kontra.",
+        "en": "A high-powered editor proposes to her assistant to avoid deportation."
+      },
+      "releaseYear": 2009,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": 68
+    },
+    {
       "showId": "84498",
       "imdbId": "tt1650060",
       "provider": "prime",
@@ -4509,6 +4542,39 @@
         }
       ],
       "rating": 56
+    },
+    {
+      "showId": "432",
+      "imdbId": "tt0988045",
+      "provider": "apple",
+      "showType": "movie",
+      "addedAt": "2026-09-03",
+      "upcoming": false,
+      "link": "https://tv.apple.com/de/movie/sherlock-holmes/umc.cmc.579n7joi0j443gu5o9baq6x4i?playableId=tvs.sbd.4000%3AWBFY26FTR006",
+      "title": {
+        "de": "Sherlock Holmes",
+        "en": "Sherlock Holmes"
+      },
+      "overview": {
+        "de": "Robert Downey Jr. und Jude Law jagen als Holmes und Watson mit Logik, Witz und Muckis einen Ritualmörder. Actionreiches Update der Krimilegende von Kultregisseur Guy Ritchie.",
+        "en": "Robert Downey Jr. transforms the legendary detective into an athletic Victorian action hero in this exciting thriller."
+      },
+      "releaseYear": 2009,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        }
+      ],
+      "rating": 74
     },
     {
       "showId": "20163968",
@@ -5823,6 +5889,39 @@
       "rating": 61
     },
     {
+      "showId": "24861771",
+      "imdbId": "tt28014327",
+      "provider": "apple",
+      "showType": "movie",
+      "addedAt": "2026-09-04",
+      "upcoming": false,
+      "link": "https://tv.apple.com/de/movie/mayday/umc.cmc.shin43vzfoz3h4ggx41z8rf?playableId=tvs.sbd.4000%3AA0155401001",
+      "title": {
+        "de": "Mayday",
+        "en": "Mayday"
+      },
+      "overview": {
+        "de": "Ryan Reynolds ist ein Pilot der US-Navy, der bei einer geheimen Mission im Kalten Krieg in feindliches Gebiet gerät.",
+        "en": "Ryan Reynolds stars as a U.S. Navy pilot who gets trapped behind enemy lines during a top-secret Cold War mission."
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 70
+    },
+    {
       "showId": "16695716",
       "imdbId": "tt31510819",
       "provider": "prime",
@@ -6086,6 +6185,39 @@
         }
       ],
       "rating": 63
+    },
+    {
+      "showId": "1325",
+      "imdbId": "tt2140479",
+      "provider": "apple",
+      "showType": "movie",
+      "addedAt": "2026-09-04",
+      "upcoming": false,
+      "link": "https://tv.apple.com/de/movie/the-accountant/umc.cmc.6bgpmgz76x46tw3qd1jlsj1mm?playableId=tvs.sbd.4000%3AWBFY26FTR007",
+      "title": {
+        "de": "The Accountant",
+        "en": "The Accountant"
+      },
+      "overview": {
+        "de": "Christian Wolff ist ein begnadetes Zahlengenie, das freiberuflich als Buchprüfer für gefährliche kriminelle Organisationen arbeitet. Als ihm das Finanzministerium auf die Schliche kommt, übernimmt er einen seriösen Kunden – ein Roboterunternehmen mit finanziellen Unstimmigkeiten. Doch als er die Wahrheit ans Licht bringt, steigt die Zahl der Leichen. „The Accountant 2“ kommt am 25. April in ...\n\t",
+        "en": "Christian (Ben Affleck) is a math savant who, behind the cover of a small-town CPA office, works as an accountant for some of the world's most dangerous criminals. With the Treasury Department closing in, Christian takes on a legitimate client: a company where an accounting clerk has found a discrepancy. But as he uncooks the books and gets closer to the truth, the body count starts to rise."
+      },
+      "releaseYear": 2016,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        }
+      ],
+      "rating": 72
     },
     {
       "showId": "10270758",
@@ -8756,6 +8888,35 @@
         }
       ],
       "rating": 65
+    },
+    {
+      "showId": "25246137",
+      "imdbId": "tt6037988",
+      "provider": "apple",
+      "showType": "series",
+      "addedAt": "2026-09-09",
+      "upcoming": false,
+      "link": "https://tv.apple.com/de/show/last-seen/umc.cmc.4pbw9c936a4pigdvsg23u2bsa",
+      "title": {
+        "de": "Last Seen",
+        "en": "Last Seen"
+      },
+      "overview": {
+        "de": "Als Notrufdisponent Ian Ridley den Hilferuf eines Teenagers entgegennimmt, glaubt er, seine seit Jahren vermisste Tochter zu erkennen und setzt alles daran, sie zu finden.",
+        "en": "When emergency dispatcher Ian Ridley receives a frantic call from a teenager he believes could be his long-missing daughter, he stops at nothing to find her."
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 67
     },
     {
       "showId": "4445",
@@ -11610,6 +11771,31 @@
         }
       ],
       "rating": 71
+    },
+    {
+      "showId": "25369728",
+      "imdbId": "tt6773088",
+      "provider": "apple",
+      "showType": "series",
+      "addedAt": "2026-09-23",
+      "upcoming": true,
+      "link": "https://tv.apple.com/de/show/brothers/umc.cmc.17g1y5mzqp92sc0ge1c0hdorg",
+      "title": {
+        "de": "Brothers",
+        "en": "Brothers"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": null
     },
     {
       "showId": "25371512",

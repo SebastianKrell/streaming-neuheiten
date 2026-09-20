@@ -1,6 +1,6 @@
 {
   "month": "2026-08",
-  "generatedAt": "2026-09-20T13:03:38.243Z",
+  "generatedAt": "2026-09-20T13:58:18.149Z",
   "entries": [
     {
       "showId": "3887",
@@ -631,6 +631,39 @@
       "rating": 39
     },
     {
+      "showId": "552",
+      "imdbId": "tt0258463",
+      "provider": "apple",
+      "showType": "movie",
+      "addedAt": "2026-08-24",
+      "upcoming": false,
+      "link": "https://tv.apple.com/de/movie/die-bourne-identitat/umc.cmc.6zfr90m4ghv0pt4l4nsfrm40d?playableId=tvs.sbd.4000%3ANBCUFY26FTR001",
+      "title": {
+        "de": "Die Bourne Identität",
+        "en": "The Bourne Identity"
+      },
+      "overview": {
+        "de": "Als Jason Bourne von einem Fischer aus dem Mittelmeer gezogen wird, kann sich der von Schusswunden übersäte Mann an nichts mehr erinnern. Auf der Suche nach seiner wahren Identität muss Bourne feststellen, dass er für die CIA gearbeitet hat. Doch sein ehemaliger Arbeitgeber hat bereits Killer auf ihn angesetzt. Nur mit Hilfe der jungen Deutschen Marie gelingt Bourne die Flucht nach Paris.",
+        "en": "An amnesiac assassin is himself marked for death by his CIA superiors following a failed hit."
+      },
+      "releaseYear": 2002,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 77
+    },
+    {
       "showId": "2047",
       "imdbId": "tt0481499",
       "provider": "disney",
@@ -728,6 +761,31 @@
         }
       ],
       "rating": 33
+    },
+    {
+      "showId": "25031260",
+      "imdbId": "tt37442772",
+      "provider": "apple",
+      "showType": "series",
+      "addedAt": "2026-08-24",
+      "upcoming": false,
+      "link": "https://tv.apple.com/de/show/dynasty-die-insidergeschichte-der-uconn-huskies/umc.cmc.38cvggceyd4sn4sfgl3kus89b",
+      "title": {
+        "de": "Dynasty: Die Insidergeschichte der UConn Huskies",
+        "en": "The Dynasty: UConn Huskies"
+      },
+      "overview": {
+        "de": "Werfen Sie einen Blick hinter die Kulissen des erfolgreichsten Frauenteams in der Geschichte des College-Basketballs. Geno Auriemma treibt seine Spielerinnen bis an die Grenze, um zwölf Meisterschaftstitel zu gewinnen. Rebecca Lobo, Diana Taurasi, Paige Bueckers und andere erzählen, was nötig ist, um UConn zu überstehen und eine Basketball-Dynastie aufzubauen.",
+        "en": "Go inside the rise, fall, and rebound of college basketball's most dominant program ever."
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        }
+      ],
+      "rating": 55
     },
     {
       "showId": "3633",
@@ -957,6 +1015,39 @@
       "rating": 63
     },
     {
+      "showId": "741",
+      "imdbId": "tt0407304",
+      "provider": "apple",
+      "showType": "movie",
+      "addedAt": "2026-08-24",
+      "upcoming": false,
+      "link": "https://tv.apple.com/de/movie/krieg-der-welten/umc.cmc.5hnkwafey90ub95m8pxtaeb9t?playableId=tvs.sbd.4000%3APMTFY26FTR007",
+      "title": {
+        "de": "Krieg der Welten",
+        "en": "War of the Worlds"
+      },
+      "overview": {
+        "de": "Die Aliens kommen und Tom Cruise ist mittendrin: Seit langer Zeit haben Aliens die Erdbewohner observiert, um eine Invasion vorzubereiten. Den Menschen technologisch weit überlegen, greifen die Außerirdischen schließlich mit dreibeinigen Kampfrobotern an.",
+        "en": "A New Jersey man (Tom Cruise) and his two children face an epic battle for survival when hostile aliens invade Earth."
+      },
+      "releaseYear": 2005,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Science-Fiction",
+          "en": "Science Fiction"
+        }
+      ],
+      "rating": 66
+    },
+    {
       "showId": "683",
       "imdbId": "tt0441773",
       "provider": "disney",
@@ -1075,6 +1166,39 @@
         }
       ],
       "rating": 48
+    },
+    {
+      "showId": "1051",
+      "imdbId": "tt0477347",
+      "provider": "apple",
+      "showType": "movie",
+      "addedAt": "2026-08-24",
+      "upcoming": false,
+      "link": "https://tv.apple.com/de/movie/nachts-im-museum/umc.cmc.6af6q8820kxoqlv5uvia21a5b?playableId=tvs.sbd.4000%3AWDSFY26FTR009",
+      "title": {
+        "de": "Nachts im Museum",
+        "en": "Night at the Museum"
+      },
+      "overview": {
+        "de": "Ein Wächter im Naturkundemuseum merkt, dass die Exponate lebendig werden.",
+        "en": "A new guard at the Natural History Museum finds that when visitors leave the exhibits come to life."
+      },
+      "releaseYear": 2006,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Familie",
+          "en": "Family"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 65
     },
     {
       "showId": "26348179",

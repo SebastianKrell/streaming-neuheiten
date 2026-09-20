@@ -4,6 +4,14 @@ const BASE_URL = 'https://api.movieofthenight.com/v4';
 /** Die API liefert 25 Änderungen je Seite; 100 Seiten decken auch ein volles Nachholfenster. */
 const MAX_PAGES = 100;
 
+/**
+ * Serverseitig auf Abo-Inhalte einschränken. Ohne den `.subscription`-Zusatz
+ * liefert die API auch Kauf- und Leihtitel: im 31-Tage-Fenster waren das
+ * 2.500 Änderungen statt 565 – vier Fünftel davon hätten wir nach dem Abruf
+ * weggeworfen und dabei unnötig Requests aus dem Free-Kontingent verbraucht.
+ */
+const CATALOGS = PROVIDERS.map((provider) => `${provider}.subscription`).join(',');
+
 /** Nur die Felder, die wir tatsächlich auswerten – die API liefert deutlich mehr. */
 export interface RawChange {
   changeType: string;
@@ -78,7 +86,7 @@ export async function fetchChanges({
     url.searchParams.set('country', 'de');
     url.searchParams.set('change_type', changeType);
     url.searchParams.set('item_type', 'show');
-    url.searchParams.set('catalogs', PROVIDERS.join(','));
+    url.searchParams.set('catalogs', CATALOGS);
     url.searchParams.set('from', String(from));
     url.searchParams.set('to', String(to));
     url.searchParams.set('output_language', outputLanguage);

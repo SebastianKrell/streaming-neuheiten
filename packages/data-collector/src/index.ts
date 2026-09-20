@@ -23,8 +23,12 @@ const WINDOW_SAFETY_MS = 10 * 60 * 1000;
 const GRACE_DAYS = 3;
 const DAY_MS = 24 * 60 * 60 * 1000;
 
-/** Nur echte Abo-Inhalte – Kauf, Leihe und Zusatzkanäle sind kein Katalog-Zugang. */
-const RELEVANT_OPTION_TYPES = new Set(['subscription', 'free']);
+/**
+ * Nur echte Abo-Inhalte – Kauf, Leihe und Zusatzkanäle sind kein Katalog-Zugang.
+ * Die API filtert das über die `.subscription`-Kataloge bereits mit; dieser
+ * Check bleibt als Absicherung, falls die Abfrage je erweitert wird.
+ */
+const RELEVANT_OPTION_TYPES = new Set(['subscription']);
 
 const BERLIN_DATE = new Intl.DateTimeFormat('en-CA', {
   timeZone: 'Europe/Berlin',

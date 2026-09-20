@@ -1,4 +1,5 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
+import { GenreFilter, type GenreOption } from './components/GenreFilter';
 import { MonthPicker } from './components/MonthPicker';
 import { ProviderFilter } from './components/ProviderFilter';
 import { SiteHeader } from './components/SiteHeader';
@@ -16,6 +17,17 @@ import {
 type Theme = 'light' | 'dark';
 type TypeFilter = 'all' | 'movie' | 'series';
 type SortKey = 'date' | 'title' | 'rating';
+type SortDirection = 'asc' | 'desc';
+
+/**
+ * Was beim Wechsel des Sortierkriteriums erwartet wird: neueste Zugänge und
+ * beste Bewertungen zuerst, Titel dagegen von A nach Z.
+ */
+const DEFAULT_DIRECTION: Record<SortKey, SortDirection> = {
+  date: 'desc',
+  title: 'asc',
+  rating: 'desc',
+};
 
 const BASE = import.meta.env.BASE_URL;
 
@@ -79,6 +91,16 @@ export function App() {
   const [sortKey, setSortKey] = useState<SortKey>(() => {
     const value = params.get('s');
     return value === 'title' || value === 'rating' ? value : 'date';
+  });
+  const [direction, setDirection] = useState<SortDirection>(() => {
+    const value = params.get('d');
+    if (value === 'asc' || value === 'desc') return value;
+    const key = params.get('s');
+    return DEFAULT_DIRECTION[key === 'title' || key === 'rating' ? key : 'date'];
+  });
+  const [genres, setGenres] = useState<string[]>(() => {
+    const value = params.get('g');
+    return value ? value.split(',').filter(Boolean) : [];
   });
 
   const [entries, setEntries] = useState<Entry[] | null>(null);
@@ -159,9 +181,11 @@ export function App() {
     if (providers.length !== PROVIDERS.length) next.set('p', providers.join(','));
     if (typeFilter !== 'all') next.set('t', typeFilter);
     if (sortKey !== 'date') next.set('s', sortKey);
+    if (direction !== DEFAULT_DIRECTION[sortKey]) next.set('d', direction);
+    if (genres.length) next.set('g', genres.join(','));
     next.set('lang', language);
     window.history.replaceState(null, '', `${window.location.pathname}?${next}`);
-  }, [month, providers, typeFilter, sortKey, language]);
+  }, [month, providers, typeFilter, sortKey, direction, genres, language]);
 
   const availableMonths = useMemo(() => {
     const latestSelectable = shiftMonth(currentMonth(), 1);
@@ -180,21 +204,53 @@ export function App() {
     return result;
   }, [entries]);
 
-  const visible = useMemo(() => {
-    const filtered = (entries ?? []).filter(
-      (entry) =>
-        providers.includes(entry.provider) &&
-        (typeFilter === 'all' || entry.showType === typeFilter),
-    );
+  // Ohne Genrefilter – daraus entstehen die Genre-Optionen samt Trefferzahl,
+  // damit die Zahlen zeigen, was eine Auswahl tatsächlich übrig ließe.
+  const beforeGenreFilter = useMemo(
+    () =>
+      (entries ?? []).filter(
+        (entry) =>
+          providers.includes(entry.provider) &&
+          (typeFilter === 'all' || entry.showType === typeFilter),
+      ),
+    [entries, providers, typeFilter],
+  );
+
+  const genreOptions = useMemo<GenreOption[]>(() => {
+    const counts = new Map<string, number>();
+    const captions = new Map<string, string>();
+    for (const entry of beforeGenreFilter) {
+      for (const genre of entry.genres) {
+        if (!genre.en) continue;
+        counts.set(genre.en, (counts.get(genre.en) ?? 0) + 1);
+        captions.set(genre.en, genre[language] || genre.de || genre.en);
+      }
+    }
+    // Bereits gewählte Genres auch dann anbieten, wenn sie im aktuellen Monat
+    // fehlen – sonst ließe sich die Auswahl nicht mehr aufheben.
+    for (const key of genres) if (!counts.has(key)) counts.set(key, 0);
 
     const collator = new Intl.Collator(language);
-    return filtered.sort((a, b) => {
-      if (sortKey === 'title') return collator.compare(a.title[language], b.title[language]);
-      // Unbewertete Titel (null oder 0) ans Ende statt an die Spitze.
-      if (sortKey === 'rating') return (b.rating || -1) - (a.rating || -1);
-      return b.addedAt.localeCompare(a.addedAt) || collator.compare(a.title[language], b.title[language]);
+    return [...counts.entries()]
+      .map(([key, count]) => ({ key, label: captions.get(key) ?? key, count }))
+      .sort((a, b) => collator.compare(a.label, b.label));
+  }, [beforeGenreFilter, genres, language]);
+
+  const visible = useMemo(() => {
+    const filtered = genres.length
+      ? beforeGenreFilter.filter((entry) => entry.genres.some((genre) => genres.includes(genre.en)))
+      : beforeGenreFilter;
+
+    const collator = new Intl.Collator(language);
+    const sign = direction === 'asc' ? 1 : -1;
+    return [...filtered].sort((a, b) => {
+      const byTitle = collator.compare(a.title[language], b.title[language]);
+      if (sortKey === 'title') return sign * byTitle;
+      // Unbewertete Titel (null oder 0) zählen als niedrigster Wert.
+      if (sortKey === 'rating') return sign * ((a.rating || -1) - (b.rating || -1)) || byTitle;
+      return sign * a.addedAt.localeCompare(b.addedAt) || byTitle;
     });
-  }, [entries, providers, typeFilter, sortKey, language]);
+  }, [beforeGenreFilter, genres, sortKey, direction, language]);
 
   const toggleProvider = useCallback((provider: Provider) => {
     setProviders((current) => {
@@ -204,6 +260,19 @@ export function App() {
       // Kein Anbieter aktiv wäre eine leere Seite ohne erkennbaren Grund.
       return next.length ? next : current;
     });
+  }, []);
+
+  const toggleGenre = useCallback((key: string) => {
+    setGenres((current) =>
+      current.includes(key) ? current.filter((item) => item !== key) : [...current, key],
+    );
+  }, []);
+
+  // Kriteriumswechsel setzt die Richtung auf die zum Kriterium passende
+  // Voreinstellung, sonst landet man bei "Nach Titel" ungewollt bei Z–A.
+  const changeSortKey = useCallback((key: SortKey) => {
+    setSortKey(key);
+    setDirection(DEFAULT_DIRECTION[key]);
   }, []);
 
   const beforeArchive = Boolean(index && month < index.archiveStart);
@@ -265,16 +334,45 @@ export function App() {
             </fieldset>
 
             <fieldset className="filter-group">
+              <legend>{labels.genres}</legend>
+              <GenreFilter
+                options={genreOptions}
+                selected={genres}
+                labels={{
+                  genres: labels.genres,
+                  allGenres: labels.allGenres,
+                  reset: labels.resetGenres,
+                }}
+                onToggle={toggleGenre}
+                onReset={() => setGenres([])}
+              />
+            </fieldset>
+
+            <fieldset className="filter-group">
               <legend>{labels.sortBy}</legend>
-              <select
-                className="sort-select"
-                value={sortKey}
-                onChange={(event) => setSortKey(event.target.value as SortKey)}
-              >
-                <option value="date">{labels.sortDate}</option>
-                <option value="title">{labels.sortTitle}</option>
-                <option value="rating">{labels.sortRating}</option>
-              </select>
+              <div className="sort-row">
+                <select
+                  className="sort-select"
+                  value={sortKey}
+                  onChange={(event) => changeSortKey(event.target.value as SortKey)}
+                >
+                  <option value="date">{labels.sortDate}</option>
+                  <option value="title">{labels.sortTitle}</option>
+                  <option value="rating">{labels.sortRating}</option>
+                </select>
+                <button
+                  type="button"
+                  className="sort-direction"
+                  onClick={() => setDirection((value) => (value === 'asc' ? 'desc' : 'asc'))}
+                  aria-label={labels.sortDirection}
+                  title={direction === 'asc' ? labels.ascending : labels.descending}
+                >
+                  <span aria-hidden="true">{direction === 'asc' ? '↑' : '↓'}</span>
+                  <span className="visually-hidden">
+                    {direction === 'asc' ? labels.ascending : labels.descending}
+                  </span>
+                </button>
+              </div>
             </fieldset>
           </div>
         </section>

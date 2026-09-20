@@ -314,6 +314,11 @@ main {
   text-align: center;
 }
 
+.sort-row {
+  display: flex;
+  gap: 0.4rem;
+}
+
 .sort-select {
   padding: 0.42rem 0.7rem;
   color: var(--text);
@@ -321,6 +326,123 @@ main {
   border: 1px solid var(--border);
   border-radius: 999px;
   cursor: pointer;
+}
+
+.sort-direction {
+  width: 34px;
+  color: var(--text);
+  background: var(--surface-muted);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  font-size: 0.95rem;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.sort-direction:hover {
+  border-color: var(--accent);
+}
+
+/* --- Genre-Dropdown --- */
+
+.dropdown {
+  position: relative;
+}
+
+.dropdown-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.42rem 0.7rem;
+  min-width: 7rem;
+  color: var(--text);
+  background: var(--surface-muted);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  cursor: pointer;
+}
+
+.dropdown-toggle:disabled {
+  opacity: 0.5;
+  cursor: default;
+}
+
+.dropdown-toggle.is-filtered {
+  color: var(--accent);
+  border-color: currentColor;
+  font-weight: 600;
+}
+
+.dropdown-caret {
+  margin-left: auto;
+  border: 4px solid transparent;
+  border-top-color: currentColor;
+  transform: translateY(2px);
+}
+
+.dropdown-toggle.is-open .dropdown-caret {
+  transform: translateY(-2px) rotate(180deg);
+}
+
+.dropdown-panel {
+  position: absolute;
+  z-index: 20;
+  top: calc(100% + 0.35rem);
+  left: 0;
+  min-width: 13rem;
+  max-height: 17rem;
+  overflow-y: auto;
+  padding: 0.35rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  box-shadow: var(--shadow-hover);
+}
+
+.dropdown-action {
+  width: 100%;
+  margin-bottom: 0.3rem;
+  padding: 0.35rem;
+  color: var(--muted);
+  background: var(--surface-muted);
+  border: 0;
+  border-radius: 6px;
+  font-size: 0.78rem;
+  cursor: pointer;
+}
+
+.dropdown-action:disabled {
+  opacity: 0.45;
+  cursor: default;
+}
+
+.dropdown-option {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.32rem 0.4rem;
+  border-radius: 6px;
+  font-size: 0.85rem;
+  cursor: pointer;
+}
+
+.dropdown-option:hover {
+  background: var(--surface-muted);
+}
+
+.dropdown-option input {
+  accent-color: var(--accent);
+  cursor: pointer;
+}
+
+.dropdown-option-label {
+  flex: 1 1 auto;
+}
+
+.dropdown-option-count {
+  color: var(--muted);
+  font-size: 0.75rem;
+  font-variant-numeric: tabular-nums;
 }
 
 /* --- Ergebnisse --- */

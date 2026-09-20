@@ -13,6 +13,11 @@
   --netflix: #e50914;
   --disney: #1a4cd6;
   --prime: #0396d6;
+  /* Apple tritt schwarz-weiß auf: Graphit hell, Silber dunkel. Deshalb
+     braucht dieser Anbieter als einziger eine eigene Schriftfarbe fürs
+     Badge, sonst stünde im Dunkelmodus Weiß auf Hellgrau. */
+  --apple: #33333d;
+  --apple-ink: #fff;
   /* Violett aus der RTL-Mehrfarbenpalette – hebt sich vom Netflix-Rot ab. */
   --rtl: #9b28b4;
 
@@ -35,6 +40,8 @@
   --netflix: #ff3b46;
   --disney: #5b83ef;
   --prime: #38b6ea;
+  --apple: #d5d4e0;
+  --apple-ink: #16151c;
   --rtl: #c877e0;
 }
 
@@ -306,6 +313,10 @@ main {
   color: var(--prime);
 }
 
+.chip-apple.is-active {
+  color: var(--apple);
+}
+
 .chip-rtl.is-active {
   color: var(--rtl);
 }
@@ -494,6 +505,7 @@ main {
 
 .card {
   --provider-color: var(--muted);
+  --provider-ink: #fff;
   display: flex;
   flex-direction: column;
   gap: 0.35rem;
@@ -521,6 +533,11 @@ main {
   --provider-color: var(--prime);
 }
 
+.card-apple {
+  --provider-color: var(--apple);
+  --provider-ink: var(--apple-ink);
+}
+
 .card-rtl {
   --provider-color: var(--rtl);
 }
@@ -539,7 +556,7 @@ main {
 
 .card-provider {
   padding: 0.16rem 0.5rem;
-  color: #fff;
+  color: var(--provider-ink);
   background: var(--provider-color);
   border-radius: 999px;
   font-size: 0.68rem;

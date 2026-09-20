@@ -5,11 +5,12 @@ type Theme = 'light' | 'dark';
 /** Eine Kachel je Anbieter, als Anspielung auf ein Poster-Raster. */
 function PosterMark() {
   return (
-    <svg viewBox="0 0 40 24" width="40" height="24" aria-hidden="true">
-      <rect x="0" y="4" width="9" height="18" rx="2" fill="var(--netflix)" />
-      <rect x="10" y="2" width="9" height="20" rx="2" fill="var(--disney)" />
-      <rect x="20" y="2" width="9" height="20" rx="2" fill="var(--prime)" />
-      <rect x="30" y="4" width="9" height="18" rx="2" fill="var(--rtl)" />
+    <svg viewBox="0 0 43 24" width="43" height="24" aria-hidden="true">
+      <rect x="0" y="5" width="7" height="16" rx="2" fill="var(--netflix)" />
+      <rect x="8" y="3" width="7" height="18" rx="2" fill="var(--disney)" />
+      <rect x="16" y="2" width="7" height="20" rx="2" fill="var(--prime)" />
+      <rect x="24" y="3" width="7" height="18" rx="2" fill="var(--apple)" />
+      <rect x="32" y="5" width="7" height="16" rx="2" fill="var(--rtl)" />
     </svg>
   );
 }

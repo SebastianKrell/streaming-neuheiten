@@ -4,7 +4,7 @@
  * `.subscription`. Welche Dienste es für Deutschland gibt, zeigt
  * `npm run services`.
  */
-export const PROVIDERS = ['netflix', 'disney', 'prime', 'rtl'] as const;
+export const PROVIDERS = ['netflix', 'disney', 'prime', 'apple', 'rtl'] as const;
 export type Provider = (typeof PROVIDERS)[number];
 
 export type ShowType = 'movie' | 'series';

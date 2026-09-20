@@ -4,6 +4,7 @@
   "type": "module",
   "scripts": {
     "collect": "tsx src/index.ts",
+    "services": "tsx src/services.ts",
     "typecheck": "tsc --noEmit"
   },
   "devDependencies": {

@@ -4,7 +4,12 @@ name: List German catalog
 # welcher Katalog-ID – nötig, bevor man einen Anbieter in PROVIDERS aufnimmt.
 # Läuft nur auf Zuruf und kostet einen einzigen Request.
 on:
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      probe:
+        description: 'Kataloge, deren Neuzugänge gezählt werden sollen (z. B. "rtl rtl.free rtl.subscription")'
+        required: false
+        default: ''
 
 permissions:
   contents: read
@@ -22,6 +27,9 @@ jobs:
 
       - run: npm ci
 
+      # Eingabe über env statt direkt in die Kommandozeile interpoliert,
+      # sonst wäre der Workflow anfällig für Shell-Injection.
       - env:
           STREAMING_API_KEY: ${{ secrets.STREAMING_API_KEY }}
-        run: npm run services
+          PROBE: ${{ inputs.probe }}
+        run: npm run services -- $PROBE

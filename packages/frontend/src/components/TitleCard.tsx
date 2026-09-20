@@ -1,4 +1,5 @@
 import { GenreIcon } from './GenreIcon';
+import { ProviderMark } from './ProviderMark';
 import { formatDay, type Labels } from '../i18n';
 import { PROVIDER_LABELS, type Entry, type Language } from '../types';
 
@@ -25,7 +26,9 @@ export function TitleCard({
   const body = (
     <>
       <div className="card-head">
-        <span className={`card-provider chip-${entry.provider}`}>{provider}</span>
+        <span className="card-provider" title={provider}>
+          <ProviderMark provider={entry.provider} />
+        </span>
         <span className="card-date">
           {entry.upcoming ? labels.comingOn(day) : labels.addedOn(day)}
         </span>
@@ -54,7 +57,7 @@ export function TitleCard({
     </>
   );
 
-  const className = `card card-${entry.provider}`;
+  const className = `card provider-${entry.provider}`;
   if (!entry.link) return <article className={className}>{body}</article>;
 
   return (

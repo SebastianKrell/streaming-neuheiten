@@ -1,3 +1,4 @@
+import { ProviderMark } from './ProviderMark';
 import { PROVIDER_LABELS, PROVIDERS, type Provider } from '../types';
 
 export function ProviderFilter({
@@ -21,12 +22,14 @@ export function ProviderFilter({
             <button
               key={provider}
               type="button"
-              className={`chip chip-${provider}${isActive ? ' is-active' : ''}`}
+              className={`chip chip-provider provider-${provider}${isActive ? ' is-active' : ''}`}
               aria-pressed={isActive}
+              // Name nur als Tooltip und für Screenreader – auf Touchgeräten
+              // gibt es kein Hover, dort tragen Farbe und Kürzel allein.
+              title={PROVIDER_LABELS[provider]}
               onClick={() => onToggle(provider)}
             >
-              <span className="chip-dot" aria-hidden="true" />
-              {PROVIDER_LABELS[provider]}
+              <ProviderMark provider={provider} />
               <span className="chip-count">{counts[provider]}</span>
             </button>
           );

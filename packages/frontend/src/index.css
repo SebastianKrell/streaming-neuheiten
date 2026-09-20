@@ -289,36 +289,61 @@ main {
 }
 
 .chip.is-active {
-  color: var(--text);
+  color: var(--provider-color, var(--text));
   background: var(--surface);
   border-color: currentColor;
 }
 
-.chip-dot {
-  width: 9px;
-  height: 9px;
-  border-radius: 50%;
-  background: currentColor;
+/* Anbieterfarbe und passende Schriftfarbe einmal je Anbieter – von der
+   Filterschaltfläche und der Titelkachel gemeinsam genutzt. */
+.provider-netflix {
+  --provider-color: var(--netflix);
+  --provider-ink: #fff;
 }
 
-.chip-netflix.is-active {
-  color: var(--netflix);
+.provider-disney {
+  --provider-color: var(--disney);
+  --provider-ink: #fff;
 }
 
-.chip-disney.is-active {
-  color: var(--disney);
+.provider-prime {
+  --provider-color: var(--prime);
+  --provider-ink: #fff;
 }
 
-.chip-prime.is-active {
-  color: var(--prime);
+.provider-apple {
+  --provider-color: var(--apple);
+  --provider-ink: var(--apple-ink);
 }
 
-.chip-apple.is-active {
-  color: var(--apple);
+.provider-rtl {
+  --provider-color: var(--rtl);
+  --provider-ink: #fff;
 }
 
-.chip-rtl.is-active {
-  color: var(--rtl);
+.provider-mark {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 24px;
+  height: 24px;
+  flex: 0 0 auto;
+  border-radius: 7px;
+  color: var(--provider-ink);
+  background: var(--provider-color);
+  font-size: 0.7rem;
+  font-weight: 800;
+  letter-spacing: -0.03em;
+}
+
+.chip-provider {
+  padding: 0.24rem 0.5rem 0.24rem 0.28rem;
+  gap: 0.35rem;
+}
+
+/* Inaktive Anbieter erkennbar zurücknehmen, ohne die Farbe zu verlieren. */
+.chip-provider:not(.is-active) .provider-mark {
+  opacity: 0.4;
 }
 
 .chip-count {
@@ -504,8 +529,6 @@ main {
 }
 
 .card {
-  --provider-color: var(--muted);
-  --provider-ink: #fff;
   display: flex;
   flex-direction: column;
   gap: 0.35rem;
@@ -521,27 +544,6 @@ main {
   transition: transform 0.14s, box-shadow 0.14s;
 }
 
-.card-netflix {
-  --provider-color: var(--netflix);
-}
-
-.card-disney {
-  --provider-color: var(--disney);
-}
-
-.card-prime {
-  --provider-color: var(--prime);
-}
-
-.card-apple {
-  --provider-color: var(--apple);
-  --provider-ink: var(--apple-ink);
-}
-
-.card-rtl {
-  --provider-color: var(--rtl);
-}
-
 .card-link:hover,
 .card-link:focus-visible {
   transform: translateY(-2px);
@@ -555,14 +557,7 @@ main {
 }
 
 .card-provider {
-  padding: 0.16rem 0.5rem;
-  color: var(--provider-ink);
-  background: var(--provider-color);
-  border-radius: 999px;
-  font-size: 0.68rem;
-  font-weight: 700;
-  letter-spacing: 0.02em;
-  white-space: nowrap;
+  display: inline-flex;
 }
 
 .card-date {

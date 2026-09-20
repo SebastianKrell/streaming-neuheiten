@@ -1,4 +1,5 @@
 import { useEffect, useRef, useState } from 'react';
+import { GenreIcon } from './GenreIcon';
 
 export interface GenreOption {
   /** Sprachunabhängiger Schlüssel (englischer Genrename), steht so in der URL. */
@@ -72,6 +73,7 @@ export function GenreFilter({
                 checked={selected.includes(option.key)}
                 onChange={() => onToggle(option.key)}
               />
+              <GenreIcon name={option.key} />
               <span className="dropdown-option-label">{option.label}</span>
               <span className="dropdown-option-count">{option.count}</span>
             </label>

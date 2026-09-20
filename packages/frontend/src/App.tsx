@@ -102,6 +102,11 @@ export function App() {
     const value = params.get('g');
     return value ? value.split(',').filter(Boolean) : [];
   });
+  // Anzeige-Einstellung, kein Filter – gehört wie Theme und Sprache in den
+  // localStorage und nicht in die URL, die Auswahl und Sortierung abbildet.
+  const [showDescriptions, setShowDescriptions] = useState(
+    () => localStorage.getItem('descriptions') !== 'off',
+  );
 
   const [entries, setEntries] = useState<Entry[] | null>(null);
   const [loadingMonth, setLoadingMonth] = useState(true);
@@ -118,6 +123,10 @@ export function App() {
     document.documentElement.lang = language;
     localStorage.setItem('language', language);
   }, [language]);
+
+  useEffect(() => {
+    localStorage.setItem('descriptions', showDescriptions ? 'on' : 'off');
+  }, [showDescriptions]);
 
   useEffect(() => {
     let cancelled = false;
@@ -374,6 +383,20 @@ export function App() {
                 </button>
               </div>
             </fieldset>
+
+            <fieldset className="filter-group">
+              <legend>{labels.display}</legend>
+              <div className="chip-row">
+                <button
+                  type="button"
+                  className={`chip${showDescriptions ? ' is-active' : ''}`}
+                  aria-pressed={showDescriptions}
+                  onClick={() => setShowDescriptions((value) => !value)}
+                >
+                  {labels.descriptions}
+                </button>
+              </div>
+            </fieldset>
           </div>
         </section>
 
@@ -392,13 +415,14 @@ export function App() {
           ) : visible.length === 0 ? (
             <p className="notice">{entries?.length ? labels.emptyFiltered : labels.emptyMonth}</p>
           ) : (
-            <div className="card-grid">
+            <div className={`card-grid${showDescriptions ? '' : ' is-compact'}`}>
               {visible.map((entry) => (
                 <TitleCard
                   key={`${entry.showId}-${entry.provider}`}
                   entry={entry}
                   language={language}
                   labels={labels}
+                  showOverview={showDescriptions}
                 />
               ))}
             </div>

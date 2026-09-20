@@ -479,6 +479,12 @@ main {
   gap: 0.9rem;
 }
 
+/* Ohne Beschreibungen sind die Karten deutlich flacher – dann passen
+   sinnvollerweise auch mehr nebeneinander. */
+.card-grid.is-compact {
+  grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+}
+
 .card {
   --provider-color: var(--muted);
   display: flex;
@@ -566,6 +572,29 @@ main {
 
 .card-meta span + span::before {
   content: '· ';
+}
+
+.card-genre {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.22rem;
+}
+
+.genre-icon {
+  width: 14px;
+  height: 14px;
+  flex: 0 0 auto;
+}
+
+/* Etwas Farbe in die sonst graue Metazeile, passend zum Anbieterstreifen. */
+.card-genre .genre-icon {
+  color: var(--provider-color);
+}
+
+.dropdown-option .genre-icon {
+  width: 16px;
+  height: 16px;
+  color: var(--muted);
 }
 
 .card-flag {

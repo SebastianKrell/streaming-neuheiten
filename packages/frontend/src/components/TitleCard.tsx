@@ -1,3 +1,4 @@
+import { GenreIcon } from './GenreIcon';
 import { formatDay, type Labels } from '../i18n';
 import { PROVIDER_LABELS, type Entry, type Language } from '../types';
 
@@ -5,19 +6,21 @@ export function TitleCard({
   entry,
   language,
   labels,
+  showOverview,
 }: {
   entry: Entry;
   language: Language;
   labels: Labels;
+  showOverview: boolean;
 }) {
   const title = entry.title[language] || entry.title.de || entry.title.en;
   const overview = entry.overview[language] || entry.overview.de || entry.overview.en;
   const provider = PROVIDER_LABELS[entry.provider];
   const day = formatDay(entry.addedAt, language);
   const genres = entry.genres
-    .map((genre) => genre[language] || genre.de || genre.en)
-    .filter(Boolean)
-    .slice(0, 2);
+    .filter((genre) => genre.en)
+    .slice(0, 2)
+    .map((genre) => ({ key: genre.en, label: genre[language] || genre.de || genre.en }));
 
   const body = (
     <>
@@ -39,12 +42,15 @@ export function TitleCard({
         <span>{entry.showType === 'series' ? labels.seriesSingular : labels.movie}</span>
         {entry.releaseYear && <span>{entry.releaseYear}</span>}
         {genres.map((genre) => (
-          <span key={genre}>{genre}</span>
+          <span key={genre.key} className="card-genre">
+            <GenreIcon name={genre.key} />
+            {genre.label}
+          </span>
         ))}
         {entry.upcoming && <span className="card-flag">{labels.announced}</span>}
       </p>
 
-      {overview && <p className="card-overview">{overview}</p>}
+      {showOverview && overview && <p className="card-overview">{overview}</p>}
     </>
   );
 

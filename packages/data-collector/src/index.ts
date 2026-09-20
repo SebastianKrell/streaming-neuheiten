@@ -13,6 +13,12 @@ import { PROVIDERS, type Entry, type Provider, type ShowType } from './types.js'
 
 /** Die API liefert höchstens 31 Tage rückwärts bzw. vorwärts. */
 const WINDOW_DAYS = 31;
+/**
+ * Abstand zum harten 31-Tage-Limit. Die API prüft es beim Eintreffen des
+ * Requests, nicht beim Berechnen des Fensters – ohne Puffer scheitert schon
+ * der zweite Aufruf eines Laufs mit "cannot be more than 31 days in the past".
+ */
+const WINDOW_SAFETY_MS = 10 * 60 * 1000;
 /** Kulanz, weil Anbieter Zugänge gelegentlich mit Verzögerung melden. */
 const GRACE_DAYS = 3;
 const DAY_MS = 24 * 60 * 60 * 1000;
@@ -126,11 +132,11 @@ async function main(): Promise<void> {
     ? new Date(previousIndex.lastCollectedAt).getTime()
     : Number.NaN;
 
-  const earliest = now - WINDOW_DAYS * DAY_MS;
+  const earliest = now - WINDOW_DAYS * DAY_MS + WINDOW_SAFETY_MS;
   const desiredFrom = Number.isNaN(lastCollected) ? earliest : lastCollected - GRACE_DAYS * DAY_MS;
   const from = Math.floor(Math.max(desiredFrom, earliest) / 1000);
   const to = Math.floor(now / 1000);
-  const upcomingTo = Math.floor((now + WINDOW_DAYS * DAY_MS) / 1000);
+  const upcomingTo = Math.floor((now + WINDOW_DAYS * DAY_MS - WINDOW_SAFETY_MS) / 1000);
 
   console.log(
     `Zeitfenster: ${new Date(from * 1000).toISOString()} bis ${new Date(to * 1000).toISOString()}`,

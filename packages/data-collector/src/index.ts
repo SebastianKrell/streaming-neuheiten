@@ -101,7 +101,8 @@ function toEntry(
     overview: { de: overview, en: english?.overview || overview },
     releaseYear: show?.releaseYear ?? show?.firstAirYear ?? null,
     genres: mergeGenres(show, english),
-    rating: show?.rating ?? null,
+    // Unbewertete Titel kommen mit 0 statt null – sonst stünde überall "0.0".
+    rating: typeof show?.rating === 'number' && show.rating > 0 ? show.rating : null,
   };
 }
 

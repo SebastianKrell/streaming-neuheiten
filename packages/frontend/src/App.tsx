@@ -190,7 +190,8 @@ export function App() {
     const collator = new Intl.Collator(language);
     return filtered.sort((a, b) => {
       if (sortKey === 'title') return collator.compare(a.title[language], b.title[language]);
-      if (sortKey === 'rating') return (b.rating ?? -1) - (a.rating ?? -1);
+      // Unbewertete Titel (null oder 0) ans Ende statt an die Spitze.
+      if (sortKey === 'rating') return (b.rating || -1) - (a.rating || -1);
       return b.addedAt.localeCompare(a.addedAt) || collator.compare(a.title[language], b.title[language]);
     });
   }, [entries, providers, typeFilter, sortKey, language]);

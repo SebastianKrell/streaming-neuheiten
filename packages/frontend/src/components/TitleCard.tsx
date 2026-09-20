@@ -26,7 +26,7 @@ export function TitleCard({
         <span className="card-date">
           {entry.upcoming ? labels.comingOn(day) : labels.addedOn(day)}
         </span>
-        {entry.rating !== null && (
+        {entry.rating !== null && entry.rating > 0 && (
           <span className="card-rating" title={labels.sortRating}>
             {(entry.rating / 10).toFixed(1)}
           </span>

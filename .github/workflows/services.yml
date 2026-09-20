@@ -1,0 +1,27 @@
+name: List German catalog
+
+# Zum Nachschlagen, welche Dienste die API für Deutschland führt und unter
+# welcher Katalog-ID – nötig, bevor man einen Anbieter in PROVIDERS aufnimmt.
+# Läuft nur auf Zuruf und kostet einen einzigen Request.
+on:
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+jobs:
+  services:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+
+      - run: npm ci
+
+      - env:
+          STREAMING_API_KEY: ${{ secrets.STREAMING_API_KEY }}
+        run: npm run services

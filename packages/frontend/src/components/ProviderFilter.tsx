@@ -24,12 +24,12 @@ export function ProviderFilter({
               type="button"
               className={`chip chip-provider provider-${provider}${isActive ? ' is-active' : ''}`}
               aria-pressed={isActive}
-              // Name nur als Tooltip und für Screenreader – auf Touchgeräten
-              // gibt es kein Hover, dort tragen Farbe und Kürzel allein.
-              title={PROVIDER_LABELS[provider]}
               onClick={() => onToggle(provider)}
             >
-              <ProviderMark provider={provider} />
+              {/* Die Kachel steht auch auf den Titelkacheln – hier neben dem
+                  Namen dient sie zugleich als Legende dafür. */}
+              <ProviderMark provider={provider} withLabel={false} />
+              {PROVIDER_LABELS[provider]}
               <span className="chip-count">{counts[provider]}</span>
             </button>
           );

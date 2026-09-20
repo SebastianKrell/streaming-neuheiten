@@ -337,8 +337,8 @@ main {
 }
 
 .chip-provider {
-  padding: 0.24rem 0.5rem 0.24rem 0.28rem;
-  gap: 0.35rem;
+  padding: 0.24rem 0.65rem 0.24rem 0.28rem;
+  gap: 0.4rem;
 }
 
 /* Inaktive Anbieter erkennbar zurücknehmen, ohne die Farbe zu verlieren. */

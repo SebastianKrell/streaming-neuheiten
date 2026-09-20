@@ -16,14 +16,20 @@ const MARKS: Record<Provider, string> = {
   rtl: 'R+',
 };
 
-export function ProviderMark({ provider }: { provider: Provider }) {
-  const label = PROVIDER_LABELS[provider];
+export function ProviderMark({
+  provider,
+  /** Aus, wo der Name ohnehin sichtbar danebensteht – sonst doppelt vorgelesen. */
+  withLabel = true,
+}: {
+  provider: Provider;
+  withLabel?: boolean;
+}) {
   return (
     <>
       <span className="provider-mark" aria-hidden="true">
         {MARKS[provider]}
       </span>
-      <span className="visually-hidden">{label}</span>
+      {withLabel && <span className="visually-hidden">{PROVIDER_LABELS[provider]}</span>}
     </>
   );
 }

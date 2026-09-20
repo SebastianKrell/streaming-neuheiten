@@ -15,7 +15,7 @@ export const TEXT = {
       </>
     ),
     heroCopy:
-      'Alle Filme und Serien, die im gewählten Monat neu zu Netflix, Disney+ und Prime Video dazugekommen sind – für Deutschland.',
+      'Alle Filme und Serien, die im gewählten Monat neu zu Netflix, Disney+, Prime Video und RTL+ dazugekommen sind – für Deutschland.',
     previousMonth: 'Vorheriger Monat',
     nextMonth: 'Nächster Monat',
     selectMonth: 'Monat auswählen',
@@ -54,7 +54,7 @@ export const TEXT = {
     privacy: 'Datenschutz',
     dataCredit: 'Daten: Streaming Availability API.',
     disclaimer:
-      'Inoffizielles Projekt. Netflix, Disney+ und Prime Video sowie alle Titel und Marken sind Eigentum ihrer jeweiligen Rechteinhaber.',
+      'Inoffizielles Projekt. Netflix, Disney+, Prime Video und RTL+ sowie alle Titel und Marken sind Eigentum ihrer jeweiligen Rechteinhaber.',
   },
   en: {
     light: 'Light',
@@ -70,7 +70,7 @@ export const TEXT = {
       </>
     ),
     heroCopy:
-      'Every film and series added to Netflix, Disney+ and Prime Video in the selected month – for Germany.',
+      'Every film and series added to Netflix, Disney+, Prime Video and RTL+ in the selected month – for Germany.',
     previousMonth: 'Previous month',
     nextMonth: 'Next month',
     selectMonth: 'Select month',
@@ -109,7 +109,7 @@ export const TEXT = {
     privacy: 'Privacy',
     dataCredit: 'Data: Streaming Availability API.',
     disclaimer:
-      'Unofficial project. Netflix, Disney+ and Prime Video as well as all titles and trademarks belong to their respective owners.',
+      'Unofficial project. Netflix, Disney+, Prime Video and RTL+ as well as all titles and trademarks belong to their respective owners.',
   },
 } as const;
 

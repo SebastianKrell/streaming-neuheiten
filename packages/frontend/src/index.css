@@ -13,6 +13,8 @@
   --netflix: #e50914;
   --disney: #1a4cd6;
   --prime: #0396d6;
+  /* Violett aus der RTL-Mehrfarbenpalette – hebt sich vom Netflix-Rot ab. */
+  --rtl: #9b28b4;
 
   --font-sans: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
   --font-mono: 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace;
@@ -33,6 +35,7 @@
   --netflix: #ff3b46;
   --disney: #5b83ef;
   --prime: #38b6ea;
+  --rtl: #c877e0;
 }
 
 * {
@@ -303,6 +306,10 @@ main {
   color: var(--prime);
 }
 
+.chip-rtl.is-active {
+  color: var(--rtl);
+}
+
 .chip-count {
   padding: 0 0.35rem;
   min-width: 1.4em;
@@ -512,6 +519,10 @@ main {
 
 .card-prime {
   --provider-color: var(--prime);
+}
+
+.card-rtl {
+  --provider-color: var(--rtl);
 }
 
 .card-link:hover,

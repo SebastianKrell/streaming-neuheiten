@@ -1,7 +1,7 @@
 # Streaming-Neuheiten
 
 Statische Webseite, die pro Monat zeigt, welche Filme und Serien in Deutschland neu zu
-**Netflix, Disney+ und Prime Video** dazugekommen sind.
+**Netflix, Disney+, Prime Video und RTL+** dazugekommen sind.
 
 ## Aufbau
 
@@ -55,5 +55,5 @@ npm run build     # Produktions-Build nach packages/frontend/dist
 
 ## Rechtliches
 
-Inoffizielles, nicht-kommerzielles Projekt. Netflix, Disney+ und Prime Video sowie alle
+Inoffizielles, nicht-kommerzielles Projekt. Netflix, Disney+, Prime Video und RTL+ sowie alle
 Titel und Marken gehören ihren jeweiligen Rechteinhabern.

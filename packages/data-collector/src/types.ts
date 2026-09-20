@@ -1,5 +1,10 @@
-/** Die drei Anbieter, die wir zeigen. Schlüssel = `serviceId` der Streaming Availability API. */
-export const PROVIDERS = ['netflix', 'disney', 'prime'] as const;
+/**
+ * Die Anbieter, die wir zeigen. Schlüssel = `serviceId` der Streaming Availability
+ * API; die Katalog-IDs für `catalogs` entstehen daraus mit dem Zusatz
+ * `.subscription`. Welche Dienste es für Deutschland gibt, zeigt
+ * `npm run services`.
+ */
+export const PROVIDERS = ['netflix', 'disney', 'prime', 'rtl'] as const;
 export type Provider = (typeof PROVIDERS)[number];
 
 export type ShowType = 'movie' | 'series';

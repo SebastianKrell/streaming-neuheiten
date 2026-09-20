@@ -2,13 +2,14 @@ import type { Language } from '../types';
 
 type Theme = 'light' | 'dark';
 
-/** Drei überlappende Kacheln als Anspielung auf ein Poster-Raster. */
+/** Eine Kachel je Anbieter, als Anspielung auf ein Poster-Raster. */
 function PosterMark() {
   return (
-    <svg viewBox="0 0 36 24" width="36" height="24" aria-hidden="true">
-      <rect x="0" y="4" width="12" height="18" rx="2" fill="var(--netflix)" />
-      <rect x="12" y="2" width="12" height="20" rx="2" fill="var(--disney)" />
-      <rect x="24" y="4" width="12" height="18" rx="2" fill="var(--prime)" />
+    <svg viewBox="0 0 40 24" width="40" height="24" aria-hidden="true">
+      <rect x="0" y="4" width="9" height="18" rx="2" fill="var(--netflix)" />
+      <rect x="10" y="2" width="9" height="20" rx="2" fill="var(--disney)" />
+      <rect x="20" y="2" width="9" height="20" rx="2" fill="var(--prime)" />
+      <rect x="30" y="4" width="9" height="18" rx="2" fill="var(--rtl)" />
     </svg>
   );
 }

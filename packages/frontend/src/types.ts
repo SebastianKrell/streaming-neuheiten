@@ -1,4 +1,4 @@
-export const PROVIDERS = ['netflix', 'disney', 'prime'] as const;
+export const PROVIDERS = ['netflix', 'disney', 'prime', 'rtl'] as const;
 export type Provider = (typeof PROVIDERS)[number];
 
 export type ShowType = 'movie' | 'series';
@@ -44,4 +44,5 @@ export const PROVIDER_LABELS: Record<Provider, string> = {
   netflix: 'Netflix',
   disney: 'Disney+',
   prime: 'Prime Video',
+  rtl: 'RTL+',
 };

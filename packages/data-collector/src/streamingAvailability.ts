@@ -1,6 +1,8 @@
 import { PROVIDERS } from './types.js';
 
 const BASE_URL = 'https://api.movieofthenight.com/v4';
+/** Die API liefert 25 Änderungen je Seite; 100 Seiten decken auch ein volles Nachholfenster. */
+const MAX_PAGES = 100;
 
 /** Nur die Felder, die wir tatsächlich auswerten – die API liefert deutlich mehr. */
 export interface RawChange {
@@ -24,7 +26,7 @@ export interface RawShow {
   releaseYear?: number | null;
   firstAirYear?: number | null;
   rating?: number | null;
-  genres?: { id?: string; name?: string }[];
+  genres?: { id?: string | number; name?: string }[];
 }
 
 interface ChangesResponse {
@@ -37,6 +39,8 @@ interface ChangesResponse {
 export interface ChangesResult {
   changes: RawChange[];
   shows: Map<string, RawShow>;
+  /** true, wenn das Seitenlimit griff und noch Daten offen sind. */
+  truncated: boolean;
 }
 
 export type ChangeType = 'new' | 'upcoming';
@@ -67,6 +71,7 @@ export async function fetchChanges({
   const shows = new Map<string, RawShow>();
   let cursor: string | null = null;
   let page = 0;
+  let truncated = false;
 
   do {
     const url = new URL(`${BASE_URL}/changes`);
@@ -97,11 +102,17 @@ export async function fetchChanges({
     page += 1;
     // Reißleine gegen einen kaputten Cursor: die Free-Tier-Quote liegt bei
     // 1.000 Requests im Monat, die wollen wir nicht in einem Lauf verbrennen.
-    if (page >= 20) {
-      console.warn(`[${changeType}] Abbruch nach 20 Seiten – Cursor-Ende nicht erreicht.`);
+    // Der Aufrufer wertet `truncated` aus und merkt sich, bis wohin er kam –
+    // sonst würden die offenen Tage stillschweigend übersprungen.
+    if (cursor && page >= MAX_PAGES) {
+      console.warn(
+        `[${changeType}/${outputLanguage}] Seitenlimit ${MAX_PAGES} erreicht, ` +
+          `${changes.length} Änderungen geholt – Rest folgt im nächsten Lauf.`,
+      );
+      truncated = true;
       break;
     }
   } while (cursor);
 
-  return { changes, shows };
+  return { changes, shows, truncated };
 }

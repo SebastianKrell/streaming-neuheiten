@@ -9,7 +9,7 @@ import {
 } from './archive.js';
 import { loadDotEnv, requireEnv } from './env.js';
 import { fetchChanges, type ChangeType, type RawChange, type RawShow } from './streamingAvailability.js';
-import { PROVIDERS, type Entry, type Provider, type ShowType } from './types.js';
+import { PROVIDERS, type Entry, type Localized, type Provider, type ShowType } from './types.js';
 
 /** Die API liefert höchstens 31 Tage rückwärts bzw. vorwärts. */
 const WINDOW_DAYS = 31;
@@ -46,7 +46,33 @@ function toShowType(value: string | undefined): ShowType {
   return value === 'series' ? 'series' : 'movie';
 }
 
-function toEntry(change: RawChange, show: RawShow | undefined, upcoming: boolean): Entry | null {
+/**
+ * Führt die Genres beider Sprachdurchläufe zusammen. Über die Position geht
+ * das nicht: die API sortiert Genres je Sprache alphabetisch, „Comedy,
+ * Fantasy" wird im Deutschen zu „Fantasy, Komödie". Maßgeblich ist die ID.
+ */
+function mergeGenres(de: RawShow | undefined, en: RawShow | undefined): Localized[] {
+  const englishById = new Map(
+    (en?.genres ?? [])
+      .filter((genre) => genre.id !== undefined && genre.name)
+      .map((genre) => [String(genre.id), genre.name!]),
+  );
+
+  const source = de?.genres?.length ? de.genres : (en?.genres ?? []);
+  return source
+    .filter((genre) => Boolean(genre.name))
+    .map((genre) => {
+      const english = genre.id === undefined ? undefined : englishById.get(String(genre.id));
+      return { de: genre.name!, en: english ?? genre.name! };
+    });
+}
+
+function toEntry(
+  change: RawChange,
+  show: RawShow | undefined,
+  english: RawShow | undefined,
+  upcoming: boolean,
+): Entry | null {
   const provider = change.service?.id;
   if (!isProvider(provider)) return null;
   if (change.itemType !== 'show') return null;
@@ -67,59 +93,63 @@ function toEntry(change: RawChange, show: RawShow | undefined, upcoming: boolean
     addedAt: toBerlinDate(change.timestamp),
     upcoming,
     link: change.link ?? null,
-    // Wird vom englischen Durchlauf überschrieben, siehe applyEnglish().
-    title: { de: title, en: title },
-    overview: { de: overview, en: overview },
+    title: { de: title, en: english?.title ?? english?.originalTitle ?? title },
+    overview: { de: overview, en: english?.overview || overview },
     releaseYear: show?.releaseYear ?? show?.firstAirYear ?? null,
-    genres: (show?.genres ?? [])
-      .map((genre) => genre.name)
-      .filter((name): name is string => Boolean(name))
-      .map((name) => ({ de: name, en: name })),
+    genres: mergeGenres(show, english),
     rating: show?.rating ?? null,
   };
 }
 
-/**
- * Übernimmt Titel, Beschreibung und Genres aus dem englischen Durchlauf.
- * Die API übersetzt dieselben Shows, die Reihenfolge der Genres ist dabei
- * stabil – deshalb reicht der Abgleich über die Show-ID.
- */
-function applyEnglish(entries: Entry[], shows: Map<string, RawShow>): void {
-  let translated = 0;
-  for (const entry of entries) {
-    const show = shows.get(entry.showId);
-    if (!show) continue;
-    const title = show.title ?? show.originalTitle;
-    if (title) entry.title.en = title;
-    if (show.overview) entry.overview.en = show.overview;
-    const genres = (show.genres ?? [])
-      .map((genre) => genre.name)
-      .filter((name): name is string => Boolean(name));
-    if (genres.length === entry.genres.length) {
-      entry.genres = entry.genres.map((genre, index) => ({ de: genre.de, en: genres[index]! }));
-    }
-    translated += 1;
-  }
-  console.log(`[en] ${translated} von ${entries.length} Einträgen übersetzt`);
+interface CollectResult {
+  entries: Entry[];
+  truncated: boolean;
+  /** Neuester Zeitstempel unter den geholten Änderungen, in Unix-Sekunden. */
+  latestTimestamp: number | null;
 }
 
+/**
+ * Holt einen Änderungstyp in beiden Sprachen und baut daraus die Einträge.
+ * Der englische Durchlauf dient nur als Übersetzungsquelle; schlägt er fehl,
+ * bleiben die deutschen Texte stehen statt den ganzen Lauf abzubrechen.
+ */
 async function collect(
   apiKey: string,
   changeType: ChangeType,
   from: number,
   to: number,
-  outputLanguage: string,
-): Promise<{ entries: Entry[]; shows: Map<string, RawShow> }> {
-  const { changes, shows } = await fetchChanges({ apiKey, changeType, from, to, outputLanguage });
+): Promise<CollectResult> {
+  const german = await fetchChanges({ apiKey, changeType, from, to, outputLanguage: 'de' });
 
-  const entries = changes
-    .map((change) => toEntry(change, shows.get(change.showId), changeType === 'upcoming'))
+  let english = new Map<string, RawShow>();
+  try {
+    english = (await fetchChanges({ apiKey, changeType, from, to, outputLanguage: 'en' })).shows;
+  } catch (error) {
+    console.warn(
+      `[${changeType}/en] Englische Texte nicht verfügbar, verwende die deutschen:`,
+      error instanceof Error ? error.message : error,
+    );
+  }
+
+  const entries = german.changes
+    .map((change) =>
+      toEntry(change, german.shows.get(change.showId), english.get(change.showId), changeType === 'upcoming'),
+    )
     .filter((entry): entry is Entry => entry !== null);
 
+  const timestamps = german.changes
+    .map((change) => change.timestamp)
+    .filter((value): value is number => typeof value === 'number');
+
   console.log(
-    `[${changeType}/${outputLanguage}] ${changes.length} Änderungen, davon ${entries.length} relevant`,
+    `[${changeType}] ${german.changes.length} Änderungen, davon ${entries.length} relevant`,
   );
-  return { entries, shows };
+
+  return {
+    entries,
+    truncated: german.truncated,
+    latestTimestamp: timestamps.length ? Math.max(...timestamps) : null,
+  };
 }
 
 async function main(): Promise<void> {
@@ -143,39 +173,16 @@ async function main(): Promise<void> {
   );
 
   const fresh: Entry[] = [];
-  const confirmed = await collect(apiKey, 'new', from, to, 'de');
+  const confirmed = await collect(apiKey, 'new', from, to);
   fresh.push(...confirmed.entries);
 
   try {
-    const announced = await collect(apiKey, 'upcoming', to, upcomingTo, 'de');
+    const announced = await collect(apiKey, 'upcoming', to, upcomingTo);
     fresh.push(...announced.entries);
   } catch (error) {
     // Ankündigungen sind Beiwerk – der Lauf soll daran nicht scheitern.
     console.warn(
       '[upcoming] Abruf fehlgeschlagen, fahre nur mit bestätigten Zugängen fort:',
-      error instanceof Error ? error.message : error,
-    );
-  }
-
-  // Zweiter Durchlauf nur für die englischen Texte. Schlägt er fehl, bleibt
-  // die deutsche Fassung stehen – besser als ein abgebrochener Lauf.
-  try {
-    const english = new Map<string, RawShow>();
-    for (const changeType of ['new', 'upcoming'] as ChangeType[]) {
-      const window = changeType === 'new' ? [from, to] : [to, upcomingTo];
-      const result = await fetchChanges({
-        apiKey,
-        changeType,
-        from: window[0]!,
-        to: window[1]!,
-        outputLanguage: 'en',
-      });
-      for (const [id, show] of result.shows) english.set(id, show);
-    }
-    applyEnglish(fresh, english);
-  } catch (error) {
-    console.warn(
-      '[en] Englische Texte konnten nicht geholt werden, verwende die deutschen:',
       error instanceof Error ? error.message : error,
     );
   }
@@ -196,13 +203,25 @@ async function main(): Promise<void> {
     console.log(`[${month}] ${merged.length} Einträge (${merged.length - previous.length} neu)`);
   }
 
+  // Nur bis dahin fortschreiben, wo wir wirklich waren. Nach einem Abbruch am
+  // Seitenlimit würde `now` die offenen Tage dauerhaft überspringen; mit dem
+  // letzten tatsächlich geholten Zeitstempel arbeitet sich der nächste Lauf
+  // weiter vor, bis das Archiv aufgeholt hat.
+  const collectedThrough =
+    confirmed.truncated && confirmed.latestTimestamp !== null
+      ? new Date(confirmed.latestTimestamp * 1000).toISOString()
+      : generatedAt;
+  if (confirmed.truncated) {
+    console.warn(`Unvollständiger Lauf – nächster Lauf setzt bei ${collectedThrough} an.`);
+  }
+
   // Der Index listet alle Monate im Archiv, nicht nur die gerade berührten.
   const summaries = [];
   for (const month of await listArchivedMonths()) {
     const file = await readMonth(month);
     if (file) summaries.push(summarize(month, file.entries));
   }
-  await writeIndex(summaries, generatedAt, generatedAt);
+  await writeIndex(summaries, generatedAt, collectedThrough);
   console.log(`Index geschrieben: ${summaries.length} Monate im Archiv`);
 }
 

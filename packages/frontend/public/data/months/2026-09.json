@@ -1,6 +1,6 @@
 {
   "month": "2026-09",
-  "generatedAt": "2026-09-20T11:24:19.524Z",
+  "generatedAt": "2026-09-20T13:03:38.243Z",
   "entries": [
     {
       "showId": "9988",
@@ -5180,6 +5180,31 @@
         }
       ],
       "rating": 51
+    },
+    {
+      "showId": "19015585",
+      "imdbId": "tt31195021",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-09-04",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/1945-schicksalsjahr-der-weltgeschichte-p_361",
+      "title": {
+        "de": "1914-1945 : Les grands hommes des deux guerres",
+        "en": "1914-1945 : Les grands hommes des deux guerres"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2018,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        }
+      ],
+      "rating": 39
     },
     {
       "showId": "54741",

@@ -1,6 +1,6 @@
 {
   "month": "2026-08",
-  "generatedAt": "2026-09-20T10:59:41.128Z",
+  "generatedAt": "2026-09-20T13:03:38.243Z",
   "entries": [
     {
       "showId": "3887",
@@ -1730,6 +1730,39 @@
       "rating": 59
     },
     {
+      "showId": "27646",
+      "imdbId": "tt0313255",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-08-25",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/barbie-als-rapunzel-p_558",
+      "title": {
+        "de": "Barbie als Rapunzel",
+        "en": "Barbie as Rapunzel"
+      },
+      "overview": {
+        "de": "",
+        "en": "Barbie stars as Rapunzel, a girl with the most beautiful hair ever seen. Living in a place of magic and dragons, she and her friends show how love and imagination can change the world."
+      },
+      "releaseYear": 2002,
+      "genres": [
+        {
+          "de": "Animation",
+          "en": "Animation"
+        },
+        {
+          "de": "Familie",
+          "en": "Family"
+        },
+        {
+          "de": "Fantasy",
+          "en": "Fantasy"
+        }
+      ],
+      "rating": 65
+    },
+    {
       "showId": "2771",
       "imdbId": "tt0389790",
       "provider": "disney",
@@ -2181,6 +2214,35 @@
       "rating": 64
     },
     {
+      "showId": "25886452",
+      "imdbId": "tt14015304",
+      "provider": "rtl",
+      "showType": "series",
+      "addedAt": "2026-08-25",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/sonderlage-ein-hamburg-krimi-p_11171",
+      "title": {
+        "de": "Der Masuren-Krimi",
+        "en": "Der Masuren-Krimi"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2021,
+      "genres": [
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        },
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        }
+      ],
+      "rating": null
+    },
+    {
       "showId": "90159",
       "imdbId": "tt8318284",
       "provider": "prime",
@@ -2575,6 +2637,35 @@
         }
       ],
       "rating": 78
+    },
+    {
+      "showId": "1612",
+      "imdbId": "tt2674426",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-08-25",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/ein-ganzes-halbes-jahr-p_601",
+      "title": {
+        "de": "Ein ganzes halbes Jahr",
+        "en": "Me Before You"
+      },
+      "overview": {
+        "de": "Die junge und schrullige Louisa „Lou“ Clark (Emilia Clarke) wechselt von einem Job zum nächsten, damit ihre Familie über die Runden kommt. Ihre fröhliche Haltung wird auf die Probe gestellt, als sie die Betreuerin von Will Traynor (Sam Claflin) wird, einem reichen jungen Banker, der durch einen Unfall vor zwei Jahren gelähmt wurde. Wills zynische Einstellung beginnt sich zu ändern, als ihm Louisa zeigt, dass das Leben lebenswert ist. Als sich ihre Beziehung vertieft, ändern sich ihre Leben und Herzen in einer Weise, die sich keiner von beiden hätte erträumen lassen.",
+        "en": "A girl in a small town (Emilia Clarke) forms an unlikely bond with a recently-paralyzed man (Sam Claflin) she's taking care of."
+      },
+      "releaseYear": 2016,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": 75
     },
     {
       "showId": "93983",
@@ -3540,6 +3631,68 @@
       "rating": 66
     },
     {
+      "showId": "25369655",
+      "imdbId": "tt34280980",
+      "provider": "rtl",
+      "showType": "series",
+      "addedAt": "2026-08-25",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/mermaids-to-lovers-p_67098",
+      "title": {
+        "de": "Mermaids to Lovers",
+        "en": "Mermaids to Lovers"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Familie",
+          "en": "Family"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "25130186",
+      "imdbId": "tt37816186",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-08-25",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/miss-merkel-ein-kreuzfahrt-krimi-p_67962",
+      "title": {
+        "de": "Miss Merkel - Ein Kreuzfahrt-Krimi",
+        "en": "Miss Merkel - Ein Kreuzfahrt-Krimi"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        }
+      ],
+      "rating": null
+    },
+    {
       "showId": "1371",
       "imdbId": "tt0800039",
       "provider": "disney",
@@ -3790,6 +3943,31 @@
         }
       ],
       "rating": 63
+    },
+    {
+      "showId": "198731",
+      "imdbId": "tt9858594",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-08-25",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/schneewittchen-und-der-zauber-der-zwerge-p_2033",
+      "title": {
+        "de": "Schneewittchen und der Zauber der Zwerge",
+        "en": "Snow White and the Magic of the Dwarves"
+      },
+      "overview": {
+        "de": "",
+        "en": "Amazing Film adaptation of the fairy tale, full of surprising twists and great emotions. A brave Snow White and a headstrong troop of dwarfs take up the fight with the queen. For many years, the vain queen has hidden her stepdaughter from the eyes of the world. But when the queen wants to marry Snow White to the rich Count Sebalt against her will, everyone watches."
+      },
+      "releaseYear": 2019,
+      "genres": [
+        {
+          "de": "Fantasy",
+          "en": "Fantasy"
+        }
+      ],
+      "rating": 48
     },
     {
       "showId": "25907198",

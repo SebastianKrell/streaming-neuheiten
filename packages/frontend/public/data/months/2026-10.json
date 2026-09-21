@@ -1,7 +1,36 @@
 {
   "month": "2026-10",
-  "generatedAt": "2026-09-20T13:58:18.149Z",
+  "generatedAt": "2026-09-21T10:36:02.390Z",
   "entries": [
+    {
+      "showId": "18900",
+      "imdbId": "tt0162983",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-10-01",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/60000419",
+      "title": {
+        "de": "Aufgelegt!",
+        "en": "Hanging Up"
+      },
+      "overview": {
+        "de": "When Eve (Meg Ryan) isn't being pulled in a million directions by her own life, she's being sucked into lengthy phone conversations with her cranky father (Walter Matthau) or her two sisters, successful magazine entrepreneur Georgia (Diane Keaton) and career-challenged Maddy (Lisa Kudrow). As the family becomes more and more dependent on Eve, transforming her into the human swi...",
+        "en": "When Eve (Meg Ryan) isn't being pulled in a million directions by her own life, she's being sucked into lengthy phone conversations with her cranky father (Walter Matthau) or her two sisters, successful magazine entrepreneur Georgia (Diane Keaton) and career-challenged Maddy (Lisa Kudrow). As the family becomes more and more dependent on Eve, transforming her into the human swi..."
+      },
+      "releaseYear": 2000,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 49
+    },
     {
       "showId": "26516855",
       "imdbId": "tt21097264",
@@ -163,6 +192,68 @@
         }
       ],
       "rating": 68
+    },
+    {
+      "showId": "1816",
+      "imdbId": "tt11712058",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-10-05",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/81630938",
+      "title": {
+        "de": "Mayor of Kingstown",
+        "en": "Mayor of Kingstown"
+      },
+      "overview": {
+        "de": "Die Brüder Mitch und Mike McLusky stehen zwischen den Bewohnern von Kingstown, Michigan und den Gefängnisinsassen der Stadt, und versuchen Frieden zu bewahren, während sie sich mit Mördern, Drogendealern und der russischen Mafia auseinandersetzen.",
+        "en": "A crime drama about an important contemporary issue, America's prison system, \"Mayor of Kingstown\" follows the McLusky family in Kingstown, Mich., where the business of incarceration is the only thriving industry; the family of power brokers between police, criminals, inmates, prison guards and politicians tackle themes of systemic racism, corruption and inequality; the crime thriller series provides a stark look at their attempt to bring order and justice to a town that has neither."
+      },
+      "releaseYear": 2021,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 76
+    },
+    {
+      "showId": "14625658",
+      "imdbId": "tt21815562",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-10-05",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/81783922",
+      "title": {
+        "de": "The Alto Knights",
+        "en": "The Alto Knights"
+      },
+      "overview": {
+        "de": "Robert De Niro spielt in einer Doppelrolle zwei Mafiabosse: Im New York der 50er kämpfen Frank Costello und Vito Genovese um die Macht in der Cosa Nostra. Inszeniert von Barry Levinson.",
+        "en": "The Alto Knights stars Academy Award winner Robert De Niro in a dual role, directed by Academy Award-winning filmmaker Barry Levinson."
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        }
+      ],
+      "rating": 59
     },
     {
       "showId": "25946853",
@@ -431,6 +522,31 @@
         }
       ],
       "rating": 0
+    },
+    {
+      "showId": "26603917",
+      "imdbId": "tt37070354",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-10-15",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/81786721",
+      "title": {
+        "de": "Stormen",
+        "en": "The Storm"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": null
     },
     {
       "showId": "25668158",

@@ -1,6 +1,6 @@
 {
   "month": "2026-09",
-  "generatedAt": "2026-09-20T13:58:18.149Z",
+  "generatedAt": "2026-09-21T10:36:02.390Z",
   "entries": [
     {
       "showId": "9988",
@@ -11665,12 +11665,41 @@
       "rating": 49
     },
     {
+      "showId": "67171",
+      "imdbId": "tt1294136",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-09-21",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/70120165",
+      "title": {
+        "de": "As Good As Dead - So gut wie tot",
+        "en": "As Good As Dead"
+      },
+      "overview": {
+        "de": "",
+        "en": "When the leader of a religious cult is slain, his vengeful followers abduct and torture his alleged killer, but quickly learn they got the wrong man."
+      },
+      "releaseYear": 2010,
+      "genres": [
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 50
+    },
+    {
       "showId": "14625200",
       "imdbId": "tt12299608",
       "provider": "netflix",
       "showType": "movie",
       "addedAt": "2026-09-21",
-      "upcoming": true,
+      "upcoming": false,
       "link": "https://www.netflix.com/title/81767886",
       "title": {
         "de": "Mickey 17",
@@ -12090,6 +12119,31 @@
         }
       ],
       "rating": 0
+    },
+    {
+      "showId": "803536",
+      "imdbId": "tt14211736",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-09-27",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/82027946",
+      "title": {
+        "de": "Caveman",
+        "en": "Caveman"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2023,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 47
     },
     {
       "showId": "16692349",

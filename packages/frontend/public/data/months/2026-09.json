@@ -1,6 +1,6 @@
 {
   "month": "2026-09",
-  "generatedAt": "2026-09-22T09:49:41.677Z",
+  "generatedAt": "2026-09-23T09:51:59.610Z",
   "entries": [
     {
       "showId": "9988",
@@ -11732,7 +11732,7 @@
       "provider": "netflix",
       "showType": "series",
       "addedAt": "2026-09-22",
-      "upcoming": true,
+      "upcoming": false,
       "link": "https://www.netflix.com/title/81749605",
       "title": {
         "de": "Die Minverva-Akademie",
@@ -11749,7 +11749,7 @@
           "en": "Drama"
         }
       ],
-      "rating": 0
+      "rating": null
     },
     {
       "showId": "26635646",
@@ -11757,7 +11757,7 @@
       "provider": "netflix",
       "showType": "movie",
       "addedAt": "2026-09-22",
-      "upcoming": true,
+      "upcoming": false,
       "link": "https://www.netflix.com/title/82051692",
       "title": {
         "de": "Nimesh Patel: Buy The Dip",
@@ -11774,7 +11774,7 @@
           "en": "Comedy"
         }
       ],
-      "rating": 0
+      "rating": null
     },
     {
       "showId": "1478",
@@ -11782,7 +11782,7 @@
       "provider": "netflix",
       "showType": "series",
       "addedAt": "2026-09-22",
-      "upcoming": true,
+      "upcoming": false,
       "link": "https://www.netflix.com/title/70140422",
       "title": {
         "de": "Party Down",
@@ -11807,7 +11807,7 @@
       "provider": "apple",
       "showType": "series",
       "addedAt": "2026-09-23",
-      "upcoming": true,
+      "upcoming": false,
       "link": "https://tv.apple.com/de/show/brothers/umc.cmc.17g1y5mzqp92sc0ge1c0hdorg",
       "title": {
         "de": "Brothers",

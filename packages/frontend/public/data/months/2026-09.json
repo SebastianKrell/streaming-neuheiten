@@ -1,6 +1,6 @@
 {
   "month": "2026-09",
-  "generatedAt": "2026-09-23T09:51:59.610Z",
+  "generatedAt": "2026-09-24T09:52:22.518Z",
   "entries": [
     {
       "showId": "9988",
@@ -11802,6 +11802,134 @@
       "rating": 71
     },
     {
+      "showId": "922",
+      "imdbId": "tt2177461",
+      "provider": "disney",
+      "showType": "series",
+      "addedAt": "2026-09-23",
+      "upcoming": false,
+      "link": "https://www.disneyplus.com/browse/entity-c44fe4fc-cdef-4d51-a384-d97fe0bdf392",
+      "title": {
+        "de": "A Discovery of Witches",
+        "en": "A Discovery of Witches"
+      },
+      "overview": {
+        "de": "",
+        "en": "In the final series of A Discovery of Witches, Matthew and Diana return from their trip to 1590 to find tragedy at Sept-Tours. They must find the missing pages from the Book of Life and the Book before it's too late. Their enemies are gearing up against them, and a monster from Matthew's past who has been lying in wait will return for revenge."
+      },
+      "releaseYear": 2018,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Fantasy",
+          "en": "Fantasy"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": 75
+    },
+    {
+      "showId": "6075527",
+      "imdbId": "tt30024091",
+      "provider": "disney",
+      "showType": "series",
+      "addedAt": "2026-09-23",
+      "upcoming": false,
+      "link": "https://www.disneyplus.com/browse/entity-81a4b821-1dbe-4ecc-9e01-57a7941982c3",
+      "title": {
+        "de": "A Sign of Affection",
+        "en": "A Sign of Affection"
+      },
+      "overview": {
+        "de": "",
+        "en": "Yuki Itose is just a typical student dealing with the pressures of college. She is struggling one day on the train when an upperclassman named Itsuomi Nagi helps her out. As he gradually opens a new world to her, Yuki develops feelings for Itsuomi. A pure love story begins to grow."
+      },
+      "releaseYear": 2024,
+      "genres": [
+        {
+          "de": "Animation",
+          "en": "Animation"
+        },
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": 65
+    },
+    {
+      "showId": "24520",
+      "imdbId": "tt0096842",
+      "provider": "disney",
+      "showType": "movie",
+      "addedAt": "2026-09-23",
+      "upcoming": false,
+      "link": "https://www.disneyplus.com/browse/entity-142559e8-b05d-40a0-be53-3e03456605c6",
+      "title": {
+        "de": "Asterix - Operation Hinkelstein",
+        "en": "Asterix and the Big Fight"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 1989,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Animation",
+          "en": "Animation"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 63
+    },
+    {
+      "showId": "8877",
+      "imdbId": "tt0133385",
+      "provider": "disney",
+      "showType": "movie",
+      "addedAt": "2026-09-23",
+      "upcoming": false,
+      "link": "https://www.disneyplus.com/browse/entity-ce96331e-ee19-44a1-bb08-d331f2c27a20",
+      "title": {
+        "de": "Asterix & Obelix gegen Caesar",
+        "en": "Asterix and Obelix Take On Caesar"
+      },
+      "overview": {
+        "de": "",
+        "en": "In 50 B.C., Roman soldiers set their sights on a secret elixir that has made mighty warriors out of the last village the empire has yet to conquer."
+      },
+      "releaseYear": 1999,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Familie",
+          "en": "Family"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 60
+    },
+    {
       "showId": "25369728",
       "imdbId": "tt6773088",
       "provider": "apple",
@@ -11825,6 +11953,39 @@
         }
       ],
       "rating": null
+    },
+    {
+      "showId": "94611",
+      "imdbId": "tt6685596",
+      "provider": "disney",
+      "showType": "movie",
+      "addedAt": "2026-09-23",
+      "upcoming": false,
+      "link": "https://www.disneyplus.com/browse/entity-9718887f-2e13-427a-a908-0b07eef301fc",
+      "title": {
+        "de": "Die Biene Maja -  Die Honigspiele",
+        "en": "Maya the Bee: The Honey Games"
+      },
+      "overview": {
+        "de": "",
+        "en": "Following an unproductive harvest season, it’s up to Maya and her brave friends to save their hive by competing in a series of games."
+      },
+      "releaseYear": 2018,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Animation",
+          "en": "Animation"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 57
     },
     {
       "showId": "25371512",
@@ -11861,15 +12022,15 @@
       "provider": "netflix",
       "showType": "series",
       "addedAt": "2026-09-23",
-      "upcoming": true,
+      "upcoming": false,
       "link": "https://www.netflix.com/title/81738522",
       "title": {
         "de": "Habeas Corpus",
         "en": "Habeas Corpus"
       },
       "overview": {
-        "de": "",
-        "en": ""
+        "de": "Eine Juraprofessorin will die Unschuld eines verurteilten Mannes mithilfe Ihrer Studierendengruppe beweisen, von der ein Mitglied mit ihrer Vergangenheit in Verbindung steht.",
+        "en": "A renowned law professor leads a team of students to prove a convicted man's innocence, only to discover her brightest pupil is bound to her past."
       },
       "releaseYear": 2026,
       "genres": [
@@ -11878,7 +12039,217 @@
           "en": "Drama"
         }
       ],
-      "rating": 0
+      "rating": null
+    },
+    {
+      "showId": "434",
+      "imdbId": "tt2911666",
+      "provider": "disney",
+      "showType": "movie",
+      "addedAt": "2026-09-23",
+      "upcoming": false,
+      "link": "https://www.disneyplus.com/browse/entity-a6a13076-1128-4851-b25f-dfbdb66a047b",
+      "title": {
+        "de": "John Wick",
+        "en": "John Wick"
+      },
+      "overview": {
+        "de": "Bleigeladenes Actiongewitter: Als ehemaliger Killer der russischen Mafia kehrt Keanu Reeves in den New Yorker Untergrund zurück und schwört erbarmungslose Rache. - Früher war John Wick (Keanu Reeves) der berüchtigtste Killer der russischen Mafia in New York. Nach dem Tod seiner Frau lebt er zurückgezogen in einer Luxusvilla. Als eines Nachts der Sohn seines ehemaligen Chefs Viggo Tarasov (Michael Nyqvist) seinen Hund tötet und Wick selbst schwer verletzt, erwacht in ihm erneut der Killerinstinkt. Ausgestattet mit einem riesigen Waffenarsenal sinnt John auf Vergeltung.",
+        "en": "A legendary hit man comes out of retirement to go on a ruthless rampage of revenge against the sadistic punks who attacked him."
+      },
+      "releaseYear": 2014,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 74
+    },
+    {
+      "showId": "775",
+      "imdbId": "tt4425200",
+      "provider": "disney",
+      "showType": "movie",
+      "addedAt": "2026-09-23",
+      "upcoming": false,
+      "link": "https://www.disneyplus.com/browse/entity-3839f0bc-6a56-4607-8eb2-d4c5d4213ca2",
+      "title": {
+        "de": "John Wick: Kapitel 2",
+        "en": "John Wick: Chapter 2"
+      },
+      "overview": {
+        "de": "Eigentlich wollte sich Profikiller Wick gerade zur Ruhe setzen, doch Mafioso Santino macht ihm einen Strich durch die Rechnung, als er die Einlösung einer Schuldmünze einfordert. Wick soll Santinos Schwester Gianna töten, die einen Sitz in einem globalen Verbrechersyndikat hält, den ihr Bruder gerne selbst hätte. Bald erfährt Wick zudem, dass es die halbe Verbrecherwelt auf ihn abgesehen hat.",
+        "en": "Legendary hit man John Wick is forced out of retirement by a former associate plotting to seize control of a shadowy international assassins guild."
+      },
+      "releaseYear": 2017,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 73
+    },
+    {
+      "showId": "1082",
+      "imdbId": "tt6146586",
+      "provider": "disney",
+      "showType": "movie",
+      "addedAt": "2026-09-23",
+      "upcoming": false,
+      "link": "https://www.disneyplus.com/browse/entity-b5edfc5c-871f-4c05-8416-01d4fa483a1d",
+      "title": {
+        "de": "John Wick: Kapitel 3",
+        "en": "John Wick: Chapter 3 - Parabellum"
+      },
+      "overview": {
+        "de": "Jetzt wollen alle seinen Kopf: Hitman Keanu Reeves fightet in Teil 3 der Actionsaga kompromissloser denn je. Im Killer-Krieg gelten für den Outlaw und die verbündete Halle Berry keine Regeln mehr.",
+        "en": "Super-assassin John Wick is on the run after killing a member of the international assassin's guild, and with a $14 million price tag on his head - he is the target of hit men and women everywhere."
+      },
+      "releaseYear": 2019,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 74
+    },
+    {
+      "showId": "24973688",
+      "imdbId": "tt39931234",
+      "provider": "disney",
+      "showType": "series",
+      "addedAt": "2026-09-23",
+      "upcoming": false,
+      "link": "https://www.disneyplus.com/browse/entity-f9065cc5-31f7-47e2-b5c3-c3484e2e7e53",
+      "title": {
+        "de": "Locker Diaries: ZOMBIES",
+        "en": "Locker Diaries: ZOMBIES"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "26635625",
+      "imdbId": "tt44797597",
+      "provider": "disney",
+      "showType": "movie",
+      "addedAt": "2026-09-23",
+      "upcoming": false,
+      "link": "https://www.disneyplus.com/browse/entity-c7f9e84e-52c0-480e-b511-584e0c5b9e6c",
+      "title": {
+        "de": "Max vs 100",
+        "en": "Max vs 100"
+      },
+      "overview": {
+        "de": "",
+        "en": "Max Verstappen has to beat 100 celebs and creators in the world’s biggest game of chase."
+      },
+      "releaseYear": 2026,
+      "genres": [],
+      "rating": null
+    },
+    {
+      "showId": "3036",
+      "imdbId": "tt9529546",
+      "provider": "disney",
+      "showType": "series",
+      "addedAt": "2026-09-23",
+      "upcoming": false,
+      "link": "https://www.disneyplus.com/browse/entity-1b84d641-1bb3-422d-be4c-8e24c7b547cc",
+      "title": {
+        "de": "The Rising of the Shield Hero",
+        "en": "The Rising of the Shield Hero"
+      },
+      "overview": {
+        "de": "Ein Gamer wird durch Magie in eine Parallelwelt berufen. Dort muss er als einer von vier auserwählten Helden versuchen, die Welt vor dem vorhergesagten Untergang zu bewahren.",
+        "en": "Known as the weakest of four heroes, the Shield Hero, Naofumi is tasked with defending the world from calamity. But when he ends up betrayed and belittled from the start, will this cynic even be willing to help?"
+      },
+      "releaseYear": 2019,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Animation",
+          "en": "Animation"
+        }
+      ],
+      "rating": 70
+    },
+    {
+      "showId": "24600638",
+      "imdbId": "tt29355505",
+      "provider": "disney",
+      "showType": "movie",
+      "addedAt": "2026-09-23",
+      "upcoming": false,
+      "link": "https://www.disneyplus.com/browse/entity-c99203fc-eeff-4531-a35e-1f558bedce4f",
+      "title": {
+        "de": "Toy Story 5",
+        "en": "Toy Story 5"
+      },
+      "overview": {
+        "de": "Die Spielzeuge sind zurück in Disney und Pixar's „Toy Story 5 und dieses Mal heißt es: Spielzeug trifft High-Tech. Woody, Buzz, Jessie und ihre Freunde sehen sich plötzlich mit ganz neuen Herausforderungen konfrontiert, als sie Lilypad begegnen- einem neuen Tablet-Gerät, das ziemlich verändernde Ideen hat, was für ihr Kind Bonnie das Beste ist. Wird das Spielen jemals wieder so sein wie früher?",
+        "en": "The toys are back in Disney and Pixar's \"Toy Story 5,\" and this time it's Toy meets Tech. Woody, Buzz, Jessie and the rest of the gang's jobs are challenged when they come face-to-face with Lilypad, a brand-new tablet device that arrives with her own disruptive ideas about what is best for their kid, Bonnie. Will playtime ever be the same?"
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Animation",
+          "en": "Animation"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 76
     },
     {
       "showId": "25483143",
@@ -11886,15 +12257,15 @@
       "provider": "netflix",
       "showType": "series",
       "addedAt": "2026-09-23",
-      "upcoming": true,
+      "upcoming": false,
       "link": "https://www.netflix.com/title/81730492",
       "title": {
         "de": "Wonka's The Golden Ticket",
         "en": "Wonka's The Golden Ticket"
       },
       "overview": {
-        "de": "",
-        "en": ""
+        "de": "Willy Wonkas Schokoladenfabrik erwacht in diesem kreativen Reality-Wettbewerb zum Leben, bei dem Teams mit unvorhersehbaren Spielen, Prüfungen und Versuchungen konfrontiert werden.",
+        "en": "In this reality competition inspired by \"Willy Wonka & the Chocolate Factory,\" players enter a world of pure imagination to win a life-changing prize."
       },
       "releaseYear": 2026,
       "genres": [
@@ -11907,7 +12278,7 @@
           "en": "Family"
         }
       ],
-      "rating": 0
+      "rating": null
     },
     {
       "showId": "25245936",
@@ -11972,6 +12343,35 @@
       "rating": 0
     },
     {
+      "showId": "26606245",
+      "imdbId": "tt43617141",
+      "provider": "disney",
+      "showType": "movie",
+      "addedAt": "2026-09-24",
+      "upcoming": false,
+      "link": "https://www.disneyplus.com/browse/entity-c70a88a1-a775-4c90-85ad-6ea273f40035",
+      "title": {
+        "de": "Mickey's Country Farm",
+        "en": "Mickey's Country Farm"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Animation",
+          "en": "Animation"
+        },
+        {
+          "de": "Familie",
+          "en": "Family"
+        }
+      ],
+      "rating": null
+    },
+    {
       "showId": "26598817",
       "imdbId": "tt35929525",
       "provider": "netflix",
@@ -12005,19 +12405,48 @@
       "rating": 0
     },
     {
+      "showId": "37267",
+      "imdbId": "tt11281500",
+      "provider": "disney",
+      "showType": "series",
+      "addedAt": "2026-09-24",
+      "upcoming": false,
+      "link": "https://www.disneyplus.com/browse/entity-4aa52cb1-2c27-465b-ac9c-b1cc8aa39734",
+      "title": {
+        "de": "Star Wars Blips",
+        "en": "Star Wars Blips"
+      },
+      "overview": {
+        "de": "",
+        "en": "What does a curious little droid do when he's not on a daring mission to save the galaxy?"
+      },
+      "releaseYear": 2017,
+      "genres": [
+        {
+          "de": "Animation",
+          "en": "Animation"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 51
+    },
+    {
       "showId": "5049376",
       "imdbId": "tt15740596",
       "provider": "netflix",
       "showType": "movie",
       "addedAt": "2026-09-24",
-      "upcoming": true,
+      "upcoming": false,
       "link": "https://www.netflix.com/title/82760943",
       "title": {
         "de": "Wochenendrebellen",
         "en": "Weekend Rebels"
       },
       "overview": {
-        "de": "Um den Schulwechsel von dem Asperger-Autisten Jason auf eine Förderschule zu umgehen, schließen Vater und Sohn einen Pakt: Der Junge verspricht, sich nicht mehr von anderen ärgern zu lassen, wenn Mirco ihm hilft seinen Lieblings-Fußballverein zu finden. Die Kriterien sind jedoch sehr spezifisch und er möchte die Vereine live sehen, was die beiden auf eine gemeinsame Reise durch Deutschland führt.",
+        "de": "Ein Vater reist in dieser Wohlfühl-Dramakomödie nach wahren Begebenheiten mit seinem autistischen Sohn kreuz und quer durch Deutschland, um dessen Lieblingsfußballverein zu finden.",
         "en": "Un joven desubicado quien apuesta y bebe, acepta ser el entrenador de un equipo de las pequeñas ligas de Cambrini Green en Chicago como condición de un préstamo que le hizo un amigo."
       },
       "releaseYear": 2023,
@@ -12119,6 +12548,31 @@
         }
       ],
       "rating": 0
+    },
+    {
+      "showId": "26598744",
+      "imdbId": "tt45124639",
+      "provider": "disney",
+      "showType": "series",
+      "addedAt": "2026-09-26",
+      "upcoming": true,
+      "link": "https://www.disneyplus.com/browse/entity-8a92b079-58d8-4afa-bab3-cbbcedf62fec",
+      "title": {
+        "de": "Chiles Grubenunglück: Wettlauf gegen die Zeit",
+        "en": "Chilean Mine Rescue: Race Against Time"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        }
+      ],
+      "rating": null
     },
     {
       "showId": "803536",
@@ -12266,6 +12720,39 @@
       "rating": 57
     },
     {
+      "showId": "15412709",
+      "imdbId": "tt13924304",
+      "provider": "disney",
+      "showType": "series",
+      "addedAt": "2026-09-29",
+      "upcoming": true,
+      "link": "https://www.disneyplus.com/browse/entity-f1091751-44cc-4d05-8506-e4c666d7989c",
+      "title": {
+        "de": "Sandokan",
+        "en": "Sandokan"
+      },
+      "overview": {
+        "de": "",
+        "en": "Pirate captain Sandokan and his crew fight to protect the Dayak people from the clutches of the British Empire in 19th-century Southeast Asia."
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": 66
+    },
+    {
       "showId": "24601924",
       "imdbId": "tt36282134",
       "provider": "netflix",
@@ -12351,6 +12838,39 @@
         }
       ],
       "rating": 0
+    },
+    {
+      "showId": "11279184",
+      "imdbId": "tt32059608",
+      "provider": "disney",
+      "showType": "series",
+      "addedAt": "2026-09-30",
+      "upcoming": true,
+      "link": "https://www.disneyplus.com/browse/entity-55e565b3-5383-439a-ba88-0b7163547012",
+      "title": {
+        "de": "Return to Paradise",
+        "en": "Return to Paradise"
+      },
+      "overview": {
+        "de": "DI Mackenzie Clarke's made a name for herself in London. Now she's back in the last place she wants to be - her hometown of Dolphin Cove. An Aussie twist on Death in Paradise.",
+        "en": "Detective Inspector Mackenzie Clarke reluctantly returns to her Australian hometown."
+      },
+      "releaseYear": 2024,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        },
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        }
+      ],
+      "rating": 63
     },
     {
       "showId": "26601841",

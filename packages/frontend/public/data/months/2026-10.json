@@ -1,6 +1,6 @@
 {
   "month": "2026-10",
-  "generatedAt": "2026-09-23T09:51:59.610Z",
+  "generatedAt": "2026-09-24T09:52:22.518Z",
   "entries": [
     {
       "showId": "18900",
@@ -84,6 +84,39 @@
         }
       ],
       "rating": 71
+    },
+    {
+      "showId": "26343285",
+      "imdbId": "tt36064406",
+      "provider": "disney",
+      "showType": "series",
+      "addedAt": "2026-10-02",
+      "upcoming": true,
+      "link": "https://www.disneyplus.com/browse/entity-5526d12b-7904-40cd-9bda-5af3fbfe3077",
+      "title": {
+        "de": "Coven Academy",
+        "en": "Coven Academy"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Familie",
+          "en": "Family"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": null
     },
     {
       "showId": "26344443",
@@ -325,6 +358,68 @@
       "rating": 0
     },
     {
+      "showId": "25370518",
+      "imdbId": "tt36210894",
+      "provider": "disney",
+      "showType": "series",
+      "addedAt": "2026-10-07",
+      "upcoming": true,
+      "link": "https://www.disneyplus.com/browse/entity-8ffc50e5-186b-4c06-8cb3-c9eea097aee5",
+      "title": {
+        "de": "The Drop: A Snowfall Saga",
+        "en": "The Drop: A Snowfall Saga"
+      },
+      "overview": {
+        "de": "",
+        "en": "“Snowfall” characters Wanda and Leon chase reinvention in ’90s L.A. as West Coast rap rises."
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        },
+        {
+          "de": "Musik",
+          "en": "Music"
+        }
+      ],
+      "rating": 64
+    },
+    {
+      "showId": "26598698",
+      "imdbId": "tt38937897",
+      "provider": "disney",
+      "showType": "series",
+      "addedAt": "2026-10-07",
+      "upcoming": true,
+      "link": "https://www.disneyplus.com/browse/entity-dfa34bdf-143d-4053-aec9-ab38496249de",
+      "title": {
+        "de": "メリーベリーラブ",
+        "en": "Merry Berry Love"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": null
+    },
+    {
       "showId": "25980564",
       "imdbId": "tt35934755",
       "provider": "netflix",
@@ -460,6 +555,35 @@
         }
       ],
       "rating": 0
+    },
+    {
+      "showId": "22923",
+      "imdbId": "tt0090270",
+      "provider": "disney",
+      "showType": "movie",
+      "addedAt": "2026-10-14",
+      "upcoming": true,
+      "link": "https://www.disneyplus.com/browse/entity-8744ec55-8d14-4631-99b4-c889a2d6013f",
+      "title": {
+        "de": "Crazy for you",
+        "en": "Vision Quest"
+      },
+      "overview": {
+        "de": "Matthew Modine spielt die Hauptrolle als Highschool-Ringer, der versucht, viel zu schnell 23 Pfund zu verlieren, um es mit dem unbesiegten Meister der 168-Pfund-Klasse aufzunehmen.",
+        "en": "A gentle but driven 18-year-old underdog toils against the odds to become Washington state’s top wrestler while winning the heart of a young drifter."
+      },
+      "releaseYear": 1985,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": 65
     },
     {
       "showId": "25803838",

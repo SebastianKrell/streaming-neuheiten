@@ -1,6 +1,6 @@
 {
   "month": "2026-09",
-  "generatedAt": "2026-09-24T09:52:22.518Z",
+  "generatedAt": "2026-09-25T10:07:35.137Z",
   "entries": [
     {
       "showId": "9988",
@@ -12278,7 +12278,7 @@
           "en": "Family"
         }
       ],
-      "rating": null
+      "rating": 43
     },
     {
       "showId": "25245936",
@@ -12286,15 +12286,15 @@
       "provider": "netflix",
       "showType": "series",
       "addedAt": "2026-09-24",
-      "upcoming": true,
+      "upcoming": false,
       "link": "https://www.netflix.com/title/81747525",
       "title": {
         "de": "A Different World",
         "en": "A Different World"
       },
       "overview": {
-        "de": "",
-        "en": ""
+        "de": "Eine Erstsemester-Studentin und ihre besten Freund*innen meistern den Spagat zwischen Studium, Liebesdrama und Familienerbe an einem traditionsreichen Schwarzen College.",
+        "en": "A freshman and her ride-or-die crew juggle school, romantic drama and family legacy at a historically Black college."
       },
       "releaseYear": 2026,
       "genres": [
@@ -12307,7 +12307,7 @@
           "en": "Comedy"
         }
       ],
-      "rating": 0
+      "rating": null
     },
     {
       "showId": "26342927",
@@ -12315,15 +12315,15 @@
       "provider": "netflix",
       "showType": "series",
       "addedAt": "2026-09-24",
-      "upcoming": true,
+      "upcoming": false,
       "link": "https://www.netflix.com/title/81776737",
       "title": {
         "de": "Meine traurigen Toten",
         "en": "My Sad Dead"
       },
       "overview": {
-        "de": "",
-        "en": ""
+        "de": "Emma kann die Toten sehen, wozu auch ihre Mutter gehört. Doch die Ankunft ihrer Nichte erschüttert Tausende von Leben. Eine Dramaserie nach Mariana Enriquez' Erzählungen. Von Regisseur Pablo Larraín mit Mercedes Morán und Dolores Fonzi.",
+        "en": "Emma can see the dead. But when her niece arrives, thousands of lives are shaken in this chilling miniseries based on Mariana Enriquez's works."
       },
       "releaseYear": 2026,
       "genres": [
@@ -12340,7 +12340,7 @@
           "en": "Horror"
         }
       ],
-      "rating": 0
+      "rating": null
     },
     {
       "showId": "26606245",
@@ -12377,15 +12377,15 @@
       "provider": "netflix",
       "showType": "series",
       "addedAt": "2026-09-24",
-      "upcoming": true,
+      "upcoming": false,
       "link": "https://www.netflix.com/title/81762865",
       "title": {
         "de": "Shaque: Trust No One",
         "en": "Shaque: Trust No One"
       },
       "overview": {
-        "de": "",
-        "en": ""
+        "de": "Seit der Entführung ihres Neugeborenen vor neun Jahren sucht die Mutter unermüdlich nach ihm. Dabei deckt sie Geheimnisse auf, die sie an der Realität zweifeln lassen.",
+        "en": "Anvita's daughter is abducted on the day she is born. Years later, anonymous clues uncover a web of lies surrounding her disappearance."
       },
       "releaseYear": 2026,
       "genres": [
@@ -12402,7 +12402,7 @@
           "en": "Thriller"
         }
       ],
-      "rating": 0
+      "rating": null
     },
     {
       "showId": "37267",
@@ -12468,15 +12468,15 @@
       "provider": "netflix",
       "showType": "series",
       "addedAt": "2026-09-24",
-      "upcoming": true,
+      "upcoming": false,
       "link": "https://www.netflix.com/title/81905636",
       "title": {
         "de": "ภาพลวงตาย",
         "en": "Delusion"
       },
       "overview": {
-        "de": "",
-        "en": ""
+        "de": "Das Leben einer Frau gerät aus den Fugen, als ihr demenzkranker Vater unter Mordverdacht steht und die Dorfbewohner*innen glauben, er sei von einem bösen Geist besessen.",
+        "en": "A woman's life spirals when her father's dementia makes him a prime suspect in a murder — and the villagers believe he's possessed by a malevolent ghost."
       },
       "releaseYear": 2026,
       "genres": [
@@ -12493,7 +12493,268 @@
           "en": "Mystery"
         }
       ],
-      "rating": 0
+      "rating": null
+    },
+    {
+      "showId": "16750",
+      "imdbId": "tt13069986",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-09-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bcfcfe87-58a3-45a7-be00-d0b4de6285a5",
+      "title": {
+        "de": "After Love",
+        "en": "After We Fell"
+      },
+      "overview": {
+        "de": "AFTER LOVE erzählt die epische Liebesgeschichte von Tessa und Hardin weiter. In den Hauptrollen überzeugen erneut die beiden Jung-Stars Josephine Langford und Hero Fiennes Tiffin.",
+        "en": "The third installment of the AFTER franchise finds Tessa starting an exciting new chapter of her life. But as she prepares to move to Seattle for her dream job, Hardin’s jealousy and unpredictable behavior reach a fever pitch and threaten to end their intense relationship."
+      },
+      "releaseYear": 2021,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": 53
+    },
+    {
+      "showId": "7278",
+      "imdbId": "tt4126476",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-09-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6bde8f82-a8ec-4928-b13f-aa8db5374ce4",
+      "title": {
+        "de": "After Passion",
+        "en": "After"
+      },
+      "overview": {
+        "de": "Die Brave und das Biest: College-Frischling Tessa verliebt sich an der Uni in einen geheimnisvollen Bad Boy. Kann das gutgehen? Teenager-Romanze nach der Bestsellerreihe von Anna Todd.",
+        "en": "Tessa, a dedicated student, dutiful daughter, and loyal girlfriend to her high-school sweetheart, as she enters her first semester in college armed with grand ambitions for her future. Her guarded world opens up when she meets the dark, mysterious Hardin Scott, a magnetic, brooding rebel who makes her question all she thought she knew about herself and what she wants from life."
+      },
+      "releaseYear": 2019,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": 57
+    },
+    {
+      "showId": "24979662",
+      "imdbId": "tt29297421",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-09-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.114b6b76-0780-467c-9e0e-bb68c2ea26e0",
+      "title": {
+        "de": "After the Act",
+        "en": "After the Act"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "10542",
+      "imdbId": "tt10362466",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-09-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6cba2542-d2dc-d2a8-a60e-2876028ab969",
+      "title": {
+        "de": "After Truth",
+        "en": "After We Collided"
+      },
+      "overview": {
+        "de": "Spin-off der leidenschaftlichen Beziehung von Tessa und Hardin: Tessa findet die Wahrheit über ihren Ex-Freund Hardin heraus und ist sehr verletzt. Nach all den Demütigungen möchte sie wieder bei Null anfangen. Kurz darauf lernt sie Trevor kennen.",
+        "en": "A collegian's relationship gets put to the test when she meets another man who's attracted to her."
+      },
+      "releaseYear": 2020,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": 56
+    },
+    {
+      "showId": "39338",
+      "imdbId": "tt10006418",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-09-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cca525dc-cc98-4b8a-9b7f-ff19ef227a81",
+      "title": {
+        "de": "Avocado Toast",
+        "en": "Avocado Toast"
+      },
+      "overview": {
+        "de": "",
+        "en": "Dos mujeres lidian con las consecuencias de sus revelaciones cuando sus respectivos padres les dan noticias incómodas sobre su propia vida sexual."
+      },
+      "releaseYear": 2020,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": 50
+    },
+    {
+      "showId": "26597015",
+      "imdbId": "tt44600168",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-09-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a97f6bcd-f731-431d-a5b0-20e496f95dba",
+      "title": {
+        "de": "Catedrales",
+        "en": "Cathedrals"
+      },
+      "overview": {
+        "de": "A 17-year-old girl is found burned and dismembered in an empty lot in a middle-class neighborhood of Santiago, Chile. Due to police negligence, the crime goes unpunished until thirty years later, when the family manages to piece together the murder puzzle, revealing a forbidden relationship and a cruel truth.",
+        "en": "A 17-year-old girl is found burned and dismembered in an empty lot in a middle-class neighborhood of Santiago, Chile. Due to police negligence, the crime goes unpunished until thirty years later, when the family manages to piece together the murder puzzle, revealing a forbidden relationship and a cruel truth."
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        },
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 60
+    },
+    {
+      "showId": "14625797",
+      "imdbId": "tt14893438",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-09-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.33c14e32-e645-4053-abf5-72ab9a5784f2",
+      "title": {
+        "de": "Dieser eine Augenblick",
+        "en": "Wish You Were Here"
+      },
+      "overview": {
+        "de": "",
+        "en": "Charlotte is about to turn 30, and the people closest to her won’t let her forget it. With a waitressing job as monotonous as her dating life, Charlotte is ready for a change. One night, she meets Adam, a handsome and soulful painter who seems just as lost as she feels. Their instant connection turns into a midnight drink and then a whirlwind romance of contemplation and tantalization."
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": 51
+    },
+    {
+      "showId": "26600581",
+      "imdbId": "tt43617372",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-09-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3deb616b-fa01-4e98-8ba4-3a3a9a0f9370",
+      "title": {
+        "de": "Du+Ich - Allein gegen alle",
+        "en": "You+Me - Against the World"
+      },
+      "overview": {
+        "de": "Die junge Alma Lancaster aus gutem Hause lebt heimlich ein Jahr lang ihren Uni-Traum vom Filmemachen, während ihre Eltern glauben, sie studiere Jura. Als sie mit dem mysteriösen Vadim Arcadi zusammenarbeiten muss, funkt es zwischen ihnen heftig. Doch ein Unbekannter droht, ihr Geheimnis ans Licht zu bringen.",
+        "en": "Unbeknownst to her parents, who believe she's studying law, Alma Lancaster, a young woman from a good family, has given herself a year to pursue her dream of making movies. When she's forced to work with Vadim Arcadi, a young man with few ties, an electric attraction sparks between them. But lurking behind the scenes is an invisible threat determined to tear them apart and expose everything…"
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": 50
+    },
+    {
+      "showId": "26342160",
+      "imdbId": "tt43736405",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-09-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4fd5a1b2-e6cd-4463-b862-5a83467ba191",
+      "title": {
+        "de": "Eine andere Liebe als deine",
+        "en": "A Love Other Than Yours"
+      },
+      "overview": {
+        "de": "Eine realitätsnahe Liebesgeschichte über ein Paar, das seit zehn Jahren zusammen ist und durch unerwartete Gefühle auf die Probe gestellt wird.",
+        "en": "A realistic, emotionally resonant romance about a couple in their tenth year together whose comfortable relationship is tested by unexpected feelings."
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": 58
     },
     {
       "showId": "25861824",
@@ -12525,12 +12786,463 @@
       "rating": 0
     },
     {
+      "showId": "77269",
+      "imdbId": "tt0258578",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-09-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0dfca1f6-ff37-4dcb-9033-b7e678d2cde2",
+      "title": {
+        "de": "Flug in die Hölle",
+        "en": "Flug in die Hölle"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 1985,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        }
+      ],
+      "rating": 48
+    },
+    {
+      "showId": "24602111",
+      "imdbId": "tt33479805",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-09-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dda65f14-add3-44c5-acda-aed79a30c71b",
+      "title": {
+        "de": "Killer Whale",
+        "en": "Killer Whale"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Horror",
+          "en": "Horror"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 40
+    },
+    {
+      "showId": "26344268",
+      "imdbId": "tt38956012",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-09-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8a29629b-6151-4a89-8385-1247936bfb76",
+      "title": {
+        "de": "LOL Next",
+        "en": "LOL Next"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "14625791",
+      "imdbId": "tt30788842",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-09-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5bf60af7-619a-44dd-861f-89c984ef7fde",
+      "title": {
+        "de": "Love Hurts - Liebe tut weh",
+        "en": "Love Hurts"
+      },
+      "overview": {
+        "de": "Quan spielt Marvin Gable, einen Immobilienmakler in einem Vorort von Milwaukee, wo Verkaufsschilder sprießen. Gable erhält einen Brief von Rose (Ariana DeBose), einer ehemaligen Verbündeten, die er dem Tod überlassen hatte. Sie ist stinksauer. Marvin wird in die Welt skrupelloser Auftragsmörder zurückversetzt, in der Verrat herrscht und Hausbesichtigungen zu tödlichen Schlachtfeldern werden.",
+        "en": "When Marvin left behind a violent life to hide in suburban Milwaukee as a mild-mannered realtor, he also left his former partner in crime, Rose. Now she's back and wants Marvin to help take revenge against his crime lord brother, Knuckles. Like it or not, Marvin is pulled back into a wild world where he'll need his lethal fighting skills, wit, and heroism to survive and save the day."
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": 53
+    },
+    {
+      "showId": "25483264",
+      "imdbId": "tt33539520",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-09-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d8a0e34e-133b-4ad0-ae6d-3949292fe924",
+      "title": {
+        "de": "Neagley",
+        "en": "Neagley"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        }
+      ],
+      "rating": 78
+    },
+    {
+      "showId": "2887096",
+      "imdbId": "tt15671028",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-09-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1a8f5293-d3b0-4de8-a414-bfbfe7e2fd2a",
+      "title": {
+        "de": "No Hard Feelings",
+        "en": "No Hard Feelings"
+      },
+      "overview": {
+        "de": "Kurz bevor sie das Haus verliert, in dem sie aufgewachsen ist, entdeckt Maddie (JENNIFER LAWRENCE) ein faszinierendes Jobangebot: Wohlhabende Helikopter-Eltern suchen für ihren introvertierten, 19-jährigen Sprössling Percy (ANDREW FELDMAN) eine Frau, die ihn „datet“, ehe er daheim auszieht, um aufs College zu gehen. Zu ihrer großen Überraschung muss Maddie jedoch feststellen, dass sie den...",
+        "en": "On the brink of losing her childhood home, Maddie (Lawrence) discovers an intriguing job listing: wealthy helicopter parents looking for someone to \"date\" their introverted 19-year-old son, Percy, before he leaves for college. To her surprise, Maddie soon discovers the awkward Percy is no sure thing."
+      },
+      "releaseYear": 2023,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": 63
+    },
+    {
+      "showId": "857",
+      "imdbId": "tt1355644",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-09-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.feacb58c-f3ef-5797-15ac-e4fe87b4ff5d",
+      "title": {
+        "de": "Passengers",
+        "en": "Passengers"
+      },
+      "overview": {
+        "de": "Auf einer Routine-Weltraumreise zu einem neuen Zuhause werden zwei Passagiere, die im Kälteschlaf liegen, 90 Jahre zu früh geweckt, als es bei ihrem Raumschiff zu einer Fehlfunktion kommt. Jim und Aurora müssen sich der Aussicht stellen, dass sie den Rest ihres Lebens an Bord verbringen werden, mit jedem Luxus, den sie sich nur wünschen können. Sie fangen an, sich ineinander zu verlieben, zu ...",
+        "en": "Jennifer Lawrence and Chris Pratt star in a high-stakes adventure about two passengers, Jim and Aurora, onboard a spaceship transporting them to a new life on another planet. The trip takes a deadly turn when their hibernation pods mysteriously wake them 90 years before they reach their destination. As they try to unravel the mystery behind the malfunction, they begin to fall for each other..."
+      },
+      "releaseYear": 2016,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        },
+        {
+          "de": "Science-Fiction",
+          "en": "Science Fiction"
+        }
+      ],
+      "rating": 69
+    },
+    {
+      "showId": "95633",
+      "imdbId": "tt15536668",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-09-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.62def329-33cb-4294-bf0b-d585c6711353",
+      "title": {
+        "de": "Rheingold",
+        "en": "Rhinegold"
+      },
+      "overview": {
+        "de": "Eine wahre Geschichte über Flucht, Familie, Musik und den Mythos um einen Goldraub. Erzählt nach der Autobiografie von Xatar.",
+        "en": "Xatar’s path from the ghetto to the top of the music charts is a dramatic adventure story. From the hell of an Iraqi prison, Giwar Hajabi came to Germany as a young boy with his family in the mid-1980s and landed at the very bottom. There were opportunities, but many more stumbling blocks. In no time, he went from a petty criminal to a big-time dealer. Until a shipment goes missing. To settle his debts with the cartel, Giwar plans a legendary gold heist."
+      },
+      "releaseYear": 2022,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        }
+      ],
+      "rating": 64
+    },
+    {
+      "showId": "2111",
+      "imdbId": "tt0965394",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-09-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.84aeabe3-600e-472c-ad14-e6797623be26",
+      "title": {
+        "de": "Sanctuary - Wächter der Kreaturen",
+        "en": "Sanctuary"
+      },
+      "overview": {
+        "de": "",
+        "en": "As gene therapy, transplants and cloning offer hope for humanity, a dark side of evolution produces monsters a select few are brave enough to take on."
+      },
+      "releaseYear": 2008,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Fantasy",
+          "en": "Fantasy"
+        }
+      ],
+      "rating": 69
+    },
+    {
+      "showId": "8621",
+      "imdbId": "tt3097204",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-09-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.91acbf51-67e4-4b57-ae69-0c263673027c",
+      "title": {
+        "de": "Sex on the Beach 2",
+        "en": "The Inbetweeners 2"
+      },
+      "overview": {
+        "de": "",
+        "en": "After their adventures in Malia, English teens - sex-obsessed horndog Jay, dim-witted nice guy Neil, loyal but neurotic Simon and sarcastic hero Will - hit Australia to party, hit on girls and maybe learn something about themselves."
+      },
+      "releaseYear": 2014,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 63
+    },
+    {
+      "showId": "432",
+      "imdbId": "tt0988045",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-09-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0ca9f7b3-e736-04fb-969a-5ea812e1efcc",
+      "title": {
+        "de": "Sherlock Holmes",
+        "en": "Sherlock Holmes"
+      },
+      "overview": {
+        "de": "Robert Downey Jr. und Jude Law jagen als Holmes und Watson mit Logik, Witz und Muckis einen Ritualmörder. Actionreiches Update der Krimilegende von Kultregisseur Guy Ritchie.",
+        "en": "Robert Downey Jr. transforms the legendary detective into an athletic Victorian action hero in this exciting thriller."
+      },
+      "releaseYear": 2009,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        }
+      ],
+      "rating": 74
+    },
+    {
+      "showId": "720",
+      "imdbId": "tt1515091",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-09-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1ea9f7c7-589c-6fed-96c6-e7d96e94e09b",
+      "title": {
+        "de": "Sherlock Holmes - Spiel im Schatten",
+        "en": "Sherlock Holmes: A Game of Shadows"
+      },
+      "overview": {
+        "de": "Sherlock Holmes und sein Partner Dr. Watson tun sich zusammen, um ihren größten Gegner, Professor Moriarty, zu überlisten und zu besiegen.",
+        "en": "When Austria's crown prince is found dead, evidence seems to point to suicide. However, detective Sherlock Holmes (Robert Downey Jr.) deduces that the prince was murdered and that the crime is but a piece of a puzzle designed by an evil genius."
+      },
+      "releaseYear": 2011,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        }
+      ],
+      "rating": 73
+    },
+    {
+      "showId": "22503",
+      "imdbId": "tt1247662",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-09-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4aff5324-8004-41ce-b407-185d8fe52728",
+      "title": {
+        "de": "The Good Guy – Wenn der Richtige der Falsche ist",
+        "en": "The Good Guy"
+      },
+      "overview": {
+        "de": "",
+        "en": "Dating rules spin out of control as an ambitious Manhattanite falls for the sensitive and handsome coworker of her Wall Street hot shot boyfriend."
+      },
+      "releaseYear": 2009,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": 56
+    },
+    {
+      "showId": "5027441",
+      "imdbId": "tt11674730",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-09-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5ce03d3b-5622-4074-9270-a139a8cca8e2",
+      "title": {
+        "de": "The Last Stop in Yuma County",
+        "en": "The Last Stop in Yuma County"
+      },
+      "overview": {
+        "de": "",
+        "en": "While stranded at a rural Arizona rest stop, a traveling salesman is thrust into a dire hostage situation by the arrival of two bank robbers with no qualms about using cruelty-or cold, hard steel-to protect their bloodstained fortune."
+      },
+      "releaseYear": 2024,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 69
+    },
+    {
+      "showId": "1842",
+      "imdbId": "tt0163503",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-09-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.83a700a3-ae71-4a5b-9204-ad484516c2d6",
+      "title": {
+        "de": "Top Gear",
+        "en": "Top Gear"
+      },
+      "overview": {
+        "de": "",
+        "en": "Richard Hammond hosts a hilarious look-back at all that Top Gear has tried to accomplish, featuring iconic and ambitious challenges."
+      },
+      "releaseYear": 1978,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        },
+        {
+          "de": "Talkshow",
+          "en": "Talk Show"
+        }
+      ],
+      "rating": 68
+    },
+    {
       "showId": "25984197",
       "imdbId": "tt6933238",
       "provider": "netflix",
       "showType": "movie",
       "addedAt": "2026-09-25",
-      "upcoming": true,
+      "upcoming": false,
       "link": "https://www.netflix.com/title/82010386",
       "title": {
         "de": "UNABOMBER",
@@ -12547,7 +13259,98 @@
           "en": "Crime"
         }
       ],
-      "rating": 0
+      "rating": null
+    },
+    {
+      "showId": "16093",
+      "imdbId": "tt3480796",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-09-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.faa13f42-b10c-488f-95e2-7cd64497b1a7",
+      "title": {
+        "de": "Vice",
+        "en": "Vice"
+      },
+      "overview": {
+        "de": "",
+        "en": "Julian Michaels (Bruce Willis) has designed the ultimate resort: VICE, where anything goes and customers can play out their wildest fantasies with artificial inhabitants who look, think and feel like humans. When an artificial becomes self-aware, she escapes and finds herself in the crossfire between Julian's mercenaries and a cop who is hell-bent on stopping the violence and shutting Vice down."
+      },
+      "releaseYear": 2015,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Science-Fiction",
+          "en": "Science Fiction"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 42
+    },
+    {
+      "showId": "10257873",
+      "imdbId": "tt29713093",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-09-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9fc2d804-b334-4cf2-aa10-2c03e7aa494d",
+      "title": {
+        "de": "We Bury the Dead",
+        "en": "We Bury the Dead"
+      },
+      "overview": {
+        "de": "Nachdem der Test einer Massenvernichtungswaffe des US-Militärs eine halbe Million Menschen das Leben gekostet hat, erwachen einige der Todesopfer wieder zum Leben. Zu den Freiwilligen, die das betroffene Gebiet auf der Suche nach Leichen durchkämmen, gehört auch Ava. Doch die angeblich harmlosen Untoten werden nicht nur immer mehr, sondern mit jeder Stunde gewalttätiger und aggressiver ...",
+        "en": "After a catastrophic military disaster, the dead don’t just rise - they hunt. Ava (Daisy Ridley) searches for her missing husband, but what she finds is far more terrifying."
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Horror",
+          "en": "Horror"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 57
+    },
+    {
+      "showId": "5460548",
+      "imdbId": "tt6166392",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-09-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1c100f7c-38bf-4058-8bc0-c1889e183194",
+      "title": {
+        "de": "Wonka",
+        "en": "Wonka"
+      },
+      "overview": {
+        "de": "„Wonka\" erzählt die wundersame Geschichte, wie aus dem größten Erfinder, Zauberkünstler und Chocolatier der Welt der geliebte Willy Wonka wurde, den wir heute kennen.",
+        "en": "Young chocolatier Willy Wonka manages to change the world, one delectable bite at a time."
+      },
+      "releaseYear": 2023,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 69
     },
     {
       "showId": "26598744",

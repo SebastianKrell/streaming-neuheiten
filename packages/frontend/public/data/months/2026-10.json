@@ -1,6 +1,6 @@
 {
   "month": "2026-10",
-  "generatedAt": "2026-09-24T09:52:22.518Z",
+  "generatedAt": "2026-09-25T10:07:35.137Z",
   "entries": [
     {
       "showId": "18900",
@@ -354,8 +354,42 @@
         "en": ""
       },
       "releaseYear": 2026,
-      "genres": [],
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Musik",
+          "en": "Music"
+        }
+      ],
       "rating": 0
+    },
+    {
+      "showId": "23353031",
+      "imdbId": "tt37158598",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-10-07",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/82806495",
+      "title": {
+        "de": "Naked",
+        "en": "Naked"
+      },
+      "overview": {
+        "de": "Marie und Luis treffen sich auf einer Party und verlieben sich sofort ineinander. Was als Traum von der großen Liebe beginnt, entwickelt sich zunehmend zum Albtraum. Denn: Luis ist süchtig nach Sex. Und Marie ist süchtig nach Luis. Marie ist zunehmend gezwungen, sich ihren eigenen Dämonen zu stellen, um in Zukunft ein selbstbestimmtes Leben führen zu können. (ARD Serie)",
+        "en": "Marie und Luis treffen sich auf einer Party und verlieben sich sofort ineinander. Was als Traum von der großen Liebe beginnt, entwickelt sich zunehmend zum Albtraum. Denn: Luis ist süchtig nach Sex. Und Marie ist süchtig nach Luis. Marie ist zunehmend gezwungen, sich ihren eigenen Dämonen zu stellen, um in Zukunft ein selbstbestimmtes Leben führen zu können. (ARD Serie)"
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": 53
     },
     {
       "showId": "25370518",
@@ -389,6 +423,64 @@
         }
       ],
       "rating": 64
+    },
+    {
+      "showId": "2247",
+      "imdbId": "tt1842530",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-10-07",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/70196154",
+      "title": {
+        "de": "Unforgettable",
+        "en": "Unforgettable"
+      },
+      "overview": {
+        "de": "Ein zufälliges Treffen bringt eine Ex-Polizistin in Kontakt mit ihrem ehemaligen Freund, einem New Yorker Polizisten, der sie überredet, ihr außergewöhnliches Gedächtnis zur Aufklärung von Verbrechen einzusetzen.",
+        "en": "Carrie Wells is a former NY Police detective who has a rare medical condition that gives her the ability to visually remember everything. She rejoins the force and uses her ability to solve crimes."
+      },
+      "releaseYear": 2011,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        },
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        }
+      ],
+      "rating": 69
+    },
+    {
+      "showId": "26597759",
+      "imdbId": "tt9859238",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-10-07",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/81922437",
+      "title": {
+        "de": "Who Is Martin Mull?",
+        "en": "Who Is Martin Mull?"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        }
+      ],
+      "rating": null
     },
     {
       "showId": "26598698",
@@ -447,6 +539,35 @@
         }
       ],
       "rating": 0
+    },
+    {
+      "showId": "16168",
+      "imdbId": "tt2034139",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-10-08",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/70263183",
+      "title": {
+        "de": "Der letzte Exorzismus - The Next Chapter",
+        "en": "The Last Exorcism Part II"
+      },
+      "overview": {
+        "de": "Als einzige Überlebende des grauenvollen Exorzismus-Rituals ist Nell Sweezer noch immer tief traumatisiert. Die Ereignisse der letzten Monate scheinen komplett aus ihrem Gedächtnis gelöscht und doch weiß sie, dass etwas abgrundtief Böses von ihr Besitz ergriffen hat. Geplagt von schrecklichen Albträumen versucht Nell ein neues Leben zu starten und tatsächlich findet sie bald neue Freunde. Bis die Vergangenheut sie mit ungemeiner Kraft wieder einholt. Das Böse schreibt ein neues Kapitel. In der direkten Fortsetzung des Überraschungs-Hits „Der letzte Exorzismus“ beschwört das Dunkle die Hölle auf Erden. Produziert von Horror-Ikone Eli Roth („Cabin Fever“, „Hostel“)",
+        "en": "A demonic force returns with evil plans for Nell Sweetzer (Ashley Bell)."
+      },
+      "releaseYear": 2013,
+      "genres": [
+        {
+          "de": "Horror",
+          "en": "Horror"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 41
     },
     {
       "showId": "26347794",
@@ -779,6 +900,56 @@
         }
       ],
       "rating": 0
+    },
+    {
+      "showId": "26635555",
+      "imdbId": "tt39387986",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-10-23",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/81702550",
+      "title": {
+        "de": "Grande de España",
+        "en": "Fading Grandeur"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "25864383",
+      "imdbId": "tt34127005",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-10-26",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/82193667",
+      "title": {
+        "de": "Minimum Wage",
+        "en": "Minimum Wage"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2024,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 49
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "month": "2026-10",
-  "generatedAt": "2026-09-26T09:47:54.633Z",
+  "generatedAt": "2026-09-27T10:29:34.903Z",
   "entries": [
     {
       "showId": "18900",
@@ -84,6 +84,31 @@
         }
       ],
       "rating": 71
+    },
+    {
+      "showId": "26891931",
+      "imdbId": "tt38674953",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-10-02",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/81680908",
+      "title": {
+        "de": "#Love",
+        "en": "#Love"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": null
     },
     {
       "showId": "26343285",
@@ -227,6 +252,31 @@
       "rating": 68
     },
     {
+      "showId": "19824996",
+      "imdbId": "tt36686908",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-10-04",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/83087346",
+      "title": {
+        "de": "地震のあとで",
+        "en": "After the Quake"
+      },
+      "overview": {
+        "de": "",
+        "en": "Four strangers' lives intersect over three decades as they confront grief and hope after the 1995 Kobe and 2011 Tohoku quakes and the COVID-19 pandemic."
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": null
+    },
+    {
       "showId": "1816",
       "imdbId": "tt11712058",
       "provider": "netflix",
@@ -287,6 +337,35 @@
         }
       ],
       "rating": 59
+    },
+    {
+      "showId": "8947332",
+      "imdbId": "tt27869502",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-10-06",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/82699477",
+      "title": {
+        "de": "Die Ironie des Lebens",
+        "en": "Die Ironie des Lebens"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2024,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 49
     },
     {
       "showId": "25946853",
@@ -599,6 +678,39 @@
       "rating": 0
     },
     {
+      "showId": "7426",
+      "imdbId": "tt0228333",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-10-09",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/60004475",
+      "title": {
+        "de": "Ghosts of Mars",
+        "en": "Ghosts of Mars"
+      },
+      "overview": {
+        "de": "Der Mars im Jahre 2176. Mehr als 640.000 Menschen haben die überbevölkerte Erde verlassen und leben mittlerweile in versprengten Siedlungen auf dem roten Planeten. Dort werden in unzähligen Minen die wertvollen Bodenschätze abgetragen. Doch in Shining Canyon ereignet sich bei einer dieser Operationen ein verheerender Zwischenfall: Eine lange verschwundene Ur-Zivilisation des Mars wird zu neuem ..",
+        "en": "Natasha Henstridge, Jason Statham, Pam Grier and Ice Cube must battle it out against primitive Martian ghosts who will stop at nothing to annihilate the human invaders who have disturbed their planet."
+      },
+      "releaseYear": 2001,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Horror",
+          "en": "Horror"
+        },
+        {
+          "de": "Science-Fiction",
+          "en": "Science Fiction"
+        }
+      ],
+      "rating": 49
+    },
+    {
       "showId": "24860509",
       "imdbId": "tt28498219",
       "provider": "apple",
@@ -623,6 +735,35 @@
         {
           "de": "Action",
           "en": "Action"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "26635551",
+      "imdbId": "tt39201866",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-10-10",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/82682433",
+      "title": {
+        "de": "100 Days of Deception",
+        "en": "100 Days of Deception"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
         }
       ],
       "rating": null
@@ -846,6 +987,31 @@
         }
       ],
       "rating": 0
+    },
+    {
+      "showId": "26898882",
+      "imdbId": "tt45858039",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-10-16",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/81645163",
+      "title": {
+        "de": "Seriously Single Too",
+        "en": "Seriously Single Too"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": null
     },
     {
       "showId": "25482754",

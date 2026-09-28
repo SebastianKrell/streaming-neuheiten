@@ -1,6 +1,6 @@
 {
   "month": "2026-09",
-  "generatedAt": "2026-09-27T10:29:34.903Z",
+  "generatedAt": "2026-09-28T11:37:10.661Z",
   "entries": [
     {
       "showId": "9988",
@@ -27212,6 +27212,39 @@
       "rating": 61
     },
     {
+      "showId": "14213",
+      "imdbId": "tt14331144",
+      "provider": "disney",
+      "showType": "movie",
+      "addedAt": "2026-09-27",
+      "upcoming": false,
+      "link": "https://www.disneyplus.com/browse/entity-7c74ce17-ce8d-42d7-b2b5-afc0db501194",
+      "title": {
+        "de": "Jujutsu Kaisen 0",
+        "en": "Jujutsu Kaisen 0"
+      },
+      "overview": {
+        "de": "",
+        "en": "Yuta Okkotsu witnessed the death of his childhood sweetheart in a traffic accident.Rika was turned into a cursed spirit. Haunted by her spirit, Okkotsu wanted to end his life.But he was taken to the Jujutsu High by the most powerful Jujutsu Sorcerer, Satoru Gojo.There, he made a decision to break Rika's curse at Jujutsu High."
+      },
+      "releaseYear": 2021,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Animation",
+          "en": "Animation"
+        },
+        {
+          "de": "Fantasy",
+          "en": "Fantasy"
+        }
+      ],
+      "rating": 75
+    },
+    {
       "showId": "63592",
       "imdbId": "tt2582426",
       "provider": "prime",
@@ -27972,6 +28005,35 @@
         }
       ],
       "rating": 48
+    },
+    {
+      "showId": "4795443",
+      "imdbId": "tt14230458",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-09-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a3a243ae-6d81-48c1-a02b-0bfa3e2a4e22",
+      "title": {
+        "de": "Poor Things",
+        "en": "Poor Things"
+      },
+      "overview": {
+        "de": "Die unglaubliche Geschichte von Bella Baxter (Emma Stone), einer jungen Frau, die von einem ebenso brillanten wie unorthodoxen Wissenschaftler wieder zum Leben erweckt wird. Auf der Suche nach fehlender Lebenserfahrung, bricht Bella zu einem rasanten Abenteuer über die Kontinente auf. Befreit von den Vorurteilen ihrer Zeit, ist Bella entschlossen, für Gleichheit und Befreiung einzutreten.",
+        "en": "Brought back to life by an unorthodox scientist, a young woman runs off with a lawyer on a whirlwind adventure across the continents. Free from the prejudices of her times, she grows steadfast in her purpose to stand for equality and liberation."
+      },
+      "releaseYear": 2023,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": 76
     },
     {
       "showId": "123540",
@@ -29162,12 +29224,41 @@
       "rating": 70
     },
     {
+      "showId": "29282",
+      "imdbId": "tt13070038",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-09-28",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.07e08b85-1ab7-4560-a8a1-2e4b789415ec",
+      "title": {
+        "de": "After Forever",
+        "en": "After Ever Happy"
+      },
+      "overview": {
+        "de": "",
+        "en": "As Hardin confronts his past and Tessa suffers a tragedy, the two must decide whether to continue their passionate, yet toxic, relationship or make dramatic changes in their lives."
+      },
+      "releaseYear": 2022,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": 53
+    },
+    {
       "showId": "16692349",
       "imdbId": "tt32820897",
       "provider": "netflix",
       "showType": "movie",
       "addedAt": "2026-09-28",
-      "upcoming": true,
+      "upcoming": false,
       "link": "https://www.netflix.com/title/82723106",
       "title": {
         "de": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
@@ -29192,7 +29283,139 @@
           "en": "Animation"
         }
       ],
-      "rating": 78
+      "rating": 79
+    },
+    {
+      "showId": "16692349",
+      "imdbId": "tt32820897",
+      "provider": "disney",
+      "showType": "movie",
+      "addedAt": "2026-09-28",
+      "upcoming": false,
+      "link": "https://www.disneyplus.com/browse/entity-b8b65a37-0205-4771-bd07-24b5c4406034",
+      "title": {
+        "de": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+        "en": "Demon Slayer: Kimetsu no Yaiba Infinity Castle"
+      },
+      "overview": {
+        "de": "Die Teufelsjäger kämpfen im tödlichen Labyrinth des Unendlichkeitsschlosses ums Überleben.",
+        "en": "The Demon Slayer Corps fight to survive the deadly maze of the Infinity Castle."
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Animation",
+          "en": "Animation"
+        }
+      ],
+      "rating": 79
+    },
+    {
+      "showId": "14930",
+      "imdbId": "tt0910905",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-09-28",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b6ba6067-463b-6372-cb0b-399e1c9df7df",
+      "title": {
+        "de": "In the Electric Mist - Mord in Louisiana",
+        "en": "In the Electric Mist"
+      },
+      "overview": {
+        "de": "",
+        "en": "A detective in post-Katrina New Orleans has a series of surreal encounters with a troop of ghostly Confederate soldiers while investigating serial killings of local prostitutes, a 1965 lynching, and corrupt local businessmen."
+      },
+      "releaseYear": 2009,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        },
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        }
+      ],
+      "rating": 60
+    },
+    {
+      "showId": "463",
+      "imdbId": "tt2234222",
+      "provider": "disney",
+      "showType": "series",
+      "addedAt": "2026-09-28",
+      "upcoming": false,
+      "link": "https://www.disneyplus.com/browse/entity-3b893f07-c2ab-43f8-b9cb-5dd57cc0a73f",
+      "title": {
+        "de": "Orphan Black",
+        "en": "Orphan Black"
+      },
+      "overview": {
+        "de": "Ein Sci-Fi Thriller über eine junge Frau, die Teil einer tödlichen Verschwörung wird, als sie herausfindet, dass sie ein Klon ist. Mit Tatjana Maslany in der Hauptrolle, die alle Klon-Schwestern verkörpert.",
+        "en": "Emmy winner Tatiana Maslany stars as a multitude of personalities in this sci-fi thriller. When Sarah witnesses the suicide of someone who looks just like her, she makes the shocking discovery that she’s a clone, drawing her into a deadly conspiracy."
+      },
+      "releaseYear": 2013,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Science-Fiction",
+          "en": "Science Fiction"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 77
+    },
+    {
+      "showId": "8881341",
+      "imdbId": "tt10016724",
+      "provider": "disney",
+      "showType": "series",
+      "addedAt": "2026-09-28",
+      "upcoming": false,
+      "link": "https://www.disneyplus.com/browse/entity-39233486-8476-45a5-9fcb-f439ba0360a8",
+      "title": {
+        "de": "Orphan Black: Echoes",
+        "en": "Orphan Black: Echoes"
+      },
+      "overview": {
+        "de": "",
+        "en": "After encountering a girl who looks just like her, a woman with no memory of the past sets out to uncover the truth about who they are."
+      },
+      "releaseYear": 2024,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        },
+        {
+          "de": "Science-Fiction",
+          "en": "Science Fiction"
+        }
+      ],
+      "rating": 64
     },
     {
       "showId": "26596826",
@@ -29200,7 +29423,7 @@
       "provider": "netflix",
       "showType": "series",
       "addedAt": "2026-09-28",
-      "upcoming": true,
+      "upcoming": false,
       "link": "https://www.netflix.com/title/82118262",
       "title": {
         "de": "Outside",
@@ -29217,7 +29440,40 @@
           "en": "Reality"
         }
       ],
-      "rating": 0
+      "rating": null
+    },
+    {
+      "showId": "355",
+      "imdbId": "tt2632424",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-09-28",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d3dc0fd3-8444-4cee-9d2d-7c5cfd5ffa83",
+      "title": {
+        "de": "The Originals",
+        "en": "The Originals"
+      },
+      "overview": {
+        "de": "",
+        "en": "This thrilling spinoff from The Vampire Diaries centres on the Original Family – power-hungry thousand-year-old vampires Elijah, Rebekah and vampire/werewolf hybrid Klaus - who look to take back New Orleans after being exiled a century ago."
+      },
+      "releaseYear": 2013,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Fantasy",
+          "en": "Fantasy"
+        },
+        {
+          "de": "Horror",
+          "en": "Horror"
+        }
+      ],
+      "rating": 78
     },
     {
       "showId": "26893503",

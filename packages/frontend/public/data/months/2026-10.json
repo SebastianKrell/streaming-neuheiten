@@ -1,6 +1,6 @@
 {
   "month": "2026-10",
-  "generatedAt": "2026-09-28T11:37:10.661Z",
+  "generatedAt": "2026-09-29T11:15:18.710Z",
   "entries": [
     {
       "showId": "18900",
@@ -1116,6 +1116,55 @@
         }
       ],
       "rating": 49
+    },
+    {
+      "showId": "26345975",
+      "imdbId": "tt37522541",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-10-30",
+      "upcoming": true,
+      "link": null,
+      "title": {
+        "de": "Apocalipsis Z: Nuevo Mundo",
+        "en": "Apocalypse Z: New World"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [],
+      "rating": null
+    },
+    {
+      "showId": "25665356",
+      "imdbId": "tt26598805",
+      "provider": "apple",
+      "showType": "series",
+      "addedAt": "2026-10-30",
+      "upcoming": true,
+      "link": "https://tv.apple.com/de/show/nocturne/umc.cmc.4cfsq1juke72zutv5xp0pw3rj",
+      "title": {
+        "de": "Nocturne",
+        "en": "Nocturne"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": null
     }
   ]
 }

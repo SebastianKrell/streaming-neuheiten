@@ -1,6 +1,6 @@
 {
   "month": "2026-09",
-  "generatedAt": "2026-09-29T11:15:18.710Z",
+  "generatedAt": "2026-09-30T11:03:39.358Z",
   "entries": [
     {
       "showId": "9988",
@@ -29717,7 +29717,7 @@
       "provider": "netflix",
       "showType": "movie",
       "addedAt": "2026-09-29",
-      "upcoming": true,
+      "upcoming": false,
       "link": "https://www.netflix.com/title/82012956",
       "title": {
         "de": "劇場版モノノ怪 第三章 蛇神",
@@ -29742,7 +29742,40 @@
           "en": "Mystery"
         }
       ],
-      "rating": 0
+      "rating": null
+    },
+    {
+      "showId": "1757",
+      "imdbId": "tt1731141",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-09-30",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0ea9f6bd-0806-0f80-5bb2-310363b149dd",
+      "title": {
+        "de": "Ender's Game - Das große Spiel",
+        "en": "Ender's Game"
+      },
+      "overview": {
+        "de": "In einer Welt der Zukunft, in der die Erde von Aliens bedroht wird, sucht das internationale Militär verzweifelt nach einem militärischen Genie, dem es gelingen kann, die überlegene Flotte des übermächtigen Gegners zu besiegen. Dazu rekrutiert Commander Mazer Rackham potentielle Kandidaten bereits im Kindesalter, um sie in einer Militärschule im All isoliert auf den Kampf gegen die Außerirdischen vorzubereiten. Trainiert werden die Kinder vom hochdekorierten Colonel Hyrum Graff, der immer auf der Suche nach einem würdigen Nachfolger für den legendären Commander Mazer Rackham ist. Unter den Kindern ist auch Andrew „Ender” Wiggin, ein ganz normaler Junge. Schon in kürzester Zeit meistert er die kompliziertesten Aufgaben im Kampfsimulator und beweist großes strategisches Geschick. Plötzlich ruhen alle Hoffnungen auf die Rettung der Erde auf den Schultern dieses schüchternen und verschlossenen Jungen, der sich nichts sehnlicher wünscht als eine normale Kindheit. Wird die Rechnung des Militärs aufgehen? Oder wird das Kind unter der Last des Drill, der Einsamkeit und der Verantwortung zerbrechen?",
+        "en": "A talented young man is selected to lead humanity’s fight against a dangerous alien race who is attempting to take over the Earth."
+      },
+      "releaseYear": 2013,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Science-Fiction",
+          "en": "Science Fiction"
+        }
+      ],
+      "rating": 65
     },
     {
       "showId": "26343532",
@@ -29750,7 +29783,7 @@
       "provider": "netflix",
       "showType": "series",
       "addedAt": "2026-09-30",
-      "upcoming": true,
+      "upcoming": false,
       "link": "https://www.netflix.com/title/81735501",
       "title": {
         "de": "L'Arène",
@@ -29767,7 +29800,7 @@
           "en": "Reality"
         }
       ],
-      "rating": 0
+      "rating": null
     },
     {
       "showId": "26598917",
@@ -29775,7 +29808,7 @@
       "provider": "netflix",
       "showType": "series",
       "addedAt": "2026-09-30",
-      "upcoming": true,
+      "upcoming": false,
       "link": "https://www.netflix.com/title/81977426",
       "title": {
         "de": "Love Is Blind: Nederland",
@@ -29796,7 +29829,7 @@
           "en": "Romance"
         }
       ],
-      "rating": 0
+      "rating": null
     },
     {
       "showId": "11279184",
@@ -29832,12 +29865,45 @@
       "rating": 63
     },
     {
+      "showId": "312",
+      "imdbId": "tt2401256",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-09-30",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.30bcb581-252e-4081-b129-aec402295435",
+      "title": {
+        "de": "The Night Of - Die Wahrheit einer Nacht",
+        "en": "The Night Of"
+      },
+      "overview": {
+        "de": "Lerne die dunklen Ecken des Strafjustizsystems in New York City kennen in dieser fesselnden achtteiligen Miniserie über einen pakistanisch-amerikanischen Studenten, der des Mordes an einer jungen Frau bezichtigt wird. In den Hauptrollen sind John Turturro und Riz Ahmed zu sehen.",
+        "en": "The police investigation and legal proceedings surrounding a complicated murder case in New York."
+      },
+      "releaseYear": 2016,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        },
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        }
+      ],
+      "rating": 79
+    },
+    {
       "showId": "26601841",
       "imdbId": "tt44568097",
       "provider": "netflix",
       "showType": "movie",
       "addedAt": "2026-09-30",
-      "upcoming": true,
+      "upcoming": false,
       "link": "https://www.netflix.com/title/81673050",
       "title": {
         "de": "The Widower: 'Til Death Do Us Part",
@@ -29858,7 +29924,7 @@
           "en": "Crime"
         }
       ],
-      "rating": 0
+      "rating": null
     }
   ]
 }

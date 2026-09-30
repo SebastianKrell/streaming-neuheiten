@@ -1,6 +1,6 @@
 {
   "month": "2026-10",
-  "generatedAt": "2026-09-29T11:15:18.710Z",
+  "generatedAt": "2026-09-30T11:03:39.358Z",
   "entries": [
     {
       "showId": "18900",
@@ -769,6 +769,64 @@
       "rating": null
     },
     {
+      "showId": "24862419",
+      "imdbId": "tt33086804",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-10-10",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/82647303",
+      "title": {
+        "de": "Rooster Fighter",
+        "en": "Rooster Fighter"
+      },
+      "overview": {
+        "de": "",
+        "en": "Keiji is more than just an ordinary rooster - he’s humanity’s greatest defender!"
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Animation",
+          "en": "Animation"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 59
+    },
+    {
+      "showId": "14625201",
+      "imdbId": "tt34966036",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-10-12",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/81744947",
+      "title": {
+        "de": "Free Leonard Peltier",
+        "en": "Free Leonard Peltier"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        }
+      ],
+      "rating": null
+    },
+    {
       "showId": "26635491",
       "imdbId": "tt36470958",
       "provider": "netflix",
@@ -792,6 +850,39 @@
         }
       ],
       "rating": 0
+    },
+    {
+      "showId": "25328",
+      "imdbId": "tt0104897",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-10-13",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/60023251",
+      "title": {
+        "de": "Mo’ Money – Meh’ Geld",
+        "en": "Mo' Money"
+      },
+      "overview": {
+        "de": "\"Man kann niemals zu reich sein … oder zu lustig. Komiker Damon Wayans (Fernsehserie \"\"In Living Color\"\", The Last Boy Scout - Das Ziel ist Überleben) bringt seine übel gesinnte Galerie von unerhörten Charakteren in diese actionreiche Komödie über einen Trickbetrüger, der versucht sich zu bessern, aber immer wieder in die falsche Richtung gezogen wird.\"",
+        "en": "A con artist tries to go straight in a credit card company’s mailroom, but mounting debts tempt him back to schemes to impress an ambitious assistant."
+      },
+      "releaseYear": 1992,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        }
+      ],
+      "rating": 55
     },
     {
       "showId": "26635503",

@@ -1,6 +1,6 @@
 {
   "month": "2026-10",
-  "generatedAt": "2026-09-30T11:03:39.358Z",
+  "generatedAt": "2026-10-01T11:30:31.648Z",
   "entries": [
     {
       "showId": "18900",
@@ -8,7 +8,7 @@
       "provider": "netflix",
       "showType": "movie",
       "addedAt": "2026-10-01",
-      "upcoming": true,
+      "upcoming": false,
       "link": "https://www.netflix.com/title/60000419",
       "title": {
         "de": "Aufgelegt!",
@@ -30,6 +30,31 @@
         }
       ],
       "rating": 49
+    },
+    {
+      "showId": "14050",
+      "imdbId": "tt1630036",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-10-01",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/70202144",
+      "title": {
+        "de": "Courageous - Ein mutiger Weg",
+        "en": "Courageous"
+      },
+      "overview": {
+        "de": "Als Polizeibeamte kennen Adam Mitchell, Nathan Hayes und ihre Partner die Abgründe des Menschen, doch einer Herausforderung scheinen sie nicht recht gewachsen zu sein: der Vaterschaft. Während sie im Beruf ihr Bestes geben, merken sie, wie sich ihre Kinder immer mehr von ihnen entfremden. Eine persönliche Tragödie weckt in diesen Männern den Wunsch, ihren Glauben zu erneuern und ihre Kinder wie..",
+        "en": "As law enforcement officers, Adam Mitchell, Nathan Hayes, and their partners are confident and focused. They willingly stand up to the worst the world can offer. Yet at the end of the day, they face a challenge that none of them are truly prepared to tackle: fatherhood. While they consistently give their best on the job, good enough seems to be all they can muster as dads. But they're quickly..."
+      },
+      "releaseYear": 2011,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": 69
     },
     {
       "showId": "26516855",
@@ -62,7 +87,7 @@
       "provider": "netflix",
       "showType": "series",
       "addedAt": "2026-10-01",
-      "upcoming": true,
+      "upcoming": false,
       "link": "https://www.netflix.com/title/81724647",
       "title": {
         "de": "Matlock",
@@ -84,6 +109,35 @@
         }
       ],
       "rating": 71
+    },
+    {
+      "showId": "3114",
+      "imdbId": "tt0381707",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-10-01",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/60034587",
+      "title": {
+        "de": "White Chicks",
+        "en": "White Chicks"
+      },
+      "overview": {
+        "de": "Der Undercover-Einsatz zweier tollpatschiger FBI-Agenten soll die reichen Wilton-Schwestern vor einer Entführung schützen.",
+        "en": "FBI agents Kevin and Marcus disguise themselves as white socialites to solve a kidnapping plot. Posing as the wealthy Wilson sisters, the duo must infiltrate high society while keeping their true identities—and mission—a secret."
+      },
+      "releaseYear": 2004,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        }
+      ],
+      "rating": 62
     },
     {
       "showId": "26891931",

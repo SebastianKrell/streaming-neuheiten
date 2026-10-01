@@ -1,6 +1,6 @@
 {
   "month": "2026-09",
-  "generatedAt": "2026-09-30T11:03:39.358Z",
+  "generatedAt": "2026-10-01T11:30:31.648Z",
   "entries": [
     {
       "showId": "9988",
@@ -29745,6 +29745,35 @@
       "rating": null
     },
     {
+      "showId": "3399",
+      "imdbId": "tt2854926",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-09-30",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.06b288af-1f9c-5f38-cccf-377dcc592fdf",
+      "title": {
+        "de": "Catch Me!",
+        "en": "Tag"
+      },
+      "overview": {
+        "de": "Du bist's: Fünf Freunde spielen Fangen - seit 30 Jahren! Um den ewigen Champion zu kriegen, wollen seine Kumpel sogar seine Hochzeit crashen. Starbesetzte Comedy-Hetzjagd nach einer wahren Geschichte.",
+        "en": "Five highly competitive friends gather for their yearly, no-holds-barred game of tag."
+      },
+      "releaseYear": 2018,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 65
+    },
+    {
       "showId": "1757",
       "imdbId": "tt1731141",
       "provider": "prime",
@@ -29863,6 +29892,35 @@
         }
       ],
       "rating": 63
+    },
+    {
+      "showId": "68",
+      "imdbId": "tt0468569",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-09-30",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4aa9f68b-5e9d-1955-a451-d4d0087ef56c",
+      "title": {
+        "de": "The Dark Knight",
+        "en": "The Dark Knight"
+      },
+      "overview": {
+        "de": "The Dark Knight reunites Christian Bale with director Christopher Nolan and takes Batman across the world in his quest to fight a growing criminal threat known as The Joker .",
+        "en": "The Caped Crusader is pushed to the limit by the diabolical Joker in this blockbuster action sequel."
+      },
+      "releaseYear": 2008,
+      "genres": [
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 89
     },
     {
       "showId": "312",

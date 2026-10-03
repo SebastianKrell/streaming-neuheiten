@@ -1,0 +1,39 @@
+{
+  "month": "2026-11",
+  "generatedAt": "2026-10-03T10:19:32.256Z",
+  "entries": [
+    {
+      "showId": "24862332",
+      "imdbId": "tt39957390",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-11-03",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/81088875",
+      "title": {
+        "de": "Bass X Machina",
+        "en": "Bass X Machina"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Animation",
+          "en": "Animation"
+        },
+        {
+          "de": "Science-Fiction",
+          "en": "Science Fiction"
+        }
+      ],
+      "rating": null
+    }
+  ]
+}

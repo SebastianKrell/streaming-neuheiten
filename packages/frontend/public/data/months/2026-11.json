@@ -1,6 +1,6 @@
 {
   "month": "2026-11",
-  "generatedAt": "2026-10-03T10:19:32.256Z",
+  "generatedAt": "2026-10-04T11:03:06.887Z",
   "entries": [
     {
       "showId": "24862332",
@@ -31,6 +31,31 @@
         {
           "de": "Science-Fiction",
           "en": "Science Fiction"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "25665430",
+      "imdbId": "tt15715850",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-11-04",
+      "upcoming": true,
+      "link": null,
+      "title": {
+        "de": "The Greatest",
+        "en": "The Greatest"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
         }
       ],
       "rating": null

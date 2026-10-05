@@ -1,6 +1,6 @@
 {
   "month": "2026-11",
-  "generatedAt": "2026-10-04T11:03:06.887Z",
+  "generatedAt": "2026-10-05T12:11:37.501Z",
   "entries": [
     {
       "showId": "24862332",
@@ -56,6 +56,35 @@
         {
           "de": "Drama",
           "en": "Drama"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "26635575",
+      "imdbId": "tt39400541",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-05",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/81505776",
+      "title": {
+        "de": "余命一年、男をかう",
+        "en": "One Year to Live, Buy a Man"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
         }
       ],
       "rating": null

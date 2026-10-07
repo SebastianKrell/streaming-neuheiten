@@ -1,6 +1,6 @@
 {
   "month": "2026-11",
-  "generatedAt": "2026-10-06T11:55:29.194Z",
+  "generatedAt": "2026-10-07T11:40:28.980Z",
   "entries": [
     {
       "showId": "24862332",
@@ -88,6 +88,31 @@
         }
       ],
       "rating": null
+    },
+    {
+      "showId": "25949551",
+      "imdbId": "tt37803364",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-06",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/82106490",
+      "title": {
+        "de": "가능한 사랑",
+        "en": "Possible Love"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": 60
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "month": "2026-10",
-  "generatedAt": "2026-10-07T11:40:28.980Z",
+  "generatedAt": "2026-10-08T11:55:40.980Z",
   "entries": [
     {
       "showId": "18900",
@@ -15533,6 +15533,85 @@
       "rating": 46
     },
     {
+      "showId": "323020",
+      "imdbId": "tt5199102",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-10-07",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.056e930c-91e0-4028-8df3-1864e2359fe4",
+      "title": {
+        "de": "Angker",
+        "en": "Haunted"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2014,
+      "genres": [
+        {
+          "de": "Horror",
+          "en": "Horror"
+        }
+      ],
+      "rating": 40
+    },
+    {
+      "showId": "77566",
+      "imdbId": "tt0443334",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-10-07",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1eac107d-a41f-4cdb-a4ba-ad358f855325",
+      "title": {
+        "de": "Angriff des Säbelzahntigers",
+        "en": "Attack of the Sabretooth"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2005,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Action",
+          "en": "Action"
+        }
+      ],
+      "rating": 28
+    },
+    {
+      "showId": "15413907",
+      "imdbId": "tt35517757",
+      "provider": "apple",
+      "showType": "series",
+      "addedAt": "2026-10-07",
+      "upcoming": false,
+      "link": "https://tv.apple.com/de/show/anpfiff-major-league-soccer/umc.cmc.3f1lyzz5mshnl8umwl9wipwgj",
+      "title": {
+        "de": "Anpfiff: Major League Soccer",
+        "en": "Onside: Major League Soccer"
+      },
+      "overview": {
+        "de": "",
+        "en": "Go beyond the pitch with unparalleled access to the players who power MLS—and made 2024 an unforgettable season."
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        }
+      ],
+      "rating": 49
+    },
+    {
       "showId": "31859",
       "imdbId": "tt0048966",
       "provider": "prime",
@@ -16876,6 +16955,39 @@
       "rating": 63
     },
     {
+      "showId": "24887",
+      "imdbId": "tt5021206",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-10-07",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b6b235dc-95ff-335f-6122-ab7b00883373",
+      "title": {
+        "de": "Die Mr. Peabody & Sherman Show",
+        "en": "The Mr. Peabody & Sherman Show"
+      },
+      "overview": {
+        "de": "",
+        "en": "Sherman and Mr Peabody are the hosts of a late-night TV show, in which they use Mr Peabody's WABAC machine to take trips to events in history and to bring special guests forward in time to participate on the show."
+      },
+      "releaseYear": 2015,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Animation",
+          "en": "Animation"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 54
+    },
+    {
       "showId": "2348",
       "imdbId": "tt2345759",
       "provider": "netflix",
@@ -17203,6 +17315,31 @@
       "rating": 57
     },
     {
+      "showId": "172107",
+      "imdbId": "tt0062948",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-10-07",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3b1ff761-cc79-40a1-b3c8-9cb018d4cf05",
+      "title": {
+        "de": "Django - Die Bibel ist kein Kartenspiel",
+        "en": "Execution"
+      },
+      "overview": {
+        "de": "",
+        "en": "Compelling Italian Western. A bounty killer, Clips, has been for a long time on the trail of John Cooler, an elderly bandit whose head hangs a bounty of twenty thousand dollars. John is also wanted by the Mexican Juarez and his gang, who wants to seize a load of gold that the old bandit stole a few years earlier from the American army."
+      },
+      "releaseYear": 1968,
+      "genres": [
+        {
+          "de": "Western",
+          "en": "Western"
+        }
+      ],
+      "rating": 46
+    },
+    {
       "showId": "77175",
       "imdbId": "tt0208922",
       "provider": "prime",
@@ -17369,6 +17506,31 @@
       "rating": 48
     },
     {
+      "showId": "143580",
+      "imdbId": "tt0063439",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-10-07",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ef469a1d-692f-4f0b-8fd9-e585223a2a9f",
+      "title": {
+        "de": "Ein Colt für hundert Särge",
+        "en": "A Gun for One Hundred Graves"
+      },
+      "overview": {
+        "de": "",
+        "en": "Returning from the Civil War, Jim Slade finds his parents dead at their farm and sets out on a messy mission of revenge against the gang responsible."
+      },
+      "releaseYear": 1968,
+      "genres": [
+        {
+          "de": "Western",
+          "en": "Western"
+        }
+      ],
+      "rating": 58
+    },
+    {
       "showId": "108976",
       "imdbId": "tt13189624",
       "provider": "prime",
@@ -17428,19 +17590,19 @@
       "provider": "netflix",
       "showType": "series",
       "addedAt": "2026-10-07",
-      "upcoming": true,
+      "upcoming": false,
       "link": "https://www.netflix.com/title/80217807",
       "title": {
         "de": "El Círculo",
         "en": "Inside The Circle"
       },
       "overview": {
-        "de": "",
-        "en": ""
+        "de": "Vier enge Freund*innen verstricken sich in einem Netz aus Erpressung, als ein geleaktes Video droht, Geheimnisse zu enthüllen, die ihre Freundschaft zerstören könnten.",
+        "en": "Four lifelong friends are caught in a web of blackmail when a leaked video threatens to expose the secrets that could destroy their friendship."
       },
       "releaseYear": 2026,
       "genres": [],
-      "rating": 0
+      "rating": null
     },
     {
       "showId": "112350",
@@ -19355,6 +19517,39 @@
         }
       ],
       "rating": 57
+    },
+    {
+      "showId": "119627",
+      "imdbId": "tt14860210",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-10-07",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bd817f12-0f4c-4e2f-842f-c2abe717809e",
+      "title": {
+        "de": "Mein Sohn, der Soldat",
+        "en": "Father & Soldier"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2023,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Geschichte",
+          "en": "History"
+        }
+      ],
+      "rating": 59
     },
     {
       "showId": "199064",
@@ -21659,6 +21854,39 @@
       "rating": 53
     },
     {
+      "showId": "8306",
+      "imdbId": "tt0062803",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-10-07",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.47b7246d-057e-4328-98b9-ed51b44bec29",
+      "title": {
+        "de": "Tschitti Tschitti Bäng Bäng",
+        "en": "Chitty Chitty Bang Bang"
+      },
+      "overview": {
+        "de": "",
+        "en": "A widowed investor rebuilds a vintage race car that gains the power to fly, leading him and his children on an unforgettable adventure."
+      },
+      "releaseYear": 1968,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Familie",
+          "en": "Family"
+        },
+        {
+          "de": "Fantasy",
+          "en": "Fantasy"
+        }
+      ],
+      "rating": 69
+    },
+    {
       "showId": "30382",
       "imdbId": "tt0096324",
       "provider": "prime",
@@ -22403,15 +22631,15 @@
       "provider": "netflix",
       "showType": "series",
       "addedAt": "2026-10-08",
-      "upcoming": true,
+      "upcoming": false,
       "link": "https://www.netflix.com/title/81652677",
       "title": {
         "de": "Below",
         "en": "Below"
       },
       "overview": {
-        "de": "",
-        "en": ""
+        "de": "Als eine geheimnisvolle Meereskreatur eine Küstenstadt bedroht, muss ein Fischer kämpfen, um seine Familie und die Lebensweise seiner Gemeinde zu schützen.",
+        "en": "When a mysterious sea creature starts terrorizing a coastal town, a fisherman must fight to protect his family and his community's vanishing way of life."
       },
       "releaseYear": 2026,
       "genres": [
@@ -22424,7 +22652,7 @@
           "en": "Mystery"
         }
       ],
-      "rating": 0
+      "rating": 61
     },
     {
       "showId": "16168",
@@ -22432,7 +22660,7 @@
       "provider": "netflix",
       "showType": "movie",
       "addedAt": "2026-10-08",
-      "upcoming": true,
+      "upcoming": false,
       "link": "https://www.netflix.com/title/70263183",
       "title": {
         "de": "Der letzte Exorzismus - The Next Chapter",
@@ -22440,7 +22668,7 @@
       },
       "overview": {
         "de": "Als einzige Überlebende des grauenvollen Exorzismus-Rituals ist Nell Sweezer noch immer tief traumatisiert. Die Ereignisse der letzten Monate scheinen komplett aus ihrem Gedächtnis gelöscht und doch weiß sie, dass etwas abgrundtief Böses von ihr Besitz ergriffen hat. Geplagt von schrecklichen Albträumen versucht Nell ein neues Leben zu starten und tatsächlich findet sie bald neue Freunde. Bis die Vergangenheut sie mit ungemeiner Kraft wieder einholt. Das Böse schreibt ein neues Kapitel. In der direkten Fortsetzung des Überraschungs-Hits „Der letzte Exorzismus“ beschwört das Dunkle die Hölle auf Erden. Produziert von Horror-Ikone Eli Roth („Cabin Fever“, „Hostel“)",
-        "en": "A demonic force returns with evil plans for Nell Sweetzer (Ashley Bell)."
+        "en": "The next installment of the horror series about a young girl possessed."
       },
       "releaseYear": 2013,
       "genres": [
@@ -22454,6 +22682,26 @@
         }
       ],
       "rating": 41
+    },
+    {
+      "showId": "86172",
+      "imdbId": "tt0899229",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-10-08",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c7b12ddd-88d7-41a5-ab26-04a3366eb035",
+      "title": {
+        "de": "Ekkehard",
+        "en": "Ekkehard"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 1989,
+      "genres": [],
+      "rating": 45
     },
     {
       "showId": "26347794",

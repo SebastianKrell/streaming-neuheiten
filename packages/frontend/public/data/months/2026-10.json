@@ -1,6 +1,6 @@
 {
   "month": "2026-10",
-  "generatedAt": "2026-10-08T11:55:40.980Z",
+  "generatedAt": "2026-10-09T11:46:49.589Z",
   "entries": [
     {
       "showId": "18900",
@@ -22709,7 +22709,7 @@
       "provider": "netflix",
       "showType": "movie",
       "addedAt": "2026-10-09",
-      "upcoming": true,
+      "upcoming": false,
       "link": "https://www.netflix.com/title/81757047",
       "title": {
         "de": "Animals",
@@ -22730,7 +22730,7 @@
           "en": "Crime"
         }
       ],
-      "rating": 0
+      "rating": null
     },
     {
       "showId": "7426",
@@ -22738,7 +22738,7 @@
       "provider": "netflix",
       "showType": "movie",
       "addedAt": "2026-10-09",
-      "upcoming": true,
+      "upcoming": false,
       "link": "https://www.netflix.com/title/60004475",
       "title": {
         "de": "Ghosts of Mars",
@@ -22771,8 +22771,8 @@
       "provider": "apple",
       "showType": "movie",
       "addedAt": "2026-10-09",
-      "upcoming": true,
-      "link": "https://tv.apple.com/de/movie/matchbox-der-film/umc.cmc.31qa8j1tn2cnpyk3fx43w928d",
+      "upcoming": false,
+      "link": "https://tv.apple.com/de/movie/matchbox-der-film/umc.cmc.31qa8j1tn2cnpyk3fx43w928d?playableId=tvs.sbd.4000%3AA0187501001",
       "title": {
         "de": "Matchbox: Der Film",
         "en": "Matchbox the Movie"
@@ -22793,6 +22793,31 @@
         }
       ],
       "rating": null
+    },
+    {
+      "showId": "342",
+      "imdbId": "tt1285016",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-10-09",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bca9f7a2-28a5-0078-5aa9-a7e7e3286e37",
+      "title": {
+        "de": "The Social Network",
+        "en": "The Social Network"
+      },
+      "overview": {
+        "de": "David Finchers THE SOCIAL NETWORK ist die unglaubliche Geschichte über einen neuen Typus von Kulturrevolutionär: ein unsympathisches Genie, das eine Revolution entfacht und das Wesen menschlicher Interaktion für eine Generation, wenn nicht für immer, verändert. Mit emotionaler Brutalität und überraschendem Humor gespickt, erzählt dieser meisterhaft gestaltete Film von der Facebook-Gründung und...",
+        "en": "This dramatization depicts how Facebook was created, and how the social media site took off overnight, changing the lives of all involved."
+      },
+      "releaseYear": 2010,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": 77
     },
     {
       "showId": "26635551",
@@ -23290,7 +23315,7 @@
           "en": "Drama"
         }
       ],
-      "rating": null
+      "rating": 62
     },
     {
       "showId": "24669118",

@@ -1,6 +1,6 @@
 {
   "month": "2026-11",
-  "generatedAt": "2026-10-08T11:55:40.980Z",
+  "generatedAt": "2026-10-09T11:46:49.589Z",
   "entries": [
     {
       "showId": "24862332",
@@ -113,6 +113,31 @@
         }
       ],
       "rating": 60
+    },
+    {
+      "showId": "26635759",
+      "imdbId": "tt39453578",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-09",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/81955038",
+      "title": {
+        "de": "Un bon avocat",
+        "en": "The Good Lawyer"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": null
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "month": "2026-10",
-  "generatedAt": "2026-10-09T11:46:49.589Z",
+  "generatedAt": "2026-10-10T11:04:26.902Z",
   "entries": [
     {
       "showId": "18900",
@@ -22849,12 +22849,45 @@
       "rating": null
     },
     {
+      "showId": "24600951",
+      "imdbId": "tt8879928",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-10-10",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.18658342-6f8e-421d-8f6c-0324227d2bf9",
+      "title": {
+        "de": "Cold Storage",
+        "en": "Cold Storage"
+      },
+      "overview": {
+        "de": "Das Ende der Welt wird krank: Im Action-Thriller vom Produzenten von „Zombieland\" geraten Teacake (Joe Keery) und Naomi (Georgina Campbell) in die heftigste Nachtschicht ihres Lebens, als ein tödlicher Pilz-Parasit aus einer alten Militärbasis ausbricht und Lebewesen in zombieähnliche Kreaturen verwandelt. Mit einem Anti-Bioterror-Agent (Liam Neeson) kämpfen sie um ihr Leben - und die Menschheit.",
+        "en": "When a highly contagious, mutating fungus escapes a sealed facility, two young employees, joined by a grizzled bioterror operative, must survive the wildest night shift ever to save humanity from extinction, as the microorganism spreads and destroys everything in its path."
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Horror",
+          "en": "Horror"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        },
+        {
+          "de": "Science-Fiction",
+          "en": "Science Fiction"
+        }
+      ],
+      "rating": 61
+    },
+    {
       "showId": "24862419",
       "imdbId": "tt33086804",
       "provider": "netflix",
       "showType": "series",
       "addedAt": "2026-10-10",
-      "upcoming": true,
+      "upcoming": false,
       "link": "https://www.netflix.com/title/82647303",
       "title": {
         "de": "Rooster Fighter",
@@ -22880,6 +22913,39 @@
         }
       ],
       "rating": 59
+    },
+    {
+      "showId": "14627",
+      "imdbId": "tt0159920",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-10-10",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bedb3b65-6a79-4db3-a5e9-69955e7b251d",
+      "title": {
+        "de": "Total Recall 2070",
+        "en": "Total Recall 2070"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 1999,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        }
+      ],
+      "rating": 66
     },
     {
       "showId": "14625201",
@@ -23426,6 +23492,39 @@
       "rating": 0
     },
     {
+      "showId": "29247",
+      "imdbId": "tt1145144",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-10-21",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/70110902",
+      "title": {
+        "de": "Center Stage 2",
+        "en": "Center Stage: Turn It Up"
+      },
+      "overview": {
+        "de": "A self-trained dancer from the streets of Detroit makes her way into the most prestigious ballet academy in New York.",
+        "en": "A self-trained dancer from the streets of Detroit fights her way into the most prestigious ballet academy in New York with grit and determination."
+      },
+      "releaseYear": 2008,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Musik",
+          "en": "Music"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": 62
+    },
+    {
       "showId": "26635555",
       "imdbId": "tt39387986",
       "provider": "netflix",
@@ -23446,6 +23545,31 @@
         {
           "de": "Komödie",
           "en": "Comedy"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "24602034",
+      "imdbId": "tt39162810",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-10-23",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/82917947",
+      "title": {
+        "de": "Paralyzed by Hope: The Maria Bamford Story",
+        "en": "Paralyzed by Hope: The Maria Bamford Story"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
         }
       ],
       "rating": null

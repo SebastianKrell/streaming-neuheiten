@@ -1,6 +1,6 @@
 {
   "month": "2026-11",
-  "generatedAt": "2026-10-10T11:04:26.902Z",
+  "generatedAt": "2026-10-11T11:21:07.786Z",
   "entries": [
     {
       "showId": "24862332",
@@ -90,6 +90,35 @@
       "rating": null
     },
     {
+      "showId": "26342419",
+      "imdbId": "tt38992068",
+      "provider": "apple",
+      "showType": "series",
+      "addedAt": "2026-11-06",
+      "upcoming": true,
+      "link": "https://tv.apple.com/de/show/awkwafina-kuchen-quereinsteigerin/umc.cmc.1fhnal2vix2077ouh1hjy2eoc",
+      "title": {
+        "de": "Awkwafina: Küchen-Quereinsteigerin",
+        "en": "Awkwafina: The Unlikely Cook"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        },
+        {
+          "de": "Reality",
+          "en": "Reality"
+        }
+      ],
+      "rating": null
+    },
+    {
       "showId": "25949551",
       "imdbId": "tt37803364",
       "provider": "netflix",
@@ -135,6 +164,39 @@
         {
           "de": "Drama",
           "en": "Drama"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "26343460",
+      "imdbId": "tt8014982",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-11-11",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/81983578",
+      "title": {
+        "de": "The Body",
+        "en": "The Body"
+      },
+      "overview": {
+        "de": "",
+        "en": "The image of the human body was that the brain is the command center and the other organs obey the orders from the brain. We now know more."
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Horror",
+          "en": "Horror"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
         }
       ],
       "rating": null

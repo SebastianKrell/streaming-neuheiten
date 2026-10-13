@@ -1,6 +1,6 @@
 {
   "month": "2026-11",
-  "generatedAt": "2026-10-12T12:59:07.755Z",
+  "generatedAt": "2026-10-13T12:35:03.737Z",
   "entries": [
     {
       "showId": "24862332",
@@ -230,6 +230,97 @@
         {
           "de": "Krimi",
           "en": "Crime"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "26596986",
+      "imdbId": "tt32375763",
+      "provider": "apple",
+      "showType": "series",
+      "addedAt": "2026-11-13",
+      "upcoming": true,
+      "link": "https://tv.apple.com/de/show/12-12-12/umc.cmc.2xeasogpeiwbaegczytrdg1uh",
+      "title": {
+        "de": "12 12 12",
+        "en": "12 12 12"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "25667191",
+      "imdbId": "tt15095848",
+      "provider": "apple",
+      "showType": "movie",
+      "addedAt": "2026-11-13",
+      "upcoming": true,
+      "link": "https://tv.apple.com/de/movie/being-heumann/umc.cmc.5gf63v7zj97yiozkpj26lpy55",
+      "title": {
+        "de": "Being Heumann",
+        "en": "Being Heumann"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Geschichte",
+          "en": "History"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "26603358",
+      "imdbId": "tt38213251",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-13",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/81486332",
+      "title": {
+        "de": "Heartland",
+        "en": "Heartland"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
         }
       ],
       "rating": null

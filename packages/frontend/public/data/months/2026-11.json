@@ -1,6 +1,6 @@
 {
   "month": "2026-11",
-  "generatedAt": "2026-10-14T10:02:46.608Z",
+  "generatedAt": "2026-10-15T09:45:13.223Z",
   "entries": [
     {
       "showId": "24862332",
@@ -31,6 +31,31 @@
         {
           "de": "Science-Fiction",
           "en": "Science Fiction"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "26602168",
+      "imdbId": "tt38515310",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-04",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/82090597",
+      "title": {
+        "de": "A Dog’s Perfect Christmas",
+        "en": "A Dog’s Perfect Christmas"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
         }
       ],
       "rating": null

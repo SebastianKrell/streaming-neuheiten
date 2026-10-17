@@ -1,6 +1,6 @@
 {
   "month": "2026-10",
-  "generatedAt": "2026-10-16T09:37:46.617Z",
+  "generatedAt": "2026-10-17T09:09:52.450Z",
   "entries": [
     {
       "showId": "18900",
@@ -41570,6 +41570,97 @@
       "rating": 63
     },
     {
+      "showId": "1428",
+      "imdbId": "tt0463854",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-10-16",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/28-weeks-later-p_67082",
+      "title": {
+        "de": "28 Weeks Later",
+        "en": "28 Weeks Later"
+      },
+      "overview": {
+        "de": "Panik in London: Die Zombieseuche wütet schlimmer als zuvor - und US-Truppen legen die ganze Stadt in Schutt und Asche. Fortsetzung von Danny Boyles Horrorkultfilm \"28 Days Later\".",
+        "en": "Six months after the military declares Britain safe from the mysterious rage virus that ravaged the nation, a terrifying new nightmare soon begins."
+      },
+      "releaseYear": 2007,
+      "genres": [
+        {
+          "de": "Horror",
+          "en": "Horror"
+        },
+        {
+          "de": "Science-Fiction",
+          "en": "Science Fiction"
+        }
+      ],
+      "rating": 67
+    },
+    {
+      "showId": "29282",
+      "imdbId": "tt13070038",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-10-16",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/after-forever-p_68667",
+      "title": {
+        "de": "After Forever",
+        "en": "After Ever Happy"
+      },
+      "overview": {
+        "de": "",
+        "en": "As Hardin confronts his past and Tessa suffers a tragedy, the two must decide whether to continue their passionate, yet toxic, relationship or make dramatic changes in their lives."
+      },
+      "releaseYear": 2022,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": 53
+    },
+    {
+      "showId": "143",
+      "imdbId": "tt0417299",
+      "provider": "rtl",
+      "showType": "series",
+      "addedAt": "2026-10-16",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/avatar-der-herr-der-elemente-p_9225",
+      "title": {
+        "de": "Avatar - Der Herr der Elemente",
+        "en": "Avatar: The Last Airbender"
+      },
+      "overview": {
+        "de": "Katara und Sokka erwecken den jungen Aang aus einem langen Schlaf und erfahren, dass er ein Avatar ist, der die Luft bändigen und die böse Feuernation besiegen kann.",
+        "en": "Katara and Sokka (a brother and sister) discover the Avatar (a 12-year-old Airbender boy named Aang) frozen in an iceberg. Together the three begin their journey to the North Pole to find a master Waterbender so Aang can begin his Avatar training!"
+      },
+      "releaseYear": 2005,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Animation",
+          "en": "Animation"
+        }
+      ],
+      "rating": 82
+    },
+    {
       "showId": "55767",
       "imdbId": "tt2396690",
       "provider": "rtl",
@@ -41721,6 +41812,39 @@
         }
       ],
       "rating": 51
+    },
+    {
+      "showId": "3354",
+      "imdbId": "tt0103855",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-10-16",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/bodyguard-p_69950",
+      "title": {
+        "de": "Bodyguard",
+        "en": "The Bodyguard"
+      },
+      "overview": {
+        "de": "Als ein unheimlicher Psychopath das Leben der Pop-Sängerin Rache l Marron bedroht, wird der beste Bodyguard der Branche verpflich tet: Frank Farmer.",
+        "en": "A Secret Service agent-turned-bodyguard finds danger and romance while protecting an actress."
+      },
+      "releaseYear": 1992,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Musik",
+          "en": "Music"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": 64
     },
     {
       "showId": "24859571",
@@ -42054,6 +42178,64 @@
       "rating": 59
     },
     {
+      "showId": "708",
+      "imdbId": "tt1840309",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-10-16",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/die-bestimmung-divergent-p_69171",
+      "title": {
+        "de": "Die Bestimmung - Divergent",
+        "en": "Divergent"
+      },
+      "overview": {
+        "de": "In einer zukünftigen Welt sind die Bürger der von der Außenwelt abgeschotteten Stadt Chicago in fünf Gruppen unterteilt. Die selbstlosen Altruan regieren, die kämpferischen Ferox stellen die Polizei, die gelehrten Ken sind Wissenschaftler, die freimütigen Candor kümmern sich um die Justiz, und die freundlichen Amite haben die Landwirtschaft übernommen. Im Alter von 16 Jahren muss sich jeder Einwohner für eine Fraktion entscheiden. Beatrice Prior (Shailene Woodley) entdeckt bei einem obligatorischen Test, dass sie sich mehreren Gruppen zugehörig fühlt. Doch solche Menschen gelten als Bedrohung.",
+        "en": "In a world divided by factions based on virtues, Tris learns she's Divergent and won't fit in. When she discovers a plot to destroy Divergents, Tris and the mysterious Four must find out what makes Divergents dangerous before it's too late."
+      },
+      "releaseYear": 2014,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Action",
+          "en": "Action"
+        }
+      ],
+      "rating": 66
+    },
+    {
+      "showId": "15834",
+      "imdbId": "tt1710177",
+      "provider": "rtl",
+      "showType": "series",
+      "addedAt": "2026-10-16",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/die-oktonauten-p_3651",
+      "title": {
+        "de": "Die Oktonauten",
+        "en": "Octonauts"
+      },
+      "overview": {
+        "de": "Spannende Entdeckungsreisen durch die Weltmeere: Die Oktonauten, das sind derEisbärn Käpt´n Barnius, der Piraten-Kater Kwasi und der Sanitäter Peso Pinguin.",
+        "en": "A team of undersea explorers are always ready to dive into action to explore new underwater worlds. They rescue amazing sea creatures, and protect the ocean from their Octopod home base."
+      },
+      "releaseYear": 2010,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Animation",
+          "en": "Animation"
+        }
+      ],
+      "rating": 59
+    },
+    {
       "showId": "160393",
       "imdbId": "tt13818742",
       "provider": "rtl",
@@ -42164,6 +42346,39 @@
         }
       ],
       "rating": 58
+    },
+    {
+      "showId": "10739709",
+      "imdbId": "tt29485149",
+      "provider": "rtl",
+      "showType": "series",
+      "addedAt": "2026-10-16",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/doragon-boru-daima-p_70220",
+      "title": {
+        "de": "Dragon Ball DAIMA",
+        "en": "Dragon Ball DAIMA"
+      },
+      "overview": {
+        "de": "",
+        "en": "Goku and company were living peaceful lives when they suddenly turned small due to a conspiracy! When they discover that the reason for this may lie in a world known as the \"Demon Realm\", a mysterious young Majin named Glorio appears before them."
+      },
+      "releaseYear": 2024,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Animation",
+          "en": "Animation"
+        }
+      ],
+      "rating": 72
     },
     {
       "showId": "39537",
@@ -42348,6 +42563,68 @@
       "rating": 66
     },
     {
+      "showId": "6674",
+      "imdbId": "tt0491152",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-10-16",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/fremd-fischen-p_251107",
+      "title": {
+        "de": "Fremd Fischen",
+        "en": "Something Borrowed"
+      },
+      "overview": {
+        "de": "",
+        "en": "Rachel is a generous and loyal pal to her engaged best friend Darcy. But after celebrating her 30th birthday, perpetual good girl Rachel unexpectedly ends up in the arms of Dex… Darcy’s fiancé."
+      },
+      "releaseYear": 2011,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": 59
+    },
+    {
+      "showId": "90411",
+      "imdbId": "tt14321392",
+      "provider": "rtl",
+      "showType": "series",
+      "addedAt": "2026-10-16",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/gefahrliche-nahe-p_6138",
+      "title": {
+        "de": "Gefährliche Nähe",
+        "en": "Gefährliche Nähe"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2021,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        }
+      ],
+      "rating": 41
+    },
+    {
       "showId": "12378",
       "imdbId": "tt1807859",
       "provider": "rtl",
@@ -42470,6 +42747,72 @@
         }
       ],
       "rating": null
+    },
+    {
+      "showId": "27846",
+      "imdbId": "tt3488462",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-10-16",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/honig-im-kopf-p_253155",
+      "title": {
+        "de": "Honig im Kopf",
+        "en": "Head Full of Honey"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2014,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Familie",
+          "en": "Family"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 67
+    },
+    {
+      "showId": "19391",
+      "imdbId": "tt4858114",
+      "provider": "rtl",
+      "showType": "series",
+      "addedAt": "2026-10-16",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/hotel-transsilvanien-die-serie-p_5495",
+      "title": {
+        "de": "Hotel Transsilvanien: Die Serie",
+        "en": "Hotel Transylvania: The Series"
+      },
+      "overview": {
+        "de": "",
+        "en": "When Dracula is called away on official vampire business, it's a chance for his teenage daughter, Mavis, to show her father what she can do. Assisted by her friends, she puts into action her ideas about how to run Hotel Transylvania."
+      },
+      "releaseYear": 2017,
+      "genres": [
+        {
+          "de": "Animation",
+          "en": "Animation"
+        },
+        {
+          "de": "Familie",
+          "en": "Family"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 56
     },
     {
       "showId": "6533",
@@ -42644,6 +42987,35 @@
         }
       ],
       "rating": 55
+    },
+    {
+      "showId": "128232",
+      "imdbId": "tt13622290",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-10-16",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/love-lizzo-p_1032",
+      "title": {
+        "de": "Love, Lizzo",
+        "en": "Love, Lizzo"
+      },
+      "overview": {
+        "de": "",
+        "en": "A revealing glimpse into the life of multi-platinum Grammy- and Emmy-winning artist Lizzo, filmed during the recording of her latest album, Special."
+      },
+      "releaseYear": 2022,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        },
+        {
+          "de": "Musik",
+          "en": "Music"
+        }
+      ],
+      "rating": 56
     },
     {
       "showId": "232992",
@@ -42828,6 +43200,39 @@
       "rating": 55
     },
     {
+      "showId": "3023",
+      "imdbId": "tt7942796",
+      "provider": "rtl",
+      "showType": "series",
+      "addedAt": "2026-10-16",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/magnum-p-i-p_10906",
+      "title": {
+        "de": "Magnum P.I.",
+        "en": "Magnum P.I."
+      },
+      "overview": {
+        "de": "",
+        "en": "Thomas Magnum is a decorated former Navy SEAL who, upon returning home from Afghanistan, repurposes his military skills to become a private investigator."
+      },
+      "releaseYear": 2018,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        }
+      ],
+      "rating": 66
+    },
+    {
       "showId": "8433",
       "imdbId": "tt1884856",
       "provider": "rtl",
@@ -42886,6 +43291,35 @@
       "rating": 0
     },
     {
+      "showId": "10586",
+      "imdbId": "tt7554866",
+      "provider": "rtl",
+      "showType": "series",
+      "addedAt": "2026-10-16",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/men-in-kilts-die-schotten-kommen-p_7869",
+      "title": {
+        "de": "Men in Kilts: Die Schotten kommen",
+        "en": "Men in Kilts: A Roadtrip with Sam and Graham"
+      },
+      "overview": {
+        "de": "",
+        "en": "Actors Sam Heughan and Graham McTavish explore their homeland of Scotland, delving into its culture and history."
+      },
+      "releaseYear": 2021,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        },
+        {
+          "de": "Reality",
+          "en": "Reality"
+        }
+      ],
+      "rating": 62
+    },
+    {
       "showId": "147444",
       "imdbId": "tt14779306",
       "provider": "rtl",
@@ -42909,6 +43343,39 @@
         }
       ],
       "rating": 54
+    },
+    {
+      "showId": "504",
+      "imdbId": "tt0409591",
+      "provider": "rtl",
+      "showType": "series",
+      "addedAt": "2026-10-16",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/naruto-p_3570",
+      "title": {
+        "de": "Naruto",
+        "en": "Naruto"
+      },
+      "overview": {
+        "de": "Ja, er beherbergt zwar einen monströsen Geist, und klar, er ist wie Ungeziefer, aber Naruto lässt sich von seinen Dämonen nicht vom Ninja-Ruhm abhalten.",
+        "en": "12 years ago, the Nine-Tailed Fox claimed many lives before its spirit was contained with a baby boy who has now grown to become a ninja-in-training."
+      },
+      "releaseYear": 2002,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Animation",
+          "en": "Animation"
+        }
+      ],
+      "rating": 77
     },
     {
       "showId": "44501",
@@ -43081,6 +43548,60 @@
       "rating": 77
     },
     {
+      "showId": "118768",
+      "imdbId": "tt11906032",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-10-16",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/picture-a-scientist-frauen-der-wissenschaft-p_1014",
+      "title": {
+        "de": "Picture a Scientist",
+        "en": "Picture a Scientist"
+      },
+      "overview": {
+        "de": "",
+        "en": "A biologist, a chemist and a geologist lead viewers on a journey deep into their own experiences in the sciences, overcoming brutal harassment, institutional discrimination, and years of subtle slights to revolutionize the culture of science."
+      },
+      "releaseYear": 2020,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        }
+      ],
+      "rating": 54
+    },
+    {
+      "showId": "2083",
+      "imdbId": "tt1077258",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-10-16",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/planet-terror-p_69695",
+      "title": {
+        "de": "Planet Terror",
+        "en": "Planet Terror"
+      },
+      "overview": {
+        "de": "",
+        "en": "A one-legged go-go dancer and her ex-lover join forces with other survivors to battle a horde of flesh-eating zombies invading their Texas town."
+      },
+      "releaseYear": 2007,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Horror",
+          "en": "Horror"
+        }
+      ],
+      "rating": 69
+    },
+    {
       "showId": "2438425",
       "imdbId": "tt26692417",
       "provider": "rtl",
@@ -43145,6 +43666,72 @@
         }
       ],
       "rating": 68
+    },
+    {
+      "showId": "6041",
+      "imdbId": "tt0103524",
+      "provider": "rtl",
+      "showType": "series",
+      "addedAt": "2026-10-16",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/renegade-gnadenlose-jagd-p_8331",
+      "title": {
+        "de": "Renegade - Gnadenlose Jagd",
+        "en": "Renegade"
+      },
+      "overview": {
+        "de": "",
+        "en": "Reno Raines goes from detective to escaped fugitive to bounty hunter after a crooked fellow cop kills his wife and frames him for the murder."
+      },
+      "releaseYear": 1992,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        }
+      ],
+      "rating": 61
+    },
+    {
+      "showId": "19266",
+      "imdbId": "tt10163204",
+      "provider": "rtl",
+      "showType": "series",
+      "addedAt": "2026-10-16",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/reyka-mord-in-afrika-p_8527",
+      "title": {
+        "de": "Reyka - Mord in Afrika",
+        "en": "Reyka"
+      },
+      "overview": {
+        "de": "",
+        "en": "Haunted by the past, a flawed but brilliant criminal profiler called Reyka investigates a string of brutal murders committed by a serial killer amongst the sugarcane fields of KwaZulu-Natal."
+      },
+      "releaseYear": 2021,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 59
     },
     {
       "showId": "11916",
@@ -43272,7 +43859,7 @@
       "provider": "netflix",
       "showType": "movie",
       "addedAt": "2026-10-16",
-      "upcoming": true,
+      "upcoming": false,
       "link": "https://www.netflix.com/title/81645163",
       "title": {
         "de": "Seriously Single Too",
@@ -43290,6 +43877,64 @@
         }
       ],
       "rating": null
+    },
+    {
+      "showId": "26120478",
+      "imdbId": "tt42003824",
+      "provider": "rtl",
+      "showType": "series",
+      "addedAt": "2026-10-16",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/shit-show-welcome-to-reality-p_70371",
+      "title": {
+        "de": "Shit Show - Welcome to Reality",
+        "en": "Shit Show - Welcome to Reality"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "2246",
+      "imdbId": "tt0117705",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-10-16",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/space-jam-p_161191",
+      "title": {
+        "de": "Space Jam",
+        "en": "Space Jam"
+      },
+      "overview": {
+        "de": "Ein Blick in eine etwas andere Zukunft, mit mehr Spaß und Lachern als je zuvor! Zwei weltbekannte Legenden treffen in einem brandneuen Universum aufeinander! Wenn Basketball-Megastar Michael Jordan und der animierte Kulthase Bugs Bunny sich zusammentun, heißt es Space Jam: Charles Barkley, Patrick Ewing, Daffy Duck, Schweinchen Dick und viele mehr stehen auf dem Platz! Die NBA trifft auf Warner...",
+        "en": "NBA star Michael Jordan helps the good Looney Tuners take on the bad Monstars in a basketball game."
+      },
+      "releaseYear": 1996,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Animation",
+          "en": "Animation"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 65
     },
     {
       "showId": "5723",
@@ -43441,6 +44086,31 @@
       "rating": null
     },
     {
+      "showId": "25668243",
+      "imdbId": "tt39394126",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-10-16",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/the-game-die-nfl-erobert-deutschland-p_69834",
+      "title": {
+        "de": "The Game - Die NFL erobert Deutschland",
+        "en": "The Game - The NFL Takes Over Germany"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        }
+      ],
+      "rating": null
+    },
+    {
       "showId": "555",
       "imdbId": "tt6470478",
       "provider": "rtl",
@@ -43549,6 +44219,39 @@
       "rating": 50
     },
     {
+      "showId": "48146",
+      "imdbId": "tt3072988",
+      "provider": "rtl",
+      "showType": "series",
+      "addedAt": "2026-10-16",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/wickie-und-die-starken-manner-p_5062",
+      "title": {
+        "de": "Wickie und die starken Männer",
+        "en": "Vic the Viking"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2013,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Animation",
+          "en": "Animation"
+        }
+      ],
+      "rating": 56
+    },
+    {
       "showId": "118259",
       "imdbId": "tt6361854",
       "provider": "rtl",
@@ -43630,6 +44333,706 @@
         }
       ],
       "rating": 51
+    },
+    {
+      "showId": "27067912",
+      "imdbId": "tt39328047",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-10-16",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/82682379",
+      "title": {
+        "de": "닥터X: 하얀 마피아의 시대",
+        "en": "Doctor X: Mafia in White"
+      },
+      "overview": {
+        "de": "",
+        "en": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition."
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 63
+    },
+    {
+      "showId": "257",
+      "imdbId": "tt0416449",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-10-17",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/300-p_245026",
+      "title": {
+        "de": "300",
+        "en": "300"
+      },
+      "overview": {
+        "de": "Harte Kerle in wuchtigen Schlachten: Gerard Butler und Michael Fassbender in einem antiken Himmelfahrtskommando voller gewaltiger Kampfszenen. Nach dem Comic von Frank Miller.",
+        "en": "Stylish historical epic retelling the fierce battle at Thermopylae in 481 BC. The Spartan king, Leonidas, and his tiny army of 300 followers provided inspiration for the whole of Greece as they fought the massed ranks of the Persian army whose commander, King Xerxes, had up to a million warriors at his disposal."
+      },
+      "releaseYear": 2007,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        }
+      ],
+      "rating": 75
+    },
+    {
+      "showId": "17795986",
+      "imdbId": "tt30144146",
+      "provider": "rtl",
+      "showType": "series",
+      "addedAt": "2026-10-17",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/angemessen-angry-p_10959",
+      "title": {
+        "de": "Angemessen Angry",
+        "en": "Angemessen Angry"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2024,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 49
+    },
+    {
+      "showId": "85721",
+      "imdbId": "tt1059885",
+      "provider": "rtl",
+      "showType": "series",
+      "addedAt": "2026-10-17",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/arger-im-revier-p_7378",
+      "title": {
+        "de": "Ärger im Revier",
+        "en": "Ärger im Revier"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2003,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        },
+        {
+          "de": "Reality",
+          "en": "Reality"
+        }
+      ],
+      "rating": 46
+    },
+    {
+      "showId": "105594",
+      "imdbId": "tt4997398",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-10-17",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/bibi-tina-madchen-gegen-jungs-p_838",
+      "title": {
+        "de": "Bibi & Tina - Mädchen gegen Jungs",
+        "en": "Bibi & Tina: Girls vs. Boys"
+      },
+      "overview": {
+        "de": "",
+        "en": "It’s summertime and Bibi and Tina are looking forward to camping out in the tents at Falkenstein. A bunch of students from an international partner school will be joining in on the fun. The highlight will be a geocaching challenge – a 21st century treasure hunt – and this time, it’s boys vs. girls. But ambitious young Urs will use every dirty trick in the book to win."
+      },
+      "releaseYear": 2016,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Familie",
+          "en": "Family"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 56
+    },
+    {
+      "showId": "18874689",
+      "imdbId": "tt34336311",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-10-17",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/code-der-hieroglyphen-p_759",
+      "title": {
+        "de": "Code der Hieroglyphen",
+        "en": "The Latest Secrets of Hieroglyphs"
+      },
+      "overview": {
+        "de": "",
+        "en": "In 1822, Jean-François Champollion became the first person to decipher hieroglyphs in over a thousand years. Now, a new generation of Egyptologists is learning more about the people who wrote them."
+      },
+      "releaseYear": 2022,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "312181",
+      "imdbId": "tt0183967",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-10-17",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/das-verflixte-babyjahr-nie-wieder-sex-p_256411",
+      "title": {
+        "de": "Das verflixte Babyjahr - Nie wieder Sex?!",
+        "en": "Das verflixte Babyjahr - Nie wieder Sex?!"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 1999,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 38
+    },
+    {
+      "showId": "90",
+      "imdbId": "tt0167261",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-10-17",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/der-herr-der-ringe-die-zwei-turme-p_269004",
+      "title": {
+        "de": "Der Herr der Ringe - Die zwei Türme",
+        "en": "The Lord of the Rings: The Two Towers"
+      },
+      "overview": {
+        "de": "Gollum verfolgt Frodo und Sam, als sie sich aufmachen, den Einen Ring zu zerstören, während ihre Gefährten zusammen mit Gandalf ein böses Heer bekämpfen.",
+        "en": "Set in a time of uncertainty in the land of Middle-earth, a tale which charts a heroic quest which centers around an intrepid hobbit."
+      },
+      "releaseYear": 2002,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Fantasy",
+          "en": "Fantasy"
+        }
+      ],
+      "rating": 87
+    },
+    {
+      "showId": "26622",
+      "imdbId": "tt1481601",
+      "provider": "rtl",
+      "showType": "series",
+      "addedAt": "2026-10-17",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/der-lehrer-p_2631",
+      "title": {
+        "de": "Der Lehrer",
+        "en": "Der Lehrer"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2009,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 52
+    },
+    {
+      "showId": "417",
+      "imdbId": "tt0421715",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-10-17",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/der-seltsame-fall-des-benjamin-button-p_70280",
+      "title": {
+        "de": "Der seltsame Fall des Benjamin Button",
+        "en": "The Curious Case of Benjamin Button"
+      },
+      "overview": {
+        "de": "Ein Mann, der als Greis geboren wird und immer jünger wird, durchlebt in New Orleans eine außergewöhnliche Lebensgeschichte. Er erfährt Liebe, Verlust, Freude und Trauer und lernt die Bedeutung zeitloser Werte kennen.",
+        "en": "Benjamin Button is born an old man in 1918 New Orleans and ages in reverse and, in so doing, becomes intimately familiar with the natures of love and death."
+      },
+      "releaseYear": 2008,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Fantasy",
+          "en": "Fantasy"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": 77
+    },
+    {
+      "showId": "3218508",
+      "imdbId": "tt23708714",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-10-17",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/die-shackleton-expedition-kampf-ums-uberleben-p_695",
+      "title": {
+        "de": "Die Shackleton-Expedition - Kampf ums Überleben",
+        "en": "Shackleton: The Greatest Story of Survival"
+      },
+      "overview": {
+        "de": "",
+        "en": "'Shackleton - The Greatest Story of Survival’ reveals the true story of polar explorer Sir Ernest Shackleton and the crew of the Endurance, told by the only man ever to have repeated their incredible feat."
+      },
+      "releaseYear": 2023,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        },
+        {
+          "de": "Geschichte",
+          "en": "History"
+        }
+      ],
+      "rating": 53
+    },
+    {
+      "showId": "271480",
+      "imdbId": "tt0262056",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-10-17",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/die-traumprinzen-p_552",
+      "title": {
+        "de": "Die Traumprinzen",
+        "en": "Die Traumprinzen"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2000,
+      "genres": [
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 38
+    },
+    {
+      "showId": "292926",
+      "imdbId": "tt0241554",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-10-17",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/hollische-nachbarn-chaos-im-hotel-p_268932",
+      "title": {
+        "de": "Höllische Nachbarn - Nur Frauen sind schlimmer",
+        "en": "Höllische Nachbarn - Nur Frauen sind schlimmer"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2000,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 39
+    },
+    {
+      "showId": "520",
+      "imdbId": "tt2098220",
+      "provider": "rtl",
+      "showType": "series",
+      "addedAt": "2026-10-17",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/hunter-x-hunter-p_69718",
+      "title": {
+        "de": "Hunter x Hunter",
+        "en": "Hunter x Hunter"
+      },
+      "overview": {
+        "de": "Die Hunter-Prüfung ist bekannt für ihre geringe Aussicht auf Erfolg und die hohe Sterberate unter den Teilnehmern. Dennoch will der junge Gon Freecss unbedingt daran teilnehmen. Er möchte der stärkste Hunter werden und so auch seinen Vater finden. Unterwegs zur Prüfung freundet er sich mit Leorio, Kurapika und Killua an. Bald lernen sie, was es wirklich bedeutet, ein Hunter zu sein...",
+        "en": "A young boy, who dreams of being a hunter like his father, must pass the notoriously difficult and dangerous Hunter Qualification Exam."
+      },
+      "releaseYear": 2011,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Animation",
+          "en": "Animation"
+        }
+      ],
+      "rating": 79
+    },
+    {
+      "showId": "26949",
+      "imdbId": "tt0222024",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-10-17",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/ich-gehore-dir-meine-liebe-p_1736",
+      "title": {
+        "de": "Ich gehöre dir, meine Liebe",
+        "en": "Hum Tumhare Hain Sanam"
+      },
+      "overview": {
+        "de": "",
+        "en": "Gopal and Radha's marriage is on the rocks due to Gopal's suspicion that his wife is having an affair with her childhood friend."
+      },
+      "releaseYear": 2002,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": 54
+    },
+    {
+      "showId": "62311",
+      "imdbId": "tt6812106",
+      "provider": "rtl",
+      "showType": "series",
+      "addedAt": "2026-10-17",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/jenny-echt-gerecht-p_10880",
+      "title": {
+        "de": "Jenny: Echt gerecht",
+        "en": "Jenny: Echt gerecht"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2018,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": 45
+    },
+    {
+      "showId": "101889",
+      "imdbId": "tt22307560",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-10-17",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/long-lost-christmas-wiedersehen-zu-weihnachte-p_724",
+      "title": {
+        "de": "Long Lost Christmas - Wiedersehen zu Weihnachten",
+        "en": "Long Lost Christmas"
+      },
+      "overview": {
+        "de": "",
+        "en": "Interior designer Hayley plans to surprise her recently widowed mother Patricia with the perfect holiday present: the extended family she knows her mom yearns for. [W Network]"
+      },
+      "releaseYear": 2022,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Familie",
+          "en": "Family"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": 59
+    },
+    {
+      "showId": "22130",
+      "imdbId": "tt7476236",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-10-17",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/minding-the-gap-p_1888",
+      "title": {
+        "de": "Minding the Gap",
+        "en": "Minding the Gap"
+      },
+      "overview": {
+        "de": "",
+        "en": "Filmmaker Bing Liu searches for correlations between his skateboarder friends' turbulent upbringings and the complexities of modern-day masculinity."
+      },
+      "releaseYear": 2018,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        }
+      ],
+      "rating": 67
+    },
+    {
+      "showId": "80942",
+      "imdbId": "tt4722796",
+      "provider": "rtl",
+      "showType": "series",
+      "addedAt": "2026-10-17",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/pokemon-reisen-die-serie-23-p_10870",
+      "title": {
+        "de": "Nichtlustig - die Serie!",
+        "en": "Nichtlustig - die Serie!"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2015,
+      "genres": [
+        {
+          "de": "Animation",
+          "en": "Animation"
+        }
+      ],
+      "rating": 40
+    },
+    {
+      "showId": "1982",
+      "imdbId": "tt5164214",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-10-17",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/oceans-8-p_68893",
+      "title": {
+        "de": "Ocean's 8",
+        "en": "Ocean's Eight"
+      },
+      "overview": {
+        "de": "Diesmal sind die Ladys dran: In der stylischen Crime-Komödie wollen Sandra Bullock, Cate Blanchett und Co bei einer Glamour-Gala ein millionenschweres Collier von Anne Hathaways Hals stehlen.",
+        "en": "Eight female thieves try to pull off the heist of the century at New York's annual Met Gala."
+      },
+      "releaseYear": 2018,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 64
+    },
+    {
+      "showId": "64394",
+      "imdbId": "tt1739212",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-10-17",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/pokemon-14-weiss-victini-und-zekrom-p_1054",
+      "title": {
+        "de": "Pokémon 14: Weiß - Victini und Zekrom",
+        "en": "Pokémon the Movie: White - Victini and Zekrom"
+      },
+      "overview": {
+        "de": "",
+        "en": "The greatest adventure in Pokémon history approaches!"
+      },
+      "releaseYear": 2011,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Animation",
+          "en": "Animation"
+        }
+      ],
+      "rating": 59
+    },
+    {
+      "showId": "31107",
+      "imdbId": "tt11547516",
+      "provider": "rtl",
+      "showType": "series",
+      "addedAt": "2026-10-17",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/pokemon-die-tv-serie-sonne-mond-ultra-legende-p_8425",
+      "title": {
+        "de": "Pokémon: Zwielichtschwingen",
+        "en": "Pokémon: Twilight Wings"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2020,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Animation",
+          "en": "Animation"
+        }
+      ],
+      "rating": 53
+    },
+    {
+      "showId": "1286",
+      "imdbId": "tt0293662",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-10-17",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/the-transporter-p_251109",
+      "title": {
+        "de": "The Transporter",
+        "en": "The Transporter"
+      },
+      "overview": {
+        "de": "Highspeed-Hit von Frankreichs Top-Produzent Luc Besson: Als Kurier im Temporausch liefert Jason Statham brisante Päckchen aus - und hat mit einer hübschen Unbekannten bald jede Menge Ärger im Gepäck. - Ex-Militär Frank Martin (Jason Statham) lebt zurückgezogen an der französischen Mittelmeerküste und transportiert als Kurierfahrer Päckchen für zwielichtige Kunden. Weil er keine unnötigen Fragen stellt, läuft das bestens. Bis er eines Tages ein Paket öffnet, darin die schöne Asiatin Lai entdeckt und plötzlich im Schlamassel steckt.",
+        "en": "Frank Martin is the best as what he does: transporting dangerous or illegal goods with no questions asked. But his last shipment, a young woman kidnapped by international slave traders, brings deadly complications to his delivery plans. Now Frank must kick into overdrive in a nonstop action-packed fight to save his precious cargo - and his life."
+      },
+      "releaseYear": 2002,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 67
+    },
+    {
+      "showId": "94047",
+      "imdbId": "tt19733952",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-10-17",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/zwei-tickets-ins-paradies-p_678",
+      "title": {
+        "de": "Zwei Tickets ins Paradies",
+        "en": "Two Tickets to Paradise"
+      },
+      "overview": {
+        "de": "",
+        "en": "When two weddings are ruined by both the bride and groom getting left at the altar, they still decide to take their honeymoons, not knowing they are heading to the same resort in Hawaii. Stars Ashley Williams, Ryan Paevey."
+      },
+      "releaseYear": 2022,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": 61
     },
     {
       "showId": "24669118",
@@ -43955,6 +45358,31 @@
         {
           "de": "Komödie",
           "en": "Comedy"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "26635593",
+      "imdbId": "tt42007258",
+      "provider": "disney",
+      "showType": "series",
+      "addedAt": "2026-10-26",
+      "upcoming": true,
+      "link": "https://www.disneyplus.com/browse/entity-3b7189da-ae3a-4aad-a036-a99a62d8001c",
+      "title": {
+        "de": "The Mob",
+        "en": "The Mob"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Reality",
+          "en": "Reality"
         }
       ],
       "rating": null

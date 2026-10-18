@@ -1,6 +1,6 @@
 {
   "month": "2026-11",
-  "generatedAt": "2026-10-17T09:09:52.450Z",
+  "generatedAt": "2026-10-18T09:26:32.444Z",
   "entries": [
     {
       "showId": "24862332",
@@ -346,6 +346,60 @@
         {
           "de": "Thriller",
           "en": "Thriller"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "26597286",
+      "imdbId": "tt6611324",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-18",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/81749470",
+      "title": {
+        "de": "Guarding Stars",
+        "en": "Guarding Stars"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "24669036",
+      "imdbId": "tt24818230",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-18",
+      "upcoming": true,
+      "link": null,
+      "title": {
+        "de": "Madden",
+        "en": "Madden"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
         }
       ],
       "rating": null

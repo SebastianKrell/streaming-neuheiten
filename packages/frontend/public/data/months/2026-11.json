@@ -1,6 +1,6 @@
 {
   "month": "2026-11",
-  "generatedAt": "2026-10-18T09:26:32.444Z",
+  "generatedAt": "2026-10-19T10:39:45.969Z",
   "entries": [
     {
       "showId": "24862332",
@@ -71,6 +71,31 @@
       "title": {
         "de": "The Greatest",
         "en": "The Greatest"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "27301858",
+      "imdbId": "tt38681812",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-11-04",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/81707669",
+      "title": {
+        "de": "Znieczulenie",
+        "en": "Anaesthesia"
       },
       "overview": {
         "de": "",
@@ -222,6 +247,35 @@
         {
           "de": "Thriller",
           "en": "Thriller"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "27303388",
+      "imdbId": "tt37675123",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-12",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/81382720",
+      "title": {
+        "de": "Allen",
+        "en": "Allen"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Familie",
+          "en": "Family"
         }
       ],
       "rating": null
@@ -400,6 +454,35 @@
         {
           "de": "Drama",
           "en": "Drama"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "26342533",
+      "imdbId": "tt36786185",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-11-19",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/81681910",
+      "title": {
+        "de": "The Altruists",
+        "en": "The Altruists"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
         }
       ],
       "rating": null

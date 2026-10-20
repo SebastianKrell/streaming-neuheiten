@@ -1,6 +1,6 @@
 {
   "month": "2026-11",
-  "generatedAt": "2026-10-19T10:39:45.969Z",
+  "generatedAt": "2026-10-20T09:56:20.658Z",
   "entries": [
     {
       "showId": "24862332",
@@ -483,6 +483,93 @@
         {
           "de": "Krimi",
           "en": "Crime"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "25370470",
+      "imdbId": "tt14413964",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-20",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/81212809",
+      "title": {
+        "de": "Steps - Die Stiefschwestern",
+        "en": "Steps"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Animation",
+          "en": "Animation"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "26342721",
+      "imdbId": "tt33402927",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-20",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/81724626",
+      "title": {
+        "de": "Vicentina Pede Desculpas",
+        "en": "On Behalf of My Son"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "26596910",
+      "imdbId": "tt38336631",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-11-20",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/81941626",
+      "title": {
+        "de": "푸른길",
+        "en": "The Blue Road"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        },
+        {
+          "de": "Mystery",
+          "en": "Mystery"
         }
       ],
       "rating": null

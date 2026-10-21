@@ -1,6 +1,6 @@
 {
   "month": "2026-10",
-  "generatedAt": "2026-10-20T09:56:20.658Z",
+  "generatedAt": "2026-10-21T09:59:46.991Z",
   "entries": [
     {
       "showId": "18900",
@@ -58464,6 +58464,35 @@
       "rating": null
     },
     {
+      "showId": "6416386",
+      "imdbId": "tt17524192",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-10-20",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3b073ac0-955b-4528-8c54-104c8d8577b9",
+      "title": {
+        "de": "Undercover: Caught on Tape",
+        "en": "Undercover: Caught on Tape"
+      },
+      "overview": {
+        "de": "",
+        "en": "\"Undercover: Caught on Tape\" is a true crime series offering viewers a first-hand account of dangerous criminal investigations from those closest to the action - the undercover agents themselves. Living in secrecy and often unrecognized beyond their tightest circles, these agents rarely get to tell their stories, until now."
+      },
+      "releaseYear": 2024,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        }
+      ],
+      "rating": 47
+    },
+    {
       "showId": "92659",
       "imdbId": "tt4893452",
       "provider": "rtl",
@@ -58519,14 +58548,14 @@
       "provider": "netflix",
       "showType": "movie",
       "addedAt": "2026-10-21",
-      "upcoming": true,
+      "upcoming": false,
       "link": "https://www.netflix.com/title/70110902",
       "title": {
         "de": "Center Stage 2",
         "en": "Center Stage: Turn It Up"
       },
       "overview": {
-        "de": "A self-trained dancer from the streets of Detroit makes her way into the most prestigious ballet academy in New York.",
+        "de": "Das Center Stage-Phänomen kehrt in dem dynamischen High-Energy-Sequel Center Stage 2 mit neuen Leidenschaften und neuen Tanzpartnern zurück. Kate Parker hat schon immer davon geträumt, mit der American Ballet Academy auf der Bühne zu tanzen. Als sie nicht aufgenommen wird, muss sie lernen, dass man mehr als nur Talent braucht, um in der Welt des Tanzes Erfolg zu haben. Kann es ihr nach einem..",
         "en": "A self-trained dancer from the streets of Detroit fights her way into the most prestigious ballet academy in New York with grit and determination."
       },
       "releaseYear": 2008,
@@ -58552,10 +58581,10 @@
       "provider": "netflix",
       "showType": "series",
       "addedAt": "2026-10-21",
-      "upcoming": true,
+      "upcoming": false,
       "link": "https://www.netflix.com/title/81930789",
       "title": {
-        "de": "The New Stanford Prison Experiment",
+        "de": "Das neue Stanford-Prison-Experiment",
         "en": "The New Stanford Prison Experiment"
       },
       "overview": {
@@ -58570,6 +58599,130 @@
         }
       ],
       "rating": null
+    },
+    {
+      "showId": "25875498",
+      "imdbId": "tt37717970",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-10-21",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/die-nacht-von-paris-terror-am-stade-de-france-p_275668",
+      "title": {
+        "de": "Die Nacht von Paris - Terror am Stade de France",
+        "en": "The Night of Paris – Terror at the Stade de France"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "5186",
+      "imdbId": "tt10665338",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-10-21",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/81198998",
+      "title": {
+        "de": "Halloween Kills",
+        "en": "Halloween Kills"
+      },
+      "overview": {
+        "de": "Killer Michael Myers hat berlebt! Im Sequel des \"Halloween\"-Reboots bekommt er es nicht nur mit seiner Schwester (Jamie Lee Curtis) zu tun. Auch eine Bürgerwehr will das Monster töten.",
+        "en": "Survivors of Michael Myer's first rampage decide to take matters into their own hands, forming a vigilante mob that sets out to hunt Michael down, once and for all."
+      },
+      "releaseYear": 2021,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Horror",
+          "en": "Horror"
+        }
+      ],
+      "rating": 57
+    },
+    {
+      "showId": "16798",
+      "imdbId": "tt4999820",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-10-21",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3e064d5a-7903-4d60-a970-bab7e3967918",
+      "title": {
+        "de": "Hinter den Mauern",
+        "en": "Beyond the Walls"
+      },
+      "overview": {
+        "de": "",
+        "en": "On the first night in her new house, Lisa enters a terrifying parallel dimension with no way out."
+      },
+      "releaseYear": 2016,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Horror",
+          "en": "Horror"
+        },
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        }
+      ],
+      "rating": 57
+    },
+    {
+      "showId": "10246146",
+      "imdbId": "tt27419466",
+      "provider": "disney",
+      "showType": "movie",
+      "addedAt": "2026-10-21",
+      "upcoming": false,
+      "link": "https://www.disneyplus.com/browse/entity-46bee9e1-869a-4a04-a145-de2c28552866",
+      "title": {
+        "de": "Vaiana",
+        "en": "Moana"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 40
     },
     {
       "showId": "27066604",

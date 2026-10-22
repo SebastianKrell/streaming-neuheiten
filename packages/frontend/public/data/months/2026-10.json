@@ -1,6 +1,6 @@
 {
   "month": "2026-10",
-  "generatedAt": "2026-10-21T09:59:46.991Z",
+  "generatedAt": "2026-10-22T09:59:57.759Z",
   "entries": [
     {
       "showId": "18900",
@@ -58723,6 +58723,93 @@
         }
       ],
       "rating": 40
+    },
+    {
+      "showId": "59576",
+      "imdbId": "tt0169422",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-10-22",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.fee4f0eb-c96f-44fd-a035-a94bb0d56afc",
+      "title": {
+        "de": "Der Chevalier von Maison Rouge",
+        "en": "Le Chevalier de Maison Rouge"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 1963,
+      "genres": [
+        {
+          "de": "Geschichte",
+          "en": "History"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": 52
+    },
+    {
+      "showId": "91675",
+      "imdbId": "tt0174414",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-10-22",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0532c2ac-7b11-4234-a74e-d577f593f429",
+      "title": {
+        "de": "Peter Voss, der Millionendieb",
+        "en": "Peter Voss, der Millionendieb"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 1977,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        }
+      ],
+      "rating": 44
+    },
+    {
+      "showId": "48001",
+      "imdbId": "tt7338690",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-10-22",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/scorpion-king-5-buch-der-seelen-p_269009",
+      "title": {
+        "de": "Scorpion King - Das Buch der Seelen",
+        "en": "Scorpion King: Book of Souls"
+      },
+      "overview": {
+        "de": "",
+        "en": "When an evil warlord (Peter Mensah) discovers a sword that can steal souls, the Scorpion King (Zach McGowan) must find the one thing that can defeat him: the Book of Souls."
+      },
+      "releaseYear": 2018,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Fantasy",
+          "en": "Fantasy"
+        }
+      ],
+      "rating": 49
     },
     {
       "showId": "27066604",

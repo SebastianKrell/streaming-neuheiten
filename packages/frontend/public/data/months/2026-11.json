@@ -1,7 +1,40 @@
 {
   "month": "2026-11",
-  "generatedAt": "2026-10-21T09:59:46.991Z",
+  "generatedAt": "2026-10-22T09:59:57.759Z",
   "entries": [
+    {
+      "showId": "23354085",
+      "imdbId": "tt32582999",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-11-01",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/82662122",
+      "title": {
+        "de": "Der Held ohne Klasse: Der Aufstieg eines Talentlosen",
+        "en": "Hero Without a Class: Who Even Needs Skills?!"
+      },
+      "overview": {
+        "de": "Im Alter von zehn Jahren wird jedem Kind eine Klasse zugewiesen, die seine Fähigkeiten und seine Zukunft bestimmt. Arel passt sonderbarerweise in...",
+        "en": "In a world where one's class determines everything, Arel, the son of a Sword Princess and an Archmage, discovers he's classless. Now, he's determined to prove that hard work and dedication are enough to succeed, and to excel as an adventurer!"
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Animation",
+          "en": "Animation"
+        }
+      ],
+      "rating": 59
+    },
     {
       "showId": "24862332",
       "imdbId": "tt39957390",
@@ -34,6 +67,60 @@
         }
       ],
       "rating": null
+    },
+    {
+      "showId": "14625266",
+      "imdbId": "tt31193180",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-03",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/81957166",
+      "title": {
+        "de": "Blood & Sinners",
+        "en": "Sinners"
+      },
+      "overview": {
+        "de": "Zwei Zwillingsbrüder (beide gespielt von Michael B. Jordan) kehren in ihre Heimatstadt zurück, um neu anzufangen. Doch dort müssen sie feststellen, dass das Böse geradezu auf sie gewartet hat. „Tanze weiter mit dem Teufel und eines Tages folgt er dir nach Hause.“",
+        "en": "Trying to leave their troubled lives behind, twin brothers return to their Mississippi hometown to start again, only to discover that an even greater evil is waiting to welcome them back."
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Horror",
+          "en": "Horror"
+        }
+      ],
+      "rating": 75
+    },
+    {
+      "showId": "9653",
+      "imdbId": "tt17543592",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-11-03",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/81674514",
+      "title": {
+        "de": "Will Trent",
+        "en": "Will Trent"
+      },
+      "overview": {
+        "de": "",
+        "en": "Special Agent Will Trent has the highest clearance rate in the Georgia Bureau."
+      },
+      "releaseYear": 2023,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        }
+      ],
+      "rating": 73
     },
     {
       "showId": "26602168",
@@ -281,6 +368,35 @@
       "rating": null
     },
     {
+      "showId": "27308494",
+      "imdbId": "tt39313557",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-12",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/81625025",
+      "title": {
+        "de": "Bara till jul",
+        "en": "The Christmas Switch"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": null
+    },
+    {
       "showId": "27069548",
       "imdbId": "tt39370926",
       "provider": "netflix",
@@ -309,6 +425,31 @@
         {
           "de": "Krimi",
           "en": "Crime"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "27068123",
+      "imdbId": "tt42006761",
+      "provider": "disney",
+      "showType": "series",
+      "addedAt": "2026-11-12",
+      "upcoming": true,
+      "link": "https://www.disneyplus.com/browse/entity-044bf30e-6781-46fd-a3e4-d787b7ef8c78",
+      "title": {
+        "de": "The Secret Lives of Mormon Wives: Orange County",
+        "en": "The Secret Lives of Mormon Wives: Orange County"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Reality",
+          "en": "Reality"
         }
       ],
       "rating": null

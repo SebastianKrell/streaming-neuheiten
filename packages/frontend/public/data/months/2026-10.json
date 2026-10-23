@@ -1,6 +1,6 @@
 {
   "month": "2026-10",
-  "generatedAt": "2026-10-22T09:59:57.759Z",
+  "generatedAt": "2026-10-23T09:54:54.175Z",
   "entries": [
     {
       "showId": "18900",
@@ -58812,12 +58812,66 @@
       "rating": 49
     },
     {
+      "showId": "112429",
+      "imdbId": "tt6875374",
+      "provider": "disney",
+      "showType": "movie",
+      "addedAt": "2026-10-23",
+      "upcoming": false,
+      "link": "https://www.disneyplus.com/browse/entity-cf4521ac-d519-4c50-8950-a5a08ff5d771",
+      "title": {
+        "de": "Abenteuer eines Mathematikers",
+        "en": "Adventures of a Mathematician"
+      },
+      "overview": {
+        "de": "",
+        "en": "After losing his fellowship at Harvard, a 1930’s Polish mathematician is recruited to New Mexico for a top-secret mission to develop the nuclear bomb."
+      },
+      "releaseYear": 2021,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": 58
+    },
+    {
+      "showId": "83800",
+      "imdbId": "tt10949028",
+      "provider": "disney",
+      "showType": "movie",
+      "addedAt": "2026-10-23",
+      "upcoming": false,
+      "link": "https://www.disneyplus.com/browse/entity-2069ccb9-b54d-4680-a05d-bb75cd197506",
+      "title": {
+        "de": "As They Made Us",
+        "en": "As They Made Us"
+      },
+      "overview": {
+        "de": "",
+        "en": "A newly divorced mother of two energetic boys struggles to make peace with her dysfunctional family as she looks for a second chance at love."
+      },
+      "releaseYear": 2022,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 56
+    },
+    {
       "showId": "27066604",
       "imdbId": "tt37961714",
       "provider": "netflix",
       "showType": "movie",
       "addedAt": "2026-10-23",
-      "upcoming": true,
+      "upcoming": false,
       "link": "https://www.netflix.com/title/81913551",
       "title": {
         "de": "Contra El Huracán",
@@ -58841,12 +58895,62 @@
       "rating": null
     },
     {
+      "showId": "205374",
+      "imdbId": "tt8399658",
+      "provider": "disney",
+      "showType": "movie",
+      "addedAt": "2026-10-23",
+      "upcoming": false,
+      "link": "https://www.disneyplus.com/browse/entity-54579686-2a16-40c1-858b-1732a765e070",
+      "title": {
+        "de": "Dalíland",
+        "en": "Dalíland"
+      },
+      "overview": {
+        "de": "",
+        "en": "In 1973, a young gallery assistant is drawn into the wild, never-ending party that is artist Salvador Dalí's life in New York City. As he helps the aging genius prepare for an important show, he discovers not everything is as it seems."
+      },
+      "releaseYear": 2022,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": 59
+    },
+    {
+      "showId": "54303",
+      "imdbId": "tt2844130",
+      "provider": "disney",
+      "showType": "series",
+      "addedAt": "2026-10-23",
+      "upcoming": false,
+      "link": "https://www.disneyplus.com/browse/entity-c30a7561-f21e-4961-aea5-19810ce9d1eb",
+      "title": {
+        "de": "Die Kirche bleibt im Dorf",
+        "en": "Die Kirche bleibt im Dorf"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2013,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 45
+    },
+    {
       "showId": "26635555",
       "imdbId": "tt39387986",
       "provider": "netflix",
       "showType": "series",
       "addedAt": "2026-10-23",
-      "upcoming": true,
+      "upcoming": false,
       "link": "https://www.netflix.com/title/81702550",
       "title": {
         "de": "Grande de España",
@@ -58858,6 +58962,10 @@
       },
       "releaseYear": 2026,
       "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
         {
           "de": "Komödie",
           "en": "Comedy"
@@ -58921,7 +59029,7 @@
       "provider": "netflix",
       "showType": "movie",
       "addedAt": "2026-10-23",
-      "upcoming": true,
+      "upcoming": false,
       "link": "https://www.netflix.com/title/81987289",
       "title": {
         "de": "ग़ज़ब रात",

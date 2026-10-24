@@ -1,6 +1,6 @@
 {
   "month": "2026-10",
-  "generatedAt": "2026-10-23T09:54:54.175Z",
+  "generatedAt": "2026-10-24T09:24:29.792Z",
   "entries": [
     {
       "showId": "18900",
@@ -58518,31 +58518,6 @@
       "rating": 57
     },
     {
-      "showId": "26598842",
-      "imdbId": "tt38337376",
-      "provider": "netflix",
-      "showType": "series",
-      "addedAt": "2026-10-20",
-      "upcoming": true,
-      "link": "https://www.netflix.com/title/81915623",
-      "title": {
-        "de": "俺のこと、なんか言ってた？",
-        "en": "Did Someone Happen to Mention Me?"
-      },
-      "overview": {
-        "de": "",
-        "en": ""
-      },
-      "releaseYear": 2026,
-      "genres": [
-        {
-          "de": "Komödie",
-          "en": "Comedy"
-        }
-      ],
-      "rating": 0
-    },
-    {
       "showId": "29247",
       "imdbId": "tt1145144",
       "provider": "netflix",
@@ -58974,56 +58949,6 @@
       "rating": null
     },
     {
-      "showId": "27299962",
-      "imdbId": "tt49276654",
-      "provider": "netflix",
-      "showType": "series",
-      "addedAt": "2026-10-23",
-      "upcoming": true,
-      "link": "https://www.netflix.com/title/83135231",
-      "title": {
-        "de": "LOST10",
-        "en": "LOST10"
-      },
-      "overview": {
-        "de": "",
-        "en": "A deadly climbing accident in Hokkaido draws detective Ogoma into a web of conflicting accounts, betrayals and powerful forces bent on burying the truth."
-      },
-      "releaseYear": 2026,
-      "genres": [
-        {
-          "de": "Drama",
-          "en": "Drama"
-        }
-      ],
-      "rating": null
-    },
-    {
-      "showId": "24602034",
-      "imdbId": "tt39162810",
-      "provider": "netflix",
-      "showType": "movie",
-      "addedAt": "2026-10-23",
-      "upcoming": true,
-      "link": "https://www.netflix.com/title/82917947",
-      "title": {
-        "de": "Paralyzed by Hope: The Maria Bamford Story",
-        "en": "Paralyzed by Hope: The Maria Bamford Story"
-      },
-      "overview": {
-        "de": "",
-        "en": ""
-      },
-      "releaseYear": 2026,
-      "genres": [
-        {
-          "de": "Dokumentation",
-          "en": "Documentary"
-        }
-      ],
-      "rating": null
-    },
-    {
       "showId": "27302842",
       "imdbId": "tt39631280",
       "provider": "netflix",
@@ -59048,6 +58973,267 @@
         {
           "de": "Thriller",
           "en": "Thriller"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "25373615",
+      "imdbId": "tt37544992",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-10-24",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/83195142",
+      "title": {
+        "de": "Baby Do Die Do",
+        "en": "Baby Do Die Do"
+      },
+      "overview": {
+        "de": "",
+        "en": "A deaf, nonverbal woman leads a double life as a contract killer while searching for her sister's murderer — but a botched hit threatens her mission."
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        }
+      ],
+      "rating": 53
+    },
+    {
+      "showId": "13252",
+      "imdbId": "tt0775552",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-10-24",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/70120160",
+      "title": {
+        "de": "Die Noobs - Klein aber gemein",
+        "en": "Aliens in the Attic"
+      },
+      "overview": {
+        "de": "",
+        "en": "A bright, insecure 14 year old comes into his own while leading his fractious siblings and cousins in a raucous battle against the diminutive aliens who are using their vacation home to stage an invasion by extraterrestrial giants."
+      },
+      "releaseYear": 2009,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Familie",
+          "en": "Family"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 54
+    },
+    {
+      "showId": "2934",
+      "imdbId": "tt1502407",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-10-24",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/80993029",
+      "title": {
+        "de": "Halloween",
+        "en": "Halloween"
+      },
+      "overview": {
+        "de": "Halloween (2018)",
+        "en": "Forty years after Laurie Strode survived a Halloween attack from killer Michael Myers, she now faces a terrifying showdown when the madman returns."
+      },
+      "releaseYear": 2018,
+      "genres": [
+        {
+          "de": "Horror",
+          "en": "Horror"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        }
+      ],
+      "rating": 65
+    },
+    {
+      "showId": "24333962",
+      "imdbId": "tt28235034",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-10-24",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/81977112",
+      "title": {
+        "de": "Juan Gabriel: Debo, puedo y quiero",
+        "en": "Juan Gabriel: I Must, I Can, I Will"
+      },
+      "overview": {
+        "de": "Im Jahr 2016 trauerten Millionen in den Straßen Mexikos um den Verlust einer Ikone. Dies ist die Geschichte von Juan Gabriel, eines Superstars, wie es nur einen gab.",
+        "en": "Videos personales y entrevistas inéditas muestran la genialidad, los sacrificios y la dualidad entre la vida pública y privada del icónico cantante y compositor Juan Gabriel."
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        },
+        {
+          "de": "Musik",
+          "en": "Music"
+        }
+      ],
+      "rating": 58
+    },
+    {
+      "showId": "2699708",
+      "imdbId": "tt27502365",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-10-24",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/81377515",
+      "title": {
+        "de": "Kubi",
+        "en": "Kubi"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2023,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 60
+    },
+    {
+      "showId": "27299962",
+      "imdbId": "tt49276654",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-10-24",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/83135231",
+      "title": {
+        "de": "Lost 10",
+        "en": "LOST10"
+      },
+      "overview": {
+        "de": "",
+        "en": "A deadly climbing accident in Hokkaido draws detective Ogoma into a web of conflicting accounts, betrayals and powerful forces bent on burying the truth."
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "24602034",
+      "imdbId": "tt39162810",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-10-24",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/82917947",
+      "title": {
+        "de": "Paralyzed by Hope: The Maria Bamford Story",
+        "en": "Paralyzed by Hope: The Maria Bamford Story"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "25666307",
+      "imdbId": "tt36626888",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-10-24",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/83197638",
+      "title": {
+        "de": "ओह माय डॉग",
+        "en": "Ohh My Dog"
+      },
+      "overview": {
+        "de": "",
+        "en": "When his beloved dog goes missing, a clever schoolboy sets out to find him. Elsewhere, a loyal hound searches for his kidnapped owner."
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Familie",
+          "en": "Family"
+        },
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        }
+      ],
+      "rating": 62
+    },
+    {
+      "showId": "26598842",
+      "imdbId": "tt38337376",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-10-24",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/81915623",
+      "title": {
+        "de": "俺のこと、なんか言ってた？",
+        "en": "Did Someone Happen to Mention Me?"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
         }
       ],
       "rating": null

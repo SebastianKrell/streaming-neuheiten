@@ -1,6 +1,6 @@
 {
   "month": "2026-11",
-  "generatedAt": "2026-10-24T09:24:29.792Z",
+  "generatedAt": "2026-10-25T09:43:03.124Z",
   "entries": [
     {
       "showId": "23354085",
@@ -711,6 +711,93 @@
         {
           "de": "Mystery",
           "en": "Mystery"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "25861614",
+      "imdbId": "tt18224594",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-11-25",
+      "upcoming": true,
+      "link": null,
+      "title": {
+        "de": "Blade Runner 2099",
+        "en": "Blade Runner 2099"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "26519265",
+      "imdbId": "tt36413910",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-25",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/81661161",
+      "title": {
+        "de": "The Mosquito Bowl",
+        "en": "The Mosquito Bowl"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Geschichte",
+          "en": "History"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "24861292",
+      "imdbId": "tt32213169",
+      "provider": "apple",
+      "showType": "movie",
+      "addedAt": "2026-11-25",
+      "upcoming": true,
+      "link": "https://tv.apple.com/de/movie/warrior-kid/umc.cmc.21vzhs44oeejdkoxenkcdmre0",
+      "title": {
+        "de": "Warrior Kid",
+        "en": "Way of the Warrior Kid"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Action",
+          "en": "Action"
         }
       ],
       "rating": null

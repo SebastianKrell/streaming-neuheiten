@@ -1,6 +1,6 @@
 {
   "month": "2026-10",
-  "generatedAt": "2026-10-25T09:43:03.124Z",
+  "generatedAt": "2026-10-26T10:56:40.065Z",
   "entries": [
     {
       "showId": "18900",
@@ -43411,31 +43411,6 @@
       "rating": 63
     },
     {
-      "showId": "26635607",
-      "imdbId": "tt38732131",
-      "provider": "netflix",
-      "showType": "series",
-      "addedAt": "2026-10-16",
-      "upcoming": true,
-      "link": "https://www.netflix.com/title/82047949",
-      "title": {
-        "de": "Organize İşler: Karun Hazinesi",
-        "en": "Money Trap"
-      },
-      "overview": {
-        "de": "",
-        "en": ""
-      },
-      "releaseYear": 2026,
-      "genres": [
-        {
-          "de": "Komödie",
-          "en": "Comedy"
-        }
-      ],
-      "rating": 0
-    },
-    {
       "showId": "5491",
       "imdbId": "tt4468740",
       "provider": "rtl",
@@ -59272,6 +59247,93 @@
       "rating": 57
     },
     {
+      "showId": "27301102",
+      "imdbId": "tt40856820",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-10-26",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bed9f4ac-3e9e-4ab7-970d-40b4a9804d03",
+      "title": {
+        "de": " चार यार",
+        "en": "Chaar Yaar"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "25375",
+      "imdbId": "tt7615052",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-10-26",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.701be115-1819-49ed-9476-ce1f4617a55b",
+      "title": {
+        "de": "Daughter of the Wolf",
+        "en": "Daughter of the Wolf"
+      },
+      "overview": {
+        "de": "",
+        "en": "After her son gets kidnapped, an ex-military specialist, instead of seeking help, captures one of the kidnappers and uses him to track down her son."
+      },
+      "releaseYear": 2019,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 48
+    },
+    {
+      "showId": "26635607",
+      "imdbId": "tt38732131",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-10-26",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/82047949",
+      "title": {
+        "de": "Krumme Dinger am Bosporus",
+        "en": "Money Trap"
+      },
+      "overview": {
+        "de": "",
+        "en": "1. Find the map. 2. Steal the relic. 3. Try not to get killed. Asım's final con is proving to be more dangerous than he thought. By Yılmaz Erdoğan."
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        }
+      ],
+      "rating": 64
+    },
+    {
       "showId": "25864383",
       "imdbId": "tt34127005",
       "provider": "netflix",
@@ -59302,7 +59364,7 @@
       "provider": "netflix",
       "showType": "series",
       "addedAt": "2026-10-26",
-      "upcoming": true,
+      "upcoming": false,
       "link": "https://www.netflix.com/title/82193667",
       "title": {
         "de": "Minimum Wage",
@@ -59322,12 +59384,66 @@
       "rating": null
     },
     {
+      "showId": "18872966",
+      "imdbId": "tt19515182",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-10-26",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/riverwoods-schottlands-wilde-flusse-p_713",
+      "title": {
+        "de": "Riverwoods: An Untold Story",
+        "en": "Riverwoods: An Untold Story"
+      },
+      "overview": {
+        "de": "",
+        "en": "Shines a light on the perilous state of Scotland’s salmon and tells the compelling story of an inextricable relationship between fish and forest."
+      },
+      "releaseYear": 2022,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        }
+      ],
+      "rating": 38
+    },
+    {
+      "showId": "24975485",
+      "imdbId": "tt32321803",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-10-26",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6a87aaa5-7707-49a5-a24f-311fa16f02f6",
+      "title": {
+        "de": "The Get Out",
+        "en": "The Get Out"
+      },
+      "overview": {
+        "de": "",
+        "en": "Robbed by masked gunmen and squeezed by ruthless cartels, a nightclub owner plans to leave his dangerous past behind him. With danger closing in from all sides, he soon finds himself navigating a deadly web of deception, power and survival."
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 57
+    },
+    {
       "showId": "26635593",
       "imdbId": "tt42007258",
       "provider": "disney",
       "showType": "series",
       "addedAt": "2026-10-26",
-      "upcoming": true,
+      "upcoming": false,
       "link": "https://www.disneyplus.com/browse/entity-3b7189da-ae3a-4aad-a036-a99a62d8001c",
       "title": {
         "de": "The Mob",
@@ -59342,6 +59458,64 @@
         {
           "de": "Reality",
           "en": "Reality"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "24973369",
+      "imdbId": "tt33095251",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-10-26",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.42007092-14a4-4b3f-b7f7-2137b1b49d55",
+      "title": {
+        "de": "Tony",
+        "en": "Tony"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "27300745",
+      "imdbId": "tt42576855",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-10-26",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/83150089",
+      "title": {
+        "de": "嫁金钗",
+        "en": "Where the Mask Ends"
+      },
+      "overview": {
+        "de": "",
+        "en": "Under imperial rule, a substitute bride in a forced marriage fights to survive clan and court schemes without exposing her identity."
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
         }
       ],
       "rating": null
@@ -59395,6 +59569,35 @@
         }
       ],
       "rating": null
+    },
+    {
+      "showId": "19893465",
+      "imdbId": "tt14650074",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-10-28",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/82643833",
+      "title": {
+        "de": "ढिंडोरा",
+        "en": "Dhindora"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2021,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 68
     },
     {
       "showId": "24862426",

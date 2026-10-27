@@ -1,27 +1,27 @@
 {
-  "generatedAt": "2026-10-26T10:56:40.065Z",
-  "lastCollectedAt": "2026-10-26T10:56:40.065Z",
+  "generatedAt": "2026-10-27T10:21:43.450Z",
+  "lastCollectedAt": "2026-10-27T10:21:43.450Z",
   "months": [
     {
       "month": "2026-11",
-      "total": 33,
+      "total": 36,
       "byProvider": {
-        "netflix": 25,
+        "netflix": 27,
         "disney": 1,
-        "prime": 3,
+        "prime": 4,
         "apple": 4,
         "rtl": 0
       }
     },
     {
       "month": "2026-10",
-      "total": 2077,
+      "total": 2092,
       "byProvider": {
-        "netflix": 221,
-        "disney": 82,
+        "netflix": 224,
+        "disney": 86,
         "prime": 1249,
         "apple": 10,
-        "rtl": 515
+        "rtl": 523
       }
     },
     {

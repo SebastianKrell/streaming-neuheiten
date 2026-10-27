@@ -1,6 +1,6 @@
 {
   "month": "2026-11",
-  "generatedAt": "2026-10-26T10:56:40.065Z",
+  "generatedAt": "2026-10-27T10:21:43.450Z",
   "entries": [
     {
       "showId": "23354085",
@@ -778,6 +778,26 @@
       "rating": null
     },
     {
+      "showId": "26895080",
+      "imdbId": "tt18351090",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-20",
+      "upcoming": true,
+      "link": null,
+      "title": {
+        "de": "Perfectos mentirosos",
+        "en": "Perfect Liars"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [],
+      "rating": null
+    },
+    {
       "showId": "25370470",
       "imdbId": "tt14413964",
       "provider": "netflix",
@@ -947,6 +967,51 @@
         {
           "de": "Action",
           "en": "Action"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "27301334",
+      "imdbId": "tt36823912",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/81780038",
+      "title": {
+        "de": "El niño",
+        "en": "The Child"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [],
+      "rating": null
+    },
+    {
+      "showId": "26897550",
+      "imdbId": "tt37267166",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/82013434",
+      "title": {
+        "de": "Quasimodo, l'âme de Paris",
+        "en": "The Hunchback: Soul of Paris"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
         }
       ],
       "rating": null

@@ -1,6 +1,6 @@
 {
   "month": "2026-10",
-  "generatedAt": "2026-10-26T10:56:40.065Z",
+  "generatedAt": "2026-10-27T10:21:43.450Z",
   "entries": [
     {
       "showId": "18900",
@@ -59214,39 +59214,6 @@
       "rating": null
     },
     {
-      "showId": "9053",
-      "imdbId": "tt0113845",
-      "provider": "netflix",
-      "showType": "movie",
-      "addedAt": "2026-10-25",
-      "upcoming": true,
-      "link": "https://www.netflix.com/title/769773",
-      "title": {
-        "de": "Money Train",
-        "en": "Money Train"
-      },
-      "overview": {
-        "de": "Ein ungleiches Brüderpaar: John - selbstsicher und verantwortungsbewußt, Charlie - unbeherrscht und ständig vom Pech verfolgt. Doch eins ist ihnen gemeinsam: sie lieben dieselbe Frau und teilen denselben Traum: einmal im Leben den Geldtransport auszurauben, der über ein streng bewachtes Tunnelsystem jede Nacht die Einnahmen aller Stationen der New Yorker U-Bahn einsammelt.",
-        "en": "Wesley Snipes and Woody Harrelson star in this hard hitting action comedy as two quick-fisted transit cops caught on the wrong side of the tracks! As foster brothers, they share a lifelong dream of robbing the 'Money Train' that collects millions of dollars each night from New York City subway stations. Only two things stand in their way: they're cops; and their boss - they're his trains, it's .."
-      },
-      "releaseYear": 1995,
-      "genres": [
-        {
-          "de": "Action",
-          "en": "Action"
-        },
-        {
-          "de": "Komödie",
-          "en": "Comedy"
-        },
-        {
-          "de": "Krimi",
-          "en": "Crime"
-        }
-      ],
-      "rating": 57
-    },
-    {
       "showId": "27301102",
       "imdbId": "tt40856820",
       "provider": "prime",
@@ -59274,6 +59241,35 @@
         }
       ],
       "rating": null
+    },
+    {
+      "showId": "1273",
+      "imdbId": "tt0094721",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-10-26",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/beetlejuice-p_68879",
+      "title": {
+        "de": "Beetlejuice",
+        "en": "Beetlejuice"
+      },
+      "overview": {
+        "de": "Ein junges Paar muss nach einem tödlichen Autounfall im eigenen Haus spuken und holt einen abgedrehten Poltergeist zu Hilfe, um die nervigen neuen Besitzer loszuwerden.",
+        "en": "A newly-dead couple summons a zany bio-exorcist to help them evict the obnoxious new owners of their home."
+      },
+      "releaseYear": 1988,
+      "genres": [
+        {
+          "de": "Fantasy",
+          "en": "Fantasy"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 73
     },
     {
       "showId": "25375",
@@ -59305,6 +59301,93 @@
       "rating": 48
     },
     {
+      "showId": "26599719",
+      "imdbId": "tt43214504",
+      "provider": "disney",
+      "showType": "movie",
+      "addedAt": "2026-10-26",
+      "upcoming": false,
+      "link": "https://www.disneyplus.com/browse/entity-1af68187-6cb8-4d6f-92f6-bb5d2c20578f",
+      "title": {
+        "de": "Dolly Parton: An American Original – Special Edition of 20/20",
+        "en": "Dolly Parton: An American Original – Special Edition of 20/20"
+      },
+      "overview": {
+        "de": "",
+        "en": "Celebrate the extraordinary life, timeless music, and unmatched legacy of a true global icon: Dolly Parton. In this special 60 Minutes Australia anthology, we compile three of her most memorable and intimate profiles spanning 35 years."
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        },
+        {
+          "de": "Nachrichten",
+          "en": "News"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "19151757",
+      "imdbId": "tt21413268",
+      "provider": "disney",
+      "showType": "movie",
+      "addedAt": "2026-10-26",
+      "upcoming": false,
+      "link": "https://www.disneyplus.com/browse/entity-f9c95761-49ed-45f9-b768-8a5a4516895c",
+      "title": {
+        "de": "Encordades",
+        "en": "Encordades"
+      },
+      "overview": {
+        "de": "",
+        "en": "Catalan women defy stereotypes in mountaineering history, breaking barriers in sports and society."
+      },
+      "releaseYear": 2011,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        },
+        {
+          "de": "Geschichte",
+          "en": "History"
+        }
+      ],
+      "rating": 47
+    },
+    {
+      "showId": "92036",
+      "imdbId": "tt12819612",
+      "provider": "disney",
+      "showType": "series",
+      "addedAt": "2026-10-26",
+      "upcoming": false,
+      "link": "https://www.disneyplus.com/browse/entity-16a243fe-cac9-4229-937d-300233a1eae0",
+      "title": {
+        "de": "K11 – Die neuen Fälle",
+        "en": "K11 – Die neuen Fälle"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2020,
+      "genres": [
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        }
+      ],
+      "rating": 40
+    },
+    {
       "showId": "26635607",
       "imdbId": "tt38732131",
       "provider": "netflix",
@@ -59332,6 +59415,56 @@
         }
       ],
       "rating": 64
+    },
+    {
+      "showId": "70054",
+      "imdbId": "tt5705058",
+      "provider": "disney",
+      "showType": "movie",
+      "addedAt": "2026-10-26",
+      "upcoming": false,
+      "link": "https://www.disneyplus.com/browse/entity-df03a23d-2e30-405e-8058-2d3fed5e23dc",
+      "title": {
+        "de": "Marie Curie",
+        "en": "Marie Curie"
+      },
+      "overview": {
+        "de": "",
+        "en": "The biopic of the legendary, Nobel Prize-winning physicist and chemist, who triggered controversy not only in the male dominated world of French science, but also by her unconventional romantic life."
+      },
+      "releaseYear": 2016,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": 54
+    },
+    {
+      "showId": "27303056",
+      "imdbId": "tt47658621",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-10-26",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/82816770",
+      "title": {
+        "de": "Michael Che: Shot in Minnesota",
+        "en": "Michael Che: Shot in Minnesota"
+      },
+      "overview": {
+        "de": "",
+        "en": "Michael Che takes aim at racism, marriage, free speech and everything in between."
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 62
     },
     {
       "showId": "25864383",
@@ -59382,6 +59515,39 @@
         }
       ],
       "rating": null
+    },
+    {
+      "showId": "9053",
+      "imdbId": "tt0113845",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-10-26",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/769773",
+      "title": {
+        "de": "Money Train",
+        "en": "Money Train"
+      },
+      "overview": {
+        "de": "Ein ungleiches Brüderpaar: John - selbstsicher und verantwortungsbewußt, Charlie - unbeherrscht und ständig vom Pech verfolgt. Doch eins ist ihnen gemeinsam: sie lieben dieselbe Frau und teilen denselben Traum: einmal im Leben den Geldtransport auszurauben, der über ein streng bewachtes Tunnelsystem jede Nacht die Einnahmen aller Stationen der New Yorker U-Bahn einsammelt. Die Sache hat nur zwe..",
+        "en": "Wesley Snipes and Woody Harrelson star in this hard hitting action comedy as two quick-fisted transit cops caught on the wrong side of the tracks! As foster brothers, they share a lifelong dream of robbing the 'Money Train' that collects millions of dollars each night from New York City subway stations. Only two things stand in their way: they're cops; and their boss - they're his trains, it's .."
+      },
+      "releaseYear": 1995,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        }
+      ],
+      "rating": 57
     },
     {
       "showId": "18872966",
@@ -59463,6 +59629,31 @@
       "rating": null
     },
     {
+      "showId": "27304029",
+      "imdbId": "tt37027309",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-10-26",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/82027563",
+      "title": {
+        "de": "Therapy Done Right",
+        "en": "Therapy Done Right"
+      },
+      "overview": {
+        "de": "",
+        "en": "Ulises thinks modern therapy has too much listening and not enough intervention — so he develops an approach that's darkly comic and a bit dangerous."
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 66
+    },
+    {
       "showId": "24973369",
       "imdbId": "tt33095251",
       "provider": "prime",
@@ -59490,6 +59681,35 @@
         }
       ],
       "rating": null
+    },
+    {
+      "showId": "4905",
+      "imdbId": "tt0499556",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-10-26",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/70061480",
+      "title": {
+        "de": "War",
+        "en": "War"
+      },
+      "overview": {
+        "de": "Killer Jet Li begibt sich in den Clinch mit Cop Jason Statham: Der Partner des FBI-Agenten Jack wird von Auftragskiller Rogue ermordet. Jack will den Verbrecher zur Rechenschaft ziehen.",
+        "en": "A vengeful FBI agent (Jason Statham) seeks an assassin (Jet Li) he believes killed his partner."
+      },
+      "releaseYear": 2007,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 62
     },
     {
       "showId": "27300745",
@@ -59521,12 +59741,186 @@
       "rating": null
     },
     {
+      "showId": "28750",
+      "imdbId": "tt0126234",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-10-27",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/chamatkar-der-himmel-fuhrt-uns-zusammen-p_30408",
+      "title": {
+        "de": "Chamatkar - Der Himmel führt uns zusammen…",
+        "en": "Chamatkar"
+      },
+      "overview": {
+        "de": "",
+        "en": "A village schoolteacher and the ghost of a murdered man, who were both betrayed by those closest to them, join forces to help each other."
+      },
+      "releaseYear": 1992,
+      "genres": [
+        {
+          "de": "Fantasy",
+          "en": "Fantasy"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 53
+    },
+    {
+      "showId": "110428",
+      "imdbId": "tt10623478",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-10-27",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/christmas-love-letter-ein-liebesbrief-zu-weihnachten-p_265277",
+      "title": {
+        "de": "Christmas Love Letter",
+        "en": "Christmas Love Letter"
+      },
+      "overview": {
+        "de": "",
+        "en": "When relationship advice columnist Amalie Hess receives an unsigned love letter in a Christmas card, she returns to her hometown to solve the mystery of who sent it and maybe find true love."
+      },
+      "releaseYear": 2019,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        },
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        }
+      ],
+      "rating": 56
+    },
+    {
+      "showId": "1514",
+      "imdbId": "tt1077368",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-10-27",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/dark-shadows-p_68899",
+      "title": {
+        "de": "Dark Shadows",
+        "en": "Dark Shadows"
+      },
+      "overview": {
+        "de": "Barnabas Collins, ein eingesperrter Vampir, wird freigelassen und kehrt zu seinem Stammhaus zurück, wo seine dysfunktionalen Nachkommen seinen Schutz benötigen.",
+        "en": "An imprisoned vampire, Barnabas Collins, is set free and returns to his ancestral home, where his dysfunctional descendants are in need of his protection."
+      },
+      "releaseYear": 2012,
+      "genres": [
+        {
+          "de": "Fantasy",
+          "en": "Fantasy"
+        },
+        {
+          "de": "Horror",
+          "en": "Horror"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 61
+    },
+    {
+      "showId": "6093",
+      "imdbId": "tt0094332",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-10-27",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/die-hexen-von-eastwick-p_68880",
+      "title": {
+        "de": "Die Hexen von Eastwick",
+        "en": "The Witches of Eastwick"
+      },
+      "overview": {
+        "de": "",
+        "en": "A trio of bored, sexually repressed New England women, Alex, Jane and Sukie, each of them left to live without their respective husbands, innocently conjures up a mysterious stranger who, they are convinced, will relieve their frustrations."
+      },
+      "releaseYear": 1987,
+      "genres": [
+        {
+          "de": "Fantasy",
+          "en": "Fantasy"
+        },
+        {
+          "de": "Horror",
+          "en": "Horror"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 65
+    },
+    {
+      "showId": "71850",
+      "imdbId": "tt11100776",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-10-27",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/christmas-on-my-mind-nur-noch-weihnachten-im--p_459",
+      "title": {
+        "de": "Nur noch Weihnachten im Kopf",
+        "en": "Christmas On My Mind"
+      },
+      "overview": {
+        "de": "",
+        "en": "A Hallmark Movies & Mysteries original movie. Lucy Lovett (Greene) wakes up holding a wedding dress, assuming she’s about to marry the love of her life Zach Callahan (Walker), only to discover they broke up two years ago, and her fiancé… isn’t Zach."
+      },
+      "releaseYear": 2019,
+      "genres": [
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": 60
+    },
+    {
+      "showId": "47721",
+      "imdbId": "tt10345008",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-10-27",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/ps-es-weihnachtet-sehr-p_1011",
+      "title": {
+        "de": "P.S. Es weihnachtet sehr",
+        "en": "Write Before Christmas"
+      },
+      "overview": {
+        "de": "",
+        "en": "Una mujer envía tarjetas navideñas a cinco personas que han influido en su vida y cuando las reciben se sienten motivados a mejorar sus propias vidas."
+      },
+      "releaseYear": 2019,
+      "genres": [
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": 63
+    },
+    {
       "showId": "26596616",
       "imdbId": "tt44941753",
       "provider": "netflix",
       "showType": "series",
       "addedAt": "2026-10-27",
-      "upcoming": true,
+      "upcoming": false,
       "link": "https://www.netflix.com/title/81970498",
       "title": {
         "de": "The One About Matthew Perry",
@@ -59544,6 +59938,31 @@
         }
       ],
       "rating": null
+    },
+    {
+      "showId": "70209",
+      "imdbId": "tt12766346",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-10-27",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/weihnachtswunsche-fur-den-chef-p_1935",
+      "title": {
+        "de": "Weihnachtswünsche für den Chef",
+        "en": "If I Only Had Christmas"
+      },
+      "overview": {
+        "de": "",
+        "en": "A Hallmark Channel original movie. At Christmas, a cheerful publicist teams up with a cynical VP and his eclectic team to help a charity in need."
+      },
+      "releaseYear": 2020,
+      "genres": [
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": 60
     },
     {
       "showId": "27068296",

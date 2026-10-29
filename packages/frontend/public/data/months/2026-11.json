@@ -1,7 +1,32 @@
 {
   "month": "2026-11",
-  "generatedAt": "2026-10-28T11:12:34.287Z",
+  "generatedAt": "2026-10-29T11:25:14.172Z",
   "entries": [
+    {
+      "showId": "19382",
+      "imdbId": "tt1411664",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-01",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/70124560",
+      "title": {
+        "de": "Bucky Larson: Born to Be a Star",
+        "en": "Bucky Larson: Born to Be a Star"
+      },
+      "overview": {
+        "de": "A small-town grocery bagger (Nick Swardson) believes he has found his true destiny when he discovers that his conservative parents were once porn stars.",
+        "en": "An aimless grocery bagger who discovers his conservative parents were once porn stars goes to L.A. hoping to find his destiny in the adult film world."
+      },
+      "releaseYear": 2011,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 36
+    },
     {
       "showId": "23354085",
       "imdbId": "tt32582999",
@@ -34,6 +59,26 @@
         }
       ],
       "rating": 59
+    },
+    {
+      "showId": "395231",
+      "imdbId": "tt21919870",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-01",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/83297763",
+      "title": {
+        "de": "심장소리",
+        "en": "Heartbeat"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2022,
+      "genres": [],
+      "rating": 38
     },
     {
       "showId": "24862332",
@@ -146,6 +191,35 @@
         }
       ],
       "rating": null
+    },
+    {
+      "showId": "24601422",
+      "imdbId": "tt33305882",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-04",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/82713545",
+      "title": {
+        "de": "A Great Awakening",
+        "en": "A Great Awakening"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Geschichte",
+          "en": "History"
+        }
+      ],
+      "rating": 40
     },
     {
       "showId": "25665430",
@@ -455,6 +529,85 @@
       "rating": null
     },
     {
+      "showId": "24976114",
+      "imdbId": "tt41593493",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-11",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/83018004",
+      "title": {
+        "de": "Avedon",
+        "en": "Avedon"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "27301081",
+      "imdbId": "tt37214564",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-11-11",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/81707977",
+      "title": {
+        "de": "ChiaroScuro",
+        "en": "ChiaroScuro"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "27299844",
+      "imdbId": "tt39390491",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-11-11",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/82013594",
+      "title": {
+        "de": "La Ley de Alicia",
+        "en": "Alicia's Law"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": null
+    },
+    {
       "showId": "26343460",
       "imdbId": "tt8014982",
       "provider": "netflix",
@@ -579,6 +732,31 @@
       "rating": null
     },
     {
+      "showId": "143028",
+      "imdbId": "tt11436640",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-12",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/82762076",
+      "title": {
+        "de": "Oskars Kleid",
+        "en": "Oskar's Dress"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2022,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": 57
+    },
+    {
       "showId": "27068123",
       "imdbId": "tt42006761",
       "provider": "disney",
@@ -663,6 +841,26 @@
           "en": "History"
         }
       ],
+      "rating": null
+    },
+    {
+      "showId": "27299404",
+      "imdbId": "tt38707741",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-11-13",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/82023389",
+      "title": {
+        "de": "El crimen de Pazos",
+        "en": "Murder in Galicia"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [],
       "rating": null
     },
     {
@@ -967,6 +1165,39 @@
         {
           "de": "Action",
           "en": "Action"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "26517731",
+      "imdbId": "tt43613803",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-11-26",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/81991076",
+      "title": {
+        "de": "フールナイト",
+        "en": "Fool Night"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Animation",
+          "en": "Animation"
+        },
+        {
+          "de": "Science-Fiction",
+          "en": "Science Fiction"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
         }
       ],
       "rating": null

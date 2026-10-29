@@ -1,6 +1,6 @@
 {
   "month": "2026-10",
-  "generatedAt": "2026-10-28T11:12:34.287Z",
+  "generatedAt": "2026-10-29T11:25:14.172Z",
   "entries": [
     {
       "showId": "18900",
@@ -59965,6 +59965,89 @@
       "rating": 60
     },
     {
+      "showId": "209",
+      "imdbId": "tt0106179",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-10-28",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.80b6ff2e-9b3d-641b-a8a9-5c82123c7e33",
+      "title": {
+        "de": "Akte X - Die unheimlichen Fälle des FBI",
+        "en": "The X-Files"
+      },
+      "overview": {
+        "de": "Seit Fox Mulder als kleiner Junge miterleben musste, wie seine Schwester Samantha scheinbar von Außerirdischen entführt wurde, glaubt er an deren Existenz und paranormale Phänomene.",
+        "en": "The truth is out there and FBI agents seek it in this sci-fi phenomenon about their quest to explain the seemingly unexplainable. Their strange cases include UFO sightings, alien encounters and abductions, and just about everything else among the paranormal."
+      },
+      "releaseYear": 1993,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        }
+      ],
+      "rating": 79
+    },
+    {
+      "showId": "25861726",
+      "imdbId": "tt43655467",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-10-28",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d4812037-f8af-43d5-be6d-d13a70e43095",
+      "title": {
+        "de": "Ali G: Who Iz I?",
+        "en": "Ali G: Who Iz I?"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "10260287",
+      "imdbId": "tt21097192",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-10-28",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9338d009-e97c-4ca1-8e3b-c128934aa716",
+      "title": {
+        "de": "Die Alone",
+        "en": "Die Alone"
+      },
+      "overview": {
+        "de": "",
+        "en": "An amnesiac bands together with a loner survivalist as he sifts through fragmented memories to find his lost girlfriend amid a zombie apocalypse."
+      },
+      "releaseYear": 2024,
+      "genres": [
+        {
+          "de": "Horror",
+          "en": "Horror"
+        },
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        }
+      ],
+      "rating": 58
+    },
+    {
       "showId": "27068296",
       "imdbId": "tt45854934",
       "provider": "netflix",
@@ -59988,6 +60071,217 @@
         }
       ],
       "rating": null
+    },
+    {
+      "showId": "26605603",
+      "imdbId": "tt37180686",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-10-28",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c383e8b7-5574-4893-a826-526aef1b2cda",
+      "title": {
+        "de": "Drive - The Pretenders",
+        "en": "Drive - The Pretenders"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "18416",
+      "imdbId": "tt6970690",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-10-28",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.fcb6a576-4d48-233a-9100-25e73a2a952e",
+      "title": {
+        "de": "Gigantes",
+        "en": "Giants"
+      },
+      "overview": {
+        "de": "",
+        "en": "The Guerrero family battles rivals, the police and each other to stay on top of Madrid's criminal underworld."
+      },
+      "releaseYear": 2018,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        }
+      ],
+      "rating": 56
+    },
+    {
+      "showId": "12713764",
+      "imdbId": "tt24695266",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-10-28",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f61f400d-7a4b-4932-9521-ade97bcaa9a0",
+      "title": {
+        "de": "Last Stop: Rocafort St.",
+        "en": "Last Stop: Rocafort St."
+      },
+      "overview": {
+        "de": "",
+        "en": "Newly assigned to work at one of Barcelona's quietest subway stops, Laura soon realizes something is wrong beneath the tracks. Whatever evil lurks inside the labyrinth of tunnels preys unrelentingly on fear - and now, it's coming for her."
+      },
+      "releaseYear": 2024,
+      "genres": [
+        {
+          "de": "Horror",
+          "en": "Horror"
+        },
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        }
+      ],
+      "rating": 44
+    },
+    {
+      "showId": "3397",
+      "imdbId": "tt2283336",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-10-28",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eeb5a6d5-b284-8401-9391-77d527e15a5c",
+      "title": {
+        "de": "Men in Black - International",
+        "en": "Men in Black: International"
+      },
+      "overview": {
+        "de": "Die Men in Black haben die Erde immer vor dem Abschaum des Universums beschützt. In diesem neuen Abenteuer müssen sie sich ihrer bisher größten Bedrohung stellen: einem Maulwurf innerhalb der Men in Black Organisation.",
+        "en": "The Men in Black have always protected the Earth from the scum of the universe. In this new adventure, they tackle their biggest, most global threat to date: a mole in the Men in Black organization."
+      },
+      "releaseYear": 2019,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 56
+    },
+    {
+      "showId": "9679248",
+      "imdbId": "tt7782854",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-10-28",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5a26c822-fb6c-47bd-b371-7c7659ca2200",
+      "title": {
+        "de": "Morena",
+        "en": "Morena"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2024,
+      "genres": [
+        {
+          "de": "Horror",
+          "en": "Horror"
+        },
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        }
+      ],
+      "rating": 51
+    },
+    {
+      "showId": "175",
+      "imdbId": "tt2661044",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-10-28",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.00a9f732-1868-5889-0a25-d83f4df6fbf5",
+      "title": {
+        "de": "The 100",
+        "en": "The 100"
+      },
+      "overview": {
+        "de": "Ninety-seven years ago, Earth was devastated by a nuclear apocalypse, with the only survivors being the inhabitants of orbiting space stations at the time. Three generations later, resources are running out. Taking ruthless steps to ensure their future, a group of 100 juvenile prisoners are exiled to the Earth's surface to test whether it's habitable. No one has set foot on the planet until now.",
+        "en": "It's been nearly 100 years since Earth was devastated by a nuclear apocalypse, with the only survivors being the 400 inhabitants of 12 international space stations that were in orbit at the time. Three generations later, the survivors number 4,000 - and resources are running out on their dying \"Ark\" (the 12 stations now linked together and repurposed to keep the survivors alive). Draconian meas..."
+      },
+      "releaseYear": 2014,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        }
+      ],
+      "rating": 75
+    },
+    {
+      "showId": "64466",
+      "imdbId": "tt0364457",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-10-28",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.706155b0-8c06-4c07-8e62-fcfac9f20b1d",
+      "title": {
+        "de": "The Keeper",
+        "en": "The Keeper"
+      },
+      "overview": {
+        "de": "",
+        "en": "When an apparently exemplary cop abducts and secretly imprisons a beautiful dancer, a deadly battle of wills between captor and captive ensues."
+      },
+      "releaseYear": 2004,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 46
     },
     {
       "showId": "19893465",
@@ -60024,10 +60318,10 @@
       "provider": "netflix",
       "showType": "series",
       "addedAt": "2026-10-29",
-      "upcoming": true,
+      "upcoming": false,
       "link": "https://www.netflix.com/title/81704898",
       "title": {
-        "de": "Balaraw",
+        "de": "Balaraw: Blood Island",
         "en": "Balaraw: Blood Island"
       },
       "overview": {
@@ -60053,7 +60347,7 @@
       "provider": "netflix",
       "showType": "movie",
       "addedAt": "2026-10-29",
-      "upcoming": true,
+      "upcoming": false,
       "link": "https://www.netflix.com/title/492899",
       "title": {
         "de": "In einem fernen Land",
@@ -60079,6 +60373,31 @@
         }
       ],
       "rating": 66
+    },
+    {
+      "showId": "26899719",
+      "imdbId": "tt38504402",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-10-29",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/81906583",
+      "title": {
+        "de": "Noi un po' meglio",
+        "en": "You, Me, Us"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": null
     },
     {
       "showId": "26345975",

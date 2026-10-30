@@ -1,6 +1,6 @@
 {
   "month": "2026-11",
-  "generatedAt": "2026-10-29T11:25:14.172Z",
+  "generatedAt": "2026-10-30T11:17:16.087Z",
   "entries": [
     {
       "showId": "19382",
@@ -1243,6 +1243,35 @@
         {
           "de": "Drama",
           "en": "Drama"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "27066585",
+      "imdbId": "tt39943756",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-11-30",
+      "upcoming": true,
+      "link": null,
+      "title": {
+        "de": "Campus Drivers",
+        "en": "Campus Drivers"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
         }
       ],
       "rating": null

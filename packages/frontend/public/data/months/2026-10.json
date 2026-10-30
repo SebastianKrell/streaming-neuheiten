@@ -1,6 +1,6 @@
 {
   "month": "2026-10",
-  "generatedAt": "2026-10-29T11:25:14.172Z",
+  "generatedAt": "2026-10-30T11:17:16.087Z",
   "entries": [
     {
       "showId": "18900",
@@ -60048,31 +60048,6 @@
       "rating": 58
     },
     {
-      "showId": "27068296",
-      "imdbId": "tt45854934",
-      "provider": "netflix",
-      "showType": "series",
-      "addedAt": "2026-10-28",
-      "upcoming": true,
-      "link": "https://www.netflix.com/title/81930491",
-      "title": {
-        "de": "Dom de Iludir",
-        "en": "The Gift of Deceit"
-      },
-      "overview": {
-        "de": "",
-        "en": ""
-      },
-      "releaseYear": 2026,
-      "genres": [
-        {
-          "de": "Drama",
-          "en": "Drama"
-        }
-      ],
-      "rating": null
-    },
-    {
       "showId": "26605603",
       "imdbId": "tt37180686",
       "provider": "prime",
@@ -60342,6 +60317,35 @@
       "rating": null
     },
     {
+      "showId": "4427",
+      "imdbId": "tt5830254",
+      "provider": "rtl",
+      "showType": "series",
+      "addedAt": "2026-10-29",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/das-boot-p_7739",
+      "title": {
+        "de": "Das Boot",
+        "en": "Das Boot"
+      },
+      "overview": {
+        "de": "",
+        "en": "An inexperienced U-boat crew has to survive a secret mission in this gripping World War II drama."
+      },
+      "releaseYear": 2018,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Krieg",
+          "en": "War"
+        }
+      ],
+      "rating": 67
+    },
+    {
       "showId": "6542",
       "imdbId": "tt0104231",
       "provider": "netflix",
@@ -60375,6 +60379,35 @@
       "rating": 66
     },
     {
+      "showId": "7541358",
+      "imdbId": "tt26246248",
+      "provider": "rtl",
+      "showType": "series",
+      "addedAt": "2026-10-29",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/mary-george-p_268905",
+      "title": {
+        "de": "Mary & George",
+        "en": "Mary & George"
+      },
+      "overview": {
+        "de": "",
+        "en": "The story of the Countess of Buckingham who moulded her son to seduce King James I and become his all-powerful lover, through intrigue, becoming richer, more titled and influential than England has ever seen."
+      },
+      "releaseYear": 2024,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Geschichte",
+          "en": "History"
+        }
+      ],
+      "rating": 68
+    },
+    {
       "showId": "26899719",
       "imdbId": "tt38504402",
       "provider": "netflix",
@@ -60395,6 +60428,31 @@
         {
           "de": "Komödie",
           "en": "Comedy"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "27078929",
+      "imdbId": "tt37511434",
+      "provider": "rtl",
+      "showType": "series",
+      "addedAt": "2026-10-29",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/to-catch-a-stalker-p_247836",
+      "title": {
+        "de": "Stalking - Verfolgt, bedroht und ausgeliefert",
+        "en": "To Catch a Stalker"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
         }
       ],
       "rating": null
@@ -60430,7 +60488,7 @@
       "provider": "netflix",
       "showType": "series",
       "addedAt": "2026-10-30",
-      "upcoming": true,
+      "upcoming": false,
       "link": "https://www.netflix.com/title/81944880",
       "title": {
         "de": "Bytet",
@@ -60488,10 +60546,10 @@
       "provider": "netflix",
       "showType": "series",
       "addedAt": "2026-10-30",
-      "upcoming": true,
+      "upcoming": false,
       "link": "https://www.netflix.com/title/81997887",
       "title": {
-        "de": "Dead-End Job (2026)",
+        "de": "Dead-End Job",
         "en": "Dead-End Job"
       },
       "overview": {
@@ -60507,6 +60565,31 @@
         {
           "de": "Horror",
           "en": "Horror"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "27068296",
+      "imdbId": "tt45854934",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-10-30",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/81930491",
+      "title": {
+        "de": "Dom de Iludir",
+        "en": "The Gift of Deceit"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
         }
       ],
       "rating": null
@@ -60546,7 +60629,7 @@
       "provider": "netflix",
       "showType": "movie",
       "addedAt": "2026-10-30",
-      "upcoming": true,
+      "upcoming": false,
       "link": "https://www.netflix.com/title/81925711",
       "title": {
         "de": "Obsess",
@@ -60596,7 +60679,7 @@
       "provider": "netflix",
       "showType": "series",
       "addedAt": "2026-10-30",
-      "upcoming": true,
+      "upcoming": false,
       "link": "https://www.netflix.com/title/81772075",
       "title": {
         "de": "அக்கா",
@@ -60608,6 +60691,10 @@
       },
       "releaseYear": 2026,
       "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
         {
           "de": "Krimi",
           "en": "Crime"

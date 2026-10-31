@@ -1,6 +1,6 @@
 {
   "month": "2026-10",
-  "generatedAt": "2026-10-30T11:17:16.087Z",
+  "generatedAt": "2026-10-31T10:49:47.323Z",
   "entries": [
     {
       "showId": "18900",
@@ -60458,15 +60458,69 @@
       "rating": null
     },
     {
+      "showId": "4931",
+      "imdbId": "tt0284837",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-10-30",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.86a9f732-c206-80b8-014f-e9bc15a66551",
+      "title": {
+        "de": "Ali G in da House",
+        "en": "Ali G Indahouse"
+      },
+      "overview": {
+        "de": "Unwissentlich wird Ali G in ein Komplott verwickelt, das den britischen Premierminister und seine Regierung stürzen soll. Der Plan misslingt, als Ali mit seinem unnachahmlichen chauvinistischen Humor von der gesamten Nation als Stimme des Volkes...",
+        "en": "Outrageous comic tale in which the self-styled voice of youth unwittingly becomes embroiled in a plot to overthrow the British Prime Minister when he is surprisingly elected to be an MP. Embraced by the nation as the voice of youth and realness, however, the evil Chancellor of the Exchequer's plan begins to backfire as the government becomes more popular than ever."
+      },
+      "releaseYear": 2002,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 61
+    },
+    {
+      "showId": "10736162",
+      "imdbId": "tt28817626",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-10-30",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d004f7fa-8c80-48d1-8e00-81ae10f475a5",
+      "title": {
+        "de": "Andromeda: 1883",
+        "en": "Andromeda: 1883"
+      },
+      "overview": {
+        "de": "",
+        "en": "In the future, a space marine is sent back in time to eliminate an android assassin and prevent a catastrophic disruption in the time-space continuum."
+      },
+      "releaseYear": 2024,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Science-Fiction",
+          "en": "Science Fiction"
+        }
+      ],
+      "rating": 42
+    },
+    {
       "showId": "26345975",
       "imdbId": "tt37522541",
       "provider": "prime",
       "showType": "movie",
       "addedAt": "2026-10-30",
-      "upcoming": true,
-      "link": null,
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8a132dd0-3df2-4bab-93ab-4e64bd720a97",
       "title": {
-        "de": "Apocalipsis Z: Nuevo Mundo",
+        "de": "Apokalypse Z - Neue Welt",
         "en": "Apocalypse Z: New World"
       },
       "overview": {
@@ -60481,6 +60535,39 @@
         }
       ],
       "rating": null
+    },
+    {
+      "showId": "16253590",
+      "imdbId": "tt27607776",
+      "provider": "apple",
+      "showType": "series",
+      "addedAt": "2026-10-30",
+      "upcoming": false,
+      "link": "https://tv.apple.com/de/show/berbrick/umc.cmc.18fsq2h43zx0v5h31hyeq1d7w",
+      "title": {
+        "de": "BE@RBRICK",
+        "en": "BE@RBRICK"
+      },
+      "overview": {
+        "de": "",
+        "en": "In a town where everyone’s roles are predetermined, a singer and her bandmates break free to pursue their dreams."
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Animation",
+          "en": "Animation"
+        },
+        {
+          "de": "Familie",
+          "en": "Family"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 46
     },
     {
       "showId": "26894672",
@@ -60503,35 +60590,6 @@
         {
           "de": "Drama",
           "en": "Drama"
-        },
-        {
-          "de": "Thriller",
-          "en": "Thriller"
-        }
-      ],
-      "rating": null
-    },
-    {
-      "showId": "26606065",
-      "imdbId": "tt38793125",
-      "provider": "netflix",
-      "showType": "movie",
-      "addedAt": "2026-10-30",
-      "upcoming": true,
-      "link": "https://www.netflix.com/title/82078375",
-      "title": {
-        "de": "Colisión",
-        "en": "Collision Course"
-      },
-      "overview": {
-        "de": "",
-        "en": ""
-      },
-      "releaseYear": 2026,
-      "genres": [
-        {
-          "de": "Krimi",
-          "en": "Crime"
         },
         {
           "de": "Thriller",
@@ -60570,6 +60628,68 @@
       "rating": null
     },
     {
+      "showId": "84",
+      "imdbId": "tt0167260",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-10-30",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.096a714d-6da9-4205-a118-3fb77fbaa003",
+      "title": {
+        "de": "Der Herr der Ringe - Die Rückkehr des Königs",
+        "en": "The Lord of the Rings: The Return of the King"
+      },
+      "overview": {
+        "de": "Geführt von Gollum kommen Frodo und Sam nach Mordor – und ans Ende ihrer Mission – wo Aragorn eine Schlacht gegen Sauron anführt, um Gondor zu retten.",
+        "en": "Frodo and Sam march toward Mount Doom while Gandalf prepares for the final battle for Middle Earth."
+      },
+      "releaseYear": 2003,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Fantasy",
+          "en": "Fantasy"
+        }
+      ],
+      "rating": 88
+    },
+    {
+      "showId": "783",
+      "imdbId": "tt0120616",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-10-30",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0b6f83ef-896f-4583-be1e-e15d8e4a894b",
+      "title": {
+        "de": "Die Mumie",
+        "en": "The Mummy"
+      },
+      "overview": {
+        "de": "Ägypten 1923: Auf der Suche nach einem sagenumwobenen Schatz erwecken zwei Forschungsteams einen uralten Fluch: Die Mumie erwacht zum Leben, eine jahrtausendalte Wiedergeburt des Bösen! Ungewollt geraten der Abenteurer Rick O'Connell und die Archäologin Evelyn zwischen die Fronten.",
+        "en": "A man opens a tomb unleashing a mummy seeking revenge for a curse laid upon him 3,000 years earlier."
+      },
+      "releaseYear": 1999,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Fantasy",
+          "en": "Fantasy"
+        }
+      ],
+      "rating": 70
+    },
+    {
       "showId": "27068296",
       "imdbId": "tt45854934",
       "provider": "netflix",
@@ -60595,12 +60715,342 @@
       "rating": null
     },
     {
+      "showId": "446",
+      "imdbId": "tt0330373",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-10-30",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.fea9f6a0-7a85-db41-4db7-9fae0275f74b",
+      "title": {
+        "de": "Harry Potter und der Feuerkelch",
+        "en": "Harry Potter and the Goblet of Fire"
+      },
+      "overview": {
+        "de": "Das vierte große Abenteuer stellt alles bisher Gesehene in den Schatten und Harry vor neue, schier unlösbare Aufgaben.",
+        "en": "Harry returns for his fourth year at Hogwarts School of Witchcraft and Wizardry, along with his friends, Ron and Hermione. There is an upcoming tournament between the three major schools of magic, with one participant selected from each school by the Goblet of Fire. When Harry's name is drawn, even though he is not eligible and is a fourth player, he must compete in the dangerous contest."
+      },
+      "releaseYear": 2005,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Familie",
+          "en": "Family"
+        },
+        {
+          "de": "Fantasy",
+          "en": "Fantasy"
+        }
+      ],
+      "rating": 77
+    },
+    {
+      "showId": "429",
+      "imdbId": "tt0304141",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-10-30",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.98c1b69a-4e7d-47cd-a79c-bf9dd59f5410",
+      "title": {
+        "de": "Harry Potter und der Gefangene von Askaban",
+        "en": "Harry Potter and the Prisoner of Azkaban"
+      },
+      "overview": {
+        "de": "Im dritten Schuljahr droht Harry Potter eine neue Gefahr: Voldemorts Handlanger Sirius Black bricht aus dem Gefängnis aus und hat es nun auf ihn abgesehen. Von Oscargewinner Alfonso Cuarón.",
+        "en": "A dangerous wizard, Sirius Black, has escaped from prison & is believed to be searching for Harry."
+      },
+      "releaseYear": 2004,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Familie",
+          "en": "Family"
+        },
+        {
+          "de": "Fantasy",
+          "en": "Fantasy"
+        }
+      ],
+      "rating": 80
+    },
+    {
+      "showId": "548",
+      "imdbId": "tt0417741",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-10-30",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e629f1db-f32d-4e2c-b7dd-bf440af2802b",
+      "title": {
+        "de": "Harry Potter und der Halbblutprinz",
+        "en": "Harry Potter and the Half-Blood Prince"
+      },
+      "overview": {
+        "de": "Voldemorts Rückkehr veranlasst die Todesser nicht nur die Muggel-Welt, sondern auch die Welt der Zauberer ins Chaos zu stürzen – sogar Hogwarts ist nicht mehr so sicher wie früher.",
+        "en": "Harry prepares for new dangers, while the Death Eaters wreak havoc, emboldened by Lord Voldemort."
+      },
+      "releaseYear": 2009,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Familie",
+          "en": "Family"
+        },
+        {
+          "de": "Fantasy",
+          "en": "Fantasy"
+        }
+      ],
+      "rating": 76
+    },
+    {
+      "showId": "491",
+      "imdbId": "tt0373889",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-10-30",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a0a9f68b-222e-8332-81bc-52300b2adbf7",
+      "title": {
+        "de": "Harry Potter und der Orden des Phönix",
+        "en": "Harry Potter and the Order of the Phoenix"
+      },
+      "overview": {
+        "de": "Lord Voldemort ist zurückgekehrt, aber das Zaubereiministerium tut alles, um die Zaubererwelt davon abzuhalten, die Wahrheit zu erfahren.",
+        "en": "With the wizards in peril, the future of magic may depend upon Harry and The Order of the Phoenix."
+      },
+      "releaseYear": 2007,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Familie",
+          "en": "Family"
+        },
+        {
+          "de": "Fantasy",
+          "en": "Fantasy"
+        }
+      ],
+      "rating": 75
+    },
+    {
+      "showId": "536",
+      "imdbId": "tt0926084",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-10-30",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.86c06623-8b49-43e1-81d1-c0337e467f51",
+      "title": {
+        "de": "Harry Potter und die Heiligtümer des Todes - Teil 1",
+        "en": "Harry Potter and the Deathly Hallows: Part 1"
+      },
+      "overview": {
+        "de": "Harry, Ron und Hermine übernehmen gefährliche Aufgabe, Geheimnis von Voldemorts Unsterblichkeit aufzuspüren und zu zerstören: Horkruxe.",
+        "en": "Harry, Ron and Hermione set out to destroy the Horcruxes, the secrets to Voldemort's power."
+      },
+      "releaseYear": 2010,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Familie",
+          "en": "Family"
+        },
+        {
+          "de": "Fantasy",
+          "en": "Fantasy"
+        }
+      ],
+      "rating": 77
+    },
+    {
+      "showId": "218",
+      "imdbId": "tt1201607",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-10-30",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.534a160f-f33c-43c3-81a7-14925fb031bb",
+      "title": {
+        "de": "Harry Potter und die Heiligtümer des Todes - Teil 2",
+        "en": "Harry Potter and the Deathly Hallows: Part 2"
+      },
+      "overview": {
+        "de": "Maximale Spannung, gigantische Action: das große Finale der epochalen Fantasyreihe! Der entscheidende Kampf mit Lord Voldemort scheint unausweichlich - muss Harry Potter sich opfern?",
+        "en": "Making their final stand upon the ramparts of Hogwarts School of Witchcraft and Wizardry, Harry Potter, Ron and Hermione face their greatest foe and make a sacrifice on their journey."
+      },
+      "releaseYear": 2011,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Familie",
+          "en": "Family"
+        },
+        {
+          "de": "Fantasy",
+          "en": "Fantasy"
+        }
+      ],
+      "rating": 80
+    },
+    {
+      "showId": "428",
+      "imdbId": "tt0295297",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-10-30",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cca9f676-f728-62fb-c3ed-910fb3c49262",
+      "title": {
+        "de": "Harry Potter und die Kammer des Schreckens",
+        "en": "Harry Potter and the Chamber of Secrets"
+      },
+      "overview": {
+        "de": "Das zweite Ausbildungsjahr beschert Zauberlehrling Harry fliegende Autos, aggressive Bäume, eine gigantische Spinne und einen mysteriösen Hauself.",
+        "en": "During their second year at Hogwarts, Harry, Ron & Hermione try to uncover a dark force at school."
+      },
+      "releaseYear": 2002,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Familie",
+          "en": "Family"
+        },
+        {
+          "de": "Fantasy",
+          "en": "Fantasy"
+        }
+      ],
+      "rating": 75
+    },
+    {
+      "showId": "15262",
+      "imdbId": "tt9318602",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-10-30",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7c9709aa-df3a-49f2-abbe-088bc2ec6903",
+      "title": {
+        "de": "Honour",
+        "en": "Honour"
+      },
+      "overview": {
+        "de": "",
+        "en": "The lawyers at Heder face their most difficult case yet when a popular women's running race is targeted by a terrorist attack carried out by members of the incel movement."
+      },
+      "releaseYear": 2019,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 58
+    },
+    {
+      "showId": "152",
+      "imdbId": "tt0266697",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-10-30",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.59066230-7059-45f0-9536-8d219efbe44c",
+      "title": {
+        "de": "Kill Bill - Volume 1",
+        "en": "Kill Bill: Vol. 1"
+      },
+      "overview": {
+        "de": "Kultregisseur Quentin Tarantinos genial-brachiales Racheepos: Uma Thurman zieht mit Schwert in der Hand und Wut im Bauch in einen blutigen Feldzug gegen ihren grausamen Exboss David Carradine. - Nach fünf Jahren erwacht Ex-Profikillerin \"Die Braut\" (Uma Thurman) aus dem Koma. Nun will sie sich an denen rächen, die sie fast getötet hätten: ihre früheren Weggefährtinnen und ihr Boss und ehemaliger Lover Bill (David Carradine). Gnadenlos beginnt die Kampfkunst-Meisterin, ihre Todesliste abzuhaken. Doch auch auf die Braut wartet eine Reihe schmerzlicher Überraschungen.",
+        "en": "Waking from a coma, a female contract killer wreaks revenge on the assassins who tried to kill her. Known as \"The Bride\", because she was gunned down on her wedding day, the nameless woman awakens to discover she is no longer pregnant. She goes on a killing spree, taking out one by one the members of her old team of assassins who killed her baby."
+      },
+      "releaseYear": 2003,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 81
+    },
+    {
+      "showId": "307",
+      "imdbId": "tt0378194",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-10-30",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e8ba4f8c-f02e-1280-1ace-8dc311053cfc",
+      "title": {
+        "de": "Kill Bill - Volume 2",
+        "en": "Kill Bill: Vol. 2"
+      },
+      "overview": {
+        "de": "Nachdem sie mit O-Ren Ishii in Tokio abrechnete, kehrt die zornige Braut, das Schwert unterm Arm, nach Amerika zurück, um endlich Bill persönlich seine Rechnung zu präsentieren. Zuvor allerdings müssen noch Bills herunter gekommener Bruder Budd und die einäugige Vernita Green in die ewigen Abgründe geschickt werden - was sich im wüsten Outback von Arizona als keine ganz leichte Aufgabe entpuppt.",
+        "en": "Quentin Tarantino's ultimate tale of betrayal and revenge concludes with this breaktaking follow-up in which The Bride (Uma Thurman) delivers vengeance to the only surviving assassins who betrayed her four years earlier."
+      },
+      "releaseYear": 2004,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 79
+    },
+    {
       "showId": "25665356",
       "imdbId": "tt26598805",
       "provider": "apple",
       "showType": "series",
       "addedAt": "2026-10-30",
-      "upcoming": true,
+      "upcoming": false,
       "link": "https://tv.apple.com/de/show/nocturne/umc.cmc.4cfsq1juke72zutv5xp0pw3rj",
       "title": {
         "de": "Nocturne",
@@ -60617,8 +61067,8 @@
           "en": "Crime"
         },
         {
-          "de": "Thriller",
-          "en": "Thriller"
+          "de": "Mystery",
+          "en": "Mystery"
         }
       ],
       "rating": null
@@ -60649,6 +61099,155 @@
       "rating": 48
     },
     {
+      "showId": "8243004",
+      "imdbId": "tt18827746",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-10-30",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.57db5ed1-d71e-4dc7-bf73-06d872689f65",
+      "title": {
+        "de": "Passenger",
+        "en": "Passenger"
+      },
+      "overview": {
+        "de": "",
+        "en": "When Katie Wells disappears police officer Riya Ajunwa thinks she’s found the case of a lifetime. But she’ll soon realise nothing is as it seems in the small town of Chadder Vale."
+      },
+      "releaseYear": 2024,
+      "genres": [
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        },
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        }
+      ],
+      "rating": 57
+    },
+    {
+      "showId": "677",
+      "imdbId": "tt3183660",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-10-30",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d97677f3-dc40-4984-a7fc-75100d4b36a0",
+      "title": {
+        "de": "Phantastische Tierwesen und wo sie zu finden sind",
+        "en": "Fantastic Beasts and Where to Find Them"
+      },
+      "overview": {
+        "de": "Ein exzentrischer Zauberer, ein Muggel und zwei Hexen jagen magische Tierwesen im New York von 1926.",
+        "en": "A British wizard's captured creatures run wild in New York in J.K. Rowling's magical spinoff of the 'Harry Potter' series."
+      },
+      "releaseYear": 2016,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Familie",
+          "en": "Family"
+        },
+        {
+          "de": "Fantasy",
+          "en": "Fantasy"
+        }
+      ],
+      "rating": 72
+    },
+    {
+      "showId": "3217",
+      "imdbId": "tt4123432",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-10-30",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.510cb435-9898-4e80-b3da-018fe0e2814a",
+      "title": {
+        "de": "Phantastische Tierwesen: Dumbledores Geheimnisse",
+        "en": "Fantastic Beasts: The Secrets of Dumbledore"
+      },
+      "overview": {
+        "de": "Dumbledore beauftragt Newt Scamander damit, eine Gruppe Zauberer, Hexen und einen tapferen Muggel-Bäcker auf einer gefährlichen Mission anzuführen, um Grindelwald aufzuhalten.",
+        "en": "Dumbledore entrusts Newt Scamander to lead a team of wizards, witches and one brave Muggle baker on a dangerous mission to stop Grindelwald from seizing control of the wizarding world."
+      },
+      "releaseYear": 2022,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Fantasy",
+          "en": "Fantasy"
+        }
+      ],
+      "rating": 63
+    },
+    {
+      "showId": "1379",
+      "imdbId": "tt4123430",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-10-30",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.82b58679-ad89-a2bb-2614-d9992077426f",
+      "title": {
+        "de": "Phantastische Tierwesen: Grindelwalds Verbrechen",
+        "en": "Fantastic Beasts: The Crimes of Grindelwald"
+      },
+      "overview": {
+        "de": "Der zweite Teil der Reihe \"Phantastische Tierwesen und wo sie zu finden sind\", die von den Abenteuern von Newt Scamander handelt.",
+        "en": "David Yates bring a new and exciting adventure in the wizarding world with this installment of the Fantastic Beasts saga, starring Eddie Redmayne, Johnny Depp and Jude Law. Following the dramatic escape of Grindelwald, Albus Dumbledore enlists the help of quirky Newt Scamander to stop the infamous dark wizard that once was his best friend."
+      },
+      "releaseYear": 2018,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Familie",
+          "en": "Family"
+        },
+        {
+          "de": "Fantasy",
+          "en": "Fantasy"
+        }
+      ],
+      "rating": 65
+    },
+    {
+      "showId": "78211",
+      "imdbId": "tt0173566",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-10-30",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.948e5176-3fe7-4d03-8c86-c8c40ee31a2b",
+      "title": {
+        "de": "Rinaldo Rinaldini",
+        "en": "La kermesse des brigands"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 1968,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        }
+      ],
+      "rating": 47
+    },
+    {
       "showId": "26601582",
       "imdbId": "tt44825373",
       "provider": "netflix",
@@ -60672,6 +61271,167 @@
         }
       ],
       "rating": null
+    },
+    {
+      "showId": "24976",
+      "imdbId": "tt0120199",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-10-30",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.14c905b8-8a1d-4ea3-b9c6-0f11142a0b58",
+      "title": {
+        "de": "Space Truckers",
+        "en": "Space Truckers"
+      },
+      "overview": {
+        "de": "",
+        "en": "A space trucker and his fiancée head back to Earth, oblivious to their cargo of 5,000 disintegrator robots, when they are hijacked by space pirates."
+      },
+      "releaseYear": 1996,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Science-Fiction",
+          "en": "Science Fiction"
+        }
+      ],
+      "rating": 54
+    },
+    {
+      "showId": "2329",
+      "imdbId": "tt0094012",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-10-30",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8fa084b8-f4a1-4b0c-a325-37723e0539bf",
+      "title": {
+        "de": "Spaceballs",
+        "en": "Spaceballs"
+      },
+      "overview": {
+        "de": "Lord Helmchen, die mickrige Verkörperung des Bösen wird von Skroob, Präsident der Spaceballs, beauftragt den Sauerstoffmangel der eigenen Welt zu beseitigen, indem er sich des Sauerstoffgürtels des Planeten Druida bemächtigt. Um den König von Druida unter Druck zu setzen, plant Lord Helmchen die Entführung dessen Tochter, Prinzessin Vespa. In letzter Sekunde können der Held Lone Starr und sein treuer Freund Waldi die Prinzessin retten. Gemeinsam treten sie nun den Kampf gegen das Böse an, wobei kein Auge trocken bleibt.",
+        "en": "A bounty hunter and his canine sidekick set out to rescue a runaway princess and may end up saving the galaxy in this outrageous sci-fi parody."
+      },
+      "releaseYear": 1987,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        },
+        {
+          "de": "Science-Fiction",
+          "en": "Science Fiction"
+        }
+      ],
+      "rating": 70
+    },
+    {
+      "showId": "17677",
+      "imdbId": "tt11806034",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-10-30",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f70629cb-5263-4c27-b595-52fbe6500aaa",
+      "title": {
+        "de": "The Machinery",
+        "en": "The Machinery"
+      },
+      "overview": {
+        "de": "",
+        "en": "A thrilling hunt takes off when an ordinary family man becomes the prime suspect in a robbery. Claiming he's been framed, our protagonist will do his utmost to prove his innocence while trying to keep clear of the police."
+      },
+      "releaseYear": 2020,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 57
+    },
+    {
+      "showId": "1053",
+      "imdbId": "tt6334354",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-10-30",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bea1a212-e906-4112-a920-00c2ff185c7f",
+      "title": {
+        "de": "The Suicide Squad",
+        "en": "The Suicide Squad"
+      },
+      "overview": {
+        "de": "Man nehme eine bis an die Zähne bewaffnete Verbrecherbande und setze sie auf der Insel Corto Maltese ab, wo es von Feinden wimmelt. Alle Wetten stehen gegen sie - die ganze Bande.",
+        "en": "Assemble a collection of cons, arm them heavily and drop them on the enemy‐infused island of Corto Maltese. If anyone’s laying down bets, the smart money is against them—all of them."
+      },
+      "releaseYear": 2021,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 72
+    },
+    {
+      "showId": "21123",
+      "imdbId": "tt2187287",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-10-30",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.daf6279b-5a4f-4543-b7c1-e093922dfaf9",
+      "title": {
+        "de": "Waiting in the Summer",
+        "en": "Waiting in the Summer"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2012,
+      "genres": [
+        {
+          "de": "Animation",
+          "en": "Animation"
+        },
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 65
     },
     {
       "showId": "27065890",
@@ -60705,6 +61465,118 @@
         }
       ],
       "rating": null
+    },
+    {
+      "showId": "16693735",
+      "imdbId": "tt35931046",
+      "provider": "apple",
+      "showType": "movie",
+      "addedAt": "2026-10-31",
+      "upcoming": false,
+      "link": "https://tv.apple.com/de/movie/bono-stories-of-surrender/umc.cmc.oxoxnpaecaatg9tzf6pgfsh2?playableId=tvs.sbd.4000%3AA0129001001",
+      "title": {
+        "de": "Bono: Stories of Surrender",
+        "en": "Bono: Stories of Surrender"
+      },
+      "overview": {
+        "de": "Bono erzählt, was ihn als Sohn, Vater, Ehemann, Aktivist und Frontmann von U2 geprägt hat.",
+        "en": "Bono pulls back the curtain on his life, the family, friends and faith that have sustained him. He also reveals personal stories about his journey as a son, father, husband, activist and rock star."
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        }
+      ],
+      "rating": 61
+    },
+    {
+      "showId": "26606065",
+      "imdbId": "tt38793125",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-10-31",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/82078375",
+      "title": {
+        "de": "Colisión",
+        "en": "Collision Course"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "14625727",
+      "imdbId": "tt32149847",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-10-31",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.757cb236-900d-4065-a5c0-b867b87443b6",
+      "title": {
+        "de": "Drop - Tödliches Date",
+        "en": "Drop"
+      },
+      "overview": {
+        "de": "Während eines Dinner-Dates bekommt Violet Nachrichten eines Erpressers, der ihre Familie bedroht - und sie zwingt, ihr Date zu ermorden. Psychothriller von den \"Happy Deathday\"-Machern.",
+        "en": "Violet is a widowed mother who goes to a restaurant to meet Henry, her charming and handsome date. However, she soon receives phone messages from a mysterious, hooded figure who threatens to kill her young son and sister unless she kills Henry."
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 61
+    },
+    {
+      "showId": "20257943",
+      "imdbId": "tt36988583",
+      "provider": "apple",
+      "showType": "movie",
+      "addedAt": "2026-10-31",
+      "upcoming": false,
+      "link": "https://tv.apple.com/de/movie/snoopy-prasentiert-ein-sommermusical/umc.cmc.xesgxj0bt8yrrkrunae0wke7?playableId=tvs.sbd.4000%3AA0005507001",
+      "title": {
+        "de": "Snoopy präsentiert: Ein Sommermusical",
+        "en": "Snoopy Presents: A Summer Musical"
+      },
+      "overview": {
+        "de": "Musik und gute Laune liegen in der Luft, als Snoopy und seine Freunde ins Sommercamp aufbrechen.",
+        "en": "Music and glee fill the air as Snoopy and the gang head off to summer camp."
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Animation",
+          "en": "Animation"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 56
     },
     {
       "showId": "27074256",

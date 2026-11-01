@@ -1,0 +1,68 @@
+{
+  "month": "2026-12",
+  "generatedAt": "2026-11-01T11:46:47.591Z",
+  "entries": [
+    {
+      "showId": "25030318",
+      "imdbId": "tt16995302",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-12-02",
+      "upcoming": true,
+      "link": null,
+      "title": {
+        "de": "Geklaute Weihnachten",
+        "en": "The Man with the Bag"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Familie",
+          "en": "Family"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "26603188",
+      "imdbId": "tt34691287",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-12-02",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/81901411",
+      "title": {
+        "de": "In a Holidaze",
+        "en": "In a Holidaze"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": null
+    }
+  ]
+}

@@ -1,7 +1,69 @@
 {
   "month": "2026-11",
-  "generatedAt": "2026-10-31T10:49:47.323Z",
+  "generatedAt": "2026-11-01T11:46:47.591Z",
   "entries": [
+    {
+      "showId": "16967",
+      "imdbId": "tt0358349",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-01",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d5ba45d8-46cc-4bbd-8851-7f7f4c53c86a",
+      "title": {
+        "de": "Agent Cody Banks 2: Mission London",
+        "en": "Agent Cody Banks 2: Destination London"
+      },
+      "overview": {
+        "de": "",
+        "en": "Teen spy Cody Banks poses as a music student to infiltrate an elite London boarding school to catch an evil scientist who has stolen a mind-control device."
+      },
+      "releaseYear": 2004,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 48
+    },
+    {
+      "showId": "11153",
+      "imdbId": "tt0790604",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-01",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.fca9f721-1abc-dd16-742d-cbd701bc27e3",
+      "title": {
+        "de": "Blendende Weihnachten",
+        "en": "Deck the Halls"
+      },
+      "overview": {
+        "de": "",
+        "en": "A new neighbor sets out to put so many Christmas lights on his house that they'll be seen in space."
+      },
+      "releaseYear": 2006,
+      "genres": [
+        {
+          "de": "Familie",
+          "en": "Family"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 52
+    },
     {
       "showId": "19382",
       "imdbId": "tt1411664",
@@ -26,6 +88,192 @@
         }
       ],
       "rating": 36
+    },
+    {
+      "showId": "23220",
+      "imdbId": "tt0071866",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-01",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d64c6c12-cc00-404f-9bdc-0db300df3f2d",
+      "title": {
+        "de": "Das Gesetz bin ich",
+        "en": "Mr. Majestyk"
+      },
+      "overview": {
+        "de": "",
+        "en": "An ex-con and Vietnam vet's attempt to run a straight business has him locking horns with both the law and the mafia in this tale of revenge."
+      },
+      "releaseYear": 1974,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        }
+      ],
+      "rating": 64
+    },
+    {
+      "showId": "11387",
+      "imdbId": "tt3278330",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-01",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c67ca9e2-0dc4-4652-9153-79de01077778",
+      "title": {
+        "de": "Das Märchen der Märchen",
+        "en": "Tale of Tales"
+      },
+      "overview": {
+        "de": "",
+        "en": "Selected for Official Competition at the Cannes Film Festival, TALE OF TALES is an epic vision of cinema from Matteo Garrone (Gomorrah), inspired by the Italian fairytales of medieval Naples. From the bitter quest of a jealous Queen (Salma Hayek) who forfeits the life of her husband, to two mysterious sisters who provoke the passion of a King (Vincent Cassel), to a King obsessed with a giant Flea"
+      },
+      "releaseYear": 2015,
+      "genres": [
+        {
+          "de": "Fantasy",
+          "en": "Fantasy"
+        },
+        {
+          "de": "Horror",
+          "en": "Horror"
+        }
+      ],
+      "rating": 64
+    },
+    {
+      "showId": "16185",
+      "imdbId": "tt0100530",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-01",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.80d85be6-a34e-4d4e-98a3-598e52288755",
+      "title": {
+        "de": "Das Rußland-Haus",
+        "en": "The Russia House"
+      },
+      "overview": {
+        "de": "",
+        "en": "Based on the book by master spy novelist John LeCarre, a British publisher and a Russian editor get sucked into the deadly world of espionage."
+      },
+      "releaseYear": 1990,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 61
+    },
+    {
+      "showId": "9277",
+      "imdbId": "tt0110527",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-01",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ef02012a-37fa-4860-a31f-8f5015b33b61",
+      "title": {
+        "de": "Das Wunder von Manhattan",
+        "en": "Miracle on 34th Street"
+      },
+      "overview": {
+        "de": "",
+        "en": "6-year-old Susan meets Kriss Kringle, a department store Santa who thinks he's the genuine article."
+      },
+      "releaseYear": 1994,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Familie",
+          "en": "Family"
+        },
+        {
+          "de": "Fantasy",
+          "en": "Fantasy"
+        }
+      ],
+      "rating": 67
+    },
+    {
+      "showId": "12157",
+      "imdbId": "tt0072288",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-01",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f1ec1ca1-e179-479c-9408-e6828cd44b77",
+      "title": {
+        "de": "Den letzten beißen die Hunde",
+        "en": "Thunderbolt and Lightfoot"
+      },
+      "overview": {
+        "de": "Die Leinwandlegenden Clint Eastwood und Jeff Bridges spielen in diesem mutigen, witzigen und actiongeladenen Krimi ein modernes Gesetzlosenpaar. Auf den Fersen von Thunderbolt und Lightfoot sind George Kennedy und Geoffrey Lewis.",
+        "en": "While fleeing from a theft, a drifter meets a legendary criminal who's also on the run. The duo reunite with their old partners to plan a bank heist."
+      },
+      "releaseYear": 1974,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        }
+      ],
+      "rating": 69
+    },
+    {
+      "showId": "19688",
+      "imdbId": "tt0087231",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-01",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.15d53788-37aa-463d-9773-2f72ae08ddfc",
+      "title": {
+        "de": "Der Falke und der Schneemann",
+        "en": "The Falcon and the Snowman"
+      },
+      "overview": {
+        "de": "",
+        "en": "The true story of childhood friends from affluent American families who decide to betray their country by selling government secrets to the Russians."
+      },
+      "releaseYear": 1985,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        }
+      ],
+      "rating": 66
     },
     {
       "showId": "23354085",
@@ -59,6 +307,535 @@
         }
       ],
       "rating": 59
+    },
+    {
+      "showId": "24503",
+      "imdbId": "tt0051899",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-01",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.fa3a9b32-d196-4cb0-b406-01141dc87220",
+      "title": {
+        "de": "Der Mann aus dem Westen",
+        "en": "Man of the West"
+      },
+      "overview": {
+        "de": "",
+        "en": "A reformed outlaw is left abandoned in a remote area after he intervenes in a train robbery, where he unexpectedly runs into his old gang."
+      },
+      "releaseYear": 1958,
+      "genres": [
+        {
+          "de": "Western",
+          "en": "Western"
+        }
+      ],
+      "rating": 64
+    },
+    {
+      "showId": "7686",
+      "imdbId": "tt0057413",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-01",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1e7326fc-232a-4dc6-82af-afbcfa12a79c",
+      "title": {
+        "de": "Der rosarote Panther",
+        "en": "The Pink Panther"
+      },
+      "overview": {
+        "de": "",
+        "en": "The bumbling Inspector Jacques Clouseau tries to catch an infamous jewel thief before he can steal a priceless diamond from a princess."
+      },
+      "releaseYear": 1963,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        }
+      ],
+      "rating": 69
+    },
+    {
+      "showId": "11720",
+      "imdbId": "tt0072081",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-01",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7d84b161-2042-45b4-a907-c3cf320efde0",
+      "title": {
+        "de": "Der rosarote Panther kehrt zurück",
+        "en": "The Return of the Pink Panther"
+      },
+      "overview": {
+        "de": "",
+        "en": "Dispatched to a Swiss resort town, Clouseau must investigate cat-burglar Sir Charles and his wife Claudine through a series of hilarious disguises."
+      },
+      "releaseYear": 1975,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        },
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        }
+      ],
+      "rating": 69
+    },
+    {
+      "showId": "9443",
+      "imdbId": "tt0073312",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-01",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ac4c5de3-8559-42bc-963f-3e8f03e79e9b",
+      "title": {
+        "de": "Die letzte Nacht des Boris Gruschenko",
+        "en": "Love and Death"
+      },
+      "overview": {
+        "de": "",
+        "en": "Woody Allen hilariously invades the spirit of Tolstoy in this spoof of 18th Century Russia, when a cowardly scholar (Allen) settles down with he beautiful Sonja (Diane Keaton) for life rich in philosophy...and a zany plot to assassinate Napoleon!"
+      },
+      "releaseYear": 1975,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        },
+        {
+          "de": "Krieg",
+          "en": "War"
+        }
+      ],
+      "rating": 70
+    },
+    {
+      "showId": "30594",
+      "imdbId": "tt0062886",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-01",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.40b6b7f2-17ef-89f2-6473-1f2d85900e46",
+      "title": {
+        "de": "Die Teufelsbrigade",
+        "en": "The Devil's Brigade"
+      },
+      "overview": {
+        "de": "",
+        "en": "In this true WWII story, an American colonel creates the First Special Service Force from a group of misfits. A dangerous mission soon awaits."
+      },
+      "releaseYear": 1968,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Krieg",
+          "en": "War"
+        }
+      ],
+      "rating": 66
+    },
+    {
+      "showId": "15203",
+      "imdbId": "tt4103724",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-01",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7b83246b-e89c-42ab-b835-0276d373c9b5",
+      "title": {
+        "de": "Forever My Girl",
+        "en": "Forever My Girl"
+      },
+      "overview": {
+        "de": "Country superstar Liam Page (Alex Roe) left Josie (Jessica Rothe) at the altar 8 years ago, choosing fame and fortune instead. When he returns to his hometown for the funeral of a friend, he is faced with the consequences of all he left behind.",
+        "en": "A country music star returns to his hometown and reunites with the bride that he left at the altar."
+      },
+      "releaseYear": 2018,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Musik",
+          "en": "Music"
+        }
+      ],
+      "rating": 68
+    },
+    {
+      "showId": "10880",
+      "imdbId": "tt9086228",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-01",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ff742671-2b13-4df3-acf0-209df940a971",
+      "title": {
+        "de": "Gretel & Hänsel",
+        "en": "Gretel & Hansel"
+      },
+      "overview": {
+        "de": "",
+        "en": "A desperate young girl and her little brother stumble upon a nexus of terrifying evil when they venture into a dark wood in search of food and work."
+      },
+      "releaseYear": 2020,
+      "genres": [
+        {
+          "de": "Fantasy",
+          "en": "Fantasy"
+        },
+        {
+          "de": "Horror",
+          "en": "Horror"
+        },
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        }
+      ],
+      "rating": 56
+    },
+    {
+      "showId": "9266",
+      "imdbId": "tt0061747",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-01",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.95c3cb19-ff61-4671-a97e-a274115a3dc8",
+      "title": {
+        "de": "Hängt ihn höher",
+        "en": "Hang 'em High"
+      },
+      "overview": {
+        "de": "",
+        "en": "After narrowly escaping death, a man mistaken for a killer takes on the job of deputy marshal to bring justice to the men who did him wrong."
+      },
+      "releaseYear": 1968,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Western",
+          "en": "Western"
+        }
+      ],
+      "rating": 69
+    },
+    {
+      "showId": "5728",
+      "imdbId": "tt0061811",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-01",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.fd4d9c2a-a29c-4081-95c9-b4c74a99079b",
+      "title": {
+        "de": "In der Hitze der Nacht",
+        "en": "In the Heat of the Night"
+      },
+      "overview": {
+        "de": "",
+        "en": "While traveling in the deep south, a black Philadelphian homicide detective becomes embroiled in a murder investigation."
+      },
+      "releaseYear": 1967,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 73
+    },
+    {
+      "showId": "13547",
+      "imdbId": "tt0078163",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-01",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7386209b-d28d-47be-a158-9f94b7a03542",
+      "title": {
+        "de": "Inspektor Clouseau - Der irre Flic mit dem heißen Blick",
+        "en": "Revenge of the Pink Panther"
+      },
+      "overview": {
+        "de": "",
+        "en": "The ever-bungling Inspector Clouseau dodges bombs, bullets, karate chops, and his own blundering screw-ups — much to Chief Inspector Dreyfus' dismay."
+      },
+      "releaseYear": 1978,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        },
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        }
+      ],
+      "rating": 65
+    },
+    {
+      "showId": "30440",
+      "imdbId": "tt0091575",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-01",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3a4d8ce9-27f4-4036-883b-58db68f418cb",
+      "title": {
+        "de": "Murphys Gesetz",
+        "en": "Murphy's Law"
+      },
+      "overview": {
+        "de": "",
+        "en": "When a cop is framed for murder and chained to a felon, the duo make a break for it, trying to stay a step ahead of the law and the real killer."
+      },
+      "releaseYear": 1986,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        }
+      ],
+      "rating": 59
+    },
+    {
+      "showId": "15415917",
+      "imdbId": "tt35511175",
+      "provider": "apple",
+      "showType": "series",
+      "addedAt": "2026-11-01",
+      "upcoming": false,
+      "link": "https://tv.apple.com/de/show/riesenherz/umc.cmc.2reh3g5q197hlblohp6l3fzk5",
+      "title": {
+        "de": "Riesenherz",
+        "en": "Goldie"
+      },
+      "overview": {
+        "de": "",
+        "en": "Follow Goldie as she shakes up her beloved town of Boysenberg with her best friends."
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Animation",
+          "en": "Animation"
+        },
+        {
+          "de": "Familie",
+          "en": "Family"
+        }
+      ],
+      "rating": 46
+    },
+    {
+      "showId": "64575",
+      "imdbId": "tt0086232",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-01",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0ae4271b-0124-41ff-af9f-c321c49a795d",
+      "title": {
+        "de": "Sahara",
+        "en": "Sahara"
+      },
+      "overview": {
+        "de": "",
+        "en": "A trio of trouble outcasts set out from Timbuktu on a punishing quest to unearth a lost city and treasure buried deep inside the Sahara desert."
+      },
+      "releaseYear": 1983,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": 51
+    },
+    {
+      "showId": "11236",
+      "imdbId": "tt0120841",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-01",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e795fdd1-e9d0-4107-ad5a-5317ebb1d1c1",
+      "title": {
+        "de": "Species II",
+        "en": "Species II"
+      },
+      "overview": {
+        "de": "",
+        "en": "Three astronauts return from Mars, unaware that something has boarded the ship with its sights on Earth."
+      },
+      "releaseYear": 1998,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Horror",
+          "en": "Horror"
+        },
+        {
+          "de": "Science-Fiction",
+          "en": "Science Fiction"
+        }
+      ],
+      "rating": 46
+    },
+    {
+      "showId": "7753",
+      "imdbId": "tt0089853",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-01",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b4dfa673-3bdd-48b6-83f0-ac79b09ccc00",
+      "title": {
+        "de": "The Purple Rose of Cairo",
+        "en": "The Purple Rose of Cairo"
+      },
+      "overview": {
+        "de": "",
+        "en": "A comedy-fantasy about a Depression-era movie fan/waitress whose day-to-day existence is enlivened when her latest idol walks right off the screen and into her life!"
+      },
+      "releaseYear": 1985,
+      "genres": [
+        {
+          "de": "Fantasy",
+          "en": "Fantasy"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": 72
+    },
+    {
+      "showId": "4521",
+      "imdbId": "tt0086567",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-01",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9bdb2a1a-59c8-41ac-8e8f-9c8c65fb89a5",
+      "title": {
+        "de": "WarGames - Kriegsspiele",
+        "en": "WarGames"
+      },
+      "overview": {
+        "de": "Ein Computerfreak hackt sich zufällig in das Kriegssystem der USA ein und muss Schlimmes verhindern.",
+        "en": "A teen (Matthew Broderick) taps into NORAD and plays global war."
+      },
+      "releaseYear": 1983,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Science-Fiction",
+          "en": "Science Fiction"
+        }
+      ],
+      "rating": 70
+    },
+    {
+      "showId": "34238",
+      "imdbId": "tt0865957",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-01",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b8a9f77c-acc7-9724-41af-4552f4bf1d7e",
+      "title": {
+        "de": "WarGames: The Dead Code",
+        "en": "WarGames: The Dead Code"
+      },
+      "overview": {
+        "de": "",
+        "en": "A computer hacker participating in a government terrorist attack simulation game unknowingly engages a paranoid supercomputer that deems him a threat."
+      },
+      "releaseYear": 2008,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Science-Fiction",
+          "en": "Science Fiction"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 46
     },
     {
       "showId": "395231",
@@ -446,6 +1223,39 @@
       "rating": 60
     },
     {
+      "showId": "17017",
+      "imdbId": "tt0149624",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-09",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/60004267",
+      "title": {
+        "de": "All die schönen Pferde",
+        "en": "All the Pretty Horses"
+      },
+      "overview": {
+        "de": "John Grady Cole, aufgewachsen zwischen wilden Pferden in der rauen Schönheit von Texas, träumt von einem besseren Leben in Mexiko. Als er die Grenze irgendwann tatsächlich hinter sich bringt, warten dort allerdings harte Arbeit und gefährliche Abenteuer auf ihn. Aber auch die Liebe seines Lebens ...",
+        "en": "An American's dream of living the cowboy way in Mexico turns into a web of murder and betrayal when he falls for the daughter of a dangerous man."
+      },
+      "releaseYear": 2000,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        },
+        {
+          "de": "Western",
+          "en": "Western"
+        }
+      ],
+      "rating": 57
+    },
+    {
       "showId": "1034",
       "imdbId": "tt3281796",
       "provider": "netflix",
@@ -638,6 +1448,26 @@
           "en": "Thriller"
         }
       ],
+      "rating": null
+    },
+    {
+      "showId": "27300873",
+      "imdbId": "tt38420997",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-11",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/82138246",
+      "title": {
+        "de": "Tyler Perry's The Gospel of Christmas",
+        "en": "Tyler Perry's The Gospel of Christmas"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [],
       "rating": null
     },
     {
@@ -891,6 +1721,60 @@
         }
       ],
       "rating": null
+    },
+    {
+      "showId": "4303557",
+      "imdbId": "tt23023256",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-13",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/81907642",
+      "title": {
+        "de": "Lassie - Ein neues Abenteuer",
+        "en": "Lassie: A New Adventure"
+      },
+      "overview": {
+        "de": "",
+        "en": "The most iconic dog in film history returns! Lassie's detective skills are put to the ultimate test in this thrilling new crime-busting adventure."
+      },
+      "releaseYear": 2023,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Familie",
+          "en": "Family"
+        }
+      ],
+      "rating": 53
+    },
+    {
+      "showId": "24593654",
+      "imdbId": "tt39075270",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-14",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/83179250",
+      "title": {
+        "de": "Stranger Things: Kaminfeuer",
+        "en": "Stranger Things: Fireplace"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Animation",
+          "en": "Animation"
+        }
+      ],
+      "rating": 50
     },
     {
       "showId": "26597286",

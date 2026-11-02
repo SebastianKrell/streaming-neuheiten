@@ -1,6 +1,6 @@
 {
   "month": "2026-12",
-  "generatedAt": "2026-11-01T11:46:47.591Z",
+  "generatedAt": "2026-11-02T13:20:19.625Z",
   "entries": [
     {
       "showId": "25030318",
@@ -46,6 +46,93 @@
       "title": {
         "de": "In a Holidaze",
         "en": "In a Holidaze"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "26635413",
+      "imdbId": "tt36475261",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-12-03",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/81737965",
+      "title": {
+        "de": "Pride and Prejudice",
+        "en": "Pride and Prejudice"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "26635529",
+      "imdbId": "tt39749939",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-12-03",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/81914109",
+      "title": {
+        "de": "เพลิงพระนาง",
+        "en": "Empress of Flames"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Geschichte",
+          "en": "History"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "27065719",
+      "imdbId": "tt39107065",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-12-03",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/81703380",
+      "title": {
+        "de": "僕の狂ったフェミ彼女",
+        "en": "My Crazy Feminist Girlfriend"
       },
       "overview": {
         "de": "",

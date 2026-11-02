@@ -1,6 +1,6 @@
 {
   "month": "2026-11",
-  "generatedAt": "2026-11-01T11:46:47.591Z",
+  "generatedAt": "2026-11-02T13:20:19.625Z",
   "entries": [
     {
       "showId": "16967",
@@ -34,6 +34,56 @@
         }
       ],
       "rating": 48
+    },
+    {
+      "showId": "16987485",
+      "imdbId": "tt36005664",
+      "provider": "apple",
+      "showType": "series",
+      "addedAt": "2026-11-01",
+      "upcoming": false,
+      "link": "https://tv.apple.com/de/episode/fuhrende-schwarze-darstellerinnen-in-hollywood/umc.cmc.6qhr2ld67yal1zfl8n35n2lbh?showId=umc.cmc.6p9tke2tbri1vnn2cuaxcj4mi&playableId=tvs.sbd.4000%3AA0131601001",
+      "title": {
+        "de": "An der Spitze",
+        "en": "Number One on the Call Sheet"
+      },
+      "overview": {
+        "de": "",
+        "en": "Some of Hollywood’s biggest stars reveal their journeys to game-changing leading roles. In candid interviews, they shine a light on the highs and lows of their craft, breakthrough moments, blueprints for success, and the next generation’s huge potential."
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        }
+      ],
+      "rating": 57
+    },
+    {
+      "showId": "7617",
+      "imdbId": "tt6359956",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-11-01",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/bad-moms-2-p_2212",
+      "title": {
+        "de": "Bad Moms 2",
+        "en": "A Bad Moms Christmas"
+      },
+      "overview": {
+        "de": "Die wilden Party-Mamas um Mila Kunis und Kristen Bell ordern die nächste Runde: In der Fortsetzung des exzessiven Comedy-Hits lassen sie es nun unter dem Weihnachtsbaum krachen.",
+        "en": "Our three under-appreciated and over-burdened women rebel against the challenges and expectations of Christmas, all while hosting their own mothers."
+      },
+      "releaseYear": 2017,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 57
     },
     {
       "showId": "11153",
@@ -117,6 +167,68 @@
         }
       ],
       "rating": 64
+    },
+    {
+      "showId": "20621642",
+      "imdbId": "tt10946316",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-11-01",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8e73a081-7dd0-49ad-b1ef-827f45e11c61",
+      "title": {
+        "de": "Das Institut",
+        "en": "The Institute"
+      },
+      "overview": {
+        "de": "",
+        "en": "Teenage genius Luke Ellis is abducted by The Institute, a secret organization that takes kids with psychic powers for use in a mysterious project. The place is run by Ms. Sigsby, a sadistic true believer who engages Luke in a deadly battle of wills."
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Horror",
+          "en": "Horror"
+        },
+        {
+          "de": "Science-Fiction",
+          "en": "Science Fiction"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 69
+    },
+    {
+      "showId": "20620029",
+      "imdbId": "tt37024432",
+      "provider": "apple",
+      "showType": "series",
+      "addedAt": "2026-11-01",
+      "upcoming": false,
+      "link": "https://tv.apple.com/de/show/das-ist-kein-karton/umc.cmc.5v5f721a2mlxcurdhh0wm56if",
+      "title": {
+        "de": "Das ist kein Karton!",
+        "en": "Not a Box"
+      },
+      "overview": {
+        "de": "",
+        "en": "Meet Riley, a bunny with a big imagination who loves crafting worlds with just one box."
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Animation",
+          "en": "Animation"
+        },
+        {
+          "de": "Familie",
+          "en": "Family"
+        }
+      ],
+      "rating": 46
     },
     {
       "showId": "11387",
@@ -856,6 +968,433 @@
       "releaseYear": 2022,
       "genres": [],
       "rating": 38
+    },
+    {
+      "showId": "3624",
+      "imdbId": "tt4651520",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-11-02",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/bad-moms-p_1594",
+      "title": {
+        "de": "Bad Moms",
+        "en": "Bad Moms"
+      },
+      "overview": {
+        "de": "Wie eine weibliche Version von \"Hangover\": Die \"Bad Moms\" hauen mit deftigen Gags ordentlich auf den Putz. - Amy (Mila Kunis) hatte einen stressigen Tag: Der Hund muss zum Arzt, sie hat sich mit Kaffee überschüttet und ihrer Tochter das erste Fußballtraining versaut. Da kommt ihr die Kuchen-Polizei um Elternbeirätin Gwendolyn (Christina Applegate) auch noch mit irren Zutaten-Verboten quer. Amys neue Devise: Bad Moms statt Vorzeige-Mütter! Mit ihren Freundinnen (Kathryn Hahn, Kristen Bell) schaltet sie in den Party-Modus - doch die Vorzeige-Hausfrauen schlagen umgehend zurück.",
+        "en": "Three overworked, overcommitted, and stressed-out moms join forces on a quest to liberate themselves from conventional responsibilities."
+      },
+      "releaseYear": 2016,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 62
+    },
+    {
+      "showId": "489",
+      "imdbId": "tt2375692",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-11-02",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.98a04798-facc-4583-99d6-949f99b7da05",
+      "title": {
+        "de": "Black Sails",
+        "en": "Black Sails"
+      },
+      "overview": {
+        "de": "Captain Flint und seine Männer wollen die sagenumwobene \"Urca de Lima\" kapern. An Bord dieser spanischen Galeone soll sich ein unermesslicher Schatz befinden.",
+        "en": "A STARZ original series, the pirate adventure BLACK SAILS, centers on the tales of Captain Flint and his notorious crew as they fight for fortune and survival prior to the events portrayed in the book \"Treasure Island.\""
+      },
+      "releaseYear": 2014,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": 77
+    },
+    {
+      "showId": "4783593",
+      "imdbId": "tt27599265",
+      "provider": "apple",
+      "showType": "movie",
+      "addedAt": "2026-11-02",
+      "upcoming": false,
+      "link": "https://tv.apple.com/de/movie/bread--roses-a-fight-for-womens-rights/umc.cmc.76dp605jvw9didum9xrra5hvc?playableId=tvs.sbd.4000%3AA0169701001",
+      "title": {
+        "de": "Bread & Roses: A Fight for Women's Rights",
+        "en": "Bread & Roses"
+      },
+      "overview": {
+        "de": "",
+        "en": "In the wake of the Taliban’s return to power, a group of Kabul women lead a fight for their rights—and their lives."
+      },
+      "releaseYear": 2024,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        }
+      ],
+      "rating": 56
+    },
+    {
+      "showId": "66",
+      "imdbId": "tt0111161",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-11-02",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/die-verurteilten-p_276317",
+      "title": {
+        "de": "Die Verurteilten",
+        "en": "The Shawshank Redemption"
+      },
+      "overview": {
+        "de": "Zweimal lebenslänglich - diese Strafe muss Bankier Andy Dufresne (Tim Robbins) für den Mord an seiner Frau und deren Liebhaber in dem berüchtigten Gefängnis von Shawshank verbüßen, obwohl er stets seine Unschuld beteuerte. Der Knast-Alltag ist extrem hart. Die sadistischen Gefängniswärter und der selbstherrliche Direktor Norton (Bob Gunton) schikanieren die Gefangenen bis aufs Äußerste. Andy er...",
+        "en": "A man is thrown into the brutality of prison life when he gets two life sentences for a crime he claims he didn't commit. Drama starring Tim Robbins and Morgan Freeman. (1995)(142 mins)"
+      },
+      "releaseYear": 1994,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": 90
+    },
+    {
+      "showId": "70187",
+      "imdbId": "tt0101960",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-11-02",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/go-trabi-go-p_1222",
+      "title": {
+        "de": "Go Trabi Go",
+        "en": "Go Trabi Go"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 1991,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 59
+    },
+    {
+      "showId": "138",
+      "imdbId": "tt0099685",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-11-02",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/goodfellas-drei-jahrzehnte-in-der-mafia-p_277819",
+      "title": {
+        "de": "GoodFellas",
+        "en": "GoodFellas"
+      },
+      "overview": {
+        "de": "",
+        "en": "Henry Hill, a poor Irish-Italian rises through the ranks of an organized crime branch."
+      },
+      "releaseYear": 1990,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        }
+      ],
+      "rating": 86
+    },
+    {
+      "showId": "303",
+      "imdbId": "tt0480249",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-11-02",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/i-am-legend-p_274076",
+      "title": {
+        "de": "I Am Legend",
+        "en": "I Am Legend"
+      },
+      "overview": {
+        "de": "Ein Medikament verwandelt Menschen in Vampire. Nur ein Mensch überlebt, um gegen sie zu kämpfen.",
+        "en": "In a post-apocalyptic New York City ravaged by plague, a brilliant scientist appears to be the sole human survivor battling vampire-like mutants."
+      },
+      "releaseYear": 2007,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Horror",
+          "en": "Horror"
+        },
+        {
+          "de": "Science-Fiction",
+          "en": "Science Fiction"
+        }
+      ],
+      "rating": 72
+    },
+    {
+      "showId": "4813529",
+      "imdbId": "tt2990702",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-11-02",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/keinohrhase-und-zweiohrkuken-p_276182",
+      "title": {
+        "de": "Keinohrhase und Zweiohrküken",
+        "en": "Rabbit Without Ears and Two-Eared Chick"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2013,
+      "genres": [
+        {
+          "de": "Animation",
+          "en": "Animation"
+        },
+        {
+          "de": "Familie",
+          "en": "Family"
+        }
+      ],
+      "rating": 42
+    },
+    {
+      "showId": "600",
+      "imdbId": "tt0242653",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-11-02",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/matrix-revolutions-p_219881",
+      "title": {
+        "de": "Matrix Revolutions",
+        "en": "The Matrix Revolutions"
+      },
+      "overview": {
+        "de": "Neo. Trinity. Morpheus. Im atemberaubenden letzten Kapitel der Matrix-Trilogie stehen sie und die übrigen Helden am Rande von Sieg oder Vernichtung im ultimativen Kampf gegen die Maschinen.",
+        "en": "In this explosive final chapter of the Matrix trilogy, Neo, Morpheus and Trinity battle to defend Zion, the last real-world city, against the onslaught of the machines that have enslaved the human race. And, now as Neo learns more about his heroic powers--including the ability to see the codes of things and the people, he faces the consequences of the choice made in The Matrix Reloaded."
+      },
+      "releaseYear": 2003,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Science-Fiction",
+          "en": "Science Fiction"
+        }
+      ],
+      "rating": 67
+    },
+    {
+      "showId": "25897063",
+      "imdbId": "tt32430683",
+      "provider": "apple",
+      "showType": "movie",
+      "addedAt": "2026-11-02",
+      "upcoming": false,
+      "link": "https://tv.apple.com/de/movie/messi-mania/umc.cmc.58su2j1i0etuvq64m6nxfm11y?playableId=tvs.sbd.4000%3AMESSI2023-FEATURE-1",
+      "title": {
+        "de": "Messi Mania",
+        "en": "Messi Mania"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2023,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "1705",
+      "imdbId": "tt0972412",
+      "provider": "rtl",
+      "showType": "series",
+      "addedAt": "2026-11-02",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/private-practice-p_8086",
+      "title": {
+        "de": "Private Practice",
+        "en": "Private Practice"
+      },
+      "overview": {
+        "de": "",
+        "en": "Dr Addison Montgomery is a neonatal surgeon who moves to Los Angeles to join a private practice. Addison and her co-workers have to deal with patients and the practice while still finding time to live their lives."
+      },
+      "releaseYear": 2007,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": 69
+    },
+    {
+      "showId": "4397454",
+      "imdbId": "tt7578486",
+      "provider": "apple",
+      "showType": "movie",
+      "addedAt": "2026-11-02",
+      "upcoming": false,
+      "link": "https://tv.apple.com/de/show/breakaway/umc.cmc.183ozzhvpkijmzgaa6irat6x5",
+      "title": {
+        "de": "Rivière",
+        "en": "Breakaway"
+      },
+      "overview": {
+        "de": "",
+        "en": "A 17-year-old embarks on a quest to find her missing father, navigating life while pursuing her dream of becoming a pro hockey player."
+      },
+      "releaseYear": 2023,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": 51
+    },
+    {
+      "showId": "92",
+      "imdbId": "tt0114369",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-11-02",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/sieben-p_269144",
+      "title": {
+        "de": "Sieben",
+        "en": "Se7en"
+      },
+      "overview": {
+        "de": "",
+        "en": "Detectives probe a series of baffling murders based on the seven deadly sins."
+      },
+      "releaseYear": 1995,
+      "genres": [
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        },
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        }
+      ],
+      "rating": 85
+    },
+    {
+      "showId": "609",
+      "imdbId": "tt6723592",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-11-02",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/tenet-p_277825",
+      "title": {
+        "de": "Tenet",
+        "en": "Tenet"
+      },
+      "overview": {
+        "de": "Im Kampf um den Fortbestand der ganzen Welt taucht der Protagonist in die zwielichtige Welt internationaler Spionage ein. Seine Mission? Völlig von der Zeit losgelöst.",
+        "en": "A secret agent embarks on a dangerous, time-bending mission to prevent the start of World War III."
+      },
+      "releaseYear": 2020,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Science-Fiction",
+          "en": "Science Fiction"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 72
+    },
+    {
+      "showId": "8870517",
+      "imdbId": "tt9022422",
+      "provider": "rtl",
+      "showType": "series",
+      "addedAt": "2026-11-02",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/tattooist-of-auschwitz-the-p_268906",
+      "title": {
+        "de": "The Tattooist of Auschwitz",
+        "en": "The Tattooist of Auschwitz"
+      },
+      "overview": {
+        "de": "",
+        "en": "Lali Sokolov, a Holocaust survivor and former tattooist at Auschwitz concentration camp, shares a remarkable story of love, trauma and resilience."
+      },
+      "releaseYear": 2024,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Geschichte",
+          "en": "History"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": 70
     },
     {
       "showId": "24862332",

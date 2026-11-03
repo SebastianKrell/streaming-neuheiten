@@ -1,6 +1,6 @@
 {
   "month": "2026-11",
-  "generatedAt": "2026-11-02T13:20:19.625Z",
+  "generatedAt": "2026-11-03T12:42:48.876Z",
   "entries": [
     {
       "showId": "16967",
@@ -1053,6 +1053,31 @@
       "rating": 56
     },
     {
+      "showId": "15206615",
+      "imdbId": "tt34965967",
+      "provider": "apple",
+      "showType": "movie",
+      "addedAt": "2026-11-02",
+      "upcoming": false,
+      "link": "https://tv.apple.com/de/movie/deaf-president-now/umc.cmc.4db5r1gvgok0a0dtdmkj44ea4?playableId=tvs.sbd.4000%3AA0178101001",
+      "title": {
+        "de": "Deaf President Now!",
+        "en": "Deaf President Now!"
+      },
+      "overview": {
+        "de": "",
+        "en": "Discover the story of the greatest civil rights movement most have never heard about."
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        }
+      ],
+      "rating": 58
+    },
+    {
       "showId": "66",
       "imdbId": "tt0111161",
       "provider": "rtl",
@@ -1076,6 +1101,31 @@
         }
       ],
       "rating": 90
+    },
+    {
+      "showId": "802039",
+      "imdbId": "tt21813994",
+      "provider": "apple",
+      "showType": "movie",
+      "addedAt": "2026-11-02",
+      "upcoming": false,
+      "link": "https://tv.apple.com/de/movie/fancy-dance/umc.cmc.37d0bk971uulosq5inlm3ikb1?playableId=tvs.sbd.4000%3AA0174001001",
+      "title": {
+        "de": "Fancy Dance",
+        "en": "Fancy Dance"
+      },
+      "overview": {
+        "de": "Nach dem Verschwinden ihrer Schwester flieht Jax (Lily Gladstone) vor dem Gesetz und tritt mit ihrer Nichte eine Reise an.",
+        "en": "Following her sister’s disappearance, Jax (Lily Gladstone) and her niece Roki must stick together. Desperate to keep what’s left of their family intact, Jax and Roki defy the law and hit the road on a journey to the Grand Nation Powwow in Oklahoma City."
+      },
+      "releaseYear": 2024,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": 65
     },
     {
       "showId": "70187",
@@ -1329,6 +1379,35 @@
         }
       ],
       "rating": 85
+    },
+    {
+      "showId": "1663",
+      "imdbId": "tt0448134",
+      "provider": "apple",
+      "showType": "movie",
+      "addedAt": "2026-11-02",
+      "upcoming": false,
+      "link": "https://tv.apple.com/de/movie/sunshine/umc.cmc.kjbya937j82mxlexdhbh3rg1?playableId=tvs.sbd.4000%3AWDSFY26FTR011",
+      "title": {
+        "de": "Sunshine",
+        "en": "Sunshine"
+      },
+      "overview": {
+        "de": "In fünfzig Jahren stirbt die Sonne - und mit ihr stirbt auch die Menschheit. Unsere letzte Hoffnung: ein Raumschiff, die Icarus II, mit einer internationalen Crew von acht Frauen und Männern. Unter Führung von Kapitän Kaneda soll das Team eine Sprengladung zur Sonne bringen, mit der sie den lebenswichtigen Stern wieder entzünden wollen. Es ist die letzte Chance der Menschheit zu überleben.",
+        "en": "A team of international astronauts is sent on a dangerous mission to reignite the dying Sun in 2057."
+      },
+      "releaseYear": 2007,
+      "genres": [
+        {
+          "de": "Science-Fiction",
+          "en": "Science Fiction"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 71
     },
     {
       "showId": "609",

@@ -1,6 +1,6 @@
 {
   "month": "2026-12",
-  "generatedAt": "2026-11-08T11:49:39.330Z",
+  "generatedAt": "2026-11-09T13:45:14.641Z",
   "entries": [
     {
       "showId": "25030318",
@@ -147,6 +147,39 @@
         {
           "de": "Romanze",
           "en": "Romance"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "26635370",
+      "imdbId": "tt31614143",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-12-10",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/82925778",
+      "title": {
+        "de": "The Murder of JonBenét Ramsey",
+        "en": "The Murder of JonBenét Ramsey"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        },
+        {
+          "de": "Mystery",
+          "en": "Mystery"
         }
       ],
       "rating": null

@@ -1,6 +1,6 @@
 {
   "month": "2026-11",
-  "generatedAt": "2026-11-09T13:45:14.641Z",
+  "generatedAt": "2026-11-10T13:23:29.959Z",
   "entries": [
     {
       "showId": "16967",
@@ -113,31 +113,6 @@
         }
       ],
       "rating": 52
-    },
-    {
-      "showId": "19382",
-      "imdbId": "tt1411664",
-      "provider": "netflix",
-      "showType": "movie",
-      "addedAt": "2026-11-01",
-      "upcoming": true,
-      "link": "https://www.netflix.com/title/70124560",
-      "title": {
-        "de": "Bucky Larson: Born to Be a Star",
-        "en": "Bucky Larson: Born to Be a Star"
-      },
-      "overview": {
-        "de": "A small-town grocery bagger (Nick Swardson) believes he has found his true destiny when he discovers that his conservative parents were once porn stars.",
-        "en": "An aimless grocery bagger who discovers his conservative parents were once porn stars goes to L.A. hoping to find his destiny in the adult film world."
-      },
-      "releaseYear": 2011,
-      "genres": [
-        {
-          "de": "Komödie",
-          "en": "Comedy"
-        }
-      ],
-      "rating": 36
     },
     {
       "showId": "23220",
@@ -917,26 +892,6 @@
       "rating": 46
     },
     {
-      "showId": "395231",
-      "imdbId": "tt21919870",
-      "provider": "netflix",
-      "showType": "movie",
-      "addedAt": "2026-11-01",
-      "upcoming": true,
-      "link": "https://www.netflix.com/title/83297763",
-      "title": {
-        "de": "심장소리",
-        "en": "Heartbeat"
-      },
-      "overview": {
-        "de": "",
-        "en": ""
-      },
-      "releaseYear": 2022,
-      "genres": [],
-      "rating": 38
-    },
-    {
       "showId": "3624",
       "imdbId": "tt4651520",
       "provider": "rtl",
@@ -1443,68 +1398,6 @@
       "rating": 70
     },
     {
-      "showId": "24862332",
-      "imdbId": "tt39957390",
-      "provider": "netflix",
-      "showType": "series",
-      "addedAt": "2026-11-03",
-      "upcoming": true,
-      "link": "https://www.netflix.com/title/81088875",
-      "title": {
-        "de": "Bass X Machina",
-        "en": "Bass X Machina"
-      },
-      "overview": {
-        "de": "",
-        "en": ""
-      },
-      "releaseYear": 2026,
-      "genres": [
-        {
-          "de": "Action",
-          "en": "Action"
-        },
-        {
-          "de": "Animation",
-          "en": "Animation"
-        },
-        {
-          "de": "Science-Fiction",
-          "en": "Science Fiction"
-        }
-      ],
-      "rating": null
-    },
-    {
-      "showId": "24601422",
-      "imdbId": "tt33305882",
-      "provider": "netflix",
-      "showType": "movie",
-      "addedAt": "2026-11-04",
-      "upcoming": true,
-      "link": "https://www.netflix.com/title/82713545",
-      "title": {
-        "de": "A Great Awakening",
-        "en": "A Great Awakening"
-      },
-      "overview": {
-        "de": "",
-        "en": ""
-      },
-      "releaseYear": 2026,
-      "genres": [
-        {
-          "de": "Drama",
-          "en": "Drama"
-        },
-        {
-          "de": "Geschichte",
-          "en": "History"
-        }
-      ],
-      "rating": 40
-    },
-    {
       "showId": "121660",
       "imdbId": "tt14300966",
       "provider": "rtl",
@@ -1532,39 +1425,6 @@
         }
       ],
       "rating": 55
-    },
-    {
-      "showId": "27068994",
-      "imdbId": "tt39750664",
-      "provider": "netflix",
-      "showType": "movie",
-      "addedAt": "2026-11-05",
-      "upcoming": true,
-      "link": "https://www.netflix.com/title/81993326",
-      "title": {
-        "de": "แก๊งโอเวอร์",
-        "en": "Overacting"
-      },
-      "overview": {
-        "de": "",
-        "en": ""
-      },
-      "releaseYear": 2026,
-      "genres": [
-        {
-          "de": "Action",
-          "en": "Action"
-        },
-        {
-          "de": "Komödie",
-          "en": "Comedy"
-        },
-        {
-          "de": "Krimi",
-          "en": "Crime"
-        }
-      ],
-      "rating": null
     },
     {
       "showId": "196718",
@@ -13677,12 +13537,66 @@
       "rating": 55
     },
     {
-      "showId": "17017",
-      "imdbId": "tt0149624",
+      "showId": "26635759",
+      "imdbId": "tt39453578",
       "provider": "netflix",
       "showType": "movie",
       "addedAt": "2026-11-09",
       "upcoming": true,
+      "link": "https://www.netflix.com/title/81955038",
+      "title": {
+        "de": "Un bon avocat",
+        "en": "The Good Lawyer"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "24601422",
+      "imdbId": "tt33305882",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-10",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/82713545",
+      "title": {
+        "de": "A Great Awakening",
+        "en": "A Great Awakening"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Geschichte",
+          "en": "History"
+        }
+      ],
+      "rating": 40
+    },
+    {
+      "showId": "17017",
+      "imdbId": "tt0149624",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-10",
+      "upcoming": false,
       "link": "https://www.netflix.com/title/60004267",
       "title": {
         "de": "All die schönen Pferde",
@@ -13710,12 +13624,471 @@
       "rating": 57
     },
     {
+      "showId": "5519",
+      "imdbId": "tt1600195",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-10",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/70183164",
+      "title": {
+        "de": "Atemlos - Gefährliche Wahrheit",
+        "en": "Abduction"
+      },
+      "overview": {
+        "de": "",
+        "en": "For as long as he can remember, Nathan (Taylor Lautner) has had the uneasy feeling that he's living someone else's life. When he stumbles upon an image of himself as a little boy on a missing persons website, all of Nathan's darkest fears come true."
+      },
+      "releaseYear": 2011,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        }
+      ],
+      "rating": 52
+    },
+    {
+      "showId": "24862332",
+      "imdbId": "tt39957390",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-11-10",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/81088875",
+      "title": {
+        "de": "Bass X Machina",
+        "en": "Bass X Machina"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Animation",
+          "en": "Animation"
+        },
+        {
+          "de": "Fantasy",
+          "en": "Fantasy"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "1438",
+      "imdbId": "tt0120611",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-11-10",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/blade-p_268546",
+      "title": {
+        "de": "Blade",
+        "en": "Blade"
+      },
+      "overview": {
+        "de": "Ein Mann, halb Vampir, halb Sterblicher, wird zum Beschützer der sterblichen Rasse und tötet böse Vampire.",
+        "en": "A half-vampire, half-mortal man becomes a protector of the mortal race, while slaying evil vampires."
+      },
+      "releaseYear": 1998,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Horror",
+          "en": "Horror"
+        },
+        {
+          "de": "Science-Fiction",
+          "en": "Science Fiction"
+        }
+      ],
+      "rating": 70
+    },
+    {
+      "showId": "8320",
+      "imdbId": "tt1540011",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-10",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/80111413",
+      "title": {
+        "de": "Blair Witch",
+        "en": "Blair Witch"
+      },
+      "overview": {
+        "de": "",
+        "en": "After discovering a video showing what he believes to be his vanished sister Heather, James and a group of friends head into the Black Hills Forest in Maryland, which many believe is connected to the legend of the Blair Witch."
+      },
+      "releaseYear": 2016,
+      "genres": [
+        {
+          "de": "Horror",
+          "en": "Horror"
+        },
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 50
+    },
+    {
+      "showId": "19382",
+      "imdbId": "tt1411664",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-10",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/70124560",
+      "title": {
+        "de": "Bucky Larson: Born to Be a Star",
+        "en": "Bucky Larson: Born to Be a Star"
+      },
+      "overview": {
+        "de": "A small-town grocery bagger (Nick Swardson) believes he has found his true destiny when he discovers that his conservative parents were once porn stars.",
+        "en": "An aimless grocery bagger who discovers his conservative parents were once porn stars goes to L.A. hoping to find his destiny in the adult film world."
+      },
+      "releaseYear": 2011,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 36
+    },
+    {
+      "showId": "23371207",
+      "imdbId": "tt19359568",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-11-10",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/bully-leider-live-die-letzten-stunden-vor-der-show-p_277131",
+      "title": {
+        "de": "Bully",
+        "en": "Bully"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2024,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": 39
+    },
+    {
+      "showId": "108708",
+      "imdbId": "tt2186566",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-11-10",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/das-kleine-gespenst-p_255329",
+      "title": {
+        "de": "Das kleine Gespenst",
+        "en": "The Little Ghost"
+      },
+      "overview": {
+        "de": "",
+        "en": "Follow The Little Ghost on this adventure to see his first sunrise ever!"
+      },
+      "releaseYear": 2013,
+      "genres": [
+        {
+          "de": "Familie",
+          "en": "Family"
+        },
+        {
+          "de": "Fantasy",
+          "en": "Fantasy"
+        }
+      ],
+      "rating": 54
+    },
+    {
+      "showId": "1556",
+      "imdbId": "tt0170016",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-10",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/60000901",
+      "title": {
+        "de": "Der Grinch",
+        "en": "How the Grinch Stole Christmas"
+      },
+      "overview": {
+        "de": "Der Grinch, ein grünes Wesen mit einem Herzen aus Stein, wohnt in den Bergen hoch über dem idyllischen Städtchen Whoville. Übellaunig und verschlagen haßt er eine Sache ganz besonders: fröhliche Menschen, zum Beispiel solche, die sich auf Weihnachten freuen. Also faßt er einen besonders perfiden Plan - er will das Christfest einfach stehlen.",
+        "en": "A curmudgeon hates the Christmas-loving Whos of Whoville."
+      },
+      "releaseYear": 2000,
+      "genres": [
+        {
+          "de": "Familie",
+          "en": "Family"
+        },
+        {
+          "de": "Fantasy",
+          "en": "Fantasy"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 64
+    },
+    {
+      "showId": "21334",
+      "imdbId": "tt0070832",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-10",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/60028616",
+      "title": {
+        "de": "Drei Haselnüsse für Aschenbrödel",
+        "en": "Three Wishes for Cinderella"
+      },
+      "overview": {
+        "de": "",
+        "en": "Life changes dramatically for a Czech housemaid when the chauffeur gives her three magical hazelnuts."
+      },
+      "releaseYear": 1973,
+      "genres": [
+        {
+          "de": "Familie",
+          "en": "Family"
+        },
+        {
+          "de": "Fantasy",
+          "en": "Fantasy"
+        }
+      ],
+      "rating": 65
+    },
+    {
+      "showId": "4614",
+      "imdbId": "tt1195478",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-10",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/70208103",
+      "title": {
+        "de": "Fast verheiratet",
+        "en": "The Five-Year Engagement"
+      },
+      "overview": {
+        "de": "Herzergreifend und saukomisch: originelle Romantikkomödie aus der Schmiede von Comedyguru Judd Apatow (\"Beim ersten Mal\"). - Ein Jahr, nachdem sie sich kennengelernt haben, verloben sich Edelkoch Tom und Studentin Violet (Jason Segel, Emily Blunt). Aber irgendwie klappt es nie mit der geplanten Hochzeit. Als das Paar ins kalte Michigan umzieht und Tom dafür seinen Job aufgibt, sinkt die Stimmung weiter. Ehe sich die beiden versehen, sind fünf krisenhafte Jahre um - und Violet und Tom müssen noch einmal ganz von vorne anfangen.",
+        "en": "One year after meeting, Tom proposes to his girlfriend, Violet, but unexpected events keep tripping them up as they look to walk down the aisle together."
+      },
+      "releaseYear": 2012,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": 61
+    },
+    {
+      "showId": "24601110",
+      "imdbId": "tt4357198",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-10",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/82042647",
+      "title": {
+        "de": "How to Make a Killing: Todsicheres Erbe",
+        "en": "How to Make a Killing"
+      },
+      "overview": {
+        "de": "Becket Redfellow hat Witz, Stil, Bildung und Charme - nur nicht das milliardenschwere Vermögen, das ihm laut seiner Mutter zusteht. Becket entwickelt einen raffiniert-mörderischen Plan, um die sieben Verwandten, die zwischen ihm und dem Erbe stehen, aus dem Weg zu räumen. John Patton Fords Rachethriller besticht mit mörderisch schwarzem Humor und Glen Powell als charismatischem Antihelden.",
+        "en": "A man will stop at nothing to reclaim his inheritance from his obscenely wealthy family."
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 66
+    },
+    {
+      "showId": "16871",
+      "imdbId": "tt12867750",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-11-10",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/81404914",
+      "title": {
+        "de": "Magst du Brahms?",
+        "en": "Do You Like Brahms?"
+      },
+      "overview": {
+        "de": "",
+        "en": "Song Ah finds her new musical academic life daunting. One day, she meets Joong Young, a talented pianist."
+      },
+      "releaseYear": 2020,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Musik",
+          "en": "Music"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": 60
+    },
+    {
+      "showId": "90514",
+      "imdbId": "tt7692814",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-11-10",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/mein-weihnachtsprinz-p_1004",
+      "title": {
+        "de": "Mein Weihnachtsprinz",
+        "en": "My Christmas Prince"
+      },
+      "overview": {
+        "de": "",
+        "en": "After bringing her diplomat boyfriend home for the holidays, a teacher gets a big surprise when she learns he's actually the Prince of Madelvia."
+      },
+      "releaseYear": 2017,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Familie",
+          "en": "Family"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 54
+    },
+    {
+      "showId": "965",
+      "imdbId": "tt2381249",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-10",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/80038359",
+      "title": {
+        "de": "Mission: Impossible - Rogue Nation",
+        "en": "Mission: Impossible - Rogue Nation"
+      },
+      "overview": {
+        "de": "Mit der IMF aufgelöst, verbünden sich Ethan und sein Team mit einer verleugneten britischen Agentin, die ein Mitglied dieser Geheimorganisation sein könnte und tritt an gegen ein Netzwerk hochqualifizierter Spezialagenten, dem Syndikat.",
+        "en": "With his organization shut down, agent Ethan Hunt and his team race against time to stop a dangerous network of rogue operatives turned traitors. To defeat them, he must join forces with an elusive agent as he faces his most impossible mission yet."
+      },
+      "releaseYear": 2015,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 73
+    },
+    {
+      "showId": "25195",
+      "imdbId": "tt7985704",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-10",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/81517538",
+      "title": {
+        "de": "Operation Fortune",
+        "en": "Operation Fortune: Ruse de Guerre"
+      },
+      "overview": {
+        "de": "In Odessa haben Gangster eine noch unbekannte, aber hochgefährliche Technologie in ihre Gewalt gebracht und wollen sie nun weiterverkaufen. Agent Orson Fortune und sein Team sollen dies im Auftrag der britischen Regierung verhindern und mehr über diese neue Technologie herausfinden. Die Spur führt zu dem milliardenschweren Waffenhändler Greg Simmonds. Mit Hilfe eines Hollywoodstars will sich Fortune zu diesem Zutritt verschaffen.",
+        "en": "Special Agent Orson Fortune and his team of agents recruit one of Hollywood's biggest movie stars to help them on a covert mission when the sale of new weapons technology threatens to disrupt world order."
+      },
+      "releaseYear": 2023,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Action",
+          "en": "Action"
+        }
+      ],
+      "rating": 63
+    },
+    {
       "showId": "1034",
       "imdbId": "tt3281796",
       "provider": "netflix",
       "showType": "series",
-      "addedAt": "2026-11-09",
-      "upcoming": true,
+      "addedAt": "2026-11-10",
+      "upcoming": false,
       "link": "https://www.netflix.com/title/70298433",
       "title": {
         "de": "Power",
@@ -13743,8 +14116,8 @@
       "imdbId": "tt11761176",
       "provider": "netflix",
       "showType": "series",
-      "addedAt": "2026-11-09",
-      "upcoming": true,
+      "addedAt": "2026-11-10",
+      "upcoming": false,
       "link": "https://www.netflix.com/title/83021610",
       "title": {
         "de": "Power Book III: Raising Kanan",
@@ -13768,16 +14141,70 @@
       "rating": 67
     },
     {
-      "showId": "26635759",
-      "imdbId": "tt39453578",
+      "showId": "16449",
+      "imdbId": "tt5260064",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-11-10",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/80998942",
+      "title": {
+        "de": "Remember",
+        "en": "Remember: War of the Son"
+      },
+      "overview": {
+        "de": "",
+        "en": "The story is about a lawyer suffering from hyperthymestic memory syndrome fighting against a huge power to exonerate his father."
+      },
+      "releaseYear": 2015,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 58
+    },
+    {
+      "showId": "313724",
+      "imdbId": "tt4906190",
       "provider": "netflix",
       "showType": "movie",
-      "addedAt": "2026-11-09",
-      "upcoming": true,
-      "link": "https://www.netflix.com/title/81955038",
+      "addedAt": "2026-11-10",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/83200180",
       "title": {
-        "de": "Un bon avocat",
-        "en": "The Good Lawyer"
+        "de": "Sam Smith: Dreams Come True",
+        "en": "Sam Smith: Dreams Come True"
+      },
+      "overview": {
+        "de": "",
+        "en": "Follow the rapid ascent to fame of this British singer/songwriter with the unforgettable voice, from his humble beginnings to the 2015 Grammys."
+      },
+      "releaseYear": 2015,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        }
+      ],
+      "rating": 49
+    },
+    {
+      "showId": "26601582",
+      "imdbId": "tt44825373",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-10",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/82059675",
+      "title": {
+        "de": "SCTV: The Greatest Show You've Never Heard Of",
+        "en": "SCTV: The Greatest Show You've Never Heard Of"
       },
       "overview": {
         "de": "",
@@ -13786,11 +14213,469 @@
       "releaseYear": 2026,
       "genres": [
         {
-          "de": "Drama",
-          "en": "Drama"
+          "de": "Dokumentation",
+          "en": "Documentary"
         }
       ],
       "rating": null
+    },
+    {
+      "showId": "64403",
+      "imdbId": "tt14731416",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-11-10",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/82118670",
+      "title": {
+        "de": "Sesame Street’s Mecha Builders",
+        "en": "Mecha Builders"
+      },
+      "overview": {
+        "de": "Mecha Elmo, Mecha Abby und Mecha Cookie Monster nutzen ihre Fähigkeiten, um Probleme in der Stadt zu lösen: Wie baut man eine Brücke? Warum schmilzt Schnee? Was muss ein Monster tun, um einen Keks zu bekommen? Die drei entdecken dabei die Eigenschaften ihrer Anzüge und lernen zusammenzuarbeiten.",
+        "en": "Mecha Elmo, Mecha Cookie Monster and Mecha Abby are ready to problem solve the most out-of-this-world situations. Using their robo-skills, the Mecha Builders are here to help -- it just might take them a few tries before they save the day!"
+      },
+      "releaseYear": 2022,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Animation",
+          "en": "Animation"
+        }
+      ],
+      "rating": 48
+    },
+    {
+      "showId": "71958",
+      "imdbId": "tt0409527",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-11-10",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/shabd-spiel-mit-der-liebe-p_68193",
+      "title": {
+        "de": "Shabd - Spiel mit der Liebe",
+        "en": "Shabd"
+      },
+      "overview": {
+        "de": "",
+        "en": "A gifted writer tries to write his next book while his wife begins to attract the attention of another man."
+      },
+      "releaseYear": 2005,
+      "genres": [
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 47
+    },
+    {
+      "showId": "27074256",
+      "imdbId": "tt41007422",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-10",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/82169580",
+      "title": {
+        "de": "Thomas & seine Freunde: Wirklich Nützliche Loks",
+        "en": "Thomas & Friends: Railway Stories - Really Helpful Engines"
+      },
+      "overview": {
+        "de": "",
+        "en": "When Gordon needs help, Thomas takes on extra work alone to prove himself. But a busy day on Sodor shows that even useful engines need their friends."
+      },
+      "releaseYear": 2026,
+      "genres": [],
+      "rating": null
+    },
+    {
+      "showId": "424",
+      "imdbId": "tt0418279",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-10",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/70058026",
+      "title": {
+        "de": "Transformers",
+        "en": "Transformers"
+      },
+      "overview": {
+        "de": "Gegnerische Alien-Rassen, die Autobots und die Deceptions, bringen ihren Kampf auf die Erde und setzen die Zukunft der Menschheit aufs Spiel.",
+        "en": "Two intergalactic races of robots crash-land on Earth; the future of humankind hangs in balance."
+      },
+      "releaseYear": 2007,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Science-Fiction",
+          "en": "Science Fiction"
+        }
+      ],
+      "rating": 70
+    },
+    {
+      "showId": "859",
+      "imdbId": "tt1055369",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-10",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/70103763",
+      "title": {
+        "de": "Transformers - Die Rache",
+        "en": "Transformers: Revenge of the Fallen"
+      },
+      "overview": {
+        "de": "Der Kampf um die Erde geht weiter. Sam Witwicky, der mittlerweile aufs College geht, erfährt die Wahrheit über die geschichtlichen Ursprünge der Transformers. Er muss sein Schicksal annehmen und gemeinsam mit Optimus Prime und Bumblebee den gewaltigen Kampf aufnehmen - gegen die Decepticons, die stärker als zuvor zurückgekehrt sind, mit dem Plan, unsere Welt zu zerstören.",
+        "en": "Sam Witwicky (Shia LaBeouf) holds the key to defeating an ancient Decepticon."
+      },
+      "releaseYear": 2009,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Science-Fiction",
+          "en": "Science Fiction"
+        }
+      ],
+      "rating": 60
+    },
+    {
+      "showId": "851",
+      "imdbId": "tt1399103",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-10",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/70153859",
+      "title": {
+        "de": "Transformers 3",
+        "en": "Transformers: Dark of the Moon"
+      },
+      "overview": {
+        "de": "Ein geheimnisvolles Ereignis der jüngsten Vergangenheit droht, einen Krieg von solchen Ausmaßen zu entfesseln, dass die Transformers ohne Hilfe nicht in der Lage sein werden, den Planeten zu retten. Sam Witwicky (Shia LaBeouf) und die Autobots müssen in diesem Riesenerfolg von Regisseur Michael Bay und ausführendem Produzenten Steven Spielberg erneut antreten, um unsere Welt gegen das alles verzehrende Böse der Decepticons zu verteidigen!",
+        "en": "Sam Witwicky once again joins the battle between Autobots and Decepticons."
+      },
+      "releaseYear": 2011,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Action",
+          "en": "Action"
+        }
+      ],
+      "rating": 62
+    },
+    {
+      "showId": "1220",
+      "imdbId": "tt2109248",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-10",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/70299855",
+      "title": {
+        "de": "Transformers: Ära des Untergangs",
+        "en": "Transformers: Age of Extinction"
+      },
+      "overview": {
+        "de": "Regisseur Michael Bay und Produzent Steven Spielberg liefern uns den besten 'Transformers' aller Zeiten! Die Menschheit steht durch eine schreckliche neue Bedrohung kurz vor der Ausrottung und es liegt an Optimus Prime und den Autobots, die Welt zu retten. Aber da unsere Regierung sie ächtete, brauchen sie ein neues Team aus Verbündeten, darunter den Erfinder Cade Yeager (Mark Wahlberg) und die fürchterlichen Dinobots!",
+        "en": "As humanity picks up the pieces after an epic battle, a shadowy group emerges to control history."
+      },
+      "releaseYear": 2014,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Action",
+          "en": "Action"
+        }
+      ],
+      "rating": 56
+    },
+    {
+      "showId": "2983",
+      "imdbId": "tt3371366",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-10",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/80164399",
+      "title": {
+        "de": "Transformers: The Last Knight",
+        "en": "Transformers: The Last Knight"
+      },
+      "overview": {
+        "de": "Von Regisseur Michael Bay und Produzent Steven Spielberg kommt der bisher gewaltigste, explosivste Transformers. Der größte Held unserer Welt wird zu unserem erbittertsten Feind, wenn Optimus Prime eine Mission startet, bei der die Erde zerstört wird, um Cybertron zu retten. Jetzt müssen Bumblebee und Cade Yeager (Mark Wahlberg) die Autobots gegen ihren einstigen Verbündeten in die ultimative Schlacht führen, um die Menschheit vor ihrer Vernichtung zu bewahren.",
+        "en": "When Optimus Prime turns against mankind, Bumblebee leads the Autobots into a battle to save Earth."
+      },
+      "releaseYear": 2017,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Action",
+          "en": "Action"
+        }
+      ],
+      "rating": 54
+    },
+    {
+      "showId": "57765",
+      "imdbId": "tt9103028",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-10",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/81636792",
+      "title": {
+        "de": "Weihnachten in Christmas Creek",
+        "en": "Return to Christmas Creek"
+      },
+      "overview": {
+        "de": "In der Vorweihnachtszeit kehrt Amelia Hughes, eine karriereorientierte App-Entwicklerin aus Chicago, die so gar nicht in Weihnachtsstimmung ist, in ihr Heimatstädtchen Christmas Creek zurück, um die Bedeutung von Weihnachten wiederzuentdecken. Dort trifft sie ihren besten Freund aus der Kindheit, Mike, und ihren entfremdeten Onkel, Harry, dessen rätselhaftes Zerwürfnis mit Amelias Vater ihre Familie während der Weihnachtszeit entzweit hat, als sie noch ein Kind war. Während sie sich an den örtlichen Weihnachtsfeierlichkeiten beteiligt - und sich langsam in Mike verliebt -, kehrt die Weihnachtsstimmung in Amelias Herz zurück.",
+        "en": "A young CEO returns to her hometown to reconnect with friends and family."
+      },
+      "releaseYear": 2018,
+      "genres": [
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": 61
+    },
+    {
+      "showId": "27068994",
+      "imdbId": "tt39750664",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-10",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/81993326",
+      "title": {
+        "de": "แก๊งโอเวอร์",
+        "en": "Overacting"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "22210",
+      "imdbId": "tt5497708",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-11-10",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/81338545",
+      "title": {
+        "de": "돌아와요 아저씨",
+        "en": "Come Back Alive"
+      },
+      "overview": {
+        "de": "",
+        "en": "Idiot, middle-aged employee, loser daddy, and workaholic Young Soo suddenly encounters death by overwork. Gi Tak, once a mob boss who washed his hands of gang life and now runs a pub, also ends up leaving this world due to an unjust accident. Both meet in the afterlife as they board a train bound for heaven but quickly decide to jump off together as they aren't ready to say goodbye. They wish to return to mortal life in order to leave their loved ones in good hands, so they make a deal with an angel to reincarnate. The kind Young Soo returns as a total hardbody and Gi Tak as a beautiful young woman, but both soon end up running into difficulties as the bodies they're reborn into have problems of their own!"
+      },
+      "releaseYear": 2016,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Fantasy",
+          "en": "Fantasy"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 55
+    },
+    {
+      "showId": "34022",
+      "imdbId": "tt5084004",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-11-10",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/83243254",
+      "title": {
+        "de": "마을 - 아치아라의 비밀",
+        "en": "The Village: Achiara's Secret"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2015,
+      "genres": [
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 51
+    },
+    {
+      "showId": "17496",
+      "imdbId": "tt9165992",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-11-10",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/81514275",
+      "title": {
+        "de": "복수가 돌아왔다",
+        "en": "My Strange Hero"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2018,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 59
+    },
+    {
+      "showId": "22494",
+      "imdbId": "tt7208182",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-11-10",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/80999068",
+      "title": {
+        "de": "사랑의 온도",
+        "en": "Temperature of Love"
+      },
+      "overview": {
+        "de": "",
+        "en": "After talking online, a writer and a chef's budding romance begins when they meet in real life. However, they quickly find out how little they know about each other."
+      },
+      "releaseYear": 2017,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": 55
+    },
+    {
+      "showId": "395231",
+      "imdbId": "tt21919870",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-10",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/83297763",
+      "title": {
+        "de": "심장소리",
+        "en": "Heartbeat"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2022,
+      "genres": [],
+      "rating": 38
+    },
+    {
+      "showId": "13110",
+      "imdbId": "tt6256692",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-11-10",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/80999070",
+      "title": {
+        "de": "피고인",
+        "en": "Defendant"
+      },
+      "overview": {
+        "de": "",
+        "en": "Jung Woo's peaceful prosecutor life is rattled by a murder on his daughter's 6th birthday. Will justice be served for the loves of his life?"
+      },
+      "releaseYear": 2017,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        },
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        }
+      ],
+      "rating": 60
     },
     {
       "showId": "24976114",
@@ -14614,6 +15499,39 @@
         }
       ],
       "rating": null
+    },
+    {
+      "showId": "1979",
+      "imdbId": "tt9813792",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-11-24",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/81446288",
+      "title": {
+        "de": "FROM",
+        "en": "FROM"
+      },
+      "overview": {
+        "de": "From ist das Mysterium einer albtraumhaften Stadt, die alle gefangen hält, die sie betreten. Die unfreiwilligen Einwohner müssen einen Sinn für Normalität bewahren, einen Ausweg suchen und die Bedrohungen des umgebenden Waldes überleben.",
+        "en": "The closer the residents of town get to the answers they seek, the more terrifying their search becomes. Who is the Man in Yellow, and what does he want? Will Jade and Tabitha's revelation be the key to finally going home?"
+      },
+      "releaseYear": 2022,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Fantasy",
+          "en": "Fantasy"
+        },
+        {
+          "de": "Horror",
+          "en": "Horror"
+        }
+      ],
+      "rating": 78
     },
     {
       "showId": "24976650",

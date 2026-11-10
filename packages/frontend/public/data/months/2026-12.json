@@ -1,6 +1,6 @@
 {
   "month": "2026-12",
-  "generatedAt": "2026-11-09T13:45:14.641Z",
+  "generatedAt": "2026-11-10T13:23:29.959Z",
   "entries": [
     {
       "showId": "25030318",
@@ -183,6 +183,64 @@
         }
       ],
       "rating": null
+    },
+    {
+      "showId": "26518654",
+      "imdbId": "tt37593192",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-12-11",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/81481306",
+      "title": {
+        "de": "Bad Day",
+        "en": "Bad Day"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "24977553",
+      "imdbId": "tt27672817",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-12-11",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/82946622",
+      "title": {
+        "de": "In Waves",
+        "en": "In Waves"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Animation",
+          "en": "Animation"
+        },
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": 55
     }
   ]
 }

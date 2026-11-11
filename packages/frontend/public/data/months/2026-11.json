@@ -1,6 +1,6 @@
 {
   "month": "2026-11",
-  "generatedAt": "2026-11-10T13:23:29.959Z",
+  "generatedAt": "2026-11-11T12:35:09.961Z",
   "entries": [
     {
       "showId": "16967",
@@ -13537,31 +13537,6 @@
       "rating": 55
     },
     {
-      "showId": "26635759",
-      "imdbId": "tt39453578",
-      "provider": "netflix",
-      "showType": "movie",
-      "addedAt": "2026-11-09",
-      "upcoming": true,
-      "link": "https://www.netflix.com/title/81955038",
-      "title": {
-        "de": "Un bon avocat",
-        "en": "The Good Lawyer"
-      },
-      "overview": {
-        "de": "",
-        "en": ""
-      },
-      "releaseYear": 2026,
-      "genres": [
-        {
-          "de": "Drama",
-          "en": "Drama"
-        }
-      ],
-      "rating": null
-    },
-    {
       "showId": "24601422",
       "imdbId": "tt33305882",
       "provider": "netflix",
@@ -14678,12 +14653,37 @@
       "rating": 60
     },
     {
+      "showId": "27299844",
+      "imdbId": "tt39390491",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-11-11",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/82013594",
+      "title": {
+        "de": "Alicias Recht",
+        "en": "Alicia's Law"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": null
+    },
+    {
       "showId": "24976114",
       "imdbId": "tt41593493",
       "provider": "netflix",
       "showType": "movie",
       "addedAt": "2026-11-11",
-      "upcoming": true,
+      "upcoming": false,
       "link": "https://www.netflix.com/title/83018004",
       "title": {
         "de": "Avedon",
@@ -14708,7 +14708,7 @@
       "provider": "netflix",
       "showType": "series",
       "addedAt": "2026-11-11",
-      "upcoming": true,
+      "upcoming": false,
       "link": "https://www.netflix.com/title/81707977",
       "title": {
         "de": "ChiaroScuro",
@@ -14732,29 +14732,37 @@
       "rating": null
     },
     {
-      "showId": "27299844",
-      "imdbId": "tt39390491",
-      "provider": "netflix",
-      "showType": "series",
+      "showId": "4799",
+      "imdbId": "tt0479997",
+      "provider": "rtl",
+      "showType": "movie",
       "addedAt": "2026-11-11",
-      "upcoming": true,
-      "link": "https://www.netflix.com/title/82013594",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/der-letzte-tempelritter-p_281857",
       "title": {
-        "de": "La Ley de Alicia",
-        "en": "Alicia's Law"
+        "de": "Der letzte Tempelritter",
+        "en": "Season of the Witch"
       },
       "overview": {
-        "de": "",
-        "en": ""
+        "de": "Historienaction meets Mysteryhorror: Nicolas Cage und Ron Perlman bringen als Kreuzritter eine vermeintliche Hexe zum Prozess - und müssen gegen finstere Mächte kämpfen.",
+        "en": "Two Teutonic Knights return from the Crusades and must escort a witch blamed for the Black Plague to a distant abbey whose monks will lift her curse."
       },
-      "releaseYear": 2026,
+      "releaseYear": 2011,
       "genres": [
         {
-          "de": "Drama",
-          "en": "Drama"
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Fantasy",
+          "en": "Fantasy"
         }
       ],
-      "rating": null
+      "rating": 54
     },
     {
       "showId": "26343460",
@@ -14762,7 +14770,7 @@
       "provider": "netflix",
       "showType": "series",
       "addedAt": "2026-11-11",
-      "upcoming": true,
+      "upcoming": false,
       "link": "https://www.netflix.com/title/81983578",
       "title": {
         "de": "The Body",
@@ -14790,6 +14798,39 @@
       "rating": null
     },
     {
+      "showId": "6299",
+      "imdbId": "tt2402157",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-11-11",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/the-november-man-p_282806",
+      "title": {
+        "de": "The November Man",
+        "en": "The November Man"
+      },
+      "overview": {
+        "de": "Ein ehemaliger C.I.A.-Mitarbeiter wird auf eine sehr persönliche Mission zurückgebracht und befindet sich in einem tödlichen Spiel mit hochrangigen C.I.A.-Funktionären und dem designierten russischen Präsidenten gegen seinen ehemaligen Schüler.",
+        "en": "Five years into his retirement, CIA veteran Peter Devereaux (Pierce Brosnan) is pulled back into service to help retrieve a Russian agent -- also his former lover -- who has incriminating evidence on Federov, a corrupt Russian leader. When a different CIA team, led by Devereaux's former protege (Luke Bracey), shows up, the mission goes south and Devereaux's ex-lover is killed. Now a rogue agent..."
+      },
+      "releaseYear": 2014,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        }
+      ],
+      "rating": 62
+    },
+    {
       "showId": "27300873",
       "imdbId": "tt38420997",
       "provider": "netflix",
@@ -14807,6 +14848,31 @@
       },
       "releaseYear": 2026,
       "genres": [],
+      "rating": null
+    },
+    {
+      "showId": "26635759",
+      "imdbId": "tt39453578",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-11",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/81955038",
+      "title": {
+        "de": "Un bon avocat",
+        "en": "The Good Lawyer"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
       "rating": null
     },
     {

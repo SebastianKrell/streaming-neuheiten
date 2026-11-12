@@ -1,6 +1,6 @@
 {
   "month": "2026-11",
-  "generatedAt": "2026-11-11T12:35:09.961Z",
+  "generatedAt": "2026-11-12T13:39:14.535Z",
   "entries": [
     {
       "showId": "16967",
@@ -14881,7 +14881,7 @@
       "provider": "netflix",
       "showType": "movie",
       "addedAt": "2026-11-12",
-      "upcoming": true,
+      "upcoming": false,
       "link": "https://www.netflix.com/title/81382720",
       "title": {
         "de": "Allen",
@@ -14939,7 +14939,7 @@
       "provider": "netflix",
       "showType": "movie",
       "addedAt": "2026-11-12",
-      "upcoming": true,
+      "upcoming": false,
       "link": "https://www.netflix.com/title/81996126",
       "title": {
         "de": "Never Surrender",
@@ -14972,7 +14972,7 @@
       "provider": "netflix",
       "showType": "movie",
       "addedAt": "2026-11-12",
-      "upcoming": true,
+      "upcoming": false,
       "link": "https://www.netflix.com/title/82762076",
       "title": {
         "de": "Oskars Kleid",

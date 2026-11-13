@@ -1,7 +1,69 @@
 {
   "month": "2026-12",
-  "generatedAt": "2026-11-12T13:39:14.535Z",
+  "generatedAt": "2026-11-13T12:57:47.942Z",
   "entries": [
+    {
+      "showId": "27517857",
+      "imdbId": "tt37433759",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-12-01",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/81696435",
+      "title": {
+        "de": "Trinity",
+        "en": "Trinity"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "5460818",
+      "imdbId": "tt28756878",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-12-02",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/81958050",
+      "title": {
+        "de": "Der Zweite Weltkrieg: Von der Front",
+        "en": "World War II: From the Frontlines"
+      },
+      "overview": {
+        "de": "",
+        "en": "Through vividly enhanced archival footage and voices from all sides of the conflict, this documentary series brings WWII to life like never before."
+      },
+      "releaseYear": 2023,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        },
+        {
+          "de": "Geschichte",
+          "en": "History"
+        },
+        {
+          "de": "Krieg",
+          "en": "War"
+        }
+      ],
+      "rating": 67
+    },
     {
       "showId": "25030318",
       "imdbId": "tt16995302",
@@ -152,6 +214,35 @@
       "rating": null
     },
     {
+      "showId": "24859073",
+      "imdbId": "tt39196105",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-12-08",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/82718852",
+      "title": {
+        "de": "The Baddest Speechwriter of All",
+        "en": "The Baddest Speechwriter of All"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Animation",
+          "en": "Animation"
+        },
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        }
+      ],
+      "rating": null
+    },
+    {
       "showId": "26635370",
       "imdbId": "tt31614143",
       "provider": "netflix",
@@ -209,6 +300,31 @@
         {
           "de": "Komödie",
           "en": "Comedy"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "27518711",
+      "imdbId": "tt38973703",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-12-11",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/82061938",
+      "title": {
+        "de": "En nombre de otro",
+        "en": "Proxies"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Thriller",
+          "en": "Thriller"
         }
       ],
       "rating": null

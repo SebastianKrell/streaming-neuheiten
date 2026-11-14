@@ -1,6 +1,6 @@
 {
   "month": "2026-12",
-  "generatedAt": "2026-11-13T12:57:47.942Z",
+  "generatedAt": "2026-11-14T12:01:15.728Z",
   "entries": [
     {
       "showId": "27517857",
@@ -214,6 +214,68 @@
       "rating": null
     },
     {
+      "showId": "24593638",
+      "imdbId": "tt39089423",
+      "provider": "apple",
+      "showType": "movie",
+      "addedAt": "2026-12-04",
+      "upcoming": true,
+      "link": "https://tv.apple.com/de/movie/die-fraggles-ein-gro%C3%9Fes-geschenk/umc.cmc.1w4haw75eryfelk71js2doeog",
+      "title": {
+        "de": "Die Fraggles: Der erste Schnee",
+        "en": "The First Snow of Fraggle Rock"
+      },
+      "overview": {
+        "de": "Die Winterfeiertage sind voller unerwarteter Abenteuer und die Fraggles lernen, jeden Tag dafür zu schätzen, dass er einzigartig und besonders ist - wie eine Schneeflocke.",
+        "en": "When the holidays are filled with unexpected adventures and challenges, the Fraggles learn to appreciate each day for being unique and special, like a snowflake."
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Familie",
+          "en": "Family"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 53
+    },
+    {
+      "showId": "27521791",
+      "imdbId": "tt47596904",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-12-04",
+      "upcoming": true,
+      "link": null,
+      "title": {
+        "de": "神のクイズ",
+        "en": "Quiz from God"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        },
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        }
+      ],
+      "rating": null
+    },
+    {
       "showId": "24859073",
       "imdbId": "tt39196105",
       "provider": "netflix",
@@ -357,6 +419,35 @@
         }
       ],
       "rating": 55
+    },
+    {
+      "showId": "27066046",
+      "imdbId": "tt44230388",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-12-15",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/82010399",
+      "title": {
+        "de": "Sunshine Girls",
+        "en": "Sunshine Girls"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Familie",
+          "en": "Family"
+        }
+      ],
+      "rating": null
     }
   ]
 }

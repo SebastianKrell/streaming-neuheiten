@@ -1,6 +1,6 @@
 {
   "month": "2026-11",
-  "generatedAt": "2026-11-13T12:57:47.942Z",
+  "generatedAt": "2026-11-14T12:01:15.728Z",
   "entries": [
     {
       "showId": "16967",
@@ -15042,7 +15042,7 @@
       "provider": "apple",
       "showType": "series",
       "addedAt": "2026-11-13",
-      "upcoming": true,
+      "upcoming": false,
       "link": "https://tv.apple.com/de/show/12-12-12/umc.cmc.2xeasogpeiwbaegczytrdg1uh",
       "title": {
         "de": "12 12 12",
@@ -15601,6 +15601,35 @@
       "rating": 39
     },
     {
+      "showId": "15207294",
+      "imdbId": "tt34724686",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-13",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/81953587",
+      "title": {
+        "de": "Bagarre",
+        "en": "Brawlers"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 40
+    },
+    {
       "showId": "9919",
       "imdbId": "tt0066808",
       "provider": "prime",
@@ -15751,8 +15780,8 @@
       "provider": "apple",
       "showType": "movie",
       "addedAt": "2026-11-13",
-      "upcoming": true,
-      "link": "https://tv.apple.com/de/movie/being-heumann/umc.cmc.5gf63v7zj97yiozkpj26lpy55",
+      "upcoming": false,
+      "link": "https://tv.apple.com/de/movie/being-heumann/umc.cmc.5gf63v7zj97yiozkpj26lpy55?playableId=tvs.sbd.4000%3AA0067301001",
       "title": {
         "de": "Being Heumann",
         "en": "Being Heumann"
@@ -21510,6 +21539,31 @@
       "rating": 67
     },
     {
+      "showId": "27526845",
+      "imdbId": "tt47791876",
+      "provider": "apple",
+      "showType": "movie",
+      "addedAt": "2026-11-13",
+      "upcoming": false,
+      "link": "https://tv.apple.com/de/movie/snoopy-prasentiert-12-tage-bis-weihnachten/umc.cmc.7js98w9pfzw394wpm8da3cuzq?playableId=tvs.sbd.4000%3AA0005508001",
+      "title": {
+        "de": "Snoopy präsentiert: 12 Tage bis Weihnachten",
+        "en": "Snoopy Presents: 12 Days of Snoopy"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Animation",
+          "en": "Animation"
+        }
+      ],
+      "rating": null
+    },
+    {
       "showId": "25169363",
       "imdbId": "tt42839367",
       "provider": "apple",
@@ -23699,6 +23753,60 @@
       "rating": 49
     },
     {
+      "showId": "24976735",
+      "imdbId": "tt31192372",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-14",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.976e7b9f-4aad-4162-b6e7-6ff2c1f2db74",
+      "title": {
+        "de": "Fall 2: Deadpoint",
+        "en": "Fall 2: Deadpoint"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "27519583",
+      "imdbId": "tt40444834",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-11-14",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.57a03bdd-e784-4edd-b16d-218accfba6db",
+      "title": {
+        "de": "LOL: Chi ride è fuori - Halloween Special",
+        "en": "LOL: Chi ride è fuori - Halloween Special"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": null
+    },
+    {
       "showId": "24593654",
       "imdbId": "tt39075270",
       "provider": "netflix",
@@ -24154,6 +24262,35 @@
         {
           "de": "Mystery",
           "en": "Mystery"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "27527545",
+      "imdbId": "tt39316936",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-23",
+      "upcoming": true,
+      "link": null,
+      "title": {
+        "de": "Clashing Through the Snow – Ein Weihnachts-Roadtrip",
+        "en": "Clashing Through the Snow"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
         }
       ],
       "rating": null

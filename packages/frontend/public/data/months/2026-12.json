@@ -1,6 +1,6 @@
 {
   "month": "2026-12",
-  "generatedAt": "2026-11-14T12:01:15.728Z",
+  "generatedAt": "2026-11-15T12:37:24.865Z",
   "entries": [
     {
       "showId": "27517857",
@@ -305,6 +305,35 @@
       "rating": null
     },
     {
+      "showId": "27518542",
+      "imdbId": "tt39396318",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-12-10",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/81907559",
+      "title": {
+        "de": "Permafrost",
+        "en": "Permafrost"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": null
+    },
+    {
       "showId": "26635370",
       "imdbId": "tt31614143",
       "provider": "netflix",
@@ -419,6 +448,60 @@
         }
       ],
       "rating": 55
+    },
+    {
+      "showId": "26029577",
+      "imdbId": "tt42047451",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-12-11",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/82820725",
+      "title": {
+        "de": "Jean-Michel Basquiat",
+        "en": "Jean-Michel Basquiat"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "25861908",
+      "imdbId": "tt35685457",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-12-11",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/81987919",
+      "title": {
+        "de": "천천히 강렬하게",
+        "en": "Tantara"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Geschichte",
+          "en": "History"
+        }
+      ],
+      "rating": null
     },
     {
       "showId": "27066046",

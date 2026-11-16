@@ -1,6 +1,6 @@
 {
   "month": "2026-11",
-  "generatedAt": "2026-11-15T12:37:24.865Z",
+  "generatedAt": "2026-11-16T13:29:48.791Z",
   "entries": [
     {
       "showId": "16967",
@@ -27708,6 +27708,39 @@
       "rating": 60
     },
     {
+      "showId": "1984",
+      "imdbId": "tt0187738",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-11-15",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/blade-2-p_269118",
+      "title": {
+        "de": "Blade II",
+        "en": "Blade II"
+      },
+      "overview": {
+        "de": "Der Schwert schwingende Krieger Blade (Wesley Snipes) kehrt zurück, um die Reaper zu bekämpfen, eine neue Rasse von Super-Vampiren, die wild entschlossen sind, alle anderen Vampire zu vernichten und dann die gesamte menschliche Rasse auszulöschen. Blade verbündet sich mit einem schlagkräftigen Team von Vampiren, um ein größeres Übel zu besiegen als beide Seiten je zuvor bekämpft haben.",
+        "en": "The sword-wielding Blade returns to fight the Reapers, a new race of super vampires hell-bent on annihilating all other vampires before destroying the entire human race."
+      },
+      "releaseYear": 2002,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Horror",
+          "en": "Horror"
+        },
+        {
+          "de": "Science-Fiction",
+          "en": "Science Fiction"
+        }
+      ],
+      "rating": 66
+    },
+    {
       "showId": "11153",
       "imdbId": "tt0790604",
       "provider": "netflix",
@@ -27818,6 +27851,39 @@
         }
       ],
       "rating": null
+    },
+    {
+      "showId": "2548",
+      "imdbId": "tt0106697",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-11-15",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/demolition-man-p_68942",
+      "title": {
+        "de": "Demolition Man",
+        "en": "Demolition Man"
+      },
+      "overview": {
+        "de": "Sie kommen aus der Vergangenheit und der Zukunft Mischung aus stark: im Jahr 2032, erwachte aus dem Eis ewiger Verbannung, lief zu dem Cop und der Killer aus der heutigen Zeit.",
+        "en": "In a future without crime, a cop from the past is thawed to stop a brutal criminal from destroying everything that has been achieved."
+      },
+      "releaseYear": 1993,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Science-Fiction",
+          "en": "Science Fiction"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 67
     },
     {
       "showId": "5794",

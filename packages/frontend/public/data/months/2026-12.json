@@ -1,6 +1,6 @@
 {
   "month": "2026-12",
-  "generatedAt": "2026-11-15T12:37:24.865Z",
+  "generatedAt": "2026-11-16T13:29:48.791Z",
   "entries": [
     {
       "showId": "27517857",
@@ -528,6 +528,72 @@
         {
           "de": "Familie",
           "en": "Family"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "26893032",
+      "imdbId": "tt35609216",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-12-17",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/81679525",
+      "title": {
+        "de": "Quiztopia",
+        "en": "Quiztopia"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Science-Fiction",
+          "en": "Science Fiction"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "26635582",
+      "imdbId": "tt36634761",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-12-17",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/81594947",
+      "title": {
+        "de": "Unaccustomed Earth",
+        "en": "Unaccustomed Earth"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Familie",
+          "en": "Family"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
         }
       ],
       "rating": null

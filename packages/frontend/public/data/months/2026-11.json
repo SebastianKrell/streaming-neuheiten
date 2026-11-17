@@ -1,6 +1,6 @@
 {
   "month": "2026-11",
-  "generatedAt": "2026-11-16T13:29:48.791Z",
+  "generatedAt": "2026-11-17T14:15:34.845Z",
   "entries": [
     {
       "showId": "16967",
@@ -28399,7 +28399,20 @@
         "en": ""
       },
       "releaseYear": 2026,
-      "genres": [],
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Familie",
+          "en": "Family"
+        },
+        {
+          "de": "Musik",
+          "en": "Music"
+        }
+      ],
       "rating": null
     },
     {
@@ -28757,6 +28770,97 @@
         }
       ],
       "rating": null
+    },
+    {
+      "showId": "16243051",
+      "imdbId": "tt32246771",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-11-16",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/bring-her-back-p_283083",
+      "title": {
+        "de": "Bring Her Back",
+        "en": "Bring Her Back"
+      },
+      "overview": {
+        "de": "In diesem mitreißenden Horrorschocker von den Regie-Visionären von \\\"Talk to Me\\\" entdecken ein Bruder und eine Schwester ein schreckliches Ritual im abgelegenen Haus ihrer neuen Pflegemutter. Mit der Oscar-nominierten Sally Hawkins in der Hauptrolle.",
+        "en": "A brother and sister uncover a terrifying ritual at the secluded home of their new foster mother."
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Horror",
+          "en": "Horror"
+        },
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        }
+      ],
+      "rating": 71
+    },
+    {
+      "showId": "5871",
+      "imdbId": "tt0130018",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-11-16",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/ich-weiss-noch-immer-was-du-letzten-sommer-getan-hast-p_283085",
+      "title": {
+        "de": "Ich weiß noch immer, was du letzten Sommer getan hast",
+        "en": "I Still Know What You Did Last Summer"
+      },
+      "overview": {
+        "de": "",
+        "en": "Tormented by the brutal murders of her friends, college freshman Julie happily accepts her roommate’s invitation to a tropical paradise."
+      },
+      "releaseYear": 1998,
+      "genres": [
+        {
+          "de": "Horror",
+          "en": "Horror"
+        },
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 49
+    },
+    {
+      "showId": "3110",
+      "imdbId": "tt0119345",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-11-16",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/ich-weiss-was-du-letzten-sommer-getan-hast-p_2094",
+      "title": {
+        "de": "Ich weiß, was Du letzten Sommer getan hast",
+        "en": "I Know What You Did Last Summer"
+      },
+      "overview": {
+        "de": "Julie, Helen, Barry und Ray überfahren einen Mann. In ihrer Panik werfen sie den scheinbar leblosen Körper ins Meer und schwören, über den Vorfall zu schweigen. Ein Jahr später holt sie ihre Tat ein: Ein Unbekannter nimmt blutige Rache.",
+        "en": "Teen friends vow not to reveal their accidental vehicular manslaughter after a night of partying, but a scary figure soon starts killing them off."
+      },
+      "releaseYear": 1997,
+      "genres": [
+        {
+          "de": "Horror",
+          "en": "Horror"
+        },
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        }
+      ],
+      "rating": 59
     },
     {
       "showId": "23436",

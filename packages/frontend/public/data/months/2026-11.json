@@ -1,6 +1,6 @@
 {
   "month": "2026-11",
-  "generatedAt": "2026-11-19T14:15:57.352Z",
+  "generatedAt": "2026-11-20T13:55:52.884Z",
   "entries": [
     {
       "showId": "16967",
@@ -32311,6 +32311,35 @@
       "rating": 48
     },
     {
+      "showId": "126631",
+      "imdbId": "tt7177346",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-19",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bc54af-f27c-0bb3-10c5-d170c30efffa",
+      "title": {
+        "de": "A Little Italian Vacation",
+        "en": "A Little Italian Vacation"
+      },
+      "overview": {
+        "de": "",
+        "en": "In this outrageous comedy, a group of high school Seniors juggle between old loves and new flings on the shores of a beautiful Italian town."
+      },
+      "releaseYear": 2021,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": 47
+    },
+    {
       "showId": "574",
       "imdbId": "tt6644200",
       "provider": "disney",
@@ -32392,6 +32421,31 @@
         }
       ],
       "rating": 51
+    },
+    {
+      "showId": "253226",
+      "imdbId": "tt0165755",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-19",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3f3481e6-2dbc-4b78-8449-be4599055f57",
+      "title": {
+        "de": "American Force Ninja",
+        "en": "Empire of Spiritual Ninja"
+      },
+      "overview": {
+        "de": "",
+        "en": "Tamo ninja Captain Scott teams up with the local law enforcement in a last attempt to bring down a ninja crime organization once and for all."
+      },
+      "releaseYear": 1987,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        }
+      ],
+      "rating": 42
     },
     {
       "showId": "19192735",
@@ -32529,6 +32583,56 @@
         }
       ],
       "rating": 54
+    },
+    {
+      "showId": "7854694",
+      "imdbId": "tt21247172",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-19",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.90141918-9d5b-44cc-8ac5-ec2605d4b033",
+      "title": {
+        "de": "Bad Faith",
+        "en": "Bad Faith"
+      },
+      "overview": {
+        "de": "",
+        "en": "A call to action against the agenda of Christian Nationalism that weaponizes faith in service of promoting authoritarianism and undermining democracy."
+      },
+      "releaseYear": 2024,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        }
+      ],
+      "rating": 60
+    },
+    {
+      "showId": "18641154",
+      "imdbId": "tt33456563",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-11-19",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ff50b8a3-6ad9-46a8-ac06-44d375619f28",
+      "title": {
+        "de": "Barbie: Dream Besties",
+        "en": "Barbie: Dream Besties"
+      },
+      "overview": {
+        "de": "",
+        "en": "Dream Besties Barbie, Barbie, Teresa, Renee, Daisy, and Ken explore their biggest dreams in an alternate reality where anything is possible! The Dream Besties inspire each other to pursue their passions and believe in themselves! Live Out Your Best Dreams!"
+      },
+      "releaseYear": 2024,
+      "genres": [
+        {
+          "de": "Fantasy",
+          "en": "Fantasy"
+        }
+      ],
+      "rating": 43
     },
     {
       "showId": "13339",
@@ -32792,6 +32896,31 @@
       "rating": 66
     },
     {
+      "showId": "327740",
+      "imdbId": "tt8146442",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-19",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.494f6b70-4c4e-4180-8239-c7826b22092a",
+      "title": {
+        "de": "Bosses",
+        "en": "Bosses"
+      },
+      "overview": {
+        "de": "",
+        "en": "The leader of a brutal criminal organization is given seven days to leave town or die. Now he must race against time to find out who wants him dead."
+      },
+      "releaseYear": 2022,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": 40
+    },
+    {
       "showId": "451",
       "imdbId": "tt2249364",
       "provider": "disney",
@@ -32856,6 +32985,64 @@
         }
       ],
       "rating": 70
+    },
+    {
+      "showId": "27522355",
+      "imdbId": "tt49813377",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-11-19",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/bully-leider-live-die-letzten-stunden-vor-der-show-p_277131",
+      "title": {
+        "de": "Bully - Leider Live! Garantiert ohne Programm",
+        "en": "Bully - Leider Live! Garantiert ohne Programm"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "16726",
+      "imdbId": "tt0063881",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-11-19",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4bb9930b-d65e-4681-9163-e40bbe79f238",
+      "title": {
+        "de": "Catweazle",
+        "en": "Catweazle"
+      },
+      "overview": {
+        "de": "",
+        "en": "Wonderfully weird 70s adventures show. Meet Catweazle - the 11th-century wizard whose spell lands him in the modern day. How on earth will he cope?"
+      },
+      "releaseYear": 1970,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Familie",
+          "en": "Family"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 55
     },
     {
       "showId": "73020",
@@ -32972,6 +33159,35 @@
         }
       ],
       "rating": 64
+    },
+    {
+      "showId": "2956581",
+      "imdbId": "tt28022189",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-19",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c6ce8ed5-024a-49b0-be9a-418a3f4cbb30",
+      "title": {
+        "de": "Clean Job",
+        "en": "Clean Job"
+      },
+      "overview": {
+        "de": "",
+        "en": "Clean Job is the story of a grief stricken, broken young woman named Kimberly, who grows up to be the ruthless master mind behind a criminal syndicate of desperate, poor women from the township, who disguise themselves as domestic workers, to rob rich people living in the suburbs of Johannesburg."
+      },
+      "releaseYear": 2023,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 45
     },
     {
       "showId": "27519544",
@@ -33256,6 +33472,39 @@
       "rating": 40
     },
     {
+      "showId": "14625313",
+      "imdbId": "tt28443655",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-19",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ee2f7e26-9c0b-48b9-b1a4-f47364888067",
+      "title": {
+        "de": "Death of a Unicorn",
+        "en": "Death of a Unicorn"
+      },
+      "overview": {
+        "de": "Paul Rudd und Jenna Ortega überfahren in dieser blutigen Horrorkomödie ein Einhorn. Während geldgierige Pharmabosse nur möglichen Profit sehen, will der Einhorn-Vater Rache.",
+        "en": "A father and daughter accidentally hit and kill a unicorn while en route to a weekend retreat, where his billionaire boss seeks to exploit the creature's miraculous curative properties."
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Fantasy",
+          "en": "Fantasy"
+        },
+        {
+          "de": "Horror",
+          "en": "Horror"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 59
+    },
+    {
       "showId": "14372024",
       "imdbId": "tt34780254",
       "provider": "prime",
@@ -33407,6 +33656,39 @@
         }
       ],
       "rating": 64
+    },
+    {
+      "showId": "215457",
+      "imdbId": "tt0138714",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-19",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b3d5a287-f6c3-43b3-ad2f-6e08e41ed152",
+      "title": {
+        "de": "Der Letzte fährt zur Hölle",
+        "en": "The Last One Will Go to Hell"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 1982,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Familie",
+          "en": "Family"
+        },
+        {
+          "de": "Fantasy",
+          "en": "Fantasy"
+        }
+      ],
+      "rating": 54
     },
     {
       "showId": "165029",
@@ -34142,6 +34424,31 @@
       "rating": null
     },
     {
+      "showId": "154796",
+      "imdbId": "tt5249098",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-19",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9e29f789-9499-4a73-b60f-ea8ed6588f47",
+      "title": {
+        "de": "Getting Naked - A Burlesque Story",
+        "en": "Getting Naked - A Burlesque Story"
+      },
+      "overview": {
+        "de": "",
+        "en": "Getting Naked: A Burlesque Story peels back the curtain to reveal the sexy sub-culture of the neo-burlesque scene in New York City. This verité documentary intimately follows four performers, each of whom has discovered a newfound identity and belonging in a world of bawdy comedy and striptease."
+      },
+      "releaseYear": 2017,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        }
+      ],
+      "rating": 50
+    },
+    {
       "showId": "2464",
       "imdbId": "tt11379026",
       "provider": "disney",
@@ -34204,6 +34511,31 @@
       "rating": 63
     },
     {
+      "showId": "1801",
+      "imdbId": "tt0108550",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-19",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cc65c168-5bec-4c7a-b0b2-3fdd96c0ded5",
+      "title": {
+        "de": "Gilbert Grape - Irgendwo in Iowa",
+        "en": "What's Eating Gilbert Grape"
+      },
+      "overview": {
+        "de": "Irgendwo in Iowa: Gilbert Grape ist einer der jungen Gefangenen dieser Einöde. Seine übergewichtige Mutter vegetiert seit dem Tod ihres Mannes vor dem Fernseher. Gilbert kümmert sich um seinen geistig behinderten Bruder Amie, der ihn mit seinen allwöchentlichen Versuchen, auf den Wasserturm zu klettern, auf Trab hält und für eine wenig Aufregung in der sonst so schläfrigen Ortschaft sorgt.",
+        "en": "After his father’s death, a young man is forced to take care of his mentally disabled brother and morbidly obese mother in a sleepy midwestern town."
+      },
+      "releaseYear": 1993,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": 77
+    },
+    {
       "showId": "26893806",
       "imdbId": "tt8629424",
       "provider": "disney",
@@ -34256,6 +34588,56 @@
         }
       ],
       "rating": 49
+    },
+    {
+      "showId": "4516405",
+      "imdbId": "tt0291022",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-19",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.86f25001-b1e2-414b-b0dd-ec8834ab7a4a",
+      "title": {
+        "de": "Guatemala Massacre",
+        "en": "Aro Tolbukhin in the Mind of a Killer"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2002,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": 52
+    },
+    {
+      "showId": "24592781",
+      "imdbId": "tt38413198",
+      "provider": "disney",
+      "showType": "series",
+      "addedAt": "2026-11-19",
+      "upcoming": false,
+      "link": "https://www.disneyplus.com/browse/entity-2dd07ef5-8be6-4b15-b565-acb70491a6ce",
+      "title": {
+        "de": "Halef: Köklerin Çağrısı",
+        "en": "Halef"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": 53
     },
     {
       "showId": "24602332",
@@ -34494,6 +34876,35 @@
       "rating": 63
     },
     {
+      "showId": "49130",
+      "imdbId": "tt0105604",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-19",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e6ba15be-12b7-cbbe-bdf6-03345ecc89ed",
+      "title": {
+        "de": "Jagt den Killer",
+        "en": "To Catch a Killer"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 1992,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        }
+      ],
+      "rating": 69
+    },
+    {
       "showId": "143770",
       "imdbId": "tt19121826",
       "provider": "prime",
@@ -34517,6 +34928,93 @@
         }
       ],
       "rating": 52
+    },
+    {
+      "showId": "37353",
+      "imdbId": "tt0057811",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-19",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e8f988ed-9b38-4b5a-bf63-a21088170b00",
+      "title": {
+        "de": "Kampfgeschwader 633",
+        "en": "633 Squadron"
+      },
+      "overview": {
+        "de": "",
+        "en": "Courage and stunning self-sacrifice clash against the powers of evil in this WWII epic set in the aerial battlefields of war-torn Europe."
+      },
+      "releaseYear": 1964,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Geschichte",
+          "en": "History"
+        },
+        {
+          "de": "Krieg",
+          "en": "War"
+        }
+      ],
+      "rating": 63
+    },
+    {
+      "showId": "23439041",
+      "imdbId": "tt38341790",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-11-19",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/todlicher-klick-ki-einsatz-im-krieg-p_275656",
+      "title": {
+        "de": "KI: Der Tod des Internets",
+        "en": "AI and the Death of the Internet"
+      },
+      "overview": {
+        "de": "",
+        "en": "This talk is given by Bryan Alexander of Georgetown University."
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "107108",
+      "imdbId": "tt0156711",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-19",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.755160d1-d12f-4664-82e6-d5c4030a80cd",
+      "title": {
+        "de": "Kiss Toledo Goodbye",
+        "en": "Kiss Toledo Goodbye"
+      },
+      "overview": {
+        "de": "",
+        "en": "A man learns that the biological father he knew nothing about is involved in a world of crime, and, upon his death, is expected to join his family."
+      },
+      "releaseYear": 1999,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 42
     },
     {
       "showId": "216846",
@@ -34550,6 +35048,39 @@
         }
       ],
       "rating": 44
+    },
+    {
+      "showId": "22538",
+      "imdbId": "tt3864024",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-19",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.11d84310-7d55-4b00-a0c1-c6f3a24bd85d",
+      "title": {
+        "de": "Lazer Team",
+        "en": "Lazer Team"
+      },
+      "overview": {
+        "de": "",
+        "en": "Four men are thrust into the position of saving the world when they find a UFO crash site and become genetically equipped to the battle suit on board."
+      },
+      "releaseYear": 2016,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        },
+        {
+          "de": "Science-Fiction",
+          "en": "Science Fiction"
+        }
+      ],
+      "rating": 54
     },
     {
       "showId": "36832",
@@ -34637,6 +35168,35 @@
         }
       ],
       "rating": 64
+    },
+    {
+      "showId": "8123",
+      "imdbId": "tt1205535",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-19",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3520ea01-304b-45b9-87dd-56d9f86e3ab9",
+      "title": {
+        "de": "Lieber verliebt",
+        "en": "The Rebound"
+      },
+      "overview": {
+        "de": "",
+        "en": "Upon discovering her husband's infidelity, a newly single woman moves to New York with her two children and falls for their much younger male nanny."
+      },
+      "releaseYear": 2009,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": 63
     },
     {
       "showId": "88774",
@@ -34865,6 +35425,35 @@
         }
       ],
       "rating": 55
+    },
+    {
+      "showId": "27526165",
+      "imdbId": "tt49289884",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-11-19",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/mein-mann-mein-morder-wegsehen-totet-p_283082",
+      "title": {
+        "de": "Mein Mann, mein Mörder",
+        "en": "Mein Mann, mein Mörder"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        }
+      ],
+      "rating": null
     },
     {
       "showId": "5863",
@@ -35229,6 +35818,31 @@
         }
       ],
       "rating": 45
+    },
+    {
+      "showId": "14385783",
+      "imdbId": "tt34794244",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-19",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6eca5546-4811-4ce9-b0a3-5231605ab30c",
+      "title": {
+        "de": "Mythos St. Moritz - Luxus, Schnee und Eskapaden",
+        "en": "Summits & High Society – History of St. Moritz"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2024,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        }
+      ],
+      "rating": null
     },
     {
       "showId": "4897",
@@ -35675,6 +36289,35 @@
       "rating": null
     },
     {
+      "showId": "17001",
+      "imdbId": "tt1725986",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-19",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.313d7835-830c-45a3-933f-9c1f64f20782",
+      "title": {
+        "de": "Professor Love",
+        "en": "Some Kind of Beautiful"
+      },
+      "overview": {
+        "de": "",
+        "en": "By day, Richard Haig (Pierce Brosnan), is a well-respected professor at Trinity College in Cambridge, where he teaches 18th century romantic poetry. By night, Richard indulges his own romantic fantasies with a steady stream of beautiful undergraduates, including his most recent beau Kate (Jessica Alba)."
+      },
+      "releaseYear": 2014,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": 56
+    },
+    {
       "showId": "1867626",
       "imdbId": "tt26249174",
       "provider": "prime",
@@ -35781,6 +36424,81 @@
         }
       ],
       "rating": 45
+    },
+    {
+      "showId": "15982",
+      "imdbId": "tt6439558",
+      "provider": "disney",
+      "showType": "movie",
+      "addedAt": "2026-11-19",
+      "upcoming": false,
+      "link": "https://www.disneyplus.com/browse/entity-c17521d7-2884-4261-89fc-211f27f5770c",
+      "title": {
+        "de": "Recep İvedik 5",
+        "en": "Recep Ivedik 5"
+      },
+      "overview": {
+        "de": "",
+        "en": "While offering his condolences to the widow of his recently departed friend İsmet, Recep İvedik is saddened by her predicament and decides to help out. Together with Nurullah, they take the road to finish the last contract taken by her late husband, bus driver İsmet. Thinking that it will be a short trip, Recep finds out too late that the contract is about transporting a group of young athletes abroad to an international sports competition.  Things get complicated when team members face a serious misfortune and Recep is forced to take control. Deciding that only way out of this is by winning at the events, Recep tries to handle everything with his unique methods, causing all kinds of hilarious results.  This fifth adventure of Recep İvedik character, created by Şahan Gökbakar, is ready to meet its audience once more as a peerless comedy adorned with fun and entertainment."
+      },
+      "releaseYear": 2017,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 36
+    },
+    {
+      "showId": "25593",
+      "imdbId": "tt7399138",
+      "provider": "disney",
+      "showType": "movie",
+      "addedAt": "2026-11-19",
+      "upcoming": false,
+      "link": "https://www.disneyplus.com/browse/entity-e21e8520-5bc9-4ca9-ac28-e966ec6e865d",
+      "title": {
+        "de": "Recep İvedik 6",
+        "en": "Recep Ivedik 6"
+      },
+      "overview": {
+        "de": "",
+        "en": "Our hero, Recep İvedik is at home watching television, when postman brings him a surprise invitation for the annual dried beans festival of Konya province. Very excited with the news, Recep convinces his best friend Nurullah to join him but due to a miscommunication with the travel agency, they get plane tickets for Kenya, Africa, instead of Konya, Turkey. After arriving at Kenya and getting on a safari tour, our hapless companions find themselves lost in endless savannah and at the middle of two rival local tribes. Many adventures await Recep in this unfamiliar and exotic land, who will try anything and everything to return home, mostly to hilarious results. This new installment of box-office record-breaking series Recep İvedik, created by Şahan Gökbakar, promises many moments of laughter and fun to its audience."
+      },
+      "releaseYear": 2019,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 33
+    },
+    {
+      "showId": "34047",
+      "imdbId": "tt19759204",
+      "provider": "disney",
+      "showType": "movie",
+      "addedAt": "2026-11-19",
+      "upcoming": false,
+      "link": "https://www.disneyplus.com/browse/entity-8419e343-d967-435e-9289-5ced77f7b850",
+      "title": {
+        "de": "Recep İvedik 7",
+        "en": "Recep Ivedik 7"
+      },
+      "overview": {
+        "de": "",
+        "en": "Weary of the increased cost of living and hustle and bustle of the city, Recep takes Nurullah and travels to the village home he inherited from his grandmother. Busra, a lawyer from Istanbul parks her trailer home next to Recep’s neighboring land. At first, they get off on the wrong foot, but soon they find themselves on an exciting adventure to save the village from a great danger."
+      },
+      "releaseYear": 2022,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 51
     },
     {
       "showId": "7523851",
@@ -35982,6 +36700,39 @@
       "rating": 49
     },
     {
+      "showId": "87897",
+      "imdbId": "tt8983218",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-19",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4eb5de21-4c87-4ca3-d42e-f045a852a51f",
+      "title": {
+        "de": "Shadaa",
+        "en": "Shadaa"
+      },
+      "overview": {
+        "de": "",
+        "en": "Amidst pressures from his parents to hurry up and wed, a young man seeks his perfect match. After many failed attempts with matchmakers, his parents are delighted when their son finally meets the woman of his dreams but things do not go as planned."
+      },
+      "releaseYear": 2019,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        },
+        {
+          "de": "Musik",
+          "en": "Music"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": 48
+    },
+    {
       "showId": "113800",
       "imdbId": "tt15340570",
       "provider": "prime",
@@ -36009,6 +36760,56 @@
         }
       ],
       "rating": 45
+    },
+    {
+      "showId": "11262042",
+      "imdbId": "tt33310323",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-11-19",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.25fffefd-0e9f-4698-884b-cbacc43b0572",
+      "title": {
+        "de": "Shrink―精神科医ヨワイ―",
+        "en": "Shrink: Psychiatrist Yowai"
+      },
+      "overview": {
+        "de": "",
+        "en": "Dr. Ko Yowai is a happy-go-lucky but an absolutely brilliant psychiatrist. Yuri Amamiya is his slightly outspoken assistant nurse with a heart of gold. Together, they're waiting for the day when everyone feels comfortable visiting a psychiatrist. This is Shrink, the emotional drama series for those navigating the effects of mental health issues. ©Jin Nanami · Tsukiko /SHUEISHA ©NHK/AX-ON"
+      },
+      "releaseYear": 2024,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": 47
+    },
+    {
+      "showId": "948055",
+      "imdbId": "tt19844412",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-19",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.941b7a0b-33d3-4a89-ae56-73edc198be8a",
+      "title": {
+        "de": "Silent Love",
+        "en": "Silent Love"
+      },
+      "overview": {
+        "de": "",
+        "en": "Marek Kozakiewicz’s intimate documentary debut follows Aga, who moves back home to Poland to care for her brother whilst hiding her relationship from the authorities."
+      },
+      "releaseYear": 2022,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        }
+      ],
+      "rating": 46
     },
     {
       "showId": "132004",
@@ -36380,6 +37181,39 @@
       "rating": 71
     },
     {
+      "showId": "106280",
+      "imdbId": "tt0106714",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-19",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c3a3d268-9ff6-4861-b0fe-d9ddbc4b16ed",
+      "title": {
+        "de": "Taxi Hunter",
+        "en": "Taxi Hunter"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 1993,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 64
+    },
+    {
       "showId": "26342533",
       "imdbId": "tt36786185",
       "provider": "netflix",
@@ -36511,6 +37345,31 @@
         }
       ],
       "rating": 57
+    },
+    {
+      "showId": "21432656",
+      "imdbId": "tt32872971",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-11-19",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c5b8b596-1542-401e-96cd-b004c7f2cfa9",
+      "title": {
+        "de": "The German",
+        "en": "The German"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": 53
     },
     {
       "showId": "23352303",
@@ -37081,6 +37940,35 @@
       "rating": 68
     },
     {
+      "showId": "9120",
+      "imdbId": "tt1103275",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-19",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ad8972aa-69f1-4982-b341-527d5ceead61",
+      "title": {
+        "de": "Two Lovers",
+        "en": "Two Lovers"
+      },
+      "overview": {
+        "de": "",
+        "en": "A man who returns to his Brooklyn home is torn between two women: the sweet, comforting one his parents prefer, and an alluring, mysterious neighbor."
+      },
+      "releaseYear": 2008,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": 69
+    },
+    {
       "showId": "11995956",
       "imdbId": "tt33079601",
       "provider": "prime",
@@ -37280,6 +38168,31 @@
       "rating": null
     },
     {
+      "showId": "13807866",
+      "imdbId": "tt5807412",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-19",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a9b3fb67-29be-451e-8326-0a229af40f8b",
+      "title": {
+        "de": "Whenever I'm Alone with You",
+        "en": "Whenever I'm Alone with You"
+      },
+      "overview": {
+        "de": "",
+        "en": "In the South of France, suicidal Guillaume meets Vedrana, who’s trapped in a loveless relationship and determined to help him believe in love again."
+      },
+      "releaseYear": 2023,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 45
+    },
+    {
       "showId": "24593360",
       "imdbId": "tt35839924",
       "provider": "prime",
@@ -37394,6 +38307,64 @@
         }
       ],
       "rating": 44
+    },
+    {
+      "showId": "24669201",
+      "imdbId": "tt39222526",
+      "provider": "disney",
+      "showType": "series",
+      "addedAt": "2026-11-19",
+      "upcoming": false,
+      "link": "https://www.disneyplus.com/browse/entity-020bd11e-7c77-453e-9e84-1151a5407da8",
+      "title": {
+        "de": "Yeraltı",
+        "en": "Underground"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": 62
+    },
+    {
+      "showId": "270090",
+      "imdbId": "tt11132688",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-19",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51f5e302-6541-4568-9e8c-ec14687e63a3",
+      "title": {
+        "de": "Youth Topia",
+        "en": "Youth Topia"
+      },
+      "overview": {
+        "de": "",
+        "en": "Wanja, Greta, Sören , Maul and Leona don't want to be adults under any circumstances. They must avoid being assigned the right job by an algorithm at all costs. Despite numerous attempts to confuse the algorithm, Wanja is assigned her dream job as an architect. But she soon realizes that the steep career path comes at a price: her friendships."
+      },
+      "releaseYear": 2023,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": 46
     },
     {
       "showId": "2484893",
@@ -38639,6 +39610,84 @@
       "rating": 46
     },
     {
+      "showId": "25370055",
+      "imdbId": "tt43509012",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-11-19",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1bc37e64-74c6-451f-95f6-6c5671014772",
+      "title": {
+        "de": "クロエマ",
+        "en": "Chloe et Emma"
+      },
+      "overview": {
+        "de": "Having lost love, her job, and her home, Emma had hit rock bottom when she stumbled upon the estate of Chloe, a mysterious heiress. Unexpected happenings lead the two of them to become housemates, and together, they open a fortune-telling shop where troubled souls come searching for answers. The pair soon realize that each client's problem comes with hidden secrets and mysteries.",
+        "en": "Having lost love, her job, and her home, Emma had hit rock bottom when she stumbled upon the estate of Chloe, a mysterious heiress. Unexpected happenings lead the two of them to become housemates, and together, they open a fortune-telling shop where troubled souls come searching for answers. The pair soon realize that each client's problem comes with hidden secrets and mysteries."
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "24604708",
+      "imdbId": "tt36981677",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-11-19",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51c7a481-28da-4547-9087-83e68892a589",
+      "title": {
+        "de": "しあわせは食べて寝て待て",
+        "en": "Happiness Comes from Eating, Sleeping and Waiting"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2025,
+      "genres": [],
+      "rating": null
+    },
+    {
+      "showId": "10268776",
+      "imdbId": "tt33038101",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-11-19",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.548a1bad-9039-41f1-9e09-b26d0b2ea68c",
+      "title": {
+        "de": "スカイキャッスル",
+        "en": "Sky Castle"
+      },
+      "overview": {
+        "de": "",
+        "en": "Led by Nao Matsushita, Fumino Kimura, Aimi Higa, Mary Jun Takahashi, and Koyuki, \"SKY Castle\" follows the lives of five elite women in the luxurious SKY Castle neighborhood. Underneath this glamorous setting lies a battlefield of vanity, pride, and love-hate. This is about the slugfest of wealthy and stunning wives with ambitions... and dark secrets. (C)SLL/tv asahi. All rights reserved."
+      },
+      "releaseYear": 2024,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 44
+    },
+    {
       "showId": "24975085",
       "imdbId": "tt39457320",
       "provider": "prime",
@@ -38656,6 +39705,60 @@
       },
       "releaseYear": 2026,
       "genres": [],
+      "rating": null
+    },
+    {
+      "showId": "21476730",
+      "imdbId": "tt32908148",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-11-19",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a7918882-646a-47d6-b411-51ecd48ea2e9",
+      "title": {
+        "de": "マル秘の密子さん",
+        "en": "Secret Makeover"
+      },
+      "overview": {
+        "de": "",
+        "en": "Is she an angel or a devil? Mitsuko is a total coordinator, polishing and transforming a client's visual and inner self. She will make her clients successful by any means necessary. Her next client is Natsu Imai, a perpetually unlucky single mother. Their goal is to turn Natsu into the next CEO of a large family-run company. Will this be a success story, or a raging suspense drama? ©NIPPON TV"
+      },
+      "releaseYear": 2024,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 44
+    },
+    {
+      "showId": "26893088",
+      "imdbId": "tt43588726",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-11-19",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.768f4001-48f6-4284-b9bc-3fd1cf35dab8",
+      "title": {
+        "de": "ミッドナイトタクシー",
+        "en": "Midnight Taxi"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
       "rating": null
     },
     {
@@ -38682,6 +39785,56 @@
         }
       ],
       "rating": 46
+    },
+    {
+      "showId": "13401882",
+      "imdbId": "tt34000616",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-11-19",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d3517fda-edcc-46b6-b90b-6223b39c683b",
+      "title": {
+        "de": "宙わたる教室",
+        "en": "The Science Club"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2024,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": 45
+    },
+    {
+      "showId": "63145",
+      "imdbId": "tt6993488",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-11-19",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d018261b-3ffd-4838-a335-9d90ff92fd01",
+      "title": {
+        "de": "愛してたって、秘密はある。",
+        "en": "My Lover's Secret"
+      },
+      "overview": {
+        "de": "",
+        "en": "[With ENG Subtitles] Some secrets are so bad that they cannot be revealed to one's lover. Rei was in his last year of middle school when he killed his father to protect his mother from domestic violence."
+      },
+      "releaseYear": 2017,
+      "genres": [
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": 44
     },
     {
       "showId": "8952614",
@@ -38739,10 +39892,10 @@
       "provider": "prime",
       "showType": "movie",
       "addedAt": "2026-11-20",
-      "upcoming": true,
-      "link": null,
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0471431b-a731-40da-914c-81d566f66947",
       "title": {
-        "de": "Perfectos mentirosos",
+        "de": "Perfekte Lügner",
         "en": "Perfect Liars"
       },
       "overview": {

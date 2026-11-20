@@ -1,6 +1,6 @@
 {
   "month": "2026-12",
-  "generatedAt": "2026-11-19T14:15:57.352Z",
+  "generatedAt": "2026-11-20T13:55:52.884Z",
   "entries": [
     {
       "showId": "27517857",
@@ -241,6 +241,31 @@
         }
       ],
       "rating": 53
+    },
+    {
+      "showId": "27718977",
+      "imdbId": "tt50901529",
+      "provider": "apple",
+      "showType": "movie",
+      "addedAt": "2026-12-04",
+      "upcoming": true,
+      "link": "https://tv.apple.com/de/movie/die-fraggles-ein-gro%C3%9Fes-geschenk/umc.cmc.1w4haw75eryfelk71js2doeog",
+      "title": {
+        "de": "Die Fraggles: Ein großes Geschenk",
+        "en": "Fraggle Rock: A Holiday Gift"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Familie",
+          "en": "Family"
+        }
+      ],
+      "rating": null
     },
     {
       "showId": "27521791",

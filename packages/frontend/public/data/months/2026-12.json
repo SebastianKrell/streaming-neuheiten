@@ -1,7 +1,222 @@
 {
   "month": "2026-12",
-  "generatedAt": "2026-11-20T13:55:52.884Z",
+  "generatedAt": "2026-11-21T13:20:31.482Z",
   "entries": [
+    {
+      "showId": "24326348",
+      "imdbId": "tt38492571",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-12-01",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/82980715",
+      "title": {
+        "de": "an open field",
+        "en": "an open field"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "27718862",
+      "imdbId": "tt43728785",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-12-01",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/83243040",
+      "title": {
+        "de": "Collect & Praise",
+        "en": "Collect & Praise"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "2033",
+      "imdbId": "tt0338348",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-12-01",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/70011200",
+      "title": {
+        "de": "Der Polarexpress",
+        "en": "The Polar Express"
+      },
+      "overview": {
+        "de": "Gibt es überhaupt einen Weihnachtsmann? \"Der Polarexpress\" nimmt uns mit auf eine Reise zum Nordpol - und hält für alle Zweifler ein außergewöhnliches Weihnachtsgeschenk bereit.",
+        "en": "Late on Christmas Eve, after the town has gone to sleep, a boy boards the mysterious train that waits for him--The Polar Express. When the boy arrives at the North Pole, Santa Claus offers him any gift he desires. The boy asks only for a bell from the harness of Santa's reindeer. But on the way home, the bell is lost. Christmas morning, the boy finds the bell under the Christmas tree, and when ..."
+      },
+      "releaseYear": 2004,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Animation",
+          "en": "Animation"
+        },
+        {
+          "de": "Familie",
+          "en": "Family"
+        }
+      ],
+      "rating": 66
+    },
+    {
+      "showId": "8558",
+      "imdbId": "tt0486583",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-12-01",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/70060012",
+      "title": {
+        "de": "Die Gebrüder Weihnachtsmann",
+        "en": "Fred Claus"
+      },
+      "overview": {
+        "de": "Weihnachtskomödie von \"Wedding Crashers\"-Macher David Dobkin, der Vince Vaughn und Paul Giamatti als ungleiches Brüderpaar antreten lässt.",
+        "en": "When Santa Claus' little known, older brother, Fred, returns to the North Pole, the black sheep of the family manages to create comic chaos that almost destroys Christmas."
+      },
+      "releaseYear": 2007,
+      "genres": [
+        {
+          "de": "Familie",
+          "en": "Family"
+        },
+        {
+          "de": "Fantasy",
+          "en": "Fantasy"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 57
+    },
+    {
+      "showId": "4377",
+      "imdbId": "tt0099700",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-12-01",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/60023419",
+      "title": {
+        "de": "Gremlins 2 - Die Rückkehr der kleinen Monster",
+        "en": "Gremlins 2: The New Batch"
+      },
+      "overview": {
+        "de": "Sechs Jahre nachdem die Gremlins alle in Schutt und Asche gelegt hatten sind sie wieder zurück.",
+        "en": "Remember the Mogwai rules? Don't expose them to light. Don't feed them after midnight. And, above all, don't get them wet! Lucky for lovers of outrageous comedy that someone forgot one crucial rule, unleashing cuddly Gizmo and his nasty big brothers on a high-tech skyscraper run by a millionaire media mogul."
+      },
+      "releaseYear": 1990,
+      "genres": [
+        {
+          "de": "Fantasy",
+          "en": "Fantasy"
+        },
+        {
+          "de": "Horror",
+          "en": "Horror"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 65
+    },
+    {
+      "showId": "14625950",
+      "imdbId": "tt32558992",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-12-01",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/82018999",
+      "title": {
+        "de": "Heart Eyes",
+        "en": "Heart Eyes"
+      },
+      "overview": {
+        "de": "Als der „Heart Eyes Killer\" zuschlägt, werden eine Kollegin und ein Kollege, die am Valentinstag Überstunden machen, von dem schwer fassbaren Killer auf Pärchenjagd fälschlicherweise für ein Paar gehalten. Nun sind sie gezwungen, in der romantischsten Nacht des Jahres um ihr Leben zu rennen.",
+        "en": "For the past several years, the “Heart Eyes Killer” has wreaked havoc on Valentine’s Day by stalking and murdering romantic couples. This Valentine’s Day, no couple is safe…"
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Horror",
+          "en": "Horror"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        },
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        }
+      ],
+      "rating": 60
+    },
+    {
+      "showId": "19669",
+      "imdbId": "tt0488658",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-12-01",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/70053456",
+      "title": {
+        "de": "Oh je, du fröhliche",
+        "en": "Unaccompanied Minors"
+      },
+      "overview": {
+        "de": "",
+        "en": "When a Christmas Eve blizzard shuts down the airport, five stranded youths take the opportunity to run wild and have some fun. Racing with golf carts and sliding down baggage chutes, the kids create holiday pandemonium for an uptight airport official (Lewis Black) and his gullible assistant (Wilmer Valderrama)."
+      },
+      "releaseYear": 2006,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Familie",
+          "en": "Family"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 55
+    },
     {
       "showId": "27517857",
       "imdbId": "tt37433759",
@@ -30,6 +245,31 @@
         }
       ],
       "rating": null
+    },
+    {
+      "showId": "30418",
+      "imdbId": "tt7477310",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-12-02",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/81750135",
+      "title": {
+        "de": "Der Vorname",
+        "en": "How About Adolf?"
+      },
+      "overview": {
+        "de": "",
+        "en": "An ordinary dinner party among friends in Bonn devolves into a war of words when a pregnant couple shares the name they chose for their unborn baby."
+      },
+      "releaseYear": 2018,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 66
     },
     {
       "showId": "5460818",
@@ -127,6 +367,31 @@
       "rating": null
     },
     {
+      "showId": "27719044",
+      "imdbId": "tt43732472",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-12-03",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/82972444",
+      "title": {
+        "de": "Jão: Memórias Póstumas",
+        "en": "Jão: Memórias Póstumas"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Musik",
+          "en": "Music"
+        }
+      ],
+      "rating": null
+    },
+    {
       "showId": "26635413",
       "imdbId": "tt36475261",
       "provider": "netflix",
@@ -151,6 +416,68 @@
         {
           "de": "Romanze",
           "en": "Romance"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "51321",
+      "imdbId": "tt12058584",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-12-03",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/81558115",
+      "title": {
+        "de": "Schachnovelle",
+        "en": "Chess Story"
+      },
+      "overview": {
+        "de": "",
+        "en": "Vienna, 1938: Austria is occupied by the Nazis. Dr. Josef Bartok (Oliver Masucci) is preparing to flee to America with his wife Anna when he is arrested by the Gestapo. As a former notary to the deposed Austrian aristocracy, he is told to help the local Gestapo leader gain access to their private bank accounts in order to fund the Nazi regime. Refusing to cooperate, Bartok is locked in solitary confinement. Just as his mind is beginning to crack, Bartok happens upon a book of famous chess games. To withstand the torture of isolation, Bartok disappears into the world of chess, maintaining his sanity only by memorizing every move. As the action flashes forward to a transatlantic crossing on which he is a passenger, it seems as though Bartok has finally found freedom. But recounting his story to his fellow travelers, it's clear that his encounters with both the Gestapo and with the royal game itself have not stopped haunting him. Adapted with opulent attention to period detail by filmmaker and opera director Philipp Stölzl, Chess Story brings Stefan Zweig's stirring final novella to life."
+      },
+      "releaseYear": 2021,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Krieg",
+          "en": "War"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 65
+    },
+    {
+      "showId": "27719230",
+      "imdbId": "tt39370903",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-12-03",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/81715670",
+      "title": {
+        "de": "Secrets",
+        "en": "Secrets"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
         }
       ],
       "rating": null
@@ -214,6 +541,39 @@
       "rating": null
     },
     {
+      "showId": "25863282",
+      "imdbId": "tt43682722",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-12-04",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/81908710",
+      "title": {
+        "de": "Der 14.",
+        "en": "14th"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        },
+        {
+          "de": "Geschichte",
+          "en": "History"
+        },
+        {
+          "de": "Nachrichten",
+          "en": "News"
+        }
+      ],
+      "rating": null
+    },
+    {
       "showId": "24593638",
       "imdbId": "tt39089423",
       "provider": "apple",
@@ -263,6 +623,101 @@
         {
           "de": "Familie",
           "en": "Family"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "5460652",
+      "imdbId": "tt29033964",
+      "provider": "disney",
+      "showType": "movie",
+      "addedAt": "2026-12-04",
+      "upcoming": true,
+      "link": "https://www.disneyplus.com/browse/entity-d31d78db-8489-424f-99b1-cc3640ede23c",
+      "title": {
+        "de": "Gregs Tagebuch zu Weihnachten: Keine Panik!",
+        "en": "Diary of a Wimpy Kid Christmas: Cabin Fever"
+      },
+      "overview": {
+        "de": "",
+        "en": "The winter holidays are turning out to be especially stressful for Greg Heffley this year. After accidentally damaging someone else’s property with his best friend Rowley, Greg worries he won’t get the gift he so desperately wants for Christmas. To make matters worse, a snowstorm hits the town and the entire family is trapped indoors for days. With Christmas right around the corner, will Greg be able to be on his best behavior?\n\nSome flashing lights sequences or patterns may affect photosensitive viewers."
+      },
+      "releaseYear": 2023,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Animation",
+          "en": "Animation"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 60
+    },
+    {
+      "showId": "24600752",
+      "imdbId": "tt34382912",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-12-04",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/82004845",
+      "title": {
+        "de": "The Gallerist",
+        "en": "The Gallerist"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 40
+    },
+    {
+      "showId": "27718830",
+      "imdbId": "tt50819963",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-12-04",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/81742745",
+      "title": {
+        "de": "Who Killed the Banker’s Widow?",
+        "en": "Who Killed the Banker’s Widow?"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
         }
       ],
       "rating": null
@@ -325,6 +780,31 @@
         {
           "de": "Dokumentation",
           "en": "Documentary"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "27718799",
+      "imdbId": "tt38681839",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-12-09",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/81756630",
+      "title": {
+        "de": "Bunt",
+        "en": "The Riot"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
         }
       ],
       "rating": null
@@ -558,6 +1038,31 @@
       "rating": null
     },
     {
+      "showId": "27304812",
+      "imdbId": "tt38884617",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-12-16",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/82087625",
+      "title": {
+        "de": "Give Me Some Sugah",
+        "en": "Give Me Some Sugah"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": null
+    },
+    {
       "showId": "26893032",
       "imdbId": "tt35609216",
       "provider": "netflix",
@@ -619,6 +1124,35 @@
         {
           "de": "Romanze",
           "en": "Romance"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "26596600",
+      "imdbId": "tt43659288",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-12-18",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/81947561",
+      "title": {
+        "de": "Más allá de la sociedad",
+        "en": "Beyond Society"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        },
+        {
+          "de": "Geschichte",
+          "en": "History"
         }
       ],
       "rating": null

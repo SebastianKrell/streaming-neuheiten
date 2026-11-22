@@ -1,6 +1,6 @@
 {
   "month": "2026-11",
-  "generatedAt": "2026-11-21T13:20:31.482Z",
+  "generatedAt": "2026-11-22T13:13:00.966Z",
   "entries": [
     {
       "showId": "16967",
@@ -32142,7 +32142,7 @@
           "en": "Romance"
         }
       ],
-      "rating": null
+      "rating": 51
     },
     {
       "showId": "67524",
@@ -37419,7 +37419,7 @@
           "en": "Reality"
         }
       ],
-      "rating": null
+      "rating": 49
     },
     {
       "showId": "102520",
@@ -39722,6 +39722,39 @@
           "en": "Thriller"
         }
       ],
+      "rating": 57
+    },
+    {
+      "showId": "20228245",
+      "imdbId": "tt36514312",
+      "provider": "rtl",
+      "showType": "series",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/wallraffen-p_30144",
+      "title": {
+        "de": "#wallraffen",
+        "en": "#wallraffen"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        },
+        {
+          "de": "Nachrichten",
+          "en": "News"
+        },
+        {
+          "de": "Reality",
+          "en": "Reality"
+        }
+      ],
       "rating": null
     },
     {
@@ -39783,6 +39816,60 @@
       "rating": 52
     },
     {
+      "showId": "14388650",
+      "imdbId": "tt30784609",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2356eb25-16ce-4e1d-8f56-841bfc020b84",
+      "title": {
+        "de": "Abendland",
+        "en": "Abendland"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2024,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 43
+    },
+    {
+      "showId": "25872647",
+      "imdbId": "tt26066512",
+      "provider": "rtl",
+      "showType": "series",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/achtung-verbrechen-p_7681",
+      "title": {
+        "de": "Achtung Verbrechen!",
+        "en": "Achtung Verbrechen!"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2023,
+      "genres": [
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        },
+        {
+          "de": "Reality",
+          "en": "Reality"
+        }
+      ],
+      "rating": null
+    },
+    {
       "showId": "24590809",
       "imdbId": "tt23062300",
       "provider": "prime",
@@ -39831,6 +39918,35 @@
         }
       ],
       "rating": 39
+    },
+    {
+      "showId": "68538",
+      "imdbId": "tt6433886",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/all-inclusive-p_9688",
+      "title": {
+        "de": "All Inclusive",
+        "en": "All Inclusive"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2017,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 53
     },
     {
       "showId": "124000",
@@ -40069,6 +40185,118 @@
       "rating": 53
     },
     {
+      "showId": "232614",
+      "imdbId": "tt0446271",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a642932c-83ec-44fe-b37d-7f8f378d9ad6",
+      "title": {
+        "de": "Black Beauty - Die Legende lebt weiter",
+        "en": "American Black Beauty"
+      },
+      "overview": {
+        "de": "",
+        "en": "A grieving orphan, sent to live with relatives who struggle to keep their ranch, forms a bond with a majestic stallion and a plan to help the family."
+      },
+      "releaseYear": 2005,
+      "genres": [
+        {
+          "de": "Familie",
+          "en": "Family"
+        }
+      ],
+      "rating": 44
+    },
+    {
+      "showId": "23394677",
+      "imdbId": "tt38268526",
+      "provider": "rtl",
+      "showType": "series",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/blome-pfeffer-der-ntv-hauptstadttalk-p_68626",
+      "title": {
+        "de": "Blome & Pfeffer - Der ntv Hauptstadt-Talk",
+        "en": "Blome & Pfeffer - Der ntv Hauptstadt-Talk"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Nachrichten",
+          "en": "News"
+        },
+        {
+          "de": "Talkshow",
+          "en": "Talk Show"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "2699973",
+      "imdbId": "tt27710629",
+      "provider": "rtl",
+      "showType": "series",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/blow-up-p_8553",
+      "title": {
+        "de": "Blow Up",
+        "en": "Blow Up"
+      },
+      "overview": {
+        "de": "",
+        "en": "In a celebration of skill, precision, creativity and joy, Blow Up Australia transforms the humble balloon into jaw-dropping and awe-inspiring artistic creations. Prepare to suspend belief as 10 incredibly talented Australian balloon artists converge on the Blow Up studio to weave their magic. What they will achieve will be mind-blowing."
+      },
+      "releaseYear": 2023,
+      "genres": [
+        {
+          "de": "Reality",
+          "en": "Reality"
+        }
+      ],
+      "rating": 47
+    },
+    {
+      "showId": "13241",
+      "imdbId": "tt0364797",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5ec62d43-6612-435d-9ba7-4c20547b854c",
+      "title": {
+        "de": "Blue Murder",
+        "en": "Blue Murder"
+      },
+      "overview": {
+        "de": "",
+        "en": "Manchester homicide detective Janine Lewis struggles to balance her career solving high-profile crimes and her home life as a single mother."
+      },
+      "releaseYear": 2003,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        },
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        }
+      ],
+      "rating": 68
+    },
+    {
       "showId": "198339",
       "imdbId": "tt5457244",
       "provider": "prime",
@@ -40102,6 +40330,31 @@
       "rating": 47
     },
     {
+      "showId": "27930",
+      "imdbId": "tt1269776",
+      "provider": "disney",
+      "showType": "series",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://www.disneyplus.com/browse/entity-da3bfc23-36fd-49b1-af2a-dce79d06da84",
+      "title": {
+        "de": "Bollywood Hero",
+        "en": "Bollywood Hero"
+      },
+      "overview": {
+        "de": "",
+        "en": "A struggling LA comedian who longs to become a leading man receives an offer to star in a Bollywood movie and follows his dream to India."
+      },
+      "releaseYear": 2009,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 61
+    },
+    {
       "showId": "26635724",
       "imdbId": "tt40540026",
       "provider": "prime",
@@ -40125,6 +40378,31 @@
         }
       ],
       "rating": null
+    },
+    {
+      "showId": "35942",
+      "imdbId": "tt2378884",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d6cb7aa2-ec99-42b4-9f09-35163d03ec97",
+      "title": {
+        "de": "Cavemen",
+        "en": "Cavemen"
+      },
+      "overview": {
+        "de": "",
+        "en": "A young playboy in Los Angeles follows the logic of his younger nephew and best female friend to find true love and leave constant partying behind."
+      },
+      "releaseYear": 2013,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 51
     },
     {
       "showId": "8898",
@@ -40210,6 +40488,31 @@
       "rating": null
     },
     {
+      "showId": "15066370",
+      "imdbId": "tt7596874",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a6baee12-cf31-145e-e57c-d87d217b9627",
+      "title": {
+        "de": "Compulsión",
+        "en": "Compulsion"
+      },
+      "overview": {
+        "de": "",
+        "en": "Helen, una neurocientífica, se enfrenta a la tragedia de ver asesinado a su amante en un tanque de aislamiento. Un detective local investiga el caso."
+      },
+      "releaseYear": 2018,
+      "genres": [
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 43
+    },
+    {
       "showId": "26597442",
       "imdbId": "tt44079238",
       "provider": "netflix",
@@ -40236,7 +40539,7 @@
           "en": "Crime"
         }
       ],
-      "rating": null
+      "rating": 62
     },
     {
       "showId": "5048901",
@@ -40463,6 +40766,31 @@
       "rating": 61
     },
     {
+      "showId": "23394592",
+      "imdbId": "tt37439445",
+      "provider": "rtl",
+      "showType": "series",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/der-promihof-p_68990",
+      "title": {
+        "de": "Der Promihof",
+        "en": "Der Promihof"
+      },
+      "overview": {
+        "de": "Prominente ziehen auf einen Bauernhof in Polen. Unter Landwirt Ninos Aufsicht müssen sie Hof-Regeln befolgen, um für einen 100.000-Euro-Jackpot zu kämpfen. Fehler kosten Geld. Wer wird Hof-König oder Königin?",
+        "en": "Prominente ziehen auf einen Bauernhof in Polen. Unter Landwirt Ninos Aufsicht müssen sie Hof-Regeln befolgen, um für einen 100.000-Euro-Jackpot zu kämpfen. Fehler kosten Geld. Wer wird Hof-König oder Königin?"
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Reality",
+          "en": "Reality"
+        }
+      ],
+      "rating": null
+    },
+    {
       "showId": "281893",
       "imdbId": "tt7462562",
       "provider": "prime",
@@ -40554,6 +40882,93 @@
       "rating": 63
     },
     {
+      "showId": "26033026",
+      "imdbId": "tt37895051",
+      "provider": "rtl",
+      "showType": "series",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/der-zweite-weltkrieg-globale-fronten-p_70217",
+      "title": {
+        "de": "Der zweite Weltkrieg – Globale Fronten",
+        "en": "The Sound and the Fury"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        },
+        {
+          "de": "Geschichte",
+          "en": "History"
+        },
+        {
+          "de": "Krieg",
+          "en": "War"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "25871173",
+      "imdbId": "tt28639456",
+      "provider": "rtl",
+      "showType": "series",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/die-grosse-geo-story-p_4170",
+      "title": {
+        "de": "Die große GEO Story",
+        "en": "Die große GEO Story"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2023,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        },
+        {
+          "de": "Talkshow",
+          "en": "Talk Show"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "64977",
+      "imdbId": "tt0472961",
+      "provider": "rtl",
+      "showType": "series",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/die-kochprofis-einsatz-am-herd-p_8528",
+      "title": {
+        "de": "Die Kochprofis - Einsatz am Herd",
+        "en": "Die Kochprofis - Einsatz am Herd"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2005,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        }
+      ],
+      "rating": 42
+    },
+    {
       "showId": "26598359",
       "imdbId": "tt39325975",
       "provider": "disney",
@@ -40584,7 +40999,7 @@
           "en": "History"
         }
       ],
-      "rating": null
+      "rating": 66
     },
     {
       "showId": "24333091",
@@ -40727,6 +41142,35 @@
       "rating": 58
     },
     {
+      "showId": "61932",
+      "imdbId": "tt1809287",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0571acfe-dde0-4589-b7a3-726043632cc6",
+      "title": {
+        "de": "Ecstasy",
+        "en": "Ecstasy"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2011,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": 50
+    },
+    {
       "showId": "5029752",
       "imdbId": "tt25051484",
       "provider": "disney",
@@ -40750,6 +41194,39 @@
         }
       ],
       "rating": 56
+    },
+    {
+      "showId": "11164",
+      "imdbId": "tt0081534",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.36a9f65d-16fd-d255-69b4-26202e0571fc",
+      "title": {
+        "de": "Ein tödlicher Traum",
+        "en": "Somewhere in Time"
+      },
+      "overview": {
+        "de": "",
+        "en": "A playwright visiting a hotel falls in love with an actress pictured in a 1912 photo and uses self-hypnosis to go 68 years back in time to meet her."
+      },
+      "releaseYear": 1980,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Fantasy",
+          "en": "Fantasy"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": 70
     },
     {
       "showId": "6171",
@@ -40901,6 +41378,31 @@
       "rating": 48
     },
     {
+      "showId": "24592743",
+      "imdbId": "tt37561089",
+      "provider": "rtl",
+      "showType": "series",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/europa-grillt-den-henssler-p_69063",
+      "title": {
+        "de": "Europa grillt den Henssler",
+        "en": "Europa grillt den Henssler"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Familie",
+          "en": "Family"
+        }
+      ],
+      "rating": null
+    },
+    {
       "showId": "5192",
       "imdbId": "tt2057392",
       "provider": "disney",
@@ -40967,6 +41469,35 @@
       "rating": 56
     },
     {
+      "showId": "1695238",
+      "imdbId": "tt19895130",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.00f7fd06-1c27-4cdd-902b-8770ea0c3a0b",
+      "title": {
+        "de": "Fear the Dark",
+        "en": "The Ghost Within"
+      },
+      "overview": {
+        "de": "",
+        "en": "To uncover who killed her sister, Margot revisits her family home twenty years later. Inside the haunted house, she faces her deepest fears."
+      },
+      "releaseYear": 2023,
+      "genres": [
+        {
+          "de": "Horror",
+          "en": "Horror"
+        },
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        }
+      ],
+      "rating": 43
+    },
+    {
       "showId": "13056544",
       "imdbId": "tt22988100",
       "provider": "prime",
@@ -40990,6 +41521,31 @@
         }
       ],
       "rating": null
+    },
+    {
+      "showId": "13817497",
+      "imdbId": "tt30149710",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a1098ed9-afd1-441f-a0b0-0fc09cf1d0a4",
+      "title": {
+        "de": "Felipe Avello: Bien vestido, bien recibido",
+        "en": "Felipe Avello: Well Dressed, Well Received"
+      },
+      "overview": {
+        "de": "",
+        "en": "In this new comedy special, comedian Felipe Avello analyzes different \"light topics\" such as crime and immigration, and recounts his adventures in Mexico and one particular encounter with a Morrisey impersonator"
+      },
+      "releaseYear": 2023,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 43
     },
     {
       "showId": "9888",
@@ -41125,6 +41681,39 @@
       "rating": 63
     },
     {
+      "showId": "38451",
+      "imdbId": "tt0459748",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.73e24879-d6d9-499c-9799-3a4860e297d5",
+      "title": {
+        "de": "Generation П",
+        "en": "Generation P"
+      },
+      "overview": {
+        "de": "",
+        "en": "In post-communist Russia, a poet lands a job in his country's blossoming advertising world."
+      },
+      "releaseYear": 2011,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        },
+        {
+          "de": "Science-Fiction",
+          "en": "Science Fiction"
+        }
+      ],
+      "rating": 66
+    },
+    {
       "showId": "331825",
       "imdbId": "tt10801458",
       "provider": "prime",
@@ -41181,6 +41770,31 @@
         }
       ],
       "rating": 66
+    },
+    {
+      "showId": "157408",
+      "imdbId": "tt0257721",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dd18faf3-0533-4879-a861-64d07e3e8a17",
+      "title": {
+        "de": "Good Neighbor",
+        "en": "Good Neighbor"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2001,
+      "genres": [
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 31
     },
     {
       "showId": "27519885",
@@ -41261,6 +41875,31 @@
         {
           "de": "Dokumentation",
           "en": "Documentary"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "24338857",
+      "imdbId": "tt37561109",
+      "provider": "rtl",
+      "showType": "series",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/hensslers-dreamteam-p_68991",
+      "title": {
+        "de": "Hensslers Dreamteam",
+        "en": "Hensslers Dreamteam"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Familie",
+          "en": "Family"
         }
       ],
       "rating": null
@@ -41366,6 +42005,31 @@
       "rating": 55
     },
     {
+      "showId": "49695",
+      "imdbId": "tt16677996",
+      "provider": "rtl",
+      "showType": "series",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/inside-hitler-p_8504",
+      "title": {
+        "de": "Inside Hitler",
+        "en": "Hitler's Secret Sex Life"
+      },
+      "overview": {
+        "de": "",
+        "en": "From incest to stalking and the shocking lengths he took to hide his sexual past, this four-part series explores the primal mindset of history's most destructive man."
+      },
+      "releaseYear": 2021,
+      "genres": [
+        {
+          "de": "Geschichte",
+          "en": "History"
+        }
+      ],
+      "rating": 51
+    },
+    {
       "showId": "22397",
       "imdbId": "tt0091276",
       "provider": "prime",
@@ -41442,6 +42106,26 @@
           "en": "Documentary"
         }
       ],
+      "rating": null
+    },
+    {
+      "showId": "25889220",
+      "imdbId": "tt12020472",
+      "provider": "rtl",
+      "showType": "series",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/jamie-oliver-veggies-p_2866",
+      "title": {
+        "de": "Jamie: Keep Cooking and Carry On",
+        "en": "Jamie: Keep Cooking and Carry On"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2020,
+      "genres": [],
       "rating": null
     },
     {
@@ -41549,6 +42233,31 @@
       "rating": null
     },
     {
+      "showId": "4303708",
+      "imdbId": "tt26596455",
+      "provider": "rtl",
+      "showType": "series",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/killers-caught-on-camera-p_9595",
+      "title": {
+        "de": "Killers on Camera - Auf frischer Tat ertappt",
+        "en": "Killers: Caught on Camera"
+      },
+      "overview": {
+        "de": "",
+        "en": "Unique access to CCTV, home surveillance, police body camera and cell phone footage helps experts piece together facts of unsolved true crime cases."
+      },
+      "releaseYear": 2023,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        }
+      ],
+      "rating": 49
+    },
+    {
       "showId": "120221",
       "imdbId": "tt0088739",
       "provider": "prime",
@@ -41580,6 +42289,35 @@
         }
       ],
       "rating": 39
+    },
+    {
+      "showId": "45116",
+      "imdbId": "tt9421200",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9c98e245-6594-4fd5-9eda-119fbde8bac5",
+      "title": {
+        "de": "Kosmetik des Bösen",
+        "en": "A Perfect Enemy"
+      },
+      "overview": {
+        "de": "",
+        "en": "A famed architect and a mysterious young woman meet in an airport and start a conversation that will bring their two worlds into a bloody collision."
+      },
+      "releaseYear": 2021,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 57
     },
     {
       "showId": "83509",
@@ -41698,6 +42436,60 @@
       "rating": 50
     },
     {
+      "showId": "42648",
+      "imdbId": "tt0780370",
+      "provider": "rtl",
+      "showType": "series",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/lets-dance-p_10438",
+      "title": {
+        "de": "Let's Dance",
+        "en": "Let's Dance"
+      },
+      "overview": {
+        "de": "Martin Tietjen spricht im offiziellen \"Let's Dance\"-Video-Podcast mit den Kandidaten der 19. Staffel: Es geht um das, was sie in ihrem Leben geprägt hat, was sie bewegt bei Let´s Dance mitzumachen und worauf sie sich besonders freuen.",
+        "en": "Explore a mashup of dance styles, including country, disco, KPOP, ballet, and breakdancing. Let's Dance!"
+      },
+      "releaseYear": 2006,
+      "genres": [
+        {
+          "de": "Familie",
+          "en": "Family"
+        },
+        {
+          "de": "Musik",
+          "en": "Music"
+        }
+      ],
+      "rating": 44
+    },
+    {
+      "showId": "27067389",
+      "imdbId": "tt43707306",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/liebliche-weihnachten-wenn-der-wein-die-herzen-offnet-p_265594",
+      "title": {
+        "de": "Liebliche Weihnachten - Wenn der Wein die Herzen öffnet",
+        "en": "Christmas Uncorked"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": null
+    },
+    {
       "showId": "127620",
       "imdbId": "tt0055117",
       "provider": "prime",
@@ -41727,6 +42519,31 @@
       "rating": 49
     },
     {
+      "showId": "24318579",
+      "imdbId": "tt31036715",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7cfceabf-4ec1-4524-b8a1-a18b1b89b7b3",
+      "title": {
+        "de": "Malice",
+        "en": "Malice"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 59
+    },
+    {
       "showId": "27718740",
       "imdbId": "tt49290868",
       "provider": "prime",
@@ -41750,6 +42567,26 @@
         }
       ],
       "rating": null
+    },
+    {
+      "showId": "19873231",
+      "imdbId": "tt23317810",
+      "provider": "rtl",
+      "showType": "series",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/malzer-und-henssler-liefern-ab-p_10145",
+      "title": {
+        "de": "Mälzer und Henssler liefern ab!",
+        "en": "Mälzer und Henssler liefern ab!"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2021,
+      "genres": [],
+      "rating": 38
     },
     {
       "showId": "89056",
@@ -41777,6 +42614,39 @@
       "rating": 37
     },
     {
+      "showId": "80512",
+      "imdbId": "tt3043594",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acba134f-e867-3c35-69ff-5a96b68eba25",
+      "title": {
+        "de": "Mein schönstes schlimmstes Weihnachtsfest",
+        "en": "Kristin's Christmas Past"
+      },
+      "overview": {
+        "de": "",
+        "en": "Given the opportunity to visit her estranged family on Christmas Eve 1996, Kristin Cartwright hopes to change her past in order to improve her current life in 2013."
+      },
+      "releaseYear": 2013,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Familie",
+          "en": "Family"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 61
+    },
+    {
       "showId": "24811295",
       "imdbId": "tt37458193",
       "provider": "prime",
@@ -41799,7 +42669,7 @@
           "en": "Comedy"
         }
       ],
-      "rating": null
+      "rating": 62
     },
     {
       "showId": "88252",
@@ -41860,6 +42730,35 @@
       "rating": null
     },
     {
+      "showId": "169234",
+      "imdbId": "tt0100208",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6c9db539-2e50-4db6-ae15-533853033377",
+      "title": {
+        "de": "Milly... und sowas nennt sich seine Mutter",
+        "en": "Murder in Law"
+      },
+      "overview": {
+        "de": "",
+        "en": "When Milly arrives in town to live with her son and his family, she fails to mention she’s on the run from an asylum after murdering an orderly."
+      },
+      "releaseYear": 1989,
+      "genres": [
+        {
+          "de": "Horror",
+          "en": "Horror"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 42
+    },
+    {
       "showId": "11115",
       "imdbId": "tt0482546",
       "provider": "prime",
@@ -41887,6 +42786,31 @@
         }
       ],
       "rating": 69
+    },
+    {
+      "showId": "314837",
+      "imdbId": "tt9099982",
+      "provider": "disney",
+      "showType": "movie",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://www.disneyplus.com/browse/entity-dc7e922c-11bb-4cff-a270-96656ec2f54a",
+      "title": {
+        "de": "Moth",
+        "en": "Moth"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2019,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": 40
     },
     {
       "showId": "24592304",
@@ -41918,6 +42842,35 @@
       "rating": 36
     },
     {
+      "showId": "47843",
+      "imdbId": "tt0365190",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.02c10e75-5987-4daa-90eb-59350cda27e9",
+      "title": {
+        "de": "Nächtliche Irrfahrt",
+        "en": "Red Lights"
+      },
+      "overview": {
+        "de": "",
+        "en": "A psychologist (Sigourney Weaver) and her assistant (Cillian Murphy) investigate a renowned psychic (Robert De Niro) who has resurfaced years after his critic mysteriously passed away."
+      },
+      "releaseYear": 2004,
+      "genres": [
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        },
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        }
+      ],
+      "rating": 63
+    },
+    {
       "showId": "23901888",
       "imdbId": "tt27365648",
       "provider": "prime",
@@ -41938,6 +42891,68 @@
         {
           "de": "Fantasy",
           "en": "Fantasy"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "18067",
+      "imdbId": "tt0102555",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a632e104-7a06-4d73-a428-b2583fe2c450",
+      "title": {
+        "de": "Nicht ohne meine Tochter",
+        "en": "Not Without My Daughter"
+      },
+      "overview": {
+        "de": "",
+        "en": "An Iranian-American man takes his wife and daughter to Iran under false pretenses, then holds them hostage as they fight to escape."
+      },
+      "releaseYear": 1991,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 65
+    },
+    {
+      "showId": "23913690",
+      "imdbId": "tt37257054",
+      "provider": "rtl",
+      "showType": "series",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/ninja-warrior-germany-kids-academy-p_68516",
+      "title": {
+        "de": "Ninja Warrior Germany Kids Academy",
+        "en": "Ninja Warrior Germany Kids Academy"
+      },
+      "overview": {
+        "de": "Sportliche Nachwuchstalente im Alter von zwölf bis 15 Jahren nehmen an einem intensiven Trainingscamp teil, begleitet von erfahrenen Athleten und Moderatorin Jessica Schöne. Vier Kinder bestreiten den \"Ninja Warrior Germany\"-Parcours.",
+        "en": "Sportliche Nachwuchstalente im Alter von zwölf bis 15 Jahren nehmen an einem intensiven Trainingscamp teil, begleitet von erfahrenen Athleten und Moderatorin Jessica Schöne. Vier Kinder bestreiten den \"Ninja Warrior Germany\"-Parcours."
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Familie",
+          "en": "Family"
+        },
+        {
+          "de": "Reality",
+          "en": "Reality"
         }
       ],
       "rating": null
@@ -42158,6 +43173,60 @@
       "rating": 72
     },
     {
+      "showId": "26139",
+      "imdbId": "tt8786654",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5d1439ea-60e1-423e-9a35-2c6eb840b831",
+      "title": {
+        "de": "Payback",
+        "en": "Payback"
+      },
+      "overview": {
+        "de": "",
+        "en": "A stockbroker at a Mob-controlled Wall Street firm is betrayed and imprisoned for six years. Upon release, his deadly quest for vengeance begins."
+      },
+      "releaseYear": 2021,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 52
+    },
+    {
+      "showId": "25860990",
+      "imdbId": "tt41663855",
+      "provider": "rtl",
+      "showType": "series",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/nina-aykut-der-video-podcast-p_69609",
+      "title": {
+        "de": "Peaky Blinders: The Immortal Man Podcast",
+        "en": "Peaky Blinders: The Immortal Man Podcast"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Talkshow",
+          "en": "Talk Show"
+        }
+      ],
+      "rating": null
+    },
+    {
       "showId": "4577",
       "imdbId": "tt2431286",
       "provider": "disney",
@@ -42181,6 +43250,31 @@
         }
       ],
       "rating": 75
+    },
+    {
+      "showId": "27719022",
+      "imdbId": "tt50880016",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/postcards-for-christmas-weihnachtsgrusse-mit-herz-p_275817",
+      "title": {
+        "de": "Postcards for Christmas - Weihnachtsgrüße mit Herz",
+        "en": "Postcards for Christmas"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": null
     },
     {
       "showId": "27526879",
@@ -42264,6 +43358,93 @@
         }
       ],
       "rating": null
+    },
+    {
+      "showId": "68103",
+      "imdbId": "tt13175560",
+      "provider": "rtl",
+      "showType": "series",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/railway-murders-geheimnisvolle-verbrechen-p_10062",
+      "title": {
+        "de": "Railway Murders",
+        "en": "Railway Murders"
+      },
+      "overview": {
+        "de": "",
+        "en": "Investigating the most notorious murders ever to take place on the tracks of a technological revolution that transformed Britain, town by town."
+      },
+      "releaseYear": 2021,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        },
+        {
+          "de": "Geschichte",
+          "en": "History"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        }
+      ],
+      "rating": 46
+    },
+    {
+      "showId": "33715",
+      "imdbId": "tt14719784",
+      "provider": "rtl",
+      "showType": "series",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/marilyn-monroe-frau-ikone-mysterium-p_11183",
+      "title": {
+        "de": "Reframed: Marilyn Monroe",
+        "en": "Reframed: Marilyn Monroe"
+      },
+      "overview": {
+        "de": "",
+        "en": "Examines and reclaims the life and legacy of Marilyn Monroe, a celebrated actor and woman ahead of her time."
+      },
+      "releaseYear": 2022,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        },
+        {
+          "de": "Geschichte",
+          "en": "History"
+        }
+      ],
+      "rating": 54
+    },
+    {
+      "showId": "24692",
+      "imdbId": "tt1878942",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f98f48f5-92ae-4fe4-9375-69538b9c3151",
+      "title": {
+        "de": "Reine Männersache",
+        "en": "Date and Switch"
+      },
+      "overview": {
+        "de": "",
+        "en": "A group of high school seniors who made a secret pact to lose their virginity before Prom Night hit a snag when one of the teens comes out as gay."
+      },
+      "releaseYear": 2014,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 57
     },
     {
       "showId": "182",
@@ -42353,6 +43534,26 @@
       "rating": null
     },
     {
+      "showId": "35827",
+      "imdbId": "tt1385821",
+      "provider": "rtl",
+      "showType": "series",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/schlag-den-star-p_257157",
+      "title": {
+        "de": "Schlag den Star",
+        "en": "Schlag den Star"
+      },
+      "overview": {
+        "de": "Promi gegen Promi heißt es bei Schlag den Star. In bis zu 15 Sport- und Denkspielen können die Stars beweisen, wie viel Kampfgeist in Ihnen steckt. Mit der Moderation von Elton ist Schlag den Star DIE Samstagabend Sendung. Außerdem geht es um 100.000. Euro Preisgeld, aber natürlich auch um die Ehre!",
+        "en": "Promi gegen Promi heißt es bei Schlag den Star. In bis zu 15 Sport- und Denkspielen können die Stars beweisen, wie viel Kampfgeist in Ihnen steckt. Mit der Moderation von Elton ist Schlag den Star DIE Samstagabend Sendung. Außerdem geht es um 100.000. Euro Preisgeld, aber natürlich auch um die Ehre!"
+      },
+      "releaseYear": 2009,
+      "genres": [],
+      "rating": 50
+    },
+    {
       "showId": "4025080",
       "imdbId": "tt14960612",
       "provider": "netflix",
@@ -42380,6 +43581,35 @@
         }
       ],
       "rating": 63
+    },
+    {
+      "showId": "43281",
+      "imdbId": "tt0357668",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.34a3d54e-607e-47be-84ea-3d33b90aafa8",
+      "title": {
+        "de": "Sky Busters - Die Himmelsstürmer",
+        "en": "The Flyboys"
+      },
+      "overview": {
+        "de": "",
+        "en": "As a pair of schoolboys sneak a look around an empty private aircraft, two criminals take off with the kids still inside. Upon discovering the men are dangerous gangsters, the horrified lads inadvertently become embroiled in the mobsters's scheme."
+      },
+      "releaseYear": 2008,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Action",
+          "en": "Action"
+        }
+      ],
+      "rating": 61
     },
     {
       "showId": "4812",
@@ -42413,6 +43643,55 @@
         }
       ],
       "rating": 65
+    },
+    {
+      "showId": "24605174",
+      "imdbId": "tt33049822",
+      "provider": "rtl",
+      "showType": "series",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/spring-break-murders-tod-im-partyparadies-p_69881",
+      "title": {
+        "de": "Spring Break Murders",
+        "en": "Spring Break Murders"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2025,
+      "genres": [],
+      "rating": null
+    },
+    {
+      "showId": "10839",
+      "imdbId": "tt11852724",
+      "provider": "rtl",
+      "showType": "series",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/stanley-tuccis-italien-p_9962",
+      "title": {
+        "de": "Stanley Tuccis Italien",
+        "en": "Stanley Tucci: Searching for Italy"
+      },
+      "overview": {
+        "de": "",
+        "en": "Stanley Tucci travels across Italy to discover the secrets and delights of the country's regional cuisines."
+      },
+      "releaseYear": 2021,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        }
+      ],
+      "rating": 63
     },
     {
       "showId": "122474",
@@ -42477,6 +43756,31 @@
       "rating": null
     },
     {
+      "showId": "76731",
+      "imdbId": "tt0089297",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/stern-stunde-talk-aus-berlin-p_8540",
+      "title": {
+        "de": "Sternstunde",
+        "en": "Hour of the Star"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 1986,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": 67
+    },
+    {
       "showId": "35534",
       "imdbId": "tt3142958",
       "provider": "prime",
@@ -42537,6 +43841,35 @@
         }
       ],
       "rating": 40
+    },
+    {
+      "showId": "2700309",
+      "imdbId": "tt27587174",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.08dec248-aa48-45a6-80da-6fab4061d6ef",
+      "title": {
+        "de": "Take a Chance",
+        "en": "Take a Chance"
+      },
+      "overview": {
+        "de": "",
+        "en": "Gert van der Graaf's childhood crush on Abba's Agnetha Fältskog spirals into a criminal obsession, revealing the dark side of compulsive fandom."
+      },
+      "releaseYear": 2023,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        },
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": 59
     },
     {
       "showId": "11450",
@@ -42792,6 +44125,60 @@
       "rating": 43
     },
     {
+      "showId": "92690",
+      "imdbId": "tt0091508",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0f0ee385-4fdc-4774-9724-0ceb91153bb1",
+      "title": {
+        "de": "The Men's Club - Der Männerclub",
+        "en": "The Men's Club"
+      },
+      "overview": {
+        "de": "",
+        "en": "A group of seven men are assembled by a psychologist and spend an evening doing what men often have trouble doing--trading their deepest fears, darkest secrets, and untold desires--revealing their inner- selves.  And when this catharsis ends, they are led to an elegant bordello--where their uninhibited fantasies can now run wild."
+      },
+      "releaseYear": 1986,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": 45
+    },
+    {
+      "showId": "108999",
+      "imdbId": "tt1863305",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3843e987-0b77-47d6-9f92-c568a8342bc4",
+      "title": {
+        "de": "The Path - Dunkle Pfade",
+        "en": "The Path"
+      },
+      "overview": {
+        "de": "",
+        "en": "The final round."
+      },
+      "releaseYear": 2012,
+      "genres": [
+        {
+          "de": "Horror",
+          "en": "Horror"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 47
+    },
+    {
       "showId": "11276",
       "imdbId": "tt3503406",
       "provider": "disney",
@@ -42823,6 +44210,31 @@
         }
       ],
       "rating": 62
+    },
+    {
+      "showId": "14626261",
+      "imdbId": "tt34730600",
+      "provider": "disney",
+      "showType": "movie",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://www.disneyplus.com/browse/entity-e00835fb-bcb6-4aaf-83ed-2412ff0ac8db",
+      "title": {
+        "de": "The Year: 2024",
+        "en": "The Year: 2024"
+      },
+      "overview": {
+        "de": "",
+        "en": "ABC News Live Special Programming."
+      },
+      "releaseYear": 2024,
+      "genres": [
+        {
+          "de": "Nachrichten",
+          "en": "News"
+        }
+      ],
+      "rating": 40
     },
     {
       "showId": "27520865",
@@ -42937,6 +44349,39 @@
       "rating": 47
     },
     {
+      "showId": "179730",
+      "imdbId": "tt0364717",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4665a6a7-2033-494f-8f13-82bb8fdb3bb3",
+      "title": {
+        "de": "Twelfth Night, or What You Will",
+        "en": "Twelfth Night, or What You Will"
+      },
+      "overview": {
+        "de": "",
+        "en": "In Shakespeare's Twelfth Night - Viola - shipwrecked and disguised as a man named Cesario, falls in love with the Duke Orsino, who is in love with Lady Olivia. Olivia, in turn, falls for Cesario, leading to a series of mistaken identities and comedic situations that ultimately resolve in multiple pairings."
+      },
+      "releaseYear": 2003,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": 51
+    },
+    {
       "showId": "59216",
       "imdbId": "tt19857646",
       "provider": "rtl",
@@ -42960,6 +44405,31 @@
         }
       ],
       "rating": 48
+    },
+    {
+      "showId": "18882494",
+      "imdbId": "tt10066750",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.11f5cd44-cfc8-4717-a752-db9ddec7ad9b",
+      "title": {
+        "de": "Vainilla",
+        "en": "Vainilla"
+      },
+      "overview": {
+        "de": "",
+        "en": "Alma is a woman in her thirties who is not yet certain if she has ever experienced an orgasm. After escaping violence and various frustrations, she decides to ignore social and family expectations to explore her desires."
+      },
+      "releaseYear": 2022,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": 39
     },
     {
       "showId": "26342721",
@@ -43074,6 +44544,31 @@
       "rating": 69
     },
     {
+      "showId": "38762",
+      "imdbId": "tt3690362",
+      "provider": "rtl",
+      "showType": "series",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/wildes-kanada-p_7450",
+      "title": {
+        "de": "Wild Canada",
+        "en": "Wild Canada"
+      },
+      "overview": {
+        "de": "",
+        "en": "Fabulous landscapes and spectacular wildlife: O Canada! This vast wild country, boasting the longest coastline in the world and the greatest north-south latitude range, is home to moose, musk ox and whales. This stunning documentary explores nature through fresh eyes – from inside a beaver’s lodge to underwater alongside whales."
+      },
+      "releaseYear": 2014,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        }
+      ],
+      "rating": 49
+    },
+    {
       "showId": "26030295",
       "imdbId": "tt38483587",
       "provider": "netflix",
@@ -43153,6 +44648,55 @@
       "rating": 40
     },
     {
+      "showId": "20040059",
+      "imdbId": "tt2657206",
+      "provider": "rtl",
+      "showType": "series",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/woozle-goozle-p_9604",
+      "title": {
+        "de": "Woozle Goozle",
+        "en": "Woozle Goozle"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2013,
+      "genres": [
+        {
+          "de": "Familie",
+          "en": "Family"
+        },
+        {
+          "de": "Nachrichten",
+          "en": "News"
+        }
+      ],
+      "rating": 43
+    },
+    {
+      "showId": "8953990",
+      "imdbId": "tt24174606",
+      "provider": "rtl",
+      "showType": "series",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/die-grosse-geo-show-in-55-fragen-um-die-welt-p_7675",
+      "title": {
+        "de": "Wunder unserer Erde – Das große Geo-Quiz",
+        "en": "Wunder unserer Erde – Das große Geo-Quiz"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2023,
+      "genres": [],
+      "rating": null
+    },
+    {
       "showId": "81737",
       "imdbId": "tt11261270",
       "provider": "disney",
@@ -43205,6 +44749,35 @@
         }
       ],
       "rating": 38
+    },
+    {
+      "showId": "25913418",
+      "imdbId": "tt39098836",
+      "provider": "rtl",
+      "showType": "series",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/ps-dtm-kompakt-p_2713",
+      "title": {
+        "de": "الأرشيف",
+        "en": "Archive (PS)"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2015,
+      "genres": [
+        {
+          "de": "Geschichte",
+          "en": "History"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": null
     },
     {
       "showId": "38817",
@@ -43349,7 +44922,40 @@
           "en": "Romance"
         }
       ],
-      "rating": null
+      "rating": 62
+    },
+    {
+      "showId": "19775",
+      "imdbId": "tt17506706",
+      "provider": "rtl",
+      "showType": "series",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/bushido-reset-p_9648",
+      "title": {
+        "de": "开端",
+        "en": "Reset"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2022,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Science-Fiction",
+          "en": "Science Fiction"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 61
     },
     {
       "showId": "27521257",
@@ -43375,6 +44981,31 @@
         }
       ],
       "rating": null
+    },
+    {
+      "showId": "114507",
+      "imdbId": "tt3772612",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-21",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1e90dd5f-1497-4e79-9733-f567cf2dd2bb",
+      "title": {
+        "de": "築地ワンダーランド",
+        "en": "Tsukiji Wonderland"
+      },
+      "overview": {
+        "de": "",
+        "en": "An inside look at Tsukiji, the world's largest fish market. The film captures the passion of its people, the heart of Japan's food culture, \"Washoku.\"©2016 Shochiku"
+      },
+      "releaseYear": 2016,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        }
+      ],
+      "rating": 54
     },
     {
       "showId": "44843",
@@ -43433,6 +45064,39 @@
         }
       ],
       "rating": 37
+    },
+    {
+      "showId": "14625665",
+      "imdbId": "tt33984333",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-22",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/82042647",
+      "title": {
+        "de": "How to Make a Killing",
+        "en": "How to Make a Killing"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 64
     },
     {
       "showId": "27527545",
@@ -43947,6 +45611,26 @@
         }
       ],
       "rating": 40
+    },
+    {
+      "showId": "27519960",
+      "imdbId": "tt49527359",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/81780038",
+      "title": {
+        "de": "Bērns",
+        "en": "The Child"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [],
+      "rating": null
     },
     {
       "showId": "27301334",

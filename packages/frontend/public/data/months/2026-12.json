@@ -1,6 +1,6 @@
 {
   "month": "2026-12",
-  "generatedAt": "2026-11-21T13:20:31.482Z",
+  "generatedAt": "2026-11-22T13:13:00.966Z",
   "entries": [
     {
       "showId": "24326348",
@@ -183,6 +183,39 @@
         }
       ],
       "rating": 60
+    },
+    {
+      "showId": "21138600",
+      "imdbId": "tt35064754",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-12-01",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/82134372",
+      "title": {
+        "de": "Honey Trap",
+        "en": "Honey Trap"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": null
     },
     {
       "showId": "19669",
@@ -756,6 +789,39 @@
       "rating": null
     },
     {
+      "showId": "24974965",
+      "imdbId": "tt27097227",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-12-05",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/83132023",
+      "title": {
+        "de": "ลางปริศนา",
+        "en": "The Gift"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Familie",
+          "en": "Family"
+        },
+        {
+          "de": "Fantasy",
+          "en": "Fantasy"
+        },
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        }
+      ],
+      "rating": null
+    },
+    {
       "showId": "24859073",
       "imdbId": "tt39196105",
       "provider": "netflix",
@@ -1063,6 +1129,39 @@
       "rating": null
     },
     {
+      "showId": "8616718",
+      "imdbId": "tt31158584",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-12-16",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/82030667",
+      "title": {
+        "de": "The Believers",
+        "en": "The Believers"
+      },
+      "overview": {
+        "de": "James Teeradon Supapunpinyo („Homestay“), Pachara Chirathivat („The Billionaire“) und Achiraya Nitibhon („Brother of the Year“) sind in diesem Krimidrama zu sehen.",
+        "en": "Up against rival monks and relentless cops, three entrepreneurs risk everything as they exploit the dark side of Thailand's Buddhist temples."
+      },
+      "releaseYear": 2024,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 59
+    },
+    {
       "showId": "26893032",
       "imdbId": "tt35609216",
       "provider": "netflix",
@@ -1186,6 +1285,72 @@
         {
           "de": "Animation",
           "en": "Animation"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "22824040",
+      "imdbId": "tt28306749",
+      "provider": "disney",
+      "showType": "series",
+      "addedAt": "2026-12-23",
+      "upcoming": true,
+      "link": "https://www.disneyplus.com/browse/entity-f81ee1cb-3794-4631-a8ff-adcf2c10e1f5",
+      "title": {
+        "de": "Disney Twisted-Wonderland: Die Serie",
+        "en": "Disney Twisted-Wonderland: The Animation"
+      },
+      "overview": {
+        "de": "",
+        "en": "A high school student suddenly finds himself in Twisted Wonderland, a world of magic and wonder."
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Animation",
+          "en": "Animation"
+        }
+      ],
+      "rating": 58
+    },
+    {
+      "showId": "25169413",
+      "imdbId": "tt36408401",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-12-23",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/82054606",
+      "title": {
+        "de": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
+        "en": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
         }
       ],
       "rating": null

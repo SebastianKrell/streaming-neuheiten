@@ -1,6 +1,6 @@
 {
   "month": "2026-12",
-  "generatedAt": "2026-11-23T15:50:12.976Z",
+  "generatedAt": "2026-11-24T15:41:46.849Z",
   "entries": [
     {
       "showId": "24326348",
@@ -789,6 +789,26 @@
       "rating": null
     },
     {
+      "showId": "25030398",
+      "imdbId": "tt42498501",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-12-05",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/83132023",
+      "title": {
+        "de": "GIFT",
+        "en": "GIFT"
+      },
+      "overview": {
+        "de": "",
+        "en": "An eccentric outsider reignites a struggling wheelchair rugby team, and the broken lives surrounding it."
+      },
+      "releaseYear": 2026,
+      "genres": [],
+      "rating": null
+    },
+    {
       "showId": "24974965",
       "imdbId": "tt27097227",
       "provider": "netflix",
@@ -817,6 +837,39 @@
         {
           "de": "Mystery",
           "en": "Mystery"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "26635427",
+      "imdbId": "tt41939482",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-12-05",
+      "upcoming": true,
+      "link": null,
+      "title": {
+        "de": "신의 구슬",
+        "en": "Sacred Jewel"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Geschichte",
+          "en": "History"
         }
       ],
       "rating": null
@@ -871,6 +924,35 @@
         {
           "de": "Drama",
           "en": "Drama"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "27782960",
+      "imdbId": "tt43610460",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-12-09",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/83131696",
+      "title": {
+        "de": "Gabby's Dollhouse: Makers and Bakers Holiday",
+        "en": "Gabby's Dollhouse: Makers and Bakers Holiday"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Familie",
+          "en": "Family"
+        },
+        {
+          "de": "Reality",
+          "en": "Reality"
         }
       ],
       "rating": null
@@ -1031,6 +1113,31 @@
       "title": {
         "de": "Jean-Michel Basquiat",
         "en": "Jean-Michel Basquiat"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "27783205",
+      "imdbId": "tt52101992",
+      "provider": "apple",
+      "showType": "series",
+      "addedAt": "2026-12-11",
+      "upcoming": true,
+      "link": "https://tv.apple.com/de/show/timberlake/umc.cmc.4v3f5oodan8l5jvjcj6lo8j34",
+      "title": {
+        "de": "Timberlake",
+        "en": "Timberlake"
       },
       "overview": {
         "de": "",
@@ -1255,6 +1362,31 @@
         }
       ],
       "rating": null
+    },
+    {
+      "showId": "26517282",
+      "imdbId": "tt39390479",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-12-18",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/83077141",
+      "title": {
+        "de": "Physical 100: Mexico",
+        "en": "Physical 100: Mexico"
+      },
+      "overview": {
+        "de": "Einhundert unterschiedliche Teilnehmende stellen sich zermürbenden körperlichen Herausforderungen. Wer kann den Titel des ultimativen Champions von Mexiko erringen?",
+        "en": "One hundred competitors from all walks of life battle through grueling physical challenges to determine who will emerge as Mexico's ultimate warrior."
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Reality",
+          "en": "Reality"
+        }
+      ],
+      "rating": 59
     },
     {
       "showId": "25372265",

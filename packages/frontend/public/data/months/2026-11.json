@@ -1,6 +1,6 @@
 {
   "month": "2026-11",
-  "generatedAt": "2026-11-24T15:41:46.849Z",
+  "generatedAt": "2026-11-25T15:25:51.222Z",
   "entries": [
     {
       "showId": "16967",
@@ -45033,39 +45033,6 @@
       "rating": 57
     },
     {
-      "showId": "15758",
-      "imdbId": "tt10481868",
-      "provider": "netflix",
-      "showType": "movie",
-      "addedAt": "2026-11-22",
-      "upcoming": true,
-      "link": "https://www.netflix.com/title/81151909",
-      "title": {
-        "de": "Black Christmas",
-        "en": "Black Christmas"
-      },
-      "overview": {
-        "de": "",
-        "en": "A killer stalks a sorority house in this chilling feminist spin on the slasher horror genre."
-      },
-      "releaseYear": 2019,
-      "genres": [
-        {
-          "de": "Horror",
-          "en": "Horror"
-        },
-        {
-          "de": "Mystery",
-          "en": "Mystery"
-        },
-        {
-          "de": "Thriller",
-          "en": "Thriller"
-        }
-      ],
-      "rating": 37
-    },
-    {
       "showId": "14625665",
       "imdbId": "tt33984333",
       "provider": "netflix",
@@ -45514,6 +45481,31 @@
       "rating": 72
     },
     {
+      "showId": "7617",
+      "imdbId": "tt6359956",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-24",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/80177872",
+      "title": {
+        "de": "Bad Moms 2",
+        "en": "A Bad Moms Christmas"
+      },
+      "overview": {
+        "de": "Die Weihnachtsvorbereitungen der dauergestressten Mütter Amy, Carla und Kiki drohen aus dem Ruder zu laufen, als ihre eigenen Mütter zu Besuch kommen.",
+        "en": "Under-appreciated and overburdened moms Amy; Kiki and Carla rebel against the challenges and expectations of the Super Bowl for moms: Christmas. As if creating the perfect holiday for their families isn't hard enough; they'll have to do it while hosting and entertaining their own respective mothers when they come to visit."
+      },
+      "releaseYear": 2017,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 57
+    },
+    {
       "showId": "98",
       "imdbId": "tt0372784",
       "provider": "prime",
@@ -45562,6 +45554,39 @@
         }
       ],
       "rating": 63
+    },
+    {
+      "showId": "15758",
+      "imdbId": "tt10481868",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-24",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/81151909",
+      "title": {
+        "de": "Black Christmas",
+        "en": "Black Christmas"
+      },
+      "overview": {
+        "de": "Als Studentinnen über die Winterferien auf dem Campus bleiben, geraten sie ins Visier eines maskierten Stalkers – und ihre Feiertage werden zum Überlebenskampf.",
+        "en": "At Hawthorne College, a black-masked stalker begins killing sorority women one by one."
+      },
+      "releaseYear": 2019,
+      "genres": [
+        {
+          "de": "Horror",
+          "en": "Horror"
+        },
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 37
     },
     {
       "showId": "10247048",
@@ -46765,6 +46790,35 @@
       "rating": null
     },
     {
+      "showId": "27518669",
+      "imdbId": "tt50514651",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-11-24",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/82182322",
+      "title": {
+        "de": "KPop Demon Hunters Bonus Content",
+        "en": "KPop Demon Hunters Bonus Content"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Animation",
+          "en": "Animation"
+        },
+        {
+          "de": "Familie",
+          "en": "Family"
+        }
+      ],
+      "rating": null
+    },
+    {
       "showId": "27518206",
       "imdbId": "tt50522700",
       "provider": "netflix",
@@ -47194,6 +47248,35 @@
         }
       ],
       "rating": null
+    },
+    {
+      "showId": "16085",
+      "imdbId": "tt1648112",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-24",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/70286463",
+      "title": {
+        "de": "New Kids Turbo",
+        "en": "New Kids Turbo"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2010,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 63
     },
     {
       "showId": "56806",
@@ -48391,6 +48474,39 @@
       "rating": null
     },
     {
+      "showId": "86822",
+      "imdbId": "tt9165824",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-24",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/81154456",
+      "title": {
+        "de": "The Show",
+        "en": "The Show"
+      },
+      "overview": {
+        "de": "",
+        "en": "A man’s search for a stolen artifact leads him to a haunted town filled with Voodoo gangsters, masked adventurers, private eyes, and dangerous women."
+      },
+      "releaseYear": 2021,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Fantasy",
+          "en": "Fantasy"
+        },
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        }
+      ],
+      "rating": 56
+    },
+    {
       "showId": "27521277",
       "imdbId": "tt33004920",
       "provider": "netflix",
@@ -48417,7 +48533,7 @@
           "en": "Crime"
         }
       ],
-      "rating": null
+      "rating": 62
     },
     {
       "showId": "27301691",
@@ -49568,20 +49684,410 @@
       "rating": null
     },
     {
+      "showId": "2093826",
+      "imdbId": "tt16282914",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3ccef337-5b0d-432a-92d6-f297ce91512f",
+      "title": {
+        "de": "2nd Chance",
+        "en": "2nd Chance"
+      },
+      "overview": {
+        "de": "",
+        "en": "Richard Davis invents a concealable bulletproof vest and shoots himself 196 times over the course of his career to prove the effectiveness of his vests."
+      },
+      "releaseYear": 2022,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        }
+      ],
+      "rating": 55
+    },
+    {
+      "showId": "25377439",
+      "imdbId": "tt39795803",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2d08dcab-d166-4497-a449-696ba1172844",
+      "title": {
+        "de": "7 immoral Tales",
+        "en": "7 immoral Tales"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "26599953",
+      "imdbId": "tt36020653",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2d111793-fba5-4389-af5f-6f1867f945c6",
+      "title": {
+        "de": "Adored",
+        "en": "Adored"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Horror",
+          "en": "Horror"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "106650",
+      "imdbId": "tt3813094",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/81409141",
+      "title": {
+        "de": "Against the Clock",
+        "en": "Against the Clock"
+      },
+      "overview": {
+        "de": "",
+        "en": "A former CIA operative gets back into the field to discover what happened to her husband, as the CIA Director insists on standing in her way."
+      },
+      "releaseYear": 2019,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        }
+      ],
+      "rating": 29
+    },
+    {
+      "showId": "24859576",
+      "imdbId": "tt37610452",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/81779095",
+      "title": {
+        "de": "Age of Attraction",
+        "en": "Age of Attraction"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Reality",
+          "en": "Reality"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "163090",
+      "imdbId": "tt15909030",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d004f7fa-8c80-48d1-8e00-81ae10f475a5",
+      "title": {
+        "de": "Andromeda",
+        "en": "Andromeda"
+      },
+      "overview": {
+        "de": "",
+        "en": "A troubled young man is enlisted for a dangerous mission to locate his missing father by using a secret technology to travel to other worlds."
+      },
+      "releaseYear": 2022,
+      "genres": [
+        {
+          "de": "Science-Fiction",
+          "en": "Science Fiction"
+        }
+      ],
+      "rating": 32
+    },
+    {
+      "showId": "102380",
+      "imdbId": "tt6510634",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.22b44da9-ab73-0c11-1212-e010db8a8594",
+      "title": {
+        "de": "Animals - Stadt Land Tier",
+        "en": "Animals"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2017,
+      "genres": [
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 55
+    },
+    {
+      "showId": "21589",
+      "imdbId": "tt10675488",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/81087498",
+      "title": {
+        "de": "Astronomy Club: The Sketch Show",
+        "en": "Astronomy Club: The Sketch Show"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2019,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 55
+    },
+    {
+      "showId": "14625839",
+      "imdbId": "tt28490726",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.186c9fe7-f6e2-45f4-9153-edca8545013e",
+      "title": {
+        "de": "Aurora",
+        "en": "Aurora"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": 55
+    },
+    {
+      "showId": "19107068",
+      "imdbId": "tt8166002",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.94b85104-30d2-f6ca-7e99-81b958b12599",
+      "title": {
+        "de": "Babybox",
+        "en": "Babybox"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2015,
+      "genres": [
+        {
+          "de": "Animation",
+          "en": "Animation"
+        }
+      ],
+      "rating": 38
+    },
+    {
+      "showId": "253855",
+      "imdbId": "tt11315824",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.676844f1-3fcb-4c32-91e4-2a968e46dbc0",
+      "title": {
+        "de": "Bajo mi piel morena",
+        "en": "Under My Dark Skin"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2020,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": 44
+    },
+    {
+      "showId": "55767",
+      "imdbId": "tt2396690",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.aea9f7a6-5322-e15a-2738-f1cdfb76a4fa",
+      "title": {
+        "de": "Barbie - Die Prinzessin und der Popstar",
+        "en": "Barbie: The Princess & the Popstar"
+      },
+      "overview": {
+        "de": "",
+        "en": "A princess who wants to be a music star trades places with a look-alike singer who wants to find out what royal life is like."
+      },
+      "releaseYear": 2012,
+      "genres": [
+        {
+          "de": "Animation",
+          "en": "Animation"
+        },
+        {
+          "de": "Familie",
+          "en": "Family"
+        }
+      ],
+      "rating": 62
+    },
+    {
+      "showId": "36991",
+      "imdbId": "tt0480345",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eaa9f7c6-0f5d-6f03-33e7-6754f0bb4194",
+      "title": {
+        "de": "Barbie und der geheimnisvolle Pegasus",
+        "en": "Barbie and the Magic of Pegasus"
+      },
+      "overview": {
+        "de": "",
+        "en": "Princess Annika (Barbie) discovers adventure when she befriends Brietta, a magnificent winged horse, who helps her break an evil wizard's spell in the Cloud Kingdom."
+      },
+      "releaseYear": 2005,
+      "genres": [
+        {
+          "de": "Animation",
+          "en": "Animation"
+        },
+        {
+          "de": "Familie",
+          "en": "Family"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": 63
+    },
+    {
+      "showId": "35549",
+      "imdbId": "tt3665498",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.93a06efb-f7ca-4b36-a05e-2e066b722f5d",
+      "title": {
+        "de": "Beyond The Sky",
+        "en": "Beyond the Sky"
+      },
+      "overview": {
+        "de": "",
+        "en": "A man who attends UFO conventions to disprove alien abductions meets a woman who is days away from age 28 and claims to be abducted every 7 years."
+      },
+      "releaseYear": 2018,
+      "genres": [
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        },
+        {
+          "de": "Science-Fiction",
+          "en": "Science Fiction"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 50
+    },
+    {
       "showId": "25861614",
       "imdbId": "tt18224594",
       "provider": "prime",
       "showType": "series",
       "addedAt": "2026-11-25",
-      "upcoming": true,
-      "link": null,
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.67f9dbb8-4667-4040-8fec-3b786be5c60b",
       "title": {
         "de": "Blade Runner 2099",
         "en": "Blade Runner 2099"
       },
       "overview": {
-        "de": "",
-        "en": ""
+        "de": "Cora, eine flüchtige Frau, die zur Blade Runnerin wurde, tut sich mit Olwen zusammen - einer sterbenden Replikantin -, um im wiederauferstandenen Los Angeles einen Flüchtigen aufzuspüren. Gemeinsam decken sie eine Wahrheit auf, die ihre zerbrechliche Stadt zu zerstören droht.",
+        "en": "Cora, a fugitive turned Blade Runner, partners with Olwen, a dying Replicant, to hunt a runaway in a reborn Los Angeles. Together they uncover a truth threatening to destroy their fragile city."
       },
       "releaseYear": 2026,
       "genres": [
@@ -49597,19 +50103,69 @@
       "rating": null
     },
     {
+      "showId": "117316",
+      "imdbId": "tt5741008",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/81506633",
+      "title": {
+        "de": "Bully",
+        "en": "Bully"
+      },
+      "overview": {
+        "de": "",
+        "en": "A social outcast has a chance encounter with a former professional boxer. He begins training so he can take on his school tormentor."
+      },
+      "releaseYear": 2018,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 55
+    },
+    {
+      "showId": "15284",
+      "imdbId": "tt9203078",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/80216094",
+      "title": {
+        "de": "Bumping Mics with Jeff Ross & Dave Attell",
+        "en": "Bumping Mics with Jeff Ross & Dave Attell"
+      },
+      "overview": {
+        "de": "",
+        "en": "When Jeff Ross and Dave Attell take the stage, no one is safe. With the help of special guests, they're packing a lot of laughs into one epic weekend."
+      },
+      "releaseYear": 2018,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 58
+    },
+    {
       "showId": "13276",
       "imdbId": "tt15975122",
       "provider": "netflix",
       "showType": "series",
       "addedAt": "2026-11-25",
-      "upcoming": true,
+      "upcoming": false,
       "link": "https://www.netflix.com/title/81621036",
       "title": {
         "de": "Call of the Night",
         "en": "Call of the Night"
       },
       "overview": {
-        "de": "Kō Yamori schwänzt tagsüber die Schule und leidet nachts an Schlaflosigkeit. Gelangweilt von allem, fängt er lieber an, ziellos in der nächtlichen Stadt herumzustreifen. Durch die menschenleeren Straßen und die veränderte Atmosphäre fühlt sich Kō fast sofort viel freier als am Tag! Als er sich gerade an seine erste Dose Alkohol wagen will, trifft er auf die schöne und mysteriöse Nazuna Nanakusa. S",
+        "de": "Ein gelangweilter Teenager streift nachts durch die Straßen, als er einem Vampirmädchen begegnet und beschließt, selbst zum Vampir zu werden – doch zuerst muss er sich verlieben.",
         "en": "Ko’s new companion, Nazuna, could offer him dark gifts and a vampire’s immortality. But there are conditions that Ko must meet before he can sink his teeth into vampirism, and he’ll discover just how far he’s willing to go to satisfy his desires."
       },
       "releaseYear": 2022,
@@ -49630,20 +50186,1627 @@
       "rating": 67
     },
     {
+      "showId": "252658",
+      "imdbId": "tt6071822",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.44b2f9a8-8dae-f4ae-5e86-1d766255da3b",
+      "title": {
+        "de": "Camino de agua para un pez",
+        "en": "Water Path for a Fish"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2016,
+      "genres": [
+        {
+          "de": "Animation",
+          "en": "Animation"
+        },
+        {
+          "de": "Familie",
+          "en": "Family"
+        }
+      ],
+      "rating": 44
+    },
+    {
+      "showId": "39551",
+      "imdbId": "tt2638662",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.07f42a2c-0b77-4b17-af65-67e2110c62b6",
+      "title": {
+        "de": "Camp - Tödliche Ferien",
+        "en": "Summer Camp"
+      },
+      "overview": {
+        "de": "",
+        "en": "When four counselors at summer camp get infected, they suddenly find themselves held captive to homicidal rampages that threaten their lives."
+      },
+      "releaseYear": 2016,
+      "genres": [
+        {
+          "de": "Horror",
+          "en": "Horror"
+        },
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        }
+      ],
+      "rating": 52
+    },
+    {
+      "showId": "24733732",
+      "imdbId": "tt31339071",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/82785910",
+      "title": {
+        "de": "CoComelon: The Movie",
+        "en": "CoComelon: The Movie"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2027,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Animation",
+          "en": "Animation"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "96326",
+      "imdbId": "tt3354096",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.225166a0-ca0b-4032-8cef-1ab8456a6efe",
+      "title": {
+        "de": "Code Geass: Akito the Exiled - Der Wyvern tritt auf",
+        "en": "Code Geass: Akito the Exiled 1: The Wyvern Arrives"
+      },
+      "overview": {
+        "de": "",
+        "en": "Leila Malcal has risen to Commander of her own unit within the E.U. army. At her side is Lieutenant Akito Hyuga, a mysterious and powerful soldier. When the complications of war fall onto Leila, what secrets will Akito reveal?"
+      },
+      "releaseYear": 2012,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Animation",
+          "en": "Animation"
+        }
+      ],
+      "rating": 64
+    },
+    {
+      "showId": "132971",
+      "imdbId": "tt0088105",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a54a1029-c0d6-46d1-98d4-8f529bbbc8a4",
+      "title": {
+        "de": "Crime Land",
+        "en": "Pom Pom"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 1984,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 60
+    },
+    {
+      "showId": "37806",
+      "imdbId": "tt5258074",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c10f1753-a337-4881-a22b-d494faa81319",
+      "title": {
+        "de": "Crossbreed",
+        "en": "Crossbreed"
+      },
+      "overview": {
+        "de": "",
+        "en": "A team of experts’ mission from the U.S. President to recover an alien bio-weapon from a space station turns to terror when the deadly cargo escapes."
+      },
+      "releaseYear": 2019,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Science-Fiction",
+          "en": "Science Fiction"
+        }
+      ],
+      "rating": 32
+    },
+    {
+      "showId": "60302",
+      "imdbId": "tt11067738",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.12b45fca-b7ef-f698-4702-fc861f8bc362",
+      "title": {
+        "de": "Cry Babies Magic Tears",
+        "en": "Cry Babies Magic Tears"
+      },
+      "overview": {
+        "de": "",
+        "en": "Enter the world of Cry Babies Magic Tears! Experience fun adventures with these sweet babies with big personalities in an imaginative world where tears carry magical powers."
+      },
+      "releaseYear": 2018,
+      "genres": [
+        {
+          "de": "Animation",
+          "en": "Animation"
+        },
+        {
+          "de": "Familie",
+          "en": "Family"
+        }
+      ],
+      "rating": 31
+    },
+    {
+      "showId": "17134",
+      "imdbId": "tt4189570",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/81470437",
+      "title": {
+        "de": "Das Böse im Blick - Augenzeuge Kamera",
+        "en": "See No Evil"
+      },
+      "overview": {
+        "de": "",
+        "en": "SEE NO EVIL pieces together the truth when shocking surveillance footage reveals breakthrough clues to solve a murder."
+      },
+      "releaseYear": 2015,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        }
+      ],
+      "rating": 58
+    },
+    {
+      "showId": "15409165",
+      "imdbId": "tt35340614",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ba504b72-082a-476d-99b7-6669fecec1d0",
+      "title": {
+        "de": "Das tiefste Blau",
+        "en": "The Blue Trail"
+      },
+      "overview": {
+        "de": "Die 77-jährige Tereza soll zwangsweise in eine Seniorenkolonie ziehen – die Regierung will die Alten aus der produktiven Gesellschaft verbannen. Doch sie widersetzt sich und flieht tief in das Amazonasgebiet. Auf ihrer gefährlichen Reise durch Dschungel und Flüsse will sie sich einen letzten Wunsch erfüllen, der ihr Leben für immer verändern wird.",
+        "en": "In a near-future dystopia where seniors are exiled to boost the economy, 77-year-old Tereza refuses to vanish. She pursues her dreams, discovering freedom and friendship along the way, showing it's never too late to take flight."
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Science-Fiction",
+          "en": "Science Fiction"
+        }
+      ],
+      "rating": 66
+    },
+    {
+      "showId": "20259541",
+      "imdbId": "tt31308201",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.84c07e8b-18f5-4966-8325-bb470506da05",
+      "title": {
+        "de": "Das Wunder von Stoneford",
+        "en": "Tinsel Town"
+      },
+      "overview": {
+        "de": "Der abgehalfterte Hollywoodstar Bradley Mack (Kiefer Sutherland) erlebt einen herben Rückschlag, als seine Actionfilmreihe abgesetzt wird. Ausgerechnet ein Engagement in England soll nun seiner Karriere eine neue Richtung geben. Doch statt auf die großen Bühnen des Londoner West Ends verschlägt es ihn in die britische Provinzstadt Stoneford, wo er in einer schrulligen Weihnachtsaufführung neben Laiendarstellern sein Theaterdebüt geben soll.",
+        "en": "A washed-up action star joins a small village Christmas pageant, and with help from its choreographer and cast, he reconnects with his daughter."
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 54
+    },
+    {
+      "showId": "276720",
+      "imdbId": "tt22542668",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e41590a9-843c-4cea-b181-5aba73220140",
+      "title": {
+        "de": "Deleted",
+        "en": "Deleted"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2022,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": 45
+    },
+    {
+      "showId": "237629",
+      "imdbId": "tt2248741",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c6b2db63-77fd-1744-28d4-004b3644a694",
+      "title": {
+        "de": "Der kleine Vogel und das Blatt",
+        "en": "The Little Bird and the Leaf"
+      },
+      "overview": {
+        "de": "",
+        "en": "The Little Bird chases after a flying leaf in joyful pursuit."
+      },
+      "releaseYear": 2012,
+      "genres": [
+        {
+          "de": "Animation",
+          "en": "Animation"
+        },
+        {
+          "de": "Familie",
+          "en": "Family"
+        }
+      ],
+      "rating": 55
+    },
+    {
+      "showId": "268042",
+      "imdbId": "tt4434192",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b6b2ded3-c9cb-c6cc-14d2-5d57809be2fc",
+      "title": {
+        "de": "Der kleine Vogel und das Eichhörnchen",
+        "en": "The Little Bird and the Squirrel"
+      },
+      "overview": {
+        "de": "",
+        "en": "It's autumn, and a final yellow leaf hangs at the end of a branch. The Little Bird wants to water it, but the squirrel snatches the watering can and hops away with it from tree to tree. The Little Bird follows the cheeky thief. Meanwhile, the fiery red fox comes stalking. He is not interested in the watering can. He wants the bird and the squirrel. Luckily, they can hide beneath the colorful autumn leaves! And it's helpful that you can play the trumpet on a watering can. How nice it is when an arguing pair can become friends after all."
+      },
+      "releaseYear": 2015,
+      "genres": [
+        {
+          "de": "Animation",
+          "en": "Animation"
+        }
+      ],
+      "rating": 54
+    },
+    {
+      "showId": "306397",
+      "imdbId": "tt6988206",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ecb333c9-4b8f-22e5-74c9-9218620eaeb0",
+      "title": {
+        "de": "Der kleine Vogel und die Raupe",
+        "en": "The Little Bird and the Caterpillar"
+      },
+      "overview": {
+        "de": "",
+        "en": "The Little Bird experiences new adventures with a caterpillar."
+      },
+      "releaseYear": 2017,
+      "genres": [
+        {
+          "de": "Animation",
+          "en": "Animation"
+        }
+      ],
+      "rating": 44
+    },
+    {
+      "showId": "5459559",
+      "imdbId": "tt29692617",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/81306326",
+      "title": {
+        "de": "Die Affäre Bettencourt: Skandal um die reichste Frau der Welt",
+        "en": "The Billionaire, the Butler, and the Boyfriend"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2023,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        }
+      ],
+      "rating": 60
+    },
+    {
+      "showId": "39057",
+      "imdbId": "tt14670820",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/81330960",
+      "title": {
+        "de": "Die Schlümpfe",
+        "en": "The Smurfs"
+      },
+      "overview": {
+        "de": "",
+        "en": "Little blue people embark on rousing adventures as they battle the scheming Gargamel."
+      },
+      "releaseYear": 2021,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Animation",
+          "en": "Animation"
+        }
+      ],
+      "rating": 56
+    },
+    {
+      "showId": "43475",
+      "imdbId": "tt0112366",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a3c221f5-5bf5-482c-b9e7-dc89039ba56b",
+      "title": {
+        "de": "Die Schutzengel",
+        "en": "Guardian Angels"
+      },
+      "overview": {
+        "de": "",
+        "en": "Gérard Depardieu plays a sleazy Paris nightclub owner and ex-detective who flies to Hong Kong to rescue the young son of a friend murdered by the Chinese mob."
+      },
+      "releaseYear": 1995,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        }
+      ],
+      "rating": 59
+    },
+    {
+      "showId": "112388",
+      "imdbId": "tt0064328",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b5024969-3e01-42ad-828a-3a0bad4c4bb7",
+      "title": {
+        "de": "Die Spur führt nach Soho",
+        "en": "The File of the Golden Goose"
+      },
+      "overview": {
+        "de": "",
+        "en": "A U.S. Treasury agent joins a Scotland Yard detective in going \"undercover\" to bust a brutal counterfeit gang known as the Golden Goose but learns a heart breaking truth about his new partner."
+      },
+      "releaseYear": 1969,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        }
+      ],
+      "rating": 54
+    },
+    {
+      "showId": "18909",
+      "imdbId": "tt14825954",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/81002444",
+      "title": {
+        "de": "exception",
+        "en": "exception"
+      },
+      "overview": {
+        "de": "",
+        "en": "In a distant future where humans are forced to leave Earth, a spacecraft carrying a 3D-printed crew of specialists is sent to terraform a new planet."
+      },
+      "releaseYear": 2022,
+      "genres": [
+        {
+          "de": "Animation",
+          "en": "Animation"
+        },
+        {
+          "de": "Horror",
+          "en": "Horror"
+        }
+      ],
+      "rating": 59
+    },
+    {
+      "showId": "9996",
+      "imdbId": "tt0242445",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/exit-wounds-die-copjager-p_70526",
+      "title": {
+        "de": "Exit Wounds - Die Copjäger",
+        "en": "Exit Wounds"
+      },
+      "overview": {
+        "de": "",
+        "en": "When Maverick cop Orin Boyd (Steven Seagal) discovers a group of dirty Detroit detectives secretly operating a drug ring, he joins forces with an unlikely ally - gangster Latrell Walker - to bring down the rotten cops."
+      },
+      "releaseYear": 2001,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 56
+    },
+    {
+      "showId": "19875",
+      "imdbId": "tt8560884",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/80217889",
+      "title": {
+        "de": "Follow This",
+        "en": "Follow This"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2018,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        }
+      ],
+      "rating": 50
+    },
+    {
+      "showId": "19827",
+      "imdbId": "tt10308928",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2f84e111-ef52-4763-a9b5-15d95b74dae5",
+      "title": {
+        "de": "Force of Nature",
+        "en": "Force of Nature"
+      },
+      "overview": {
+        "de": "",
+        "en": "In this thunderous action-thriller, Mel Gibson, Emile Hirsch, and Kate Bosworth join forces to battle a deadly gang of thieves as a brutal hurricane engulfs the city."
+      },
+      "releaseYear": 2020,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        }
+      ],
+      "rating": 47
+    },
+    {
+      "showId": "8847095",
+      "imdbId": "tt18351584",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/81635316",
+      "title": {
+        "de": "Franklin",
+        "en": "Franklin"
+      },
+      "overview": {
+        "de": "",
+        "en": "In December 1776, Benjamin Franklin is world-famous for his electrical experiments. But his passion and power are put to the test when he embarks on a secret mission to France—with the fate of American independence hanging in the balance."
+      },
+      "releaseYear": 2024,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Geschichte",
+          "en": "History"
+        }
+      ],
+      "rating": 66
+    },
+    {
+      "showId": "30261",
+      "imdbId": "tt2021319",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dcac3c07-e5db-4fb3-b8e5-e04674358b8e",
+      "title": {
+        "de": "I'm Mita, Your Housekeeper",
+        "en": "I'm Mita, Your Housekeeper"
+      },
+      "overview": {
+        "de": "",
+        "en": "A family almost broken by grief hires a cold, mysterious housekeeper, whose surprising and unorthodox ways start to bring them back together."
+      },
+      "releaseYear": 2011,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": 52
+    },
+    {
+      "showId": "70408",
+      "imdbId": "tt5741304",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e9eca8af-522e-49cd-934c-0b191e72a764",
+      "title": {
+        "de": "Jailbreak",
+        "en": "Jailbreak"
+      },
+      "overview": {
+        "de": "",
+        "en": "An escort mission turns into survival mode for four cops when a bounty on their prisoner incites a massive riot, with every inmate out for blood. "
+      },
+      "releaseYear": 2017,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 54
+    },
+    {
+      "showId": "27520660",
+      "imdbId": "tt34581665",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.efc77de4-6f80-4622-b2b3-2568846f0634",
+      "title": {
+        "de": "Jet",
+        "en": "Jet"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [],
+      "rating": null
+    },
+    {
+      "showId": "36376",
+      "imdbId": "tt9885888",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/81517566",
+      "title": {
+        "de": "Kabukichou Sherlock",
+        "en": "Case File N° 221: Kabukicho"
+      },
+      "overview": {
+        "de": "",
+        "en": "In Kabukicho, home of Tokyo's famous red-light district, the bright neon conceals the darkest of evils. Mrs Hudson's tenement boasts a set of detectives, including the brilliant Sherlock Holmes, eager to solve cases for the right price."
+      },
+      "releaseYear": 2019,
+      "genres": [
+        {
+          "de": "Animation",
+          "en": "Animation"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 51
+    },
+    {
+      "showId": "275585",
+      "imdbId": "tt2920404",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6ab2e697-2d55-5a90-cd29-30d4ad6b1f8b",
+      "title": {
+        "de": "Kaķis maisā",
+        "en": "Cat in the Bag"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2013,
+      "genres": [
+        {
+          "de": "Animation",
+          "en": "Animation"
+        },
+        {
+          "de": "Familie",
+          "en": "Family"
+        }
+      ],
+      "rating": 53
+    },
+    {
+      "showId": "24973624",
+      "imdbId": "tt40618614",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/81767230",
+      "title": {
+        "de": "La fiscal",
+        "en": "The Prosecutor"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "136774",
+      "imdbId": "tt12969084",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3f09b673-08ac-4a5d-97d9-9f914c4d48b6",
+      "title": {
+        "de": "La octava cláusula",
+        "en": "The Eighth Clause"
+      },
+      "overview": {
+        "de": "",
+        "en": "Cat and Borja appear to be the perfect couple, but secrets, lies, and infidelities come to light the night an unexpected visitor arrives."
+      },
+      "releaseYear": 2022,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 42
+    },
+    {
+      "showId": "139062",
+      "imdbId": "tt10395398",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eaa74524-f625-4e2b-ba5d-ca7abf6aebfe",
+      "title": {
+        "de": "La vida era eso",
+        "en": "That Was Life"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2020,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": 53
+    },
+    {
+      "showId": "3138",
+      "imdbId": "tt2402137",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/80233223",
+      "title": {
+        "de": "Legends",
+        "en": "Legends"
+      },
+      "overview": {
+        "de": "",
+        "en": "Working for the FBI's Deep Cover Operations division, Martin Odum can transform himself into a different person - whether it's an assignment as a Serbian extremist, a corrupt Chicago police officer, a British special forces colonel, or a legendary computer hacker. But when he learns that his life, itself, may be a lie, he faces the demands of his job and a desire to solve the mystery of his real identity. And given the choice between the two, Odum doesn't always make the right decision. From the producers of `Homeland', `Legends' is based on Robert Littell's award-winning book."
+      },
+      "releaseYear": 2014,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        }
+      ],
+      "rating": 67
+    },
+    {
+      "showId": "16812",
+      "imdbId": "tt14412928",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9abc63d1-3e09-0dc1-5633-d3200ae36223",
+      "title": {
+        "de": "LOL - Hasse Toh Phasse",
+        "en": "LOL - Hasse Toh Phasse"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2021,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 37
+    },
+    {
+      "showId": "5768781",
+      "imdbId": "tt29119137",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.38b95002-73e5-46e9-a742-7f0b689122af",
+      "title": {
+        "de": "LOL: Last One Laughing - Xmas Special",
+        "en": "LOL: Last One Laughing - Xmas Special"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2023,
+      "genres": [],
+      "rating": 49
+    },
+    {
+      "showId": "41478",
+      "imdbId": "tt9054228",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/81691739",
+      "title": {
+        "de": "Lukas, die Spinne",
+        "en": "Lucas the Spider"
+      },
+      "overview": {
+        "de": "",
+        "en": "Lucas the Spider follows the adventures of a big hearted, impossibly cute little jumping spider in a human-sized suburban home. This happy, inquisitive, four-year-old wants us to join him as he explores and learns about this giant world."
+      },
+      "releaseYear": 2017,
+      "genres": [
+        {
+          "de": "Animation",
+          "en": "Animation"
+        },
+        {
+          "de": "Familie",
+          "en": "Family"
+        }
+      ],
+      "rating": 52
+    },
+    {
+      "showId": "302308",
+      "imdbId": "tt6221620",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.38b2f9d4-5ddb-79b7-06a7-566746282fcd",
+      "title": {
+        "de": "Marsietis",
+        "en": "Martian"
+      },
+      "overview": {
+        "de": "",
+        "en": "A boy wins a new toy in a claw machine – an ordinary Martian doll."
+      },
+      "releaseYear": 2015,
+      "genres": [
+        {
+          "de": "Animation",
+          "en": "Animation"
+        }
+      ],
+      "rating": 41
+    },
+    {
+      "showId": "172856",
+      "imdbId": "tt1664705",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4aba063f-faff-77e3-0bb3-10106eeae207",
+      "title": {
+        "de": "Mobile",
+        "en": "Mobile"
+      },
+      "overview": {
+        "de": "",
+        "en": "At the edge of society, a cow tips the balance of destiny with quite some impact."
+      },
+      "releaseYear": 2010,
+      "genres": [
+        {
+          "de": "Animation",
+          "en": "Animation"
+        }
+      ],
+      "rating": 58
+    },
+    {
+      "showId": "25552",
+      "imdbId": "tt1632065",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6e894dad-3e93-45ab-868a-1c33d3ef6ef7",
+      "title": {
+        "de": "Mother",
+        "en": "Mother"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2010,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": 63
+    },
+    {
+      "showId": "2437410",
+      "imdbId": "tt27148130",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.77cc5ed3-6b0b-41b2-814d-51b27755f149",
+      "title": {
+        "de": "Murder in the Red Light",
+        "en": "Murder in the Red Light"
+      },
+      "overview": {
+        "de": "",
+        "en": "Delve into the perilous world of UK sex work, uncovering decades of unsolved murder cases where killers target vulnerable women."
+      },
+      "releaseYear": 2023,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        }
+      ],
+      "rating": 48
+    },
+    {
+      "showId": "128909",
+      "imdbId": "tt0060737",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.763624b2-ac69-4eef-a3c9-905c3ec3a44e",
+      "title": {
+        "de": "Namu, der Raubwal",
+        "en": "Namu, the Killer Whale"
+      },
+      "overview": {
+        "de": "",
+        "en": "Robert Lansing and Lee Meriwether star in this warm and compelling family drama about a compassionate scientist who forms an unlikely friendship with a magnificent killer whale."
+      },
+      "releaseYear": 1966,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Familie",
+          "en": "Family"
+        }
+      ],
+      "rating": 54
+    },
+    {
+      "showId": "5182",
+      "imdbId": "tt1781922",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d5196e77-f76e-4273-998c-88104712ef1f",
+      "title": {
+        "de": "No Escape",
+        "en": "No Escape"
+      },
+      "overview": {
+        "de": "",
+        "en": "An American businessman and his family settle into their new home in Southeast Asia. Suddenly finding themselves in the middle of a violent political uprising, they must frantically look for a safe escape as rebels mercilessly attack the city."
+      },
+      "releaseYear": 2015,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Action",
+          "en": "Action"
+        }
+      ],
+      "rating": 68
+    },
+    {
+      "showId": "30866",
+      "imdbId": "tt6229656",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ef5a94a7-523f-4eec-a4c0-850ec70d8984",
+      "title": {
+        "de": "Oddbods Cartoon",
+        "en": "Oddbods (Shorts)"
+      },
+      "overview": {
+        "de": "",
+        "en": "Oddbods is an award winning animated series that follows the comedic adventures of seven adorable yet quirky characters. Every episode celebrates the 'odd' in everything where seemingly ordinary situations are given a humorous twist and everyone has fun along the way."
+      },
+      "releaseYear": 2015,
+      "genres": [
+        {
+          "de": "Animation",
+          "en": "Animation"
+        },
+        {
+          "de": "Familie",
+          "en": "Family"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 60
+    },
+    {
+      "showId": "53437",
+      "imdbId": "tt4643420",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.fab4ec80-421b-826b-fa32-7e32d8224c9b",
+      "title": {
+        "de": "Om Nom Geschichten",
+        "en": "Om Nom Stories"
+      },
+      "overview": {
+        "de": "",
+        "en": "Based on the \"Cut the Rope\" video game, follow our small green monster friend as he lives a life full of hilarious and entertaining adventures."
+      },
+      "releaseYear": 2011,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Animation",
+          "en": "Animation"
+        }
+      ],
+      "rating": 48
+    },
+    {
+      "showId": "27769253",
+      "imdbId": "tt27618595",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.fef14246-8746-43d3-a741-800a7a3cddb0",
+      "title": {
+        "de": "One Shot: The Football Factory",
+        "en": "One Shot: The Football Factory"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2022,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "7001834",
+      "imdbId": "tt8008382",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/81020839",
+      "title": {
+        "de": "Party Monster: Scratching the Surface",
+        "en": "Party Monster: Scratching the Surface"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2018,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 58
+    },
+    {
+      "showId": "7537118",
+      "imdbId": "tt30476509",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/81639098",
+      "title": {
+        "de": "Ponto Final",
+        "en": "End of the Line"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2024,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 47
+    },
+    {
+      "showId": "5460631",
+      "imdbId": "tt28036417",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/81708832",
+      "title": {
+        "de": "Rascal Does Not Dream of a Knapsack Kid",
+        "en": "Rascal Does Not Dream of a Knapsack Kid"
+      },
+      "overview": {
+        "de": "",
+        "en": "March begins, and there is only one month left in the third term. Sakuta Azusagawa is about to celebrate the graduation of his girlfriend Mai Sakurajima. As he waits for Mai at Shichirigahama beach, an elementary school-aged girl who looks like Mai did when she was a child actress appears in front of him. \"Who are you, Mister?\" she asks. Is this a dream or an illusion? As he thinks about this..."
+      },
+      "releaseYear": 2023,
+      "genres": [
+        {
+          "de": "Animation",
+          "en": "Animation"
+        },
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Fantasy",
+          "en": "Fantasy"
+        }
+      ],
+      "rating": 61
+    },
+    {
+      "showId": "344225",
+      "imdbId": "tt0217790",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.627c9564-dc97-4c95-b671-c1b875727f76",
+      "title": {
+        "de": "Seitensprung",
+        "en": "Escapade"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 1980,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": 48
+    },
+    {
+      "showId": "82864",
+      "imdbId": "tt0337593",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.40b5e1ab-8ccb-259a-af92-cdbe80e11865",
+      "title": {
+        "de": "Sherlock",
+        "en": "Sherlock: Case of Evil"
+      },
+      "overview": {
+        "de": "",
+        "en": "The 20-something sleuth gains notoriety with the press and police for his apparent killing of the evil Moriarty, who proves he’s not so easily killed."
+      },
+      "releaseYear": 2002,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        }
+      ],
+      "rating": 56
+    },
+    {
+      "showId": "48319",
+      "imdbId": "tt1236484",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c612dfc6-c524-4101-b34d-f65af2e57ab6",
+      "title": {
+        "de": "Siegburg",
+        "en": "Stoic"
+      },
+      "overview": {
+        "de": "",
+        "en": "In the claustrophobic confines of a jail cell, an inmate is discovered hanged. In the back-and-forth between the interrogation of his cellmates and the dehumanizing events that led to his death, the horrific truth about what really transpired reveals the duplicitous side of human nature. Inspired by a true story."
+      },
+      "releaseYear": 2009,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        }
+      ],
+      "rating": 52
+    },
+    {
+      "showId": "31097",
+      "imdbId": "tt0274279",
+      "provider": "disney",
+      "showType": "series",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://www.disneyplus.com/browse/entity-c9d98bc0-e7d8-4afc-80d8-e7d14ea6cf5d",
+      "title": {
+        "de": "SOKO Leipzig",
+        "en": "Leipzig Homicide"
+      },
+      "overview": {
+        "de": "„SOKO Leipzig“ gehört zu den ganz großen Erfolgsstorys der deutschen Krimigeschichte. Seit 2001 ermittelt das Team um Kriminalhauptkommissar Hajo Trautzschke (Andreas Schmidt-Schaller) in der sächsischen Metropole. Im Mittelpunkt der Serie steht die Teamarbeit. Denn eine SOKO-Folge ohne Teamwork wäre wie Leipzig ohne Allerlei.",
+        "en": "„SOKO Leipzig“ gehört zu den ganz großen Erfolgsstorys der deutschen Krimigeschichte. Seit 2001 ermittelt das Team um Kriminalhauptkommissar Hajo Trautzschke (Andreas Schmidt-Schaller) in der sächsischen Metropole. Im Mittelpunkt der Serie steht die Teamarbeit. Denn eine SOKO-Folge ohne Teamwork wäre wie Leipzig ohne Allerlei."
+      },
+      "releaseYear": 2001,
+      "genres": [
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        }
+      ],
+      "rating": 51
+    },
+    {
+      "showId": "14505073",
+      "imdbId": "tt4276832",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.68b2e283-7fc8-7489-3a84-1c450d887350",
+      "title": {
+        "de": "Spoku stunda",
+        "en": "Ghost Hour"
+      },
+      "overview": {
+        "de": "",
+        "en": "Every night, a little ghost goes out to scare everybody."
+      },
+      "releaseYear": 2013,
+      "genres": [
+        {
+          "de": "Animation",
+          "en": "Animation"
+        }
+      ],
+      "rating": 43
+    },
+    {
+      "showId": "9685069",
+      "imdbId": "tt28669701",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/81685880",
+      "title": {
+        "de": "Sprint",
+        "en": "SPRINT"
+      },
+      "overview": {
+        "de": "",
+        "en": "Elite sprinters navigate training, media scrutiny and fierce competition in this sports series following their race to become the world's fastest humans."
+      },
+      "releaseYear": 2024,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        }
+      ],
+      "rating": 61
+    },
+    {
+      "showId": "92385",
+      "imdbId": "tt2494032",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0694f7ba-0305-4163-a2b5-d9a4fbccc7a5",
+      "title": {
+        "de": "Stonados - Wenn es Felsen regnet",
+        "en": "Stonados"
+      },
+      "overview": {
+        "de": "",
+        "en": "When an unprecedented weather event puts the Eastern Seaboard under siege, a former storm chaser’s untested theory is the only chance of stopping it."
+      },
+      "releaseYear": 2013,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Action",
+          "en": "Action"
+        }
+      ],
+      "rating": 35
+    },
+    {
+      "showId": "14626029",
+      "imdbId": "tt29485142",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/82699318",
+      "title": {
+        "de": "Suits LA",
+        "en": "Suits LA"
+      },
+      "overview": {
+        "de": "",
+        "en": "Ted Black, a former federal prosecutor from New York, has reinvented himself representing the most powerful clients in Los Angeles."
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": 60
+    },
+    {
+      "showId": "4539",
+      "imdbId": "tt1675192",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/81314957",
+      "title": {
+        "de": "Take Shelter - Ein Sturm zieht auf",
+        "en": "Take Shelter"
+      },
+      "overview": {
+        "de": "Curtis LaForche lebt mit seiner Frau Samantha und der gemeinsamen sechsjährigen, tauben Tochter, Hannah in einer Kleinstadt in Ohio. Als Teamleiter einer Sandgewinnungs-Firma verfügt er über ein bescheidenes Einkommen. Samantha, Hausfrau und Mutter, verdient mit einem Teilzeitjob als Näherin dazu, indem sie ihre handgefertigten Artikel jedes Wochenende auf dem Flohmarkt verkauft. Das Geld ist knapp und die Familie muss ständig kämpfen, um die Ausgaben für Hannahs Krankenversicherung und Förderschule abzudecken. Dennoch werden Curtis’ und Samanthas Liebe und ihr glückliches Familienleben nicht davon beeinträchtigt.",
+        "en": "Haunted by apocalyptic visions, a father builds a storm shelter as paranoia grows, forcing him to question if the threat is real or within."
+      },
+      "releaseYear": 2011,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 72
+    },
+    {
+      "showId": "41359",
+      "imdbId": "tt0053337",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3ab27aed-12fd-a0d2-9070-631036e4489f",
+      "title": {
+        "de": "Teenagers from Outer Space",
+        "en": "Teenagers from Outer Space"
+      },
+      "overview": {
+        "de": "",
+        "en": "A young alien and a teenager earthling fall in love, and plot to stop the alien's race from using humans as food for giant lobsters from their planet."
+      },
+      "releaseYear": 1959,
+      "genres": [
+        {
+          "de": "Horror",
+          "en": "Horror"
+        },
+        {
+          "de": "Science-Fiction",
+          "en": "Science Fiction"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 39
+    },
+    {
       "showId": "26519265",
       "imdbId": "tt36413910",
       "provider": "netflix",
       "showType": "movie",
       "addedAt": "2026-11-25",
-      "upcoming": true,
+      "upcoming": false,
       "link": "https://www.netflix.com/title/81661161",
       "title": {
         "de": "The Mosquito Bowl",
         "en": "The Mosquito Bowl"
       },
       "overview": {
-        "de": "",
-        "en": ""
+        "de": "Nach dem Angriff auf Pearl Harbor verpflichten sich vier College-Football-Stars bei den US-Marines, wo sie Brüderlichkeit und den Preis des Krieges erleben.",
+        "en": "In the aftermath of Pearl Harbor, four college football stars enlist in the US Marines, discovering the strength of brotherhood and the cost of war."
       },
       "releaseYear": 2026,
       "genres": [
@@ -49659,20 +51822,231 @@
       "rating": 61
     },
     {
+      "showId": "289591",
+      "imdbId": "tt6059486",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.34b1edcd-a63d-e1d2-8bc0-29f42a6902df",
+      "title": {
+        "de": "The Smortlybacks",
+        "en": "The Smortlybacks"
+      },
+      "overview": {
+        "de": "",
+        "en": "A mahout and his strange herd embark on an amazing journey atop a mountain plateau."
+      },
+      "releaseYear": 2013,
+      "genres": [
+        {
+          "de": "Animation",
+          "en": "Animation"
+        },
+        {
+          "de": "Familie",
+          "en": "Family"
+        }
+      ],
+      "rating": 44
+    },
+    {
+      "showId": "89854",
+      "imdbId": "tt9174334",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/81509562",
+      "title": {
+        "de": "The Villagers",
+        "en": "Ordinary People"
+      },
+      "overview": {
+        "de": "",
+        "en": "Gi Cheol begins work as a contract gym teacher at a high school in a quiet countryside village. He feels weird because a female high school student went missing, but nobody in the village seems to care."
+      },
+      "releaseYear": 2018,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        },
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        }
+      ],
+      "rating": 60
+    },
+    {
+      "showId": "27777198",
+      "imdbId": "tt16740216",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/81555916",
+      "title": {
+        "de": "The Witcher: The Characters of the Continent",
+        "en": "The Witcher: The Characters of the Continent"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2021,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "14588399",
+      "imdbId": "tt3823550",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.00b2d5ba-928e-4ff3-ddf4-a2fdb5c90caf",
+      "title": {
+        "de": "THREE FOOLS",
+        "en": "Three Fools"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2014,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Animation",
+          "en": "Animation"
+        }
+      ],
+      "rating": 52
+    },
+    {
+      "showId": "49648",
+      "imdbId": "tt14202476",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/81112503",
+      "title": {
+        "de": "Transformers: BotBots",
+        "en": "Transformers: BotBots"
+      },
+      "overview": {
+        "de": "",
+        "en": "When the lights go out at the mall, the BotBots come out to play! Meet a fun-loving crew of everyday objects that morph into robots at closing time."
+      },
+      "releaseYear": 2022,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Animation",
+          "en": "Animation"
+        }
+      ],
+      "rating": 50
+    },
+    {
+      "showId": "44001",
+      "imdbId": "tt1074443",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.32b4d31b-2c6a-1848-e391-90738b7b890a",
+      "title": {
+        "de": "Trotro",
+        "en": "Trotro"
+      },
+      "overview": {
+        "de": "",
+        "en": "Trotro is a little donkey with a head full of ideas, who is discovering the world by exploring, playing, and going on adventures with his family."
+      },
+      "releaseYear": 2004,
+      "genres": [
+        {
+          "de": "Animation",
+          "en": "Animation"
+        },
+        {
+          "de": "Familie",
+          "en": "Family"
+        }
+      ],
+      "rating": 58
+    },
+    {
+      "showId": "4791",
+      "imdbId": "tt2262383",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/81409127",
+      "title": {
+        "de": "Vegas",
+        "en": "Vegas"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2012,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        }
+      ],
+      "rating": 72
+    },
+    {
       "showId": "24861292",
       "imdbId": "tt32213169",
       "provider": "apple",
       "showType": "movie",
       "addedAt": "2026-11-25",
-      "upcoming": true,
-      "link": "https://tv.apple.com/de/movie/warrior-kid/umc.cmc.21vzhs44oeejdkoxenkcdmre0",
+      "upcoming": false,
+      "link": "https://tv.apple.com/de/movie/warrior-kid/umc.cmc.21vzhs44oeejdkoxenkcdmre0?playableId=tvs.sbd.4000%3AA0181801001",
       "title": {
         "de": "Warrior Kid",
         "en": "Way of the Warrior Kid"
       },
       "overview": {
-        "de": "",
-        "en": ""
+        "de": "Chris Pratt spielt einen Navy SEAL, der seinem schüchternen kleinen Neffen hilft, ein Warrior Kid zu werden.",
+        "en": "Chris Pratt is a Navy SEAL who teaches his shy young nephew how to be a Warrior Kid."
       },
       "releaseYear": 2026,
       "genres": [
@@ -49686,6 +52060,284 @@
         }
       ],
       "rating": null
+    },
+    {
+      "showId": "10736569",
+      "imdbId": "tt33030403",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e01483bc-5af7-466a-9cd2-6a1e193370cd",
+      "title": {
+        "de": "Was uns verbindet",
+        "en": "The Ties That Bind Us"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": 61
+    },
+    {
+      "showId": "35272",
+      "imdbId": "tt2976664",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.92a9f605-85a1-7104-be6c-8d393a22d4c0",
+      "title": {
+        "de": "Woman",
+        "en": "Woman"
+      },
+      "overview": {
+        "de": "",
+        "en": "[With ENG Subtitles] A heart-wrenching story of a mother's unconditional love for her children amidst her economic plight in a harsh reality."
+      },
+      "releaseYear": 2013,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": 52
+    },
+    {
+      "showId": "19893465",
+      "imdbId": "tt14650074",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/82643833",
+      "title": {
+        "de": "ढिंडोरा",
+        "en": "Dhindora"
+      },
+      "overview": {
+        "de": "Als ein Lottoschein ihr Leben verändert, werden Bhuvan und seine Familie aus der Mittelschicht schon bald in eine Reihe lustiger Missgeschicke verwickelt.",
+        "en": "After a lottery ticket changes their lives, Bhuvan and his middle-class family soon find themselves caught up in a series of comic mishaps."
+      },
+      "releaseYear": 2021,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 68
+    },
+    {
+      "showId": "2956699",
+      "imdbId": "tt14173900",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/81312464",
+      "title": {
+        "de": "सोशल करंसी",
+        "en": "Social Currency"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2023,
+      "genres": [
+        {
+          "de": "Reality",
+          "en": "Reality"
+        }
+      ],
+      "rating": 36
+    },
+    {
+      "showId": "85448",
+      "imdbId": "tt6615648",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/81471279",
+      "title": {
+        "de": "మను",
+        "en": "Manu"
+      },
+      "overview": {
+        "de": "",
+        "en": "Photographer Neela and artist Manu share a unique association - their relationship is the only bright spot in their lives and one that gives them hope. However,destiny has other ideas."
+      },
+      "releaseYear": 2018,
+      "genres": [
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 47
+    },
+    {
+      "showId": "27524413",
+      "imdbId": "tt38491456",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8dcd9835-20a2-4a5b-bf82-3ab97c01a6c6",
+      "title": {
+        "de": "ಮರಳಿ ಮನಸಾಗಿದೆ",
+        "en": "Marali Manasaagide"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "44294",
+      "imdbId": "tt4763642",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/80059047",
+      "title": {
+        "de": "로보카폴리",
+        "en": "Robocar Poli"
+      },
+      "overview": {
+        "de": "",
+        "en": "The super, transforming Robocar rescue team is here to rescue friend's in danger! The lively Brooms Town is surrounded by awe-inspiring mountains and is located near the ocean. It is where people and cars, each with unique personalities live. The town has it's share of small and big incidents. It is the super Robocar rescue team. The team comprise's Poli, the righteous leader and police car, Roi, the brave and loyal fire engine, Amber, the kind and smart ambulance, Helly, the witty helicopter, and Jene, the eccentric inventor and operator. This team shows up whenever there is a friend in need of help. They demonstrate great teamwork and wisdom to re'scue their friends. While watching how the Robocar rescue team help's others, children will learn rules that they should observe in daily life to stay safe. They learn the sense of happiness that one feel's from helping others and the importance of living in harmony with others.\n"
+      },
+      "releaseYear": 2011,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Animation",
+          "en": "Animation"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 50
+    },
+    {
+      "showId": "29438",
+      "imdbId": "tt15073094",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.22f008c8-97fc-4c07-b99b-1bf0bd2a2582",
+      "title": {
+        "de": "コントが始まる",
+        "en": "Life's Punchline"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2021,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": 55
+    },
+    {
+      "showId": "7912998",
+      "imdbId": "tt28700955",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-11-25",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e4aa9d8b-b232-4d0f-8a98-0e08382dfdd9",
+      "title": {
+        "de": "最高の教師 1年後、私は生徒に■された",
+        "en": "The Greatest Teacher"
+      },
+      "overview": {
+        "de": "",
+        "en": "Murdered on graduation day, a teacher wakes up one year earlier and tries to figure out which of her 30 students is a future killer."
+      },
+      "releaseYear": 2023,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": 51
+    },
+    {
+      "showId": "27525836",
+      "imdbId": "tt30768979",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-26",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/83072510",
+      "title": {
+        "de": "Aadarsha Kutumbam House No: 47 - AK47",
+        "en": "Aadarsha Kutumbam House No: 47 - AK47"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        }
+      ],
+      "rating": 50
     },
     {
       "showId": "1897",
@@ -50043,6 +52695,31 @@
       "rating": 66
     },
     {
+      "showId": "27784416",
+      "imdbId": "tt50307351",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/82046214",
+      "title": {
+        "de": "Tyson Fury",
+        "en": "Tyson Fury"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        }
+      ],
+      "rating": null
+    },
+    {
       "showId": "26124493",
       "imdbId": "tt39126701",
       "provider": "disney",
@@ -50074,6 +52751,35 @@
         }
       ],
       "rating": null
+    },
+    {
+      "showId": "19849513",
+      "imdbId": "tt28297345",
+      "provider": "netflix",
+      "showType": "series",
+      "addedAt": "2026-11-29",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/82835068",
+      "title": {
+        "de": "Yaz Şarkısı",
+        "en": "Melody of Love"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2023,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Musik",
+          "en": "Music"
+        }
+      ],
+      "rating": 55
     },
     {
       "showId": "14625218",

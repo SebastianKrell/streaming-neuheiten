@@ -1,6 +1,6 @@
 {
   "month": "2026-11",
-  "generatedAt": "2026-11-26T14:56:34.483Z",
+  "generatedAt": "2026-11-27T14:52:31.069Z",
   "entries": [
     {
       "showId": "16967",
@@ -54247,7 +54247,7 @@
           "en": "Drama"
         }
       ],
-      "rating": null
+      "rating": 52
     },
     {
       "showId": "15841581",
@@ -55361,7 +55361,7 @@
           "en": "Thriller"
         }
       ],
-      "rating": null
+      "rating": 60
     },
     {
       "showId": "24601845",
@@ -55369,15 +55369,15 @@
       "provider": "netflix",
       "showType": "movie",
       "addedAt": "2026-11-27",
-      "upcoming": true,
+      "upcoming": false,
       "link": "https://www.netflix.com/title/83198436",
       "title": {
         "de": "7 Dogs",
         "en": "7 Dogs"
       },
       "overview": {
-        "de": "",
-        "en": ""
+        "de": "Als ein berüchtigtes Syndikat eine gefährliche neue Droge in Umlauf bringt, schließt ein Interpol-Agent einen riskanten Pakt mit einem Ex-Mitglied, um die Bande zu zerschlagen.",
+        "en": "When a notorious crime syndicate unleashes a dangerous new drug, an Interpol agent forms a risky alliance with a former member to bring down the gang."
       },
       "releaseYear": 2026,
       "genres": [
@@ -55394,7 +55394,177 @@
           "en": "Crime"
         }
       ],
-      "rating": 40
+      "rating": 56
+    },
+    {
+      "showId": "2436747",
+      "imdbId": "tt27142031",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9e23a04a-9533-428e-b0fc-13f67c83587f",
+      "title": {
+        "de": "American Manhunt: Der Anschlag auf den Boston-Marathon",
+        "en": "American Manhunt: The Boston Marathon Bombing"
+      },
+      "overview": {
+        "de": "Die Tsarnaev-Brüder schienen einst an den amerikanischen Traum zu glauben. Die Tragödie warf die Frage auf: Was machte sie zu Terroristen?",
+        "en": "Archive footage, chilling reenactments and exclusive interviews shed new light on a tragedy — and two brothers — that suspended a city in terror."
+      },
+      "releaseYear": 2023,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        },
+        {
+          "de": "Geschichte",
+          "en": "History"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        }
+      ],
+      "rating": 67
+    },
+    {
+      "showId": "6899865",
+      "imdbId": "tt12292286",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.698fe1e1-b49d-49c4-82f0-0b73b05e1c3b",
+      "title": {
+        "de": "Amerikas Arktis - Ein Paradies in Gefahr",
+        "en": "America's arctic – A Refuge Imperiled"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2020,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        }
+      ],
+      "rating": 35
+    },
+    {
+      "showId": "25803841",
+      "imdbId": "tt32014354",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.54109de6-d119-43cc-81d2-5699abe0c379",
+      "title": {
+        "de": "Amy Winehouse: The Tragic Downfall",
+        "en": "Amy Winehouse: The Tragic Downfall"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "7531251",
+      "imdbId": "tt21308718",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7a879374-e3fe-491b-9ff1-59cf8e51fe2d",
+      "title": {
+        "de": "Asche",
+        "en": "Ashes"
+      },
+      "overview": {
+        "de": "Von einer berauschenden Fantasie bis hin zu einer gefährlichen Affäre: Das Leben einer Ehefrau gerät aus den Fugen, als sie einen unveröffentlichten Roman in die Hände bekommt.",
+        "en": "From an intoxicating fantasy to a dangerous affair, a wealthy married woman finds her life irreversibly shattered after picking up an unpublished novel."
+      },
+      "releaseYear": 2024,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": 46
+    },
+    {
+      "showId": "213124",
+      "imdbId": "tt7225144",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6eb8869f-c86b-a305-f430-5c5f79fddbd4",
+      "title": {
+        "de": "Bearkittens",
+        "en": "Bearkittens"
+      },
+      "overview": {
+        "de": "",
+        "en": "Petra is an idealistic social worker and about to enter her favorite place, the forest, with a group of young girls who have to do community service for their misdeeds. Little does she know that this trip will end in disaster."
+      },
+      "releaseYear": 2018,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        }
+      ],
+      "rating": 46
+    },
+    {
+      "showId": "36798",
+      "imdbId": "tt12578564",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.71494138-23d7-4573-8d57-8b8d02d17d1e",
+      "title": {
+        "de": "Bergen",
+        "en": "Bergen"
+      },
+      "overview": {
+        "de": "",
+        "en": "A biographical story about Bergen, a cult  arabesque singer in Turkey and a victim of domestic violence. She divorced her husband but never managed to cut him off her life. He disfigured her by throwing acid to her face and eventually killed ker at the age of 30 and on the peak of her career."
+      },
+      "releaseYear": 2022,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Musik",
+          "en": "Music"
+        }
+      ],
+      "rating": 66
     },
     {
       "showId": "27519960",
@@ -55417,6 +55587,188 @@
       "rating": null
     },
     {
+      "showId": "76971",
+      "imdbId": "tt2517558",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cab891b9-eb63-4891-921c-75a155939dbb",
+      "title": {
+        "de": "Da geht noch was!",
+        "en": "Quality Time"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2013,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 57
+    },
+    {
+      "showId": "42639",
+      "imdbId": "tt3778010",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b83ca5f8-c80f-4e00-9eaa-d507181a0ad8",
+      "title": {
+        "de": "Dead Awake",
+        "en": "Dead Awake"
+      },
+      "overview": {
+        "de": "",
+        "en": "A woman begins investigating the deaths of victims who suffered from sleep paralysis, and soon finds she must save herself from an ancient evil."
+      },
+      "releaseYear": 2016,
+      "genres": [
+        {
+          "de": "Horror",
+          "en": "Horror"
+        },
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        }
+      ],
+      "rating": 47
+    },
+    {
+      "showId": "8951803",
+      "imdbId": "tt27912094",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a40cbd6e-86ae-4652-b62b-7068f2cc0d05",
+      "title": {
+        "de": "Die BILD-Geschichte - Die geheimen Archive von Ex-Chef Kai Diekmann",
+        "en": "Die BILD-Geschichte - Die geheimen Archive von Ex-Chef Kai Diekmann"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2023,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        },
+        {
+          "de": "Geschichte",
+          "en": "History"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "800875",
+      "imdbId": "tt15512578",
+      "provider": "rtl",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://plus.rtl.de/die-drei-erbe-des-drachen-p_808",
+      "title": {
+        "de": "Die drei ??? – Erbe des Drachen",
+        "en": "The Three Investigators and the Dragon's Legacy"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2023,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Familie",
+          "en": "Family"
+        },
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        }
+      ],
+      "rating": 57
+    },
+    {
+      "showId": "27718950",
+      "imdbId": "tt50986177",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a71f826b-bac2-4747-999f-c580a889ad37",
+      "title": {
+        "de": "Dinosaur Drive-In",
+        "en": "Dinosaur Drive-In"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        },
+        {
+          "de": "Horror",
+          "en": "Horror"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "25414377",
+      "imdbId": "tt27050858",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/83074116",
+      "title": {
+        "de": "Drishyam: The Conclusion",
+        "en": "Drishyam: The Conclusion"
+      },
+      "overview": {
+        "de": "Als neue Beweise Vijay Salgaonkars lange gehütetes Geheimnis zu lüften drohen, muss er neue Wege finden, der Polizei zu entkommen und seine Familie zu schützen.",
+        "en": "As fresh evidence threatens to expose Vijay Salgaonkar's long-buried secret, he must find new ways to evade the police and protect his family."
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        },
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        }
+      ],
+      "rating": 59
+    },
+    {
       "showId": "27301334",
       "imdbId": "tt36823912",
       "provider": "netflix",
@@ -55434,6 +55786,31 @@
       },
       "releaseYear": 2026,
       "genres": [],
+      "rating": null
+    },
+    {
+      "showId": "27718982",
+      "imdbId": "tt39367834",
+      "provider": "disney",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://www.disneyplus.com/browse/entity-60fd7130-dca6-4d2f-99a2-bdfa0accbf81",
+      "title": {
+        "de": "Finally",
+        "en": "Finally"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
       "rating": null
     },
     {
@@ -55466,12 +55843,120 @@
       "rating": 67
     },
     {
+      "showId": "126910",
+      "imdbId": "tt0181582",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0e9110ce-f2d0-4cb5-bb19-67e7fdcf2de2",
+      "title": {
+        "de": "Hot War",
+        "en": "Hot War"
+      },
+      "overview": {
+        "de": "",
+        "en": "Blue (Kelly Chen), Tango (Ekin Cheng) and C.S. (Jordan Chan) are CIA research scientists working on Project VR Fighter which is designed to train unskilled person into magnificent combat agent. Tango and C.S. decide to undergo the training themselves, because Alien (Terence Yin), the international terrorist, has killed C.S.'s fiancée and kidnapped Blue for his conspiracy. Alien is finally destroyed however, the side effects of Project VR Fighter lead to the war between the two friends..."
+      },
+      "releaseYear": 1998,
+      "genres": [
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 53
+    },
+    {
+      "showId": "216334",
+      "imdbId": "tt4619556",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dcfadf83-9f0e-417c-be3f-22f146eefc73",
+      "title": {
+        "de": "Ik ben Alice",
+        "en": "Alice Cares"
+      },
+      "overview": {
+        "de": "",
+        "en": "A pilot program designed to allay a loneliness epidemic among seniors sends a humanoid robot companion to three women in assisted living facilities."
+      },
+      "releaseYear": 2015,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        }
+      ],
+      "rating": 55
+    },
+    {
+      "showId": "105153",
+      "imdbId": "tt0091322",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.411804b7-b97b-4fb2-a4ba-1ca9c3dcd3ad",
+      "title": {
+        "de": "Kamikaze - TV-Tod live",
+        "en": "Kamikaze"
+      },
+      "overview": {
+        "de": "",
+        "en": "From co-writer/producer Luc Besson ('La Femme Nikita', 'Léon: The Professional', 'The Fifth Element') comes the sharp and sumptuous sci-fi/comedy/thriller 'Kamikaze'. Michel Galabru ('Subway') is Albert. He’s old, bored, batty and unemployed…but brilliant with computers. Albert embarks on a mission to get rid of the people he hates most—the televised kind—and invents a way to kill TV announcers, on air, from the comfort of his own home. Police are baffled, but Richard Bohringer as Inspector Romain Pascot dedicates himself to the chase. Also starring Dominique Lavanant, the cult ’80s classic 'Kamikaze' bursts with slick widescreen visuals by cinematographer Jean-François Robin ('L’Amour Braque') and pulsing musical soundscapes by composer Éric Serra ('GoldenEye'), complementing the explosive satire on couch-potato culture."
+      },
+      "releaseYear": 1986,
+      "genres": [
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        },
+        {
+          "de": "Science-Fiction",
+          "en": "Science Fiction"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 59
+    },
+    {
+      "showId": "2136045",
+      "imdbId": "tt4219356",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f7495a61-ce79-424e-be54-37477753b4c5",
+      "title": {
+        "de": "La misión argentina",
+        "en": "La misión argentina"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2015,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        }
+      ],
+      "rating": 47
+    },
+    {
       "showId": "27306237",
       "imdbId": "tt43589736",
       "provider": "disney",
       "showType": "movie",
       "addedAt": "2026-11-27",
-      "upcoming": true,
+      "upcoming": false,
       "link": "https://www.disneyplus.com/browse/entity-f43cd3b1-6dff-42e3-b02b-ee9b720bf29c",
       "title": {
         "de": "Micky – Allein zu Haus",
@@ -55479,7 +55964,7 @@
       },
       "overview": {
         "de": "",
-        "en": ""
+        "en": "Mickey and Pluto are Home Alone for Christmas!"
       },
       "releaseYear": 2026,
       "genres": [
@@ -55500,15 +55985,15 @@
       "provider": "netflix",
       "showType": "movie",
       "addedAt": "2026-11-27",
-      "upcoming": true,
+      "upcoming": false,
       "link": "https://www.netflix.com/title/82013434",
       "title": {
         "de": "Quasimodo, l'âme de Paris",
-        "en": "The Hunchback: Soul of Paris"
+        "en": "The Hunchback, Soul of Paris"
       },
       "overview": {
-        "de": "",
-        "en": ""
+        "de": "Paris, 1830. Als sich die Cholera in der Stadt ausbreitet, wird ein Buckliger für medizinische Experimente gejagt und gerät zwischen politische Unruhen und eine unmögliche Liebe.",
+        "en": "Paris, 1830. As cholera threatens to ravage the city, a hunchback hunted for medical experiments is caught between political turmoil and impossible love."
       },
       "releaseYear": 2026,
       "genres": [
@@ -55520,12 +56005,37 @@
       "rating": null
     },
     {
+      "showId": "78007",
+      "imdbId": "tt0024516",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.92c04195-3ae3-43ed-a98e-69a289fc3dec",
+      "title": {
+        "de": "Sein Freund, der Desperado",
+        "en": "Sagebrush Trail"
+      },
+      "overview": {
+        "de": "",
+        "en": "A man wrongly convicted for a murder evades the law and joins an outlaw gang, only to find the real murderer, who has designs on the woman he loves."
+      },
+      "releaseYear": 1933,
+      "genres": [
+        {
+          "de": "Western",
+          "en": "Western"
+        }
+      ],
+      "rating": 52
+    },
+    {
       "showId": "3275",
       "imdbId": "tt3794354",
       "provider": "netflix",
       "showType": "movie",
       "addedAt": "2026-11-27",
-      "upcoming": true,
+      "upcoming": false,
       "link": "https://www.netflix.com/title/80217006",
       "title": {
         "de": "Sonic the Hedgehog",
@@ -55553,20 +56063,103 @@
       "rating": 66
     },
     {
+      "showId": "4820894",
+      "imdbId": "tt21105638",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.fd54763b-4535-4703-ad63-1e6c5362a5ad",
+      "title": {
+        "de": "Spellbound - Verzaubert in Paris",
+        "en": "Spellbound"
+      },
+      "overview": {
+        "de": "",
+        "en": "Cece Parker Jones’ life is turned upside-down when she discovers she’s a real witch. Magical mayhem ensues at the Paris Opera Ballet School when Cece begins to practice her spell work, making things harder to juggle as she balances new magical identity, dance, and simply being a teenager! Things get even more complicated when she accidentally summons her enemies, a group called the Mystics."
+      },
+      "releaseYear": 2023,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Familie",
+          "en": "Family"
+        },
+        {
+          "de": "Fantasy",
+          "en": "Fantasy"
+        }
+      ],
+      "rating": 52
+    },
+    {
+      "showId": "25914127",
+      "imdbId": "tt20871054",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.833b497b-2550-4c48-8a2e-c8b99e755d42",
+      "title": {
+        "de": "The Best of Netflix Is a Joke: The Festival",
+        "en": "The Best of Netflix Is a Joke: The Festival"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2022,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "16694541",
+      "imdbId": "tt25727008",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6bda7cd5-8cb6-470a-918f-ee782d3f5497",
+      "title": {
+        "de": "The Vortex",
+        "en": "The Vortex"
+      },
+      "overview": {
+        "de": "",
+        "en": "In 1980, a Paiute woman enters a Las Vegas casino, triggering strange happenings. Meanwhile, a gambling addict comedian faces a pivotal choice."
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": 50
+    },
+    {
       "showId": "27784416",
       "imdbId": "tt50307351",
       "provider": "netflix",
       "showType": "movie",
       "addedAt": "2026-11-27",
-      "upcoming": true,
+      "upcoming": false,
       "link": "https://www.netflix.com/title/82046214",
       "title": {
         "de": "Tyson Fury",
         "en": "Tyson Fury"
       },
       "overview": {
-        "de": "",
-        "en": ""
+        "de": "Er war Schwergewichtsweltmeister – bis ihn das Leben aus der Bahn warf. Der legendäre Boxer Tyson Fury erzählt in dieser Doku von seinem Aufstieg, Fall und Neuanfang.",
+        "en": "He was heavyweight champ — until life nearly knocked him sideways. Legendary boxer Tyson Fury recounts his rise, fall and redemption in this documentary."
       },
       "releaseYear": 2026,
       "genres": [
@@ -55576,6 +56169,97 @@
         }
       ],
       "rating": null
+    },
+    {
+      "showId": "19226",
+      "imdbId": "tt13234058",
+      "provider": "disney",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://www.disneyplus.com/browse/entity-01b4c750-54c3-4a86-a5bc-74e8cf7c1e6e",
+      "title": {
+        "de": "Vermisst in den Highlands",
+        "en": "My Son"
+      },
+      "overview": {
+        "de": "",
+        "en": "When his only son disappears from a campsite, Edmond Murray travels to the town where his ex-wife lives in search of answers."
+      },
+      "releaseYear": 2021,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        },
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        }
+      ],
+      "rating": 60
+    },
+    {
+      "showId": "15409494",
+      "imdbId": "tt31434639",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e203c86e-3517-4c87-9871-083dfb9ddfaa",
+      "title": {
+        "de": "Warfare",
+        "en": "Warfare"
+      },
+      "overview": {
+        "de": "Am 19. November 2006 im Irak soll ein Platoon junger Navy Seals ein Haus besetzen, um ein aufständisches Gebiet abzusichern. Zunächst läuft alles nach Plan, bis eine Granate explodiert und eine Bombe detoniert, wodurch zwei Soldaten schwer verletzt werden. Eingeschlossen im Haus kämpfen die Männer ums Überleben und versuchen verzweifelt, die Verletzten am Leben zu halten.",
+        "en": "The harrowing true story of a U.S. Navy SEAL platoon surveillance mission gone dangerously wrong."
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Krieg",
+          "en": "War"
+        }
+      ],
+      "rating": 70
+    },
+    {
+      "showId": "70594",
+      "imdbId": "tt4071086",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7a170495-1c9c-468f-b0f9-499deaf35e98",
+      "title": {
+        "de": "Wild",
+        "en": "Wild"
+      },
+      "overview": {
+        "de": "",
+        "en": "After an encounter with a wolf, a 20-something office worker decides to cast off societal conventions and embark on a journey of spiritual liberation."
+      },
+      "releaseYear": 2016,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        }
+      ],
+      "rating": 58
     },
     {
       "showId": "26124493",

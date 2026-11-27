@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-26T14:56:34.483Z",
-  "lastCollectedAt": "2026-11-26T14:56:34.483Z",
+  "generatedAt": "2026-11-27T14:52:31.069Z",
+  "lastCollectedAt": "2026-11-27T14:52:31.069Z",
   "months": [
     {
       "month": "2026-12",
@@ -15,13 +15,13 @@
     },
     {
       "month": "2026-11",
-      "total": 1960,
+      "total": 1984,
       "byProvider": {
-        "netflix": 198,
-        "disney": 91,
-        "prime": 1573,
+        "netflix": 199,
+        "disney": 93,
+        "prime": 1593,
         "apple": 17,
-        "rtl": 81
+        "rtl": 82
       }
     },
     {

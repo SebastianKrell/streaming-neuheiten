@@ -1,6 +1,6 @@
 {
   "month": "2026-11",
-  "generatedAt": "2026-11-27T14:52:31.069Z",
+  "generatedAt": "2026-11-28T14:01:13.820Z",
   "entries": [
     {
       "showId": "16967",
@@ -55328,7 +55328,7 @@
           "en": "Reality"
         }
       ],
-      "rating": null
+      "rating": 49
     },
     {
       "showId": "26517731",
@@ -55364,6 +55364,56 @@
       "rating": 60
     },
     {
+      "showId": "16694554",
+      "imdbId": "tt35882130",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.42d81a9c-a57d-4b8b-b700-d19135699c32",
+      "title": {
+        "de": "„Alien” – Meisterwerk aus dem Weltraum",
+        "en": "Alien: Terror in Space"
+      },
+      "overview": {
+        "de": "Im Sommer 1947 wurde die Ankündigung des Militärs über eine geborgene „Flugscheibe\" in New Mexico schnell zurückgezogen und durch die Behauptung eines Wetterballons ersetzt. Das Rätsel bleibt ungelöst, und viele fragen sich, ob in dem Dessert etwas weitaus Außergewöhnlicheres verborgen war.",
+        "en": "An in-depth look into the different classifications of alien-beings and the theories that surround their intentions."
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "38757",
+      "imdbId": "tt0969666",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e8a9f49b-0294-a448-211c-f7cdf0e5e506",
+      "title": {
+        "de": "14才の母",
+        "en": "Mother at Fourteen"
+      },
+      "overview": {
+        "de": "",
+        "en": "16 children have been arrested after the death 14-year-old Layton Carr in Fairfield industrial park in the Bill Quay area of Gateshead on Friday."
+      },
+      "releaseYear": 2006,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": 48
+    },
+    {
       "showId": "24601845",
       "imdbId": "tt35512499",
       "provider": "netflix",
@@ -55395,6 +55445,31 @@
         }
       ],
       "rating": 56
+    },
+    {
+      "showId": "5036153",
+      "imdbId": "tt21916652",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.256dd6f2-53cf-4b07-93d8-d3470bf2a653",
+      "title": {
+        "de": "Amal",
+        "en": "Amal"
+      },
+      "overview": {
+        "de": "Amal, eine junge Lehrerin an einer belgischen Schule, fällt durch ihre unkonventionellen Unterrichtsmethoden auf. Als sie im Literaturunterricht das Werk eines muslimischen Autors zum Thema macht, der offen über bi- und homosexuelle Lebenseinstellungen schreibt, verursacht Amal in ihrer Klasse (in der viele Jugendliche einen Migrationshintergrund haben) einen heftigen Eklat. Beleidigte Schüler verlassen den Unterricht. Erzürnte Eltern fordern ihre Entlassung. Und als unverhohlene Drohungen ihre Sicherheit gefährden, wird das Leben für Amal zu einem absoluten Albtraum. Jawad Rhalibs hochkontroverses Schuldrama greift ein Thema auf, das immer wieder und gerade jetzt erneut heiß diskutiert wird und sich die Frage stellt, inwieweit eine multikulturelle Gesellschaft die Forderung nach Toleranz in alle Richtungen ausdehnen kann, ohne daran zu zerbrechen. Ein unbequemes und hochspannendes Drama – und zurecht ein weltweiter Festivalliebling!",
+        "en": "Amal, eine junge Lehrerin an einer belgischen Schule, fällt durch ihre unkonventionellen Unterrichtsmethoden auf. Als sie im Literaturunterricht das Werk eines muslimischen Autors zum Thema macht, der offen über bi- und homosexuelle Lebenseinstellungen schreibt, verursacht Amal in ihrer Klasse (in der viele Jugendliche einen Migrationshintergrund haben) einen heftigen Eklat. Beleidigte Schüler verlassen den Unterricht. Erzürnte Eltern fordern ihre Entlassung. Und als unverhohlene Drohungen ihre Sicherheit gefährden, wird das Leben für Amal zu einem absoluten Albtraum. Jawad Rhalibs hochkontroverses Schuldrama greift ein Thema auf, das immer wieder und gerade jetzt erneut heiß diskutiert wird und sich die Frage stellt, inwieweit eine multikulturelle Gesellschaft die Forderung nach Toleranz in alle Richtungen ausdehnen kann, ohne daran zu zerbrechen. Ein unbequemes und hochspannendes Drama – und zurecht ein weltweiter Festivalliebling!"
+      },
+      "releaseYear": 2024,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": 58
     },
     {
       "showId": "2436747",
@@ -55509,6 +55584,76 @@
       "rating": 46
     },
     {
+      "showId": "105929",
+      "imdbId": "tt5871318",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.44c7b7fe-645b-42be-b85d-785faf4839e6",
+      "title": {
+        "de": "Attack of the Adult Babies",
+        "en": "Attack of the Adult Babies"
+      },
+      "overview": {
+        "de": "Als zwei russische Gangster Sandra und ihre Kinder dazu zwingen in eine Villa einzubrechen und geheime Dokumente zu stehlen, haben diese keine Ahnung, in was sie dort hineingeraten. In der Villa leben ein paar reiche, mächtige Männer ihren Fetisch aus: Sie verkleiden sich als Babies und lassen sich von sexy Krankenschwestern umsorgen. Und natürlich darf niemand ihr kleines Geheimnis erfahren!",
+        "en": "A home invasion forces two teenagers to break into a remote country manor and steal top secret documents. Little do they know it is also the venue where a group of nappy-happy high-powered middle-aged men go to dress as babies and indulging their every whim. Nor do they realise that this grotesque assembly intends to refuel the world's economy by very sinister, sick and monstrous means."
+      },
+      "releaseYear": 2017,
+      "genres": [
+        {
+          "de": "Horror",
+          "en": "Horror"
+        }
+      ],
+      "rating": 43
+    },
+    {
+      "showId": "80261",
+      "imdbId": "tt3013258",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f8b33ce0-4c21-6de3-8b8a-714bc1bd7268",
+      "title": {
+        "de": "Auf dem Weg zur Schule",
+        "en": "On the Way to School"
+      },
+      "overview": {
+        "de": "",
+        "en": "Whether on foot, horseback, or wheelchair, four children from different corners of the globe are forced to travel great distances to get to school."
+      },
+      "releaseYear": 2013,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        }
+      ],
+      "rating": 67
+    },
+    {
+      "showId": "19013036",
+      "imdbId": "tt7587594",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.70b88e7d-2c40-26be-77d5-c03296701935",
+      "title": {
+        "de": "Aussichten",
+        "en": "Views"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2019,
+      "genres": [],
+      "rating": 38
+    },
+    {
       "showId": "213124",
       "imdbId": "tt7225144",
       "provider": "prime",
@@ -55587,6 +55732,31 @@
       "rating": null
     },
     {
+      "showId": "89890",
+      "imdbId": "tt13784818",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.07d573ea-48a3-4389-8682-7b2070440526",
+      "title": {
+        "de": "Big Brother",
+        "en": "Big Brother"
+      },
+      "overview": {
+        "de": "",
+        "en": "BIG BROTHER follows a group of people living together in a house outfitted with 94 HD cameras and 113 microphones, recording their every move 24 hours a day. Each week, someone will be voted out, with the final Houseguest receiving the grand prize."
+      },
+      "releaseYear": 2021,
+      "genres": [
+        {
+          "de": "Reality",
+          "en": "Reality"
+        }
+      ],
+      "rating": 39
+    },
+    {
       "showId": "76971",
       "imdbId": "tt2517558",
       "provider": "prime",
@@ -55616,6 +55786,31 @@
       "rating": 57
     },
     {
+      "showId": "14410507",
+      "imdbId": "tt34966931",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e2c06b59-b05d-4673-9ff6-788cbf7670dd",
+      "title": {
+        "de": "Dare to Defy",
+        "en": "Dare to Defy"
+      },
+      "overview": {
+        "de": "Richard Whitehead MBE und Adele Roberts treten eine inspirierende Reise an, um den Sport zu transformieren, Barrieren abzubauen und das inklusivste Laufevent zu schaffen. Durch persönliche Geschichten und mutige Begegnungen zeigen sie eine neue Vision davon, was Zugehörigkeit im Sport bedeutet.",
+        "en": "Richard Whitehead MBE and Adele Roberts embark on a powerful journey to transform sport, breaking down barriers for underrepresented communities as they create the most inclusive running event ever. Through personal stories and inspiring encounters with fearless individuals who dare to defy their own sporting expectations, they reveal a bold new vision of what it truly means to belong in sport."
+      },
+      "releaseYear": 2024,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        }
+      ],
+      "rating": null
+    },
+    {
       "showId": "42639",
       "imdbId": "tt3778010",
       "provider": "prime",
@@ -55643,6 +55838,31 @@
         }
       ],
       "rating": 47
+    },
+    {
+      "showId": "147985",
+      "imdbId": "tt0439534",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f500837f-97d9-4d47-9ccd-928cb786c7b1",
+      "title": {
+        "de": "Deadhunter: Sevillian Zombies",
+        "en": "Deadhunter: Sevillian Zombies"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2003,
+      "genres": [
+        {
+          "de": "Horror",
+          "en": "Horror"
+        }
+      ],
+      "rating": 20
     },
     {
       "showId": "8951803",
@@ -55707,6 +55927,64 @@
       "rating": 57
     },
     {
+      "showId": "120589",
+      "imdbId": "tt0075722",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.430f78bc-03e0-47d1-82b1-5aa5dc19c59b",
+      "title": {
+        "de": "Die Gangster-Akademie",
+        "en": "Destruction Force"
+      },
+      "overview": {
+        "de": "",
+        "en": "A Sicilian gangster becomes the target of the head of a pickpocket operation and a police commissioner on the warpath after his predecessor’s murder."
+      },
+      "releaseYear": 1977,
+      "genres": [
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        }
+      ],
+      "rating": 58
+    },
+    {
+      "showId": "153949",
+      "imdbId": "tt0080573",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eb873d96-300a-4e2b-97ba-d6e0a0b39ed4",
+      "title": {
+        "de": "Die Zeitbombe",
+        "en": "Cry of the Innocent"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 1980,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        }
+      ],
+      "rating": 48
+    },
+    {
       "showId": "27718950",
       "imdbId": "tt50986177",
       "provider": "prime",
@@ -55769,23 +56047,111 @@
       "rating": 59
     },
     {
-      "showId": "27301334",
-      "imdbId": "tt36823912",
-      "provider": "netflix",
+      "showId": "246988",
+      "imdbId": "tt0073116",
+      "provider": "prime",
       "showType": "movie",
       "addedAt": "2026-11-27",
-      "upcoming": true,
-      "link": "https://www.netflix.com/title/81780038",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e0aaafc2-1725-49cd-a91f-d33dea9dd68d",
       "title": {
-        "de": "El niño",
-        "en": "The Child"
+        "de": "Ein Profi-Ding",
+        "en": "Hold Up"
       },
       "overview": {
         "de": "",
         "en": ""
       },
-      "releaseYear": 2026,
-      "genres": [],
+      "releaseYear": 1974,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 52
+    },
+    {
+      "showId": "19109148",
+      "imdbId": "tt4727614",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ecb87733-4ee8-9ebe-d483-e64ef2b0cd0e",
+      "title": {
+        "de": "Elisa",
+        "en": "Elisa"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2015,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": 48
+    },
+    {
+      "showId": "209156",
+      "imdbId": "tt0475267",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.44bb6a06-4a15-77da-b388-3629255ad6f5",
+      "title": {
+        "de": "Fatigue - Don't play with the fire",
+        "en": "Fatigue - Don't play with the fire"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2005,
+      "genres": [
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 44
+    },
+    {
+      "showId": "21128155",
+      "imdbId": "tt35261069",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4df08357-93a2-4647-9b8d-df0b95c3afa2",
+      "title": {
+        "de": "Filmmaker",
+        "en": "Filmmaker"
+      },
+      "overview": {
+        "de": "George, ein junger, mittelloser Filmemacher, versucht, seinen ersten Spielfilm zu finanzieren. Es ist eine Überlebensgeschichte während des Vietnamkriegs, gedreht im Dschungel. Zwischen Gelegenheitsjobs und dem Druck seines Umfelds will er seinen Film vor seinem 26. Geburtstag fertigstellen. Er ist bereit, alles zu tun, um seinen Traum zu verwirklichen, und setzt alles aufs Spiel.",
+        "en": "A penniless young filmmaker risks everything to finance and finish his ambitious Vietnam jungle survival film before age twenty-six."
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        }
+      ],
       "rating": null
     },
     {
@@ -55843,6 +56209,85 @@
       "rating": 67
     },
     {
+      "showId": "143574",
+      "imdbId": "tt0183142",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3ebb242e-759f-3a9e-ebec-e077e439d651",
+      "title": {
+        "de": "Gunblast Vodka",
+        "en": "Gunblast Vodka"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2001,
+      "genres": [
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 27
+    },
+    {
+      "showId": "14368081",
+      "imdbId": "tt33523379",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.aff59e97-16e4-40bf-a66e-96ae489b3a07",
+      "title": {
+        "de": "Hidden Truths",
+        "en": "Hidden Truths"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2024,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "114567",
+      "imdbId": "tt0103666",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7cc50248-6004-4dd6-a1e5-330473e8d967",
+      "title": {
+        "de": "Hölle am Amazonas",
+        "en": "Amazon"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 1990,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": 52
+    },
+    {
       "showId": "126910",
       "imdbId": "tt0181582",
       "provider": "prime",
@@ -55893,6 +56338,35 @@
       "rating": 55
     },
     {
+      "showId": "7853162",
+      "imdbId": "tt27682129",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.29d1665d-7011-4930-83a8-f50a8d23629d",
+      "title": {
+        "de": "Kalahari: Hunting Grounds",
+        "en": "Prey"
+      },
+      "overview": {
+        "de": "Ein Missionsposten in der Kalahari-Wüste muss aufgrund militanter Angriffe evakuiert werden. Doch das Rettungsflugzeug erleidet eine Bruchlandung und die Passagiere finden sich in einem lebensfeindlichen Raubtierreservat wieder. Verletzt und verängstigt steht ihnen ein Kampf ums Überleben bevor, denn neben Löwen und Hyänen sind ihnen auch die Extremisten auf der Fährte.",
+        "en": "When their light aircraft crashes in a Kalahari game reserve, a young couple must battle man and beast in a desperate fight for survival."
+      },
+      "releaseYear": 2024,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 42
+    },
+    {
       "showId": "105153",
       "imdbId": "tt0091322",
       "provider": "prime",
@@ -55926,6 +56400,31 @@
       "rating": 59
     },
     {
+      "showId": "191435",
+      "imdbId": "tt0067319",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7d7953fc-e15a-4c96-855a-2cd690d5d57f",
+      "title": {
+        "de": "Käpt'n Rauhbein aus St. Pauli",
+        "en": "Nurses for Sale"
+      },
+      "overview": {
+        "de": "",
+        "en": "Hamburg ship captain Markus Jolly is hired to transport a vaccine to a Latin American port. When the precious cargo is stolen by mobsters, he is falsely accused of engineering the theft."
+      },
+      "releaseYear": 1971,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        }
+      ],
+      "rating": 36
+    },
+    {
       "showId": "2136045",
       "imdbId": "tt4219356",
       "provider": "prime",
@@ -55949,6 +56448,110 @@
         }
       ],
       "rating": 47
+    },
+    {
+      "showId": "107825",
+      "imdbId": "tt3202098",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.be2d7c91-edbe-4741-ac98-ebc46410805c",
+      "title": {
+        "de": "Lou! - Klitzegeheimes Tagebuch",
+        "en": "Lou!"
+      },
+      "overview": {
+        "de": "",
+        "en": "Most preteen girls are embarrassed of their mothers. But when Lou’s mom develops a crush on their new neighbor, the humiliation goes off the charts."
+      },
+      "releaseYear": 2014,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 59
+    },
+    {
+      "showId": "137580",
+      "imdbId": "tt0058306",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d944df82-9e89-4e74-9db7-9f10e9ea4b9b",
+      "title": {
+        "de": "Lucky Jo",
+        "en": "Lucky Jo"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 1964,
+      "genres": [
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        }
+      ],
+      "rating": 59
+    },
+    {
+      "showId": "169688",
+      "imdbId": "tt4479696",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d0b9aca4-af95-33b9-fa65-b2b5a2c49f6f",
+      "title": {
+        "de": "Marlene",
+        "en": "Marlene"
+      },
+      "overview": {
+        "de": "Als Frank eines Tages den Auftrag erhält, ein Mädchen namens Marlene zu entführen und seinen Vorgesetzten auszuliefern, ändert sich für Frank alles. Er verliebt sich in Marlene und verweigert den Gehorsam. Nun muss sich Frank alleine gegen die geballte Macht des Syndikats stellen, um Marlene zu retten.",
+        "en": "Everything changes for a contract killer working for a large Styrian crime syndicate when he falls for the woman he's been ordered to abduct."
+      },
+      "releaseYear": 2020,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        }
+      ],
+      "rating": 49
+    },
+    {
+      "showId": "325552",
+      "imdbId": "tt6685538",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.096a75ca-4cd7-4619-a4ee-5c4450c76151",
+      "title": {
+        "de": "Mavka - Hüterin des Waldes",
+        "en": "Mavka: The Forest Song"
+      },
+      "overview": {
+        "de": "Zauberhafter Animationsfilm für die ganze Familie: Die junge Waldfee Mavka verliebt sich in den Menschen Lukas und verstößt damit gegen die Gesetze des Waldes, denn die magischen Waldwesen und die Menschen sind seit langer Zeit verfeindet. Sie muss sich entscheiden zwischen ihrer großen Liebe und ihren Verpflichtungen als Hüterin des Waldes.",
+        "en": "Mavka, a Soul of the Forest, faces an impossible choice between love and her duty as Guardian of the Heart of the Forest when she falls in love with a human, a talented young musician Lucas."
+      },
+      "releaseYear": 2023,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Animation",
+          "en": "Animation"
+        }
+      ],
+      "rating": 66
     },
     {
       "showId": "27306237",
@@ -55980,6 +56583,122 @@
       "rating": null
     },
     {
+      "showId": "8952442",
+      "imdbId": "tt14263628",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8573f76c-e4d1-488e-8073-d200ba00dc11",
+      "title": {
+        "de": "Misión: Peligroso",
+        "en": "Mission: Dangerous"
+      },
+      "overview": {
+        "de": "Feiere die Feiertage mit Blippi! Triff Santas Helfer SNO.BO, baue einen Schneemann, schippe Schnee mit einem Bagger, hilf einem Bären bei der Vorbereitung auf den Winter und entdecke das Wunder fallender Schneeflocken.",
+        "en": "Feiere die Feiertage mit Blippi! Triff Santas Helfer SNO.BO, baue einen Schneemann, schippe Schnee mit einem Bagger, hilf einem Bären bei der Vorbereitung auf den Winter und entdecke das Wunder fallender Schneeflocken."
+      },
+      "releaseYear": 2023,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        },
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "15415123",
+      "imdbId": "tt35651208",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.27f1f081-d3c5-4e2d-8fed-7d35cae545e1",
+      "title": {
+        "de": "Mission Unknown",
+        "en": "Mission Unknown"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Reality",
+          "en": "Reality"
+        }
+      ],
+      "rating": 50
+    },
+    {
+      "showId": "9898553",
+      "imdbId": "tt30810792",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1414e46c-f12c-4bf8-857a-2ffd5d3114d4",
+      "title": {
+        "de": "Oslo Stories: LIEBE",
+        "en": "Love"
+      },
+      "overview": {
+        "de": "Marianne und Tor treffen sich zufällig auf einer Fähre Richtung Oslo. Sie arbeiten im selben Krankenhaus, sie als kompetente Ärztin, er als mitfühlender Krankenpfleger. Als Tor erzählt, dass er seine Nächte oft auf der Fähre verbringt, um schnellen Sex zu haben, überlegt Marianne, ob diese Art der spontanen Intimität nicht auch eine Option für sie sein könnte.",
+        "en": "A guarded woman is drawn into a world of spontaneous intimacy after a run-in with her uninhibited coworker makes her question her approach to love."
+      },
+      "releaseYear": 2024,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": 62
+    },
+    {
+      "showId": "10736980",
+      "imdbId": "tt30810787",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1382883a-b888-45ed-9809-ecb844c4528e",
+      "title": {
+        "de": "Oslo-Stories: Träume",
+        "en": "Dreams"
+      },
+      "overview": {
+        "de": "Johanne verliebt sich zum ersten Mal, und zwar in ihre Lehrerin. Ihre intensiven Fantasien und Gefühle hält sie schriftlich fest, um sie nicht zu vergessen. Als ihre Mutter und Großmutter die Texte lesen, sind sie zunächst schockiert über den intimen Inhalt, erkennen aber bald das literarische Potenzial. Während sie darüber debattieren, ob sie es veröffentlichen sollen, werden alle drei Frauen mit ihren eigenen unerfüllten Träumen und Sehnsüchten konfrontiert. Mit den OSLO STORIES legt der gefeierte norwegische Filmemacher und Schriftsteller Dag Johan Haugerud sein Meisterwerk vor: eine Filmtrilogie, wie es noch keine gab. LIEBE (Venedig Wettbewerb 2024), TRÄUME (Berlinale Goldener Bär 2025) und SEHNSUCHT (Berlinale Panorama 2024) sind drei jeweils eigenständige Filme mit neuen Figuren und einer unabhängigen Geschichte. Jeder ist ein Ereignis. Alle drei machen süchtig. Getrennt voneinander werfen sie jeweils einen neuen Blick auf die Dinge, die unser Leben bestimmen. Erzählen von Liebe, Sehnsucht und Träumen, hinterfragen Identität, Gender und Sexualität, entwerfen mit faszinierenden Charakteren und klugen Dialogen gewitzt und nahbar Utopien, wie wir auch zusammenleben könnten. Bei der Berlinale 2025 wurde Oslo Stories: TRÄUME mit dem Goldenen Bären für den besten Film ausgezeichnet.",
+        "en": "A teen's journal about a forbidden crush shocks her family, yet draws them in—unleashing a bold journey through desire, identity, and blurred reality."
+      },
+      "releaseYear": 2024,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": 64
+    },
+    {
       "showId": "26897550",
       "imdbId": "tt37267166",
       "provider": "netflix",
@@ -56005,6 +56724,155 @@
       "rating": null
     },
     {
+      "showId": "2765",
+      "imdbId": "tt9096108",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c0b8bc7a-1feb-2cc8-952e-f2d235888682",
+      "title": {
+        "de": "Rasbhari",
+        "en": "Rasbhari"
+      },
+      "overview": {
+        "de": "Nand gehört zu den Männern, die Shanu, der neuen Englischlehrerin in Meerut, nachstellen. Als er ihr vermeintliches Alter Ego entdeckt – den sexbesessenen Geist Rasbhari – nimmt ihre Beziehung eine neue Wendung. Der nun gereifte Nand übernimmt die Verantwortung, Shanu vor der Hexenjagd zu schützen, die von den Frauen der Stadt, angeführt von seiner Mutter Pushpa, betrieben wird.",
+        "en": "Nand is amongst the rush of men who pursue Shanu, the new English teacher in Meerut. Upon his discovering her supposed alter-ego, the sex-obsessed spirit of Rasbhari, their relationship takes a new turn. A now matured Nand, takes up the responsibility of saving Shanu from the ongoing witch hunt by the women of the town initiated by his own mother, Pushpa."
+      },
+      "releaseYear": 2020,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": 33
+    },
+    {
+      "showId": "9882974",
+      "imdbId": "tt31251431",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5fdabf0a-5d44-4fad-9216-f5d8fdc019c8",
+      "title": {
+        "de": "Ronggeng Kematian",
+        "en": "Ronggeng Kematian"
+      },
+      "overview": {
+        "de": "Four friends ensnared in a village, haunted by a ghost because of their sins in the past. They are forced to confront the malevolent specter that hungers for retribution, a horrifying Ronggeng dancer ghost determined to unleash its vengeance upon them.",
+        "en": "Four friends ensnared in a village, haunted by a ghost because of their sins in the past. They are forced to confront the malevolent specter that hungers for retribution, a horrifying Ronggeng dancer ghost determined to unleash its vengeance upon them."
+      },
+      "releaseYear": 2024,
+      "genres": [
+        {
+          "de": "Horror",
+          "en": "Horror"
+        }
+      ],
+      "rating": 51
+    },
+    {
+      "showId": "15409167",
+      "imdbId": "tt34171000",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b16406dc-7e2d-4714-9adf-7df5982bff34",
+      "title": {
+        "de": "Rumpelstiltskin",
+        "en": "Rumpelstiltskin"
+      },
+      "overview": {
+        "de": "Nach dem Umzug in ein neues Haus erliegt der Ehemann der dunklen Macht einer alten Maske, die ihn in den tödlichen Rumpelstilzchen verwandelt.",
+        "en": "A young woman makes a deal she comes to regret with a mysterious creature, and must now save her first-born child from his evil clutches."
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Fantasy",
+          "en": "Fantasy"
+        },
+        {
+          "de": "Horror",
+          "en": "Horror"
+        }
+      ],
+      "rating": 50
+    },
+    {
+      "showId": "179093",
+      "imdbId": "tt0076653",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bf03f771-4796-4eac-a556-5e3e6ebe29a8",
+      "title": {
+        "de": "Sahara Cross - Duell in der Wüste",
+        "en": "Sahara Cross"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 1977,
+      "genres": [
+        {
+          "de": "Action",
+          "en": "Action"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 46
+    },
+    {
+      "showId": "93989",
+      "imdbId": "tt0020286",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4ac3b1b1-efc2-4f3d-9b24-61159398446a",
+      "title": {
+        "de": "Schicksalswürfel",
+        "en": "A Throw of Dice"
+      },
+      "overview": {
+        "de": "",
+        "en": "Two rival cousins and kings of neighboring Indian kingdoms gamble for power and the love of a hermit’s daughter in a fateful game of chance."
+      },
+      "releaseYear": 1929,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": 53
+    },
+    {
       "showId": "78007",
       "imdbId": "tt0024516",
       "provider": "prime",
@@ -56028,6 +56896,84 @@
         }
       ],
       "rating": 52
+    },
+    {
+      "showId": "2093694",
+      "imdbId": "tt23136186",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.94816cc2-939f-4a61-9bc5-628ef7e9a7de",
+      "title": {
+        "de": "Sewu Dino",
+        "en": "A Thousand Days"
+      },
+      "overview": {
+        "de": "Um die Behandlung ihres Vaters zu finanzieren, arbeitet Sri als Dienstmädchen für die Familie Atmodjo. Sie entdeckt jedoch ein dunkles Geheimnis und ist gezwungen, ein schreckliches Ritual an Della Atmodjo, einem Opfer schwarzer Magie, durchzuführen. Sri kann nicht entkommen, da ihr Leben auf dem Spiel steht.",
+        "en": "In order to finance her father's treatment, Sri works as a maid for the Atmodjo Family. However, she uncovers a dark secret and is compelled to perform a horrifying ritual on Della Atmodjo, a victim of black magic. Sri cannot escape as her life is at stake."
+      },
+      "releaseYear": 2023,
+      "genres": [
+        {
+          "de": "Horror",
+          "en": "Horror"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 62
+    },
+    {
+      "showId": "49430",
+      "imdbId": "tt0429032",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.46b6d386-85fe-d35f-b7ae-7ad6eeef840a",
+      "title": {
+        "de": "Sherlock Holmes - Der Seidenstrumpfmörder",
+        "en": "Sherlock Holmes and the Case of the Silk Stocking"
+      },
+      "overview": {
+        "de": "",
+        "en": "It&#39;s London 1902 and Holmes and Watson are reunited to find a serial killer.  Michael Fassbender co-stars."
+      },
+      "releaseYear": 2004,
+      "genres": [
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        },
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        }
+      ],
+      "rating": 60
+    },
+    {
+      "showId": "258876",
+      "imdbId": "tt0148872",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.491a7c5a-3c43-4806-9c52-5c0a3ff04a0f",
+      "title": {
+        "de": "Sing as You Swing",
+        "en": "Sing as You Swing"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 1937,
+      "genres": [],
+      "rating": 50
     },
     {
       "showId": "3275",
@@ -56061,6 +57007,56 @@
         }
       ],
       "rating": 66
+    },
+    {
+      "showId": "227775",
+      "imdbId": "tt2366218",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ca404c63-1e5f-4e56-81f0-41e3ba60a904",
+      "title": {
+        "de": "Sound of Heimat - Deutschland singt",
+        "en": "Sound of Heimat - Deutschland singt"
+      },
+      "overview": {
+        "de": "",
+        "en": "A musician from New Zealand embarks on a quest to find the sound of the German homelands (“Heimat”). He encounters soul from the Ore Mountains, listens to hip hop beats in the Cologne dialect, rocks the Antistadl and accompanies some polkas with his saxophone. As a foreigner in Germany, Chisholm opens some unusual perspectives."
+      },
+      "releaseYear": 2012,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        }
+      ],
+      "rating": 44
+    },
+    {
+      "showId": "325133",
+      "imdbId": "tt0028289",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.39d49d01-8612-427c-8ec2-b3dbc2453615",
+      "title": {
+        "de": "Southern Roses",
+        "en": "Southern Roses"
+      },
+      "overview": {
+        "de": "",
+        "en": "1936. A mix-up involving Mr. Higgins (George Robey), who mistakenly believes that Mary Roland (Gina Malo) is engaged to his son, while the real romantic interests are different. The film features dance spectacles and comedic situations as the characters navigate their relationships and misunderstandings."
+      },
+      "releaseYear": 1936,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 37
     },
     {
       "showId": "4820894",
@@ -56121,6 +57117,106 @@
       "rating": null
     },
     {
+      "showId": "244123",
+      "imdbId": "tt0150466",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ad99b2b3-7163-496e-bdef-373518bb3ed6",
+      "title": {
+        "de": "The End of Arthur's Marriage",
+        "en": "The End of Arthur's Marriage"
+      },
+      "overview": {
+        "de": "",
+        "en": "A simple-minded man on the outs with his wife and her family must take a large amount of his father-in-law's hard-earned money to buy a house, in the belief that home-ownership will make him responsible and respectable. Instead, he throws it away on a mad spending spree with his daughter."
+      },
+      "releaseYear": 1965,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": 52
+    },
+    {
+      "showId": "27775888",
+      "imdbId": "tt23986962",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.57e68527-a778-49a1-abf1-5845b2d88428",
+      "title": {
+        "de": "The Lost Salmon",
+        "en": "The Lost Salmon"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2022,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "205614",
+      "imdbId": "tt0031702",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.59ff8a3b-aa9f-435d-a10d-ab0d762b9f40",
+      "title": {
+        "de": "The Mysterious Mr. Davis",
+        "en": "The Mysterious Mr. Davis"
+      },
+      "overview": {
+        "de": "",
+        "en": "1940. A man, down on his luck, invents a business partner and build an aura around him that leads to opportunities and complications in equal measure."
+      },
+      "releaseYear": 1939,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": 43
+    },
+    {
+      "showId": "18841572",
+      "imdbId": "tt18399030",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.63fe0798-b92c-4969-b107-b16cb19debba",
+      "title": {
+        "de": "The Mystery of Mr. E",
+        "en": "The Mystery of Mr. E"
+      },
+      "overview": {
+        "de": "Die Zwillingsbrüder John und George Danes werden von einem Fremden besucht, der weiß, wohin sie wollen, sich als „der Mörder\" ausgibt und dann verschwindet. Bei der Ankunft dauert es nicht lange, bis ein Gast unter mysteriösen Umständen tot aufgefunden wird.",
+        "en": "Upon the arrival of the twins at Idlewyld House, claims of no murder to investigate abound until a corpse emerges, defying everyone's assumptions."
+      },
+      "releaseYear": 2023,
+      "genres": [
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        }
+      ],
+      "rating": 49
+    },
+    {
       "showId": "16694541",
       "imdbId": "tt25727008",
       "provider": "prime",
@@ -56146,6 +57242,89 @@
       "rating": 50
     },
     {
+      "showId": "377907",
+      "imdbId": "tt15114502",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.75d99cfb-4053-4b9f-b25c-975718d830dd",
+      "title": {
+        "de": "Think Gold - Mentaltraining im Spitzensport",
+        "en": "Dans la tête des champions"
+      },
+      "overview": {
+        "de": "\"Schneller, höher, weiter\": Angesichts der herannahenden Olympischen Spiele in Tokio 2021 erweist sich das Motto der olympischen Bewegung als veraltet - es fehlt der Zusatz \"intelligenter\"! Seit mehreren Jahren stagnieren die Leistungen der Athleten. Als letzte Waffe der Leistungssteigerung erscheint der Beitrag der Neurowissenschaften zur mentalen Verfassung der Spitzensportler ...",
+        "en": "\"Schneller, höher, weiter\": Angesichts der herannahenden Olympischen Spiele in Tokio 2021 erweist sich das Motto der olympischen Bewegung als veraltet - es fehlt der Zusatz \"intelligenter\"! Seit mehreren Jahren stagnieren die Leistungen der Athleten. Als letzte Waffe der Leistungssteigerung erscheint der Beitrag der Neurowissenschaften zur mentalen Verfassung der Spitzensportler ..."
+      },
+      "releaseYear": 2021,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "154599",
+      "imdbId": "tt0049703",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7f20b4ec-acb2-4b60-a794-b1fb9340e31b",
+      "title": {
+        "de": "TKX antwortet nicht",
+        "en": "If All the Guys in the World..."
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 1956,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Thriller",
+          "en": "Thriller"
+        }
+      ],
+      "rating": 47
+    },
+    {
+      "showId": "241847",
+      "imdbId": "tt0196077",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.571b287a-0628-4f40-8da4-00e72605d330",
+      "title": {
+        "de": "Two on the Tiles",
+        "en": "Two on the Tiles"
+      },
+      "overview": {
+        "de": "",
+        "en": "1951. A smarmy butler blackmails his two employers after they both make minor indiscretions."
+      },
+      "releaseYear": 1951,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 48
+    },
+    {
       "showId": "27784416",
       "imdbId": "tt50307351",
       "provider": "netflix",
@@ -56169,6 +57348,31 @@
         }
       ],
       "rating": null
+    },
+    {
+      "showId": "247473",
+      "imdbId": "tt3105370",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cb8bbeea-2c0c-4898-9c7d-b89f990a415d",
+      "title": {
+        "de": "Verborgene Welten: Die Höhlen der Toten",
+        "en": "Hidden Worlds 3D - Caves of the Dead"
+      },
+      "overview": {
+        "de": "",
+        "en": "We accompany four professional research divers to Yucatan – a team of specialists, able to squeeze their bodies through crevices and holes, barely larger than their bodies and who master dives that would push even the most experienced divers to their limits. With them, we penetrate worlds only a few people have ever ventured into. We encounter the remains of human victims, prehistoric fireplaces and primeval animal skeletons and undertake a dive, which takes us from the primeval forest to the open sea."
+      },
+      "releaseYear": 2013,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        }
+      ],
+      "rating": 43
     },
     {
       "showId": "19226",
@@ -56262,6 +57466,229 @@
       "rating": 58
     },
     {
+      "showId": "8954734",
+      "imdbId": "tt28319139",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.083db81b-2a6e-4d18-9436-3d21d7223bae",
+      "title": {
+        "de": "Wilder Diamant",
+        "en": "Wild Diamond"
+      },
+      "overview": {
+        "de": "Die temperamentvolle 19-jährige Liane lebt mit ihrer Mutter und ihrer kleinen Schwester im sonnigen Fréjus in Südfrankreich. Wie besessen von Schönheit und Ruhm sieht sie im Reality-TV ihre Chance, geliebt zu werden. Das Schicksal meint es gut mit ihr, als sie sich für Miracle Island bewirbt.",
+        "en": "Liane, 19, is obsessed with beauty and becoming someone, convinced reality TV is her chance to be loved and finally transform her life."
+      },
+      "releaseYear": 2024,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        }
+      ],
+      "rating": 62
+    },
+    {
+      "showId": "164652",
+      "imdbId": "tt3788918",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.72b87a2a-73f1-8b96-d2f4-a385bc7033db",
+      "title": {
+        "de": "എയ്ഞ്ചല്‍സ്",
+        "en": "Angels"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2014,
+      "genres": [
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        },
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        }
+      ],
+      "rating": 48
+    },
+    {
+      "showId": "52919",
+      "imdbId": "tt5569480",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-11-27",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.aa854962-24b8-4452-90ef-309d12d80822",
+      "title": {
+        "de": "몬스터",
+        "en": "Monster"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2016,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": 48
+    },
+    {
+      "showId": "27521171",
+      "imdbId": "tt37232950",
+      "provider": "disney",
+      "showType": "movie",
+      "addedAt": "2026-11-28",
+      "upcoming": false,
+      "link": "https://www.disneyplus.com/browse/entity-5e49cb26-6a34-46d4-9ce3-e7ce586e74e1",
+      "title": {
+        "de": "Dasher",
+        "en": "Dasher"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Abenteuer",
+          "en": "Adventure"
+        },
+        {
+          "de": "Animation",
+          "en": "Animation"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "27301334",
+      "imdbId": "tt36823912",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-28",
+      "upcoming": false,
+      "link": "https://www.netflix.com/title/81780038",
+      "title": {
+        "de": "El niño",
+        "en": "The Child"
+      },
+      "overview": {
+        "de": "Nach einer Gasexplosion an einer baskischen Schule in den 80ern versucht eine Mutter einen Neuanfang, während ein Großvater die Wahrheit leugnet. Nach wahren Begebenheiten.",
+        "en": "After a gas explosion at a Basque school in the 1980s, a mother tries to rebuild her life while a grandfather lives in denial. Inspired by true events."
+      },
+      "releaseYear": 2026,
+      "genres": [],
+      "rating": null
+    },
+    {
+      "showId": "72886",
+      "imdbId": "tt21047992",
+      "provider": "prime",
+      "showType": "series",
+      "addedAt": "2026-11-28",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2a8690bd-ff0a-4c3e-9d4f-68d76976b890",
+      "title": {
+        "de": "Flower of Evil",
+        "en": "Flower of Evil"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2022,
+      "genres": [
+        {
+          "de": "Krimi",
+          "en": "Crime"
+        },
+        {
+          "de": "Mystery",
+          "en": "Mystery"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": 46
+    },
+    {
+      "showId": "24979830",
+      "imdbId": "tt39281495",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-28",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.184fa7af-31ea-4a5d-987f-152d0a8c3f85",
+      "title": {
+        "de": "Y Crwydryn",
+        "en": "Y Crwydryn"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Dokumentation",
+          "en": "Documentary"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "8952908",
+      "imdbId": "tt27812864",
+      "provider": "prime",
+      "showType": "movie",
+      "addedAt": "2026-11-28",
+      "upcoming": false,
+      "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3b073ac0-955b-4528-8c54-104c8d8577b9",
+      "title": {
+        "de": "YOLO: Undercover",
+        "en": "YOLO: Undercover"
+      },
+      "overview": {
+        "de": "Yoon Yi-jun, der Erbe der Taekang-Gruppe, ist der Hauptverdächtige in einem Mordfall. Um die Wahrheit aufzudecken, schleust sich Kang Jae-hee als männlicher Sekretär ein. Doch je näher sie der Wahrheit kommen, desto näher kommen sich auch Yi-jun und Jae-hee. Werden Jae-hee, die ihre wahre Identität verbirgt, und Yi-jun, der ein Geheimnis hütet, einander ihre wahren Gefühle offenbaren?",
+        "en": "Yoon Yi-jun, der Erbe der Taekang-Gruppe, ist der Hauptverdächtige in einem Mordfall. Um die Wahrheit aufzudecken, schleust sich Kang Jae-hee als männlicher Sekretär ein. Doch je näher sie der Wahrheit kommen, desto näher kommen sich auch Yi-jun und Jae-hee. Werden Jae-hee, die ihre wahre Identität verbirgt, und Yi-jun, der ein Geheimnis hütet, einander ihre wahren Gefühle offenbaren?"
+      },
+      "releaseYear": 2023,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": null
+    },
+    {
       "showId": "26124493",
       "imdbId": "tt39126701",
       "provider": "disney",
@@ -56322,6 +57749,35 @@
         }
       ],
       "rating": 55
+    },
+    {
+      "showId": "11621",
+      "imdbId": "tt0866437",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-11-30",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/70074299",
+      "title": {
+        "de": "Der Jane Austen Club",
+        "en": "The Jane Austen Book Club"
+      },
+      "overview": {
+        "de": "Sylvia wird nach langen, scheinbar glücklichen Ehejahren plötzlich von ihrem Mann verlassen. Ihre Freundin Bernadette, eine starke Frau, die ihr Leben nach eigenen Regeln lebt, organisiert daraufhin einen „Buchclub“, um der Verzweifelten dabei zu helfen, wieder auf andere Gedanken zu kommen. Fünf Frauen treffen sich daraufhin einmal im Monat, um über eines von Jane Austens Bücher zu diskutieren..",
+        "en": "A terrific ensemble cast takes reading the classics to new heights of passion in this charming romantic comedy."
+      },
+      "releaseYear": 2007,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        },
+        {
+          "de": "Romanze",
+          "en": "Romance"
+        }
+      ],
+      "rating": 66
     },
     {
       "showId": "14625218",

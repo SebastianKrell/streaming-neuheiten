@@ -1,6 +1,6 @@
 {
   "month": "2026-12",
-  "generatedAt": "2026-11-27T14:52:31.069Z",
+  "generatedAt": "2026-11-28T14:01:13.820Z",
   "entries": [
     {
       "showId": "24326348",
@@ -44,6 +44,31 @@
         "en": ""
       },
       "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "15789192",
+      "imdbId": "tt34581855",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-12-01",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/83176172",
+      "title": {
+        "de": "Confia: Sonho de Cria",
+        "en": "Confia: Sonho de Cria"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2025,
       "genres": [
         {
           "de": "Komödie",
@@ -117,6 +142,31 @@
         }
       ],
       "rating": 57
+    },
+    {
+      "showId": "8611295",
+      "imdbId": "tt29721947",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-12-01",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/83176044",
+      "title": {
+        "de": "Dona Lurdes: O Filme",
+        "en": "Dona Lurdes: O Filme"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2024,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 49
     },
     {
       "showId": "4377",
@@ -218,6 +268,39 @@
       "rating": null
     },
     {
+      "showId": "5220",
+      "imdbId": "tt0101889",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-12-01",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/506621",
+      "title": {
+        "de": "König der Fischer",
+        "en": "The Fisher King"
+      },
+      "overview": {
+        "de": "Diesmal ist Radio-DJ Jack Lucas (Jeff Bridges) zu weit gegangen. Mit zynischen Sprüchen hat er einen blutigen Amoklauf ausgelöst. Nach seinem Rauswurf aus dem Sender begegnet Jack dem Penner Parry (Robin Williams). Der verlor durch die Tragödie Frau und Verstand. Seitdem sucht er nach dem heiligen Gral. Mitten in Manhattan. Von Schuld getrieben, taucht Jack ein in Parrys Welt. Und ist hingeriss..",
+        "en": "Robin Williams, Jeff Bridges, Amanda Plummer and Mercedes Ruehl star in Terry Gilliam's must-see comic masterpiece. Williams is Parry, a homeless history professor who lives in a fantasy world full of castles, Red Knights and damsels in distress. Bridges co-stars as Jack, New York's #1 shock deejay, whose off-hand arrogance triggers a tragedy which ruins his career. Penniless a..."
+      },
+      "releaseYear": 1991,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Fantasy",
+          "en": "Fantasy"
+        },
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 74
+    },
+    {
       "showId": "19669",
       "imdbId": "tt0488658",
       "provider": "netflix",
@@ -275,6 +358,31 @@
         {
           "de": "Thriller",
           "en": "Thriller"
+        }
+      ],
+      "rating": null
+    },
+    {
+      "showId": "14625686",
+      "imdbId": "tt32090596",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-12-01",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/83176163",
+      "title": {
+        "de": "Vítimas do Dia",
+        "en": "Victims of the Day"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
         }
       ],
       "rating": null
@@ -885,6 +993,35 @@
       },
       "releaseYear": 2026,
       "genres": [],
+      "rating": null
+    },
+    {
+      "showId": "25371876",
+      "imdbId": "tt43615957",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-12-05",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/83132023",
+      "title": {
+        "de": "The Gift",
+        "en": "The Gift"
+      },
+      "overview": {
+        "de": "",
+        "en": ""
+      },
+      "releaseYear": 2026,
+      "genres": [
+        {
+          "de": "Drama",
+          "en": "Drama"
+        },
+        {
+          "de": "Horror",
+          "en": "Horror"
+        }
+      ],
       "rating": null
     },
     {
@@ -1652,6 +1789,31 @@
         }
       ],
       "rating": null
+    },
+    {
+      "showId": "14625295",
+      "imdbId": "tt34981200",
+      "provider": "netflix",
+      "showType": "movie",
+      "addedAt": "2026-12-24",
+      "upcoming": true,
+      "link": "https://www.netflix.com/title/81697664",
+      "title": {
+        "de": "Gabriel Iglesias: Legend of Fluffy",
+        "en": "Gabriel Iglesias: Legend of Fluffy"
+      },
+      "overview": {
+        "de": "Ob Klischeebrüche oder Einbrüche – Gabriel Iglesias zeigt in seinem Stand-up-Special, wie witzig die unerwarteten Wendungen des Lebens sein können.",
+        "en": "From breaking stereotypes to home break-ins, Gabriel Iglesias brings comedy to life's unexpected twists in this stand-up special."
+      },
+      "releaseYear": 2025,
+      "genres": [
+        {
+          "de": "Komödie",
+          "en": "Comedy"
+        }
+      ],
+      "rating": 60
     }
   ]
 }
